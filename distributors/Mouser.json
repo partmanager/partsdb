@@ -1,0 +1,16 @@
+{
+	"name": "Mouser",
+	"website": "https://www.mouser.com/",	
+	"manufacturer_name_translation": [
+		{"distributor_manufacturer_name": "Bussmann / Eaton", "manufacturer_name": "EATON"},
+		{"distributor_manufacturer_name": "EPCOS / TDK", "manufacturer_name": "TDK"},
+		{"distributor_manufacturer_name": "IRC / TT Electronics", "manufacturer_name": "TT Electronics"}, 
+		{"distributor_manufacturer_name": "Kyocera AVX", "manufacturer_name": "AVX"},
+		{"distributor_manufacturer_name": "Laird Performance Materials", "manufacturer_name": "Laird"}, 
+		{"distributor_manufacturer_name": "Microchip Technology / Atmel", "manufacturer_name": "Microchip"},
+		{"distributor_manufacturer_name": "MYIR", "manufacturer_name": "Myir Tech"}, 
+		{"distributor_manufacturer_name": "TE Connectivity / Holsworthy", "manufacturer_name": "TE Connectivity"},
+		{"distributor_manufacturer_name": "Vishay / Dale", "manufacturer_name": "Vishay"},
+		{"distributor_manufacturer_name": "Welwyn Components / TT Electronics", "manufacturer_name": "TT Electronics"}],
+	"distributor_order_numbers": []
+}
