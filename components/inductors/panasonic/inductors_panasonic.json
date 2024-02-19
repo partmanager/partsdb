@@ -1,0 +1,65 @@
+[
+	{
+		"manufacturer": "Panasonic",
+		"partNumber": "ETQP5M6R8YFM",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-5\u00b0C ~ 34\u00b0C",
+			"humidity": "",
+			"MSLevel": "Level 1"
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "6.8uH \u00b120%",
+				"conditions": {
+					"f": "100kHz"
+				}
+			},
+			"DCR": {
+				"value": "26.7mR \u00b110%",
+				"conditions": {
+					"TA": "20\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "12.1A",
+				"conditions": {
+					"dL": "30%"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "6.9A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			}
+		},
+		"files": {
+			"Datasheet": ""
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "inductor_with_core",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"ETQP5M6R8YFM": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

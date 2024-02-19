@@ -1,0 +1,51 @@
+[
+    {
+        "manufacturer": "Samwha",
+        "partNumber": "RC1V476M6L006VR",
+        "productionStatus": null,
+        "markingCode": null,
+        "partType": "Aluminium Electrolytic Capacitor",
+        "series": {
+            "name": "RC",
+            "description": ""
+        },
+        "description": null,
+        "productUrl": null,
+        "notes": null,
+        "tags": [],
+        "storageConditions": {
+            "temperature": "-40\u00b0C ~ 105\u00b0C",
+            "humidity": "",
+            "MSLevel": ""
+        },
+        "parameters": {
+            "Working Temp Range": {
+                "Working Temp Min": "-55",
+                "Working Temp Max": "105"
+            },
+            "Capacitance": {
+                "value": "47\u03bcF \u00b120%"
+            },
+            "Dielectric Type": "Aluminium Oxide",
+            "Rated Voltage": {
+                "value": "max. 35V"
+            },
+            "Rated Ripple Current": {
+                "value": "max. 63mA"
+            },
+            "Endurance": {
+                "value": "2000h"
+            }
+        },
+        "files": {},  
+        "package": {},
+        "symbol&footprint": {
+            "symbolName": "capacitor_polar",
+            "pinmap": {},
+            "footprints": []
+        },
+        "orderNumbers": {
+            "RC1V476M6L006VR": {}
+        }
+    }
+]

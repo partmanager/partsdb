@@ -1,0 +1,4784 @@
+[
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2020BZ##100M01",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP",
+			"description": "Low Profile, High Current IHLP\u00ae Inductors"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "10uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "184mR +15mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "4A"
+			},
+			"SRF": {
+				"value": "20MHz"
+			},
+			"Heat Reating Current": {
+				"value": "2.3A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2020BZER100M01": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2020BZ##1R0M01",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP",
+			"description": "Low Profile, High Current IHLP\u00ae Inductors"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "1uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "18.9mR +1.1mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "16A"
+			},
+			"SRF": {
+				"value": "62MHz"
+			},
+			"Heat Reating Current": {
+				"value": "7A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2020BZER1R0M01": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2020BZ##2R2M01",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP",
+			"description": "Low Profile, High Current IHLP\u00ae Inductors"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "2.2uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "45.6mR +4.5mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "9.5A"
+			},
+			"SRF": {
+				"value": "39MHz"
+			},
+			"Heat Reating Current": {
+				"value": "4.2A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2020BZER2R2M01": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2020BZ##3R3M01",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP",
+			"description": "Low Profile, High Current IHLP\u00ae Inductors"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "3.3uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "79.2mR +6.4mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "8.5A"
+			},
+			"SRF": {
+				"value": "30MHz"
+			},
+			"Heat Reating Current": {
+				"value": "3.3A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2020BZER3R3M01": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2020BZ##4R7M01",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP",
+			"description": "Low Profile, High Current IHLP\u00ae Inductors"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "4.7uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "108mR +8.6mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "5A"
+			},
+			"SRF": {
+				"value": "28MHz"
+			},
+			"Heat Reating Current": {
+				"value": "2.8A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2020BZER4R7M01": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2020BZ##5R6M01",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP",
+			"description": "Low Profile, High Current IHLP\u00ae Inductors"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "5.6uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "113mR +9mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "4.5A"
+			},
+			"SRF": {
+				"value": "24MHz"
+			},
+			"Heat Reating Current": {
+				"value": "2.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2020BZER5R6M01": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2020BZ##6R8M01",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP",
+			"description": "Low Profile, High Current IHLP\u00ae Inductors"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "6.8uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "139mR +11mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "4.3A"
+			},
+			"SRF": {
+				"value": "21MHz"
+			},
+			"Heat Reating Current": {
+				"value": "2.4A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2020BZER6R8M01": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2020BZ##R10M01",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP",
+			"description": "Low Profile, High Current IHLP\u00ae Inductors"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.1uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "3.6mR +0.3mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "45A"
+			},
+			"SRF": {
+				"value": "239MHz"
+			},
+			"Heat Reating Current": {
+				"value": "17A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2020BZERR10M01": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2020BZ##R22M01",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP",
+			"description": "Low Profile, High Current IHLP\u00ae Inductors"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.22uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "4.9mR +0.3mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "22A"
+			},
+			"SRF": {
+				"value": "145MHz"
+			},
+			"Heat Reating Current": {
+				"value": "15A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2020BZERR22M01": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2020BZ##R33M01",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP",
+			"description": "Low Profile, High Current IHLP\u00ae Inductors"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.33uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "7.6mR +0.6mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "25A"
+			},
+			"SRF": {
+				"value": "125MHz"
+			},
+			"Heat Reating Current": {
+				"value": "12A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2020BZERR33M01": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2020BZ##R47M01",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP",
+			"description": "Low Profile, High Current IHLP\u00ae Inductors"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.47uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "8.9mR +0.5mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "21A"
+			},
+			"SRF": {
+				"value": "98MHz"
+			},
+			"Heat Reating Current": {
+				"value": "11.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2020BZERR47M01": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2020BZ##R68M01",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP",
+			"description": "Low Profile, High Current IHLP\u00ae Inductors"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.68uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "11.2mR +1.2mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "15A"
+			},
+			"SRF": {
+				"value": "77MHz"
+			},
+			"Heat Reating Current": {
+				"value": "10A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2020BZERR68M01": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##100M1A",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-1A",
+			"description": "IHLP\u00ae Automotive Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "10uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "67.8mR +3.4mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "3.5A"
+			},
+			"Heat Reating Current": {
+				"value": "4A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZER100M1A": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##100MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-A1",
+			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "10uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "102mR +3mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "7A"
+			},
+			"SRF": {
+				"value": "16MHz"
+			},
+			"Heat Reating Current": {
+				"value": "3A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZER100MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##150M1A",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-1A",
+			"description": "IHLP\u00ae Automotive Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "15uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "88.4mR +6.6mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "3.2A"
+			},
+			"Heat Reating Current": {
+				"value": "3.7A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZER150M1A": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##1R0M1A",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-1A",
+			"description": "IHLP\u00ae Automotive Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "1uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "7.6mR +0.4mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "9.5A"
+			},
+			"Heat Reating Current": {
+				"value": "12.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZER1R0M1A": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##1R0MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-A1",
+			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "1uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "9mR +1mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "22A"
+			},
+			"SRF": {
+				"value": "55MHz"
+			},
+			"Heat Reating Current": {
+				"value": "11A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZER1R0MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##1R5MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-A1",
+			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "1.5uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "14mR +1mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "18A"
+			},
+			"SRF": {
+				"value": "40MHz"
+			},
+			"Heat Reating Current": {
+				"value": "9A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZER1R5MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##220M1A",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-1A",
+			"description": "IHLP\u00ae Automotive Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "22uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "128.9mR +6.1mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "2.5A"
+			},
+			"Heat Reating Current": {
+				"value": "2.9A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZER220M1A": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##2R2M1A",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-1A",
+			"description": "IHLP\u00ae Automotive Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "2.2uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "15.7mR +0.8mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "7A"
+			},
+			"Heat Reating Current": {
+				"value": "9A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZER2R2M1A": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##2R2MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-A1",
+			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "2.2uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "18mR +2mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "14A"
+			},
+			"SRF": {
+				"value": "38MHz"
+			},
+			"Heat Reating Current": {
+				"value": "8A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZER2R2MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##3R3M1A",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-1A",
+			"description": "IHLP\u00ae Automotive Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "3.3uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "24.8mR +1.2mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "6.5A"
+			},
+			"Heat Reating Current": {
+				"value": "7A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZER3R3M1A": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##3R3MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-A1",
+			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "3.3uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "28mR +2mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "13.5A"
+			},
+			"SRF": {
+				"value": "30MHz"
+			},
+			"Heat Reating Current": {
+				"value": "6A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZER3R3MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##4R7M1A",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-1A",
+			"description": "IHLP\u00ae Automotive Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "4.7uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "31.8mR +1.6mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "4A"
+			},
+			"Heat Reating Current": {
+				"value": "6A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZER4R7M1A": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##4R7MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-A1",
+			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "4.7uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "37mR +3mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "10A"
+			},
+			"SRF": {
+				"value": "25MHz"
+			},
+			"Heat Reating Current": {
+				"value": "5.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZER4R7MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##6R8M1A",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-1A",
+			"description": "IHLP\u00ae Automotive Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "6.8uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "44.6mR +2.2mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "4A"
+			},
+			"Heat Reating Current": {
+				"value": "5.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZER6R8M1A": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##6R8MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-A1",
+			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "6.8uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "54mR +6mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "8A"
+			},
+			"SRF": {
+				"value": "21MHz"
+			},
+			"Heat Reating Current": {
+				"value": "4.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZER6R8MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##8R2M1A",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-1A",
+			"description": "IHLP\u00ae Automotive Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "8.2uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "52.3mR +2.6mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "4A"
+			},
+			"Heat Reating Current": {
+				"value": "5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZER8R2M1A": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##8R2MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-A1",
+			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "8.2uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "64mR +4mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "7.5A"
+			},
+			"SRF": {
+				"value": "17MHz"
+			},
+			"Heat Reating Current": {
+				"value": "4A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZER8R2MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##R10MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-A1",
+			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.1uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "1.5mR +0.2mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "60A"
+			},
+			"SRF": {
+				"value": "400MHz"
+			},
+			"Heat Reating Current": {
+				"value": "32.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZERR10MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##R15MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-A1",
+			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.15uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "1.9mR +0.6mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "52A"
+			},
+			"SRF": {
+				"value": "180MHz"
+			},
+			"Heat Reating Current": {
+				"value": "26A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZERR15MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##R20MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-A1",
+			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.2uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "2.4mR +0.6mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "41A"
+			},
+			"SRF": {
+				"value": "150MHz"
+			},
+			"Heat Reating Current": {
+				"value": "24A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZERR20MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##R22MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-A1",
+			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.22uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "2.5mR +0.3mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "40A"
+			},
+			"SRF": {
+				"value": "126MHz"
+			},
+			"Heat Reating Current": {
+				"value": "23A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZERR22MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##R33MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-A1",
+			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.33uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "3.5mR +0.4mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "30A"
+			},
+			"SRF": {
+				"value": "100MHz"
+			},
+			"Heat Reating Current": {
+				"value": "20A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZERR33MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##R47MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-A1",
+			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.47uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "4mR +0.2mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "26A"
+			},
+			"SRF": {
+				"value": "75MHz"
+			},
+			"Heat Reating Current": {
+				"value": "17.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZERR47MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##R68MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-A1",
+			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.68uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "5mR +0.5mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "25A"
+			},
+			"SRF": {
+				"value": "62MHz"
+			},
+			"Heat Reating Current": {
+				"value": "15.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZERR68MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP2525CZ##R82MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-2525CZ-A1",
+			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.82uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "6.7mR +1.3mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "24A"
+			},
+			"SRF": {
+				"value": "60MHz"
+			},
+			"Heat Reating Current": {
+				"value": "13A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP2525CZERR82MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP3232DZ##100M11",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-3232DZ-11",
+			"description": "IHLP\u00ae Commercial Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "10uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "48.4mR +3.4mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "6.4A"
+			},
+			"SRF": {
+				"value": "12MHz"
+			},
+			"Heat Reating Current": {
+				"value": "5.4A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP3232DZER100M11": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP3232DZ##150M11",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-3232DZ-11",
+			"description": "IHLP\u00ae Commercial Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "15uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "61mR +4.3mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "3.7A"
+			},
+			"SRF": {
+				"value": "10.3MHz"
+			},
+			"Heat Reating Current": {
+				"value": "4.9A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP3232DZER150M11": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP3232DZ##1R0M11",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-3232DZ-11",
+			"description": "IHLP\u00ae Commercial Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "1uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "4.33mR +0.30mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "12A"
+			},
+			"SRF": {
+				"value": "49MHz"
+			},
+			"Heat Reating Current": {
+				"value": "18.2A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP3232DZER1R0M11": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP3232DZ##220M11",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-3232DZ-11",
+			"description": "IHLP\u00ae Commercial Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "22uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "88mR +6.2mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "3.3A"
+			},
+			"SRF": {
+				"value": "8.2MHz"
+			},
+			"Heat Reating Current": {
+				"value": "4.3A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP3232DZER220M11": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP3232DZ##2R2M11",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-3232DZ-11",
+			"description": "IHLP\u00ae Commercial Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "2.2uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "8.8mR +0.61mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "10.2A"
+			},
+			"SRF": {
+				"value": "25MHz"
+			},
+			"Heat Reating Current": {
+				"value": "14.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP3232DZER2R2M11": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP3232DZ##330M11",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-3232DZ-11",
+			"description": "IHLP\u00ae Commercial Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "33uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "135mR +9mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "3.2A"
+			},
+			"SRF": {
+				"value": "6.7MHz"
+			},
+			"Heat Reating Current": {
+				"value": "3.2A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP3232DZER330M11": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP3232DZ##3R3M11",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-3232DZ-11",
+			"description": "IHLP\u00ae Commercial Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "3.3uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "14mR +0.9mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "9.7A"
+			},
+			"SRF": {
+				"value": "22MHz"
+			},
+			"Heat Reating Current": {
+				"value": "10.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP3232DZER3R3M11": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP3232DZ##4R7M11",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-3232DZ-11",
+			"description": "IHLP\u00ae Commercial Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "4.7uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "21.1mR +1.5mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "8.7A"
+			},
+			"SRF": {
+				"value": "17MHz"
+			},
+			"Heat Reating Current": {
+				"value": "8.0A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP3232DZER4R7M11": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP3232DZ##6R6M11",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-3232DZ-11",
+			"description": "IHLP\u00ae Commercial Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "5.6uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "26.7mR +1.9mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "7.6A"
+			},
+			"SRF": {
+				"value": "15MHz"
+			},
+			"Heat Reating Current": {
+				"value": "7.4A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP3232DZER6R6M11": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP3232DZ##6R8M11",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-3232DZ-11",
+			"description": "IHLP\u00ae Commercial Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "6.8uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "31.2mR +2.2mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "6.7A"
+			},
+			"SRF": {
+				"value": "13MHz"
+			},
+			"Heat Reating Current": {
+				"value": "7A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP3232DZER6R8M11": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP3232DZ##8R2M11",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-3232DZ-11",
+			"description": "IHLP\u00ae Commercial Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "8.2uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "42.1mR +2.9mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "6.6A"
+			},
+			"SRF": {
+				"value": "12.6MHz"
+			},
+			"Heat Reating Current": {
+				"value": "5.7A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP3232DZER8R2M11": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP3232DZ##R22M11",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-3232DZ-11",
+			"description": "IHLP\u00ae Commercial Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.22uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "1.26mR +0.11mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "22A"
+			},
+			"SRF": {
+				"value": "117MHz"
+			},
+			"Heat Reating Current": {
+				"value": "34A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP3232DZERR22M11": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP3232DZ##R33M11",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-3232DZ-11",
+			"description": "IHLP\u00ae Commercial Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.33uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "2.01mR +14mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "16A"
+			},
+			"SRF": {
+				"value": "108MHz"
+			},
+			"Heat Reating Current": {
+				"value": "27.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP3232DZERR33M11": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP3232DZ##R47M11",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-3232DZ-11",
+			"description": "IHLP\u00ae Commercial Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.47uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "2.22mR +0.16mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "14A"
+			},
+			"SRF": {
+				"value": "80MHz"
+			},
+			"Heat Reating Current": {
+				"value": "25A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP3232DZERR47M11": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP3232DZ##R68M11",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-3232DZ-11",
+			"description": "IHLP\u00ae Commercial Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.68uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "3.01mR +0.21mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "14.5A"
+			},
+			"SRF": {
+				"value": "62MHz"
+			},
+			"Heat Reating Current": {
+				"value": "22.2A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP3232DZERR68M11": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP3232DZ##R82M11",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-3232DZ-11",
+			"description": "IHLP\u00ae Commercial Inductors, Low DCR Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.82uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "3.63mR +0.25mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "15A"
+			},
+			"SRF": {
+				"value": "57MHz"
+			},
+			"Heat Reating Current": {
+				"value": "19.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "50V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP3232DZERR82M11": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##100MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "10uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "16.4mR +0.8mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "15.5A"
+			},
+			"Heat Reating Current": {
+				"value": "10A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDER100MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##150MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "15uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "27.6mR +2.1mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "15A"
+			},
+			"Heat Reating Current": {
+				"value": "7.7A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDER150MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##1R0MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "1uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "1.7mR +0.3mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "49A"
+			},
+			"Heat Reating Current": {
+				"value": "32A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDER1R0MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##1R2MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "1.2uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "2.1mR +0.4mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "48A"
+			},
+			"Heat Reating Current": {
+				"value": "30A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDER1R2MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##1R5MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "1.5uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "2.5mR +0.5mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "45A"
+			},
+			"Heat Reating Current": {
+				"value": "27A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDER1R5MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##1R8MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "1.8uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "2.8mR +0.4mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "41A"
+			},
+			"Heat Reating Current": {
+				"value": "24A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDER1R8MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##2R2MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "2.2uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "3.5mR +0.7mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "40A"
+			},
+			"Heat Reating Current": {
+				"value": "22A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDER2R2MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##3R3MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "3.3uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "5.7mR +1.1mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "35A"
+			},
+			"Heat Reating Current": {
+				"value": "18A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDER3R3MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##4R7MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "4.7uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "9.3mR +1.9mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "30A"
+			},
+			"Heat Reating Current": {
+				"value": "13.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDER4R7MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##5R6MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "5.6uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "9.3mR +0.7mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "26.5A"
+			},
+			"Heat Reating Current": {
+				"value": "13.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDER5R6MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##6R8MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "6.8uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "13.1mR +0.9mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "16.5A"
+			},
+			"Heat Reating Current": {
+				"value": "11.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDER6R8MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##8R2MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "8.2uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "14.5mR +1mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "16A"
+			},
+			"Heat Reating Current": {
+				"value": "10.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDER8R2MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##R10MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.1uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "0.47mR +0.03mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "120A"
+			},
+			"Heat Reating Current": {
+				"value": "60A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDERR10MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##R15MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.15uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "0.53mR +0.07mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "118A"
+			},
+			"Heat Reating Current": {
+				"value": "55A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDERR15MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##R22MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.22uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "0.63mR +0.07mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "112A"
+			},
+			"Heat Reating Current": {
+				"value": "53A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDERR22MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##R30MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.3uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "0.7mR +0.1mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "72A"
+			},
+			"Heat Reating Current": {
+				"value": "48A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDERR30MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##R33MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.33uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "0.83mR +0.07mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "65A"
+			},
+			"Heat Reating Current": {
+				"value": "46A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDERR33MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##R40MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.4uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "0.9mR +0.1mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "64A"
+			},
+			"Heat Reating Current": {
+				"value": "44A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDERR40MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##R47MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.47uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "1mR +0.2mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "63A"
+			},
+			"Heat Reating Current": {
+				"value": "41A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDERR47MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##R56MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.56uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "1.2mR +0.2mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "62A"
+			},
+			"Heat Reating Current": {
+				"value": "37A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDERR56MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##R68MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.68uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "1.4mR +0.2mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "60A"
+			},
+			"Heat Reating Current": {
+				"value": "35A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDERR68MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "IHLP5050FD##R82MA1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "IHLP-5050FD-A1",
+			"description": "IHLP\u00ae Automotive Inductors, High Saturation Series"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.82uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "0.25V"
+				}
+			},
+			"DCR": {
+				"value": "1.6mR +0.3mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "50A"
+			},
+			"Heat Reating Current": {
+				"value": "33A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			},
+			"Rated Operating Voltage": {
+				"value": "75V"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"IHLP5050FDERR82MA1": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

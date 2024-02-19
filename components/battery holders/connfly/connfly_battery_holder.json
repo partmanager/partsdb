@@ -1,0 +1,43 @@
+[
+	{
+		"manufacturer": "Connfly",
+		"partNumber": "DS1092-02-B6P",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Battery Holder",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "Battery holder CR2032, PCB mount",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Battery Type": "CR2032",
+			"Battery Count": {
+				"value": "1"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "battery_holder_1xCR2032",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DS1092-02-B6P": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

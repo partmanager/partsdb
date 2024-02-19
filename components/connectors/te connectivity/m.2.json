@@ -1,0 +1,173 @@
+[
+	{
+		"manufacturer": "TE Connectivity",
+		"partNumber": "1759546-1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector Bus",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "Connector 0.8mm Mini PCI-Express 9.9mm Height",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Bus Type": "Mini PCI-E"
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"1759546-1": {
+				"Packaging Code": "",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "350",
+				"Packaging Data": {
+					"Reel Diameter": "330mm",
+					"Reel Width": "50.4mm",
+					"Tape Pin 1 Quadrant": "Q4",
+					"Tape W": "44mm \u00b10.3mm",
+					"Tape E": "",
+					"Tape F": "20.2mm \u00b10.1mm",
+					"Tape SO": "40.4mm \u00b10.1mm",
+					"Tape P0": "4mm \u00b10.1mm",
+					"Tape P1": "16mm \u00b10.1mm",
+					"Tape P2": "2mm \u00b10.1mm",
+					"Tape D": "1.5mm +0.1mm/-0.0mm",
+					"Tape D1": "",
+					"Tape A0": "10.7mm",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "0.5mm \u00b10.05mm",
+					"Tape K": "12mm \u00b10.3mm"
+				}
+			}
+		}
+	},
+	{
+		"manufacturer": "TE Connectivity",
+		"partNumber": "2199119-4",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector Bus",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "M.2, 0.5mm pitch, 3.2mm Height, Key E",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Bus Type": "M.2 Key E"
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"2199119-4": {
+				"Packaging Code": "",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "1200",
+				"Packaging Data": {
+					"Reel Diameter": "380mm",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "Q2",
+					"Tape W": "32mm \u00b10.3mm",
+					"Tape E": "1.75mm",
+					"Tape F": "14.2mm",
+					"Tape SO": "38.4mm",
+					"Tape P0": "4mm",
+					"Tape P1": "16mm",
+					"Tape P2": "2mm",
+					"Tape D": "1.5mm +0.1mm/-0.0mm",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "22.2mm",
+					"Tape T": "0.4mm \u00b10.05mm",
+					"Tape K": "4.1mm"
+				}
+			}
+		}
+	},
+	{
+		"manufacturer": "TE Connectivity",
+		"partNumber": "2199230-3",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector Bus",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "M.2, 0.5mm pitch, 4.2mm Height, Key B",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Bus Type": "M.2 Key B"
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"2199230-3": {
+				"Packaging Code": "",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "1000",
+				"Packaging Data": {
+					"Reel Diameter": "380mm",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "Q2",
+					"Tape W": "44mm \u00b10.3mm",
+					"Tape E": "1.75mm",
+					"Tape F": "20.2mm \u00b10.1mm",
+					"Tape SO": "40.4mm \u00b10.1mm",
+					"Tape P0": "4mm",
+					"Tape P1": "16mm",
+					"Tape P2": "2mm",
+					"Tape D": "1.5mm +0.1mm/-0.0mm",
+					"Tape D1": "2mm",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "0.5mm \u00b10.05mm",
+					"Tape K": "5.15mm"
+				}
+			}
+		}
+	}
+]

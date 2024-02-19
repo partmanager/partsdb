@@ -1,0 +1,43 @@
+[
+	{
+		"manufacturer": "Hope RF",
+		"partNumber": "RFM69HCW-868S2",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Module",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "ISM Transceiver 868MHz",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Module Type": "RF Transceiver",
+			"Frequency": {
+				"value": "867MHz"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"RFM69HCW-868S2": {
+				"Packaging Code": "",
+				"Packaging Type": "-",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

@@ -1,0 +1,251 @@
+[
+	{
+		"manufacturer": "ECE",
+		"partNumber": "SM005-60",
+		"productionStatus": "",
+		"markingCode": "5",
+		"partType": "PTC Fuse",
+		"series": {
+			"name": "SM",
+			"description": "Surface mount PTC SM (1210) model"
+		},
+		"description": "",
+		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/268",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Hold Current": {
+				"value": "max. 0.05A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip Current": {
+				"value": "max. 0.12A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Rated Voltage": {
+				"value": "max. 60V"
+			},
+			"Max fault current": {
+				"value": "max. 100A"
+			},
+			"Tripped Power Dissipation": {
+				"value": "0.6W",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip time": {
+				"value": "max. 1.5s",
+				"conditions": {
+					"I": "0.25A"
+				}
+			},
+			"Resistance": {
+				"value": "min. 3.6\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Resistance 1h after tripping": {
+				"value": "max. 50\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			}
+		},
+		"files": {
+			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020190115082858.pdf"
+		},
+		"package": {
+			"name": "Chip 1210"
+		},
+		"symbol&footprint": {
+			"symbolName": "fuse_ptc",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"SM005-60": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "ECE",
+		"partNumber": "SM010-60",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "PTC Fuse",
+		"series": {
+			"name": "SM",
+			"description": "Surface mount PTC SM (1210) model"
+		},
+		"description": "",
+		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/268",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Hold Current": {
+				"value": "max. 0.10A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip Current": {
+				"value": "max. 0.25A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Rated Voltage": {
+				"value": "max. 60V"
+			},
+			"Max fault current": {
+				"value": "max. 100A"
+			},
+			"Tripped Power Dissipation": {
+				"value": "0.6W",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip time": {
+				"value": "max. 1.5s",
+				"conditions": {
+					"I": "0.5A"
+				}
+			},
+			"Resistance": {
+				"value": "min. 1.6\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Resistance 1h after tripping": {
+				"value": "max. 15\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			}
+		},
+		"files": {
+			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020190115082858.pdf"
+		},
+		"package": {
+			"name": "Chip 1210"
+		},
+		"symbol&footprint": {
+			"symbolName": "fuse_ptc",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"SM010-60": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "ECE",
+		"partNumber": "SM020-30",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "PTC Fuse",
+		"series": {
+			"name": "SM",
+			"description": "Surface mount PTC SM (1210) model"
+		},
+		"description": "",
+		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/268",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Hold Current": {
+				"value": "max. 0.20A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip Current": {
+				"value": "max. 0.40A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Rated Voltage": {
+				"value": "max. 30V"
+			},
+			"Max fault current": {
+				"value": "max. 100A"
+			},
+			"Tripped Power Dissipation": {
+				"value": "0.6W",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip time": {
+				"value": "max. 0.02s",
+				"conditions": {
+					"I": "8A"
+				}
+			},
+			"Resistance": {
+				"value": "min. 0.8\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Resistance 1h after tripping": {
+				"value": "max. 5\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			}
+		},
+		"files": {
+			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020190115082858.pdf"
+		},
+		"package": {
+			"name": "Chip 1210"
+		},
+		"symbol&footprint": {
+			"symbolName": "fuse_ptc",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"SM020-30": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

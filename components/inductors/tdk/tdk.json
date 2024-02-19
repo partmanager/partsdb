@@ -1,0 +1,277 @@
+[
+	{
+		"manufacturer": "TDK",
+		"partNumber": "B82432C1105J000",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "B82432C",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "https://product.tdk.com/en/search/inductor/inductor/smd/info?part_no=B82432C1105J000",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-25\u00b0C ~ 40\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "1000uH \u00b15%",
+				"conditions": {
+					"f": "0.1MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 32R",
+				"conditions": {
+					"TA": "20\u00b0C"
+				}
+			},
+			"DC Rated Current": {
+				"value": "55mA"
+			},
+			"SRF": {
+				"value": "min. 2.8MHz"
+			},
+			"Q": {
+				"value": "min. 30",
+				"conditions": {
+					"f": "796kHz"
+				}
+			}
+		},
+		"files": {
+			"Datasheet": "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82432c.pdf"
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "inductor_with_core",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"B82432C1105J000": {
+				"Packaging Code": "",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "2500",
+				"Packaging Data": {
+					"Reel Diameter": "",
+					"Reel Width": "18.4mm",
+					"Tape Pin 1 Quadrant": "Q1",
+					"Tape W": "12mm \u00b10.3mm",
+					"Tape E": "1.75mm  \u00b10.1mm",
+					"Tape F": "5.5mm  \u00b10.1mm",
+					"Tape SO": "",
+					"Tape P0": "4mm \u00b10.1mm",
+					"Tape P1": "8mm \u00b10.1mm",
+					"Tape P2": "2mm \u00b10.05mm",
+					"Tape D": "1.5mm +0.1mm/-0.0mm",
+					"Tape D1": "1.6mm \u00b10.1mm",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "5.9mm",
+					"Tape T": "",
+					"Tape K": "4.1mm"
+				}
+			}
+		}
+	},
+	{
+		"manufacturer": "TDK",
+		"partNumber": "MLG1005S62NJ#000",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "MLG",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-55\u00b0C ~ 125\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": [
+				{
+					"value": "62nH \u00b15%",
+					"conditions": {
+						"f": "100MHz"
+					}
+				},
+				{
+					"value": "67.5nH",
+					"conditions": {
+						"f": "500MHz"
+					}
+				},
+				{
+					"value": "89.8nH",
+					"conditions": {
+						"f": "800MHz"
+					}
+				}
+			],
+			"DCR": {
+				"value": "850mR +0.55mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Rated Current": {
+				"value": "max. 200mA"
+			},
+			"SRF": {
+				"value": "min. 1GHz"
+			},
+			"Q": [
+				{
+					"value": "min. 8",
+					"conditions": {
+						"f": "100MHz"
+					}
+				},
+				{
+					"value": "18",
+					"conditions": {
+						"f": "500MHz"
+					}
+				},
+				{
+					"value": "16",
+					"conditions": {
+						"f": "800MHz"
+					}
+				}
+			]
+		},
+		"files": {
+			"Datasheet": ""
+		},
+		"package": {
+			"name": "Chip 0402"
+		},
+		"symbol&footprint": {
+			"symbolName": "inductor_with_core",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"MLG1005S62NJT000": {
+				"Packaging Code": "T",
+				"Packaging Type": "Paper Tape / Reel",
+				"Packaging Qty": "10000",
+				"Packaging Data": {
+					"Reel Diameter": "180mm",
+					"Reel Width": "14.4mm",
+					"Tape Pin 1 Quadrant": "Q1",
+					"Tape W": "8mm \u00b10.3mm",
+					"Tape E": "1.75mm  \u00b10.1mm",
+					"Tape F": "3.5mm  \u00b10.05mm",
+					"Tape SO": "",
+					"Tape P0": "4mm \u00b10.1mm",
+					"Tape P1": "2mm \u00b10.05mm",
+					"Tape P2": "2mm \u00b10.05mm",
+					"Tape D": "1.5mm +0.1mm/-0.0mm",
+					"Tape D1": "",
+					"Tape A0": "0.62mm \u00b10.1mm",
+					"Tape A1": "0.62mm \u00b10.1mm",
+					"Tape B0": "1.12mm \u00b10.1mm",
+					"Tape B1": "1.12mm \u00b10.1mm",
+					"Tape T": "0.8mm",
+					"Tape K": "0.8mm"
+				}
+			}
+		}
+	},
+	{
+		"manufacturer": "TDK",
+		"partNumber": "MLZ2012DR10D#000",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "MLZ",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-55\u00b0C ~ 125\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.1uH \u00b120%",
+				"conditions": {
+					"f": "25MHz"
+				}
+			},
+			"DCR": {
+				"value": "0.07R \u00b130%",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "max. 1A"
+			},
+			"Heat Reating Current": {
+				"value": "1150mA",
+				"conditions": {
+					"dT": "20\u00b0C"
+				}
+			}
+		},
+		"files": {
+			"Datasheet": ""
+		},
+		"package": {
+			"name": "Chip 2012"
+		},
+		"symbol&footprint": {
+			"symbolName": "inductor_with_core",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"MLZ2012DR10DT000": {
+				"Packaging Code": "T",
+				"Packaging Type": "Paper Tape / Reel",
+				"Packaging Qty": "4000",
+				"Packaging Data": {
+					"Reel Diameter": "180mm",
+					"Reel Width": "14.4mm",
+					"Tape Pin 1 Quadrant": "Q1",
+					"Tape W": "8mm \u00b10.3mm",
+					"Tape E": "1.75mm  \u00b10.1mm",
+					"Tape F": "3.5mm  \u00b10.05mm",
+					"Tape SO": "",
+					"Tape P0": "4mm \u00b10.1mm",
+					"Tape P1": "4mm \u00b10.1mm",
+					"Tape P2": "2mm \u00b10.05mm",
+					"Tape D": "1.5mm +0.1mm/-0.0mm",
+					"Tape D1": "",
+					"Tape A0": "1.5mm \u00b10.2mm",
+					"Tape A1": "1.5mm \u00b10.2mm",
+					"Tape B0": "2.3mm \u00b10.2mm",
+					"Tape B1": "2.3mm \u00b10.2mm",
+					"Tape T": "1.1mm",
+					"Tape K": "1.1mm"
+				}
+			}
+		}
+	}
+]

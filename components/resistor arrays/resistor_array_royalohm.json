@@ -1,0 +1,116 @@
+[
+	{
+		"manufacturer": "Royalohm",
+		"partNumber": "4D03WGJ0103###",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Resistor Array",
+		"series": {
+			"name": "4D03",
+			"description": "Chip Resistor Arrays"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Elements Count": {
+				"value": "4"
+			},
+			"Resistance": {
+				"value": "10kR \u00b15% "
+			},
+			"TCR": {
+				"value": "\u00b1200 PPM/\u00b0C"
+			},
+			"Power Rating Package": {
+				"value": "max. 0.0625W"
+			},
+			"Working Voltage": {
+				"value": "max. 50V"
+			},
+			"Overload Voltage": {
+				"value": "max. 100V"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "Chip Array 1206"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"4D03WGJ0103T5E": {
+				"Packaging Code": "T5E",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Royalohm",
+		"partNumber": "4D03WGJ0124###",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Resistor Array",
+		"series": {
+			"name": "4D03",
+			"description": "Chip Resistor Arrays"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Elements Count": {
+				"value": "4"
+			},
+			"Resistance": {
+				"value": "140kR \u00b15% "
+			},
+			"TCR": {
+				"value": "\u00b1200 PPM/\u00b0C"
+			},
+			"Power Rating Package": {
+				"value": "max. 0.0625W"
+			},
+			"Working Voltage": {
+				"value": "max. 50V"
+			},
+			"Overload Voltage": {
+				"value": "max. 100V"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "Chip Array 1206"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"4D03WGJ0124T5E": {
+				"Packaging Code": "T5E",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

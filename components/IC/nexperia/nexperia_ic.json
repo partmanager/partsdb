@@ -1,0 +1,40 @@
+[
+	{
+		"manufacturer": "Nexperia",
+		"partNumber": "74AVC4T245BQ",
+		"productionStatus": "",
+		"markingCode": "C4T245",
+		"partType": "IC",
+		"series": {
+			"name": "74",
+			"description": ""
+		},
+		"description": "4-bit dual supply translating transceiver 3-state",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {},
+		"files": {},
+		"package": {
+			"name": "SOT763-1"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"74AVC4T245BQ,115": {
+				"Packaging Code": "",
+				"Packaging Type": "Reel 13\u201d",
+				"Packaging Qty": "3000",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

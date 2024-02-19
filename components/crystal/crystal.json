@@ -1,0 +1,660 @@
+[
+	{
+		"manufacturer": "Abracon",
+		"partNumber": "ABM3B-8.000MHZ-10-1UT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Crystal",
+		"series": {
+			"name": "ABM3B",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Frequency": {
+				"value": "8MHz \u00b110ppm "
+			},
+			"Frequency Stability Over Operating Temperature Range": {
+				"value": "\u00b110ppm"
+			},
+			"Vibration Mode": "Fundamental",
+			"Load Capacitance": {
+				"value": "10pF"
+			},
+			"Shunt Capacitance": {
+				"value": "max. 7pF"
+			},
+			"ESR": {
+				"value": "max. 200R"
+			},
+			"Drive Level": {
+				"value": "10uW +90uW"
+			},
+			"Insulation Resistance": {
+				"value": "max. 500MR",
+				"conditions": {
+					"V": "100V"
+				}
+			},
+			"Ageing": {
+				"value": "max. 5ppm/year"
+			}
+		},
+		"files": {
+			"datasheet": ""
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"ABM3B-8.000MHZ-10-1UT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "ILSI",
+		"partNumber": "ILCX13-FF5F-24.0000",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Crystal",
+		"series": {
+			"name": "ILCX13",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Frequency": {
+				"value": "24MHz \u00b130ppm "
+			},
+			"Frequency Stability Over Operating Temperature Range": {
+				"value": "\u00b150ppm"
+			},
+			"Vibration Mode": "AT-Cut",
+			"Load Capacitance": {
+				"value": "18pF"
+			},
+			"Shunt Capacitance": {
+				"value": "max. 3.5pF"
+			},
+			"ESR": {
+				"value": "max. 40R"
+			},
+			"Drive Level": {
+				"value": "max. 100uW"
+			},
+			"Ageing": {
+				"value": "max. 5ppm/year"
+			}
+		},
+		"files": {
+			"datasheet": ""
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"ILCX13-FF5F-24.0000": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "IQD",
+		"partNumber": "LFXTAL071742CUTT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Crystal",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-45\u00b0C ~ 130\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Frequency": {
+				"value": "12MHz \u00b130ppm",
+				"conditions": {
+					"T_A": "\u00b12\u00b0C"
+				}
+			},
+			"Frequency Stability Over Operating Temperature Range": {
+				"value": "\u00b150ppm"
+			},
+			"Vibration Mode": "Fundamental",
+			"Load Capacitance": {
+				"value": "8pF"
+			},
+			"Shunt Capacitance": {
+				"value": "max. 7pF"
+			},
+			"ESR": {
+				"value": "max. 200R"
+			},
+			"Drive Level": {
+				"value": "50uW +150uW"
+			},
+			"Ageing": {
+				"value": "max. 5ppm/year"
+			}
+		},
+		"files": {
+			"datasheet": ""
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"LFXTAL071742CUTT": {
+				"Packaging Code": "CUTT",
+				"Packaging Type": "Cut Tape",
+				"Packaging Qty": "100",
+				"Packaging Data": {
+					"Reel Diameter": "",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "",
+					"Tape W": "",
+					"Tape E": "",
+					"Tape F": "",
+					"Tape SO": "",
+					"Tape P0": "",
+					"Tape P1": "",
+					"Tape P2": "",
+					"Tape D": "",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "",
+					"Tape K": ""
+				}
+			}
+		}
+	},
+	{
+		"manufacturer": "SR Passives",
+		"partNumber": "14.31818M-49S-SR",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Crystal",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Frequency": {
+				"value": "14.31818MHz \u00b130ppm",
+				"conditions": {
+					"T_A": "\u00b12\u00b0C"
+				}
+			},
+			"Frequency Stability Over Operating Temperature Range": {
+				"value": "\u00b130ppm"
+			},
+			"Vibration Mode": "Third Overtone",
+			"Load Capacitance": {
+				"value": "16pF"
+			},
+			"Shunt Capacitance": {
+				"value": "max. 7pF"
+			},
+			"ESR": {
+				"value": "max. 60R"
+			},
+			"Drive Level": {
+				"value": "100uW"
+			},
+			"Insulation Resistance": {
+				"value": "500R",
+				"conditions": {
+					"V": "100V"
+				}
+			},
+			"Ageing": {
+				"value": "max. 5ppm/year"
+			}
+		},
+		"files": {
+			"datasheet": ""
+		},
+		"package": {
+			"name": "HC-49/U"
+		},
+		"symbol&footprint": {
+			"symbolName": "xtal_2p",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"14.31818M-49S-SR": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "SR Passives",
+		"partNumber": "25M-49S-SR",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Crystal",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Frequency": {
+				"value": "25MHz \u00b130ppm",
+				"conditions": {
+					"T_A": "\u00b12\u00b0C"
+				}
+			},
+			"Frequency Stability Over Operating Temperature Range": {
+				"value": "\u00b130ppm"
+			},
+			"Vibration Mode": "Third Overtone",
+			"Load Capacitance": {
+				"value": "20pF"
+			},
+			"Shunt Capacitance": {
+				"value": "max. 7pF"
+			},
+			"ESR": {
+				"value": "max. 30R"
+			},
+			"Drive Level": {
+				"value": "100uW"
+			},
+			"Insulation Resistance": {
+				"value": "500R",
+				"conditions": {
+					"V": "100V"
+				}
+			},
+			"Ageing": {
+				"value": "max. 5ppm/year"
+			}
+		},
+		"files": {
+			"datasheet": ""
+		},
+		"package": {
+			"name": "HC-49/U"
+		},
+		"symbol&footprint": {
+			"symbolName": "xtal_2p",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"25M-49S-SR": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "SR Passives",
+		"partNumber": "3225-12M-SR",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Crystal",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-55\u00b0C ~ 125\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Frequency": {
+				"value": "12MHz \u00b110ppm "
+			},
+			"Frequency Stability Over Operating Temperature Range": {
+				"value": "\u00b110ppm"
+			},
+			"Vibration Mode": "Fundamental",
+			"Load Capacitance": {
+				"value": "9pF"
+			},
+			"Shunt Capacitance": {
+				"value": "max. 5pF"
+			},
+			"ESR": {
+				"value": "max. 80R"
+			},
+			"Drive Level": {
+				"value": "10uW +90uW"
+			},
+			"Ageing": {
+				"value": "max. 3ppm/year"
+			}
+		},
+		"files": {
+			"datasheet": ""
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"3225-12M-SR": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "SR Passives",
+		"partNumber": "8M-49S-SR",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Crystal",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Frequency": {
+				"value": "8MHz \u00b130ppm",
+				"conditions": {
+					"T_A": "\u00b12\u00b0C"
+				}
+			},
+			"Frequency Stability Over Operating Temperature Range": {
+				"value": "\u00b130ppm"
+			},
+			"Vibration Mode": "Third Overtone",
+			"Load Capacitance": {
+				"value": "20pF"
+			},
+			"Shunt Capacitance": {
+				"value": "max. 7pF"
+			},
+			"Drive Level": {
+				"value": "100uW"
+			},
+			"Insulation Resistance": {
+				"value": "500R",
+				"conditions": {
+					"V": "100V"
+				}
+			},
+			"Ageing": {
+				"value": "max. 5ppm/year"
+			}
+		},
+		"files": {
+			"datasheet": ""
+		},
+		"package": {
+			"name": "HC-49/S"
+		},
+		"symbol&footprint": {
+			"symbolName": "xtal_2p",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"8M-49S-SR": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "YIC",
+		"partNumber": "32.768K-TC38",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Crystal",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Frequency": {
+				"value": "32.768kHz \u00b120ppm "
+			},
+			"Load Capacitance": {
+				"value": "12.5pF"
+			}
+		},
+		"files": {
+			"datasheet": ""
+		},
+		"package": {
+			"name": "TC38"
+		},
+		"symbol&footprint": {
+			"symbolName": "xtal_2p",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"32.768K-TC38": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "YIC",
+		"partNumber": "8.00M-HC49-S",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Crystal",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "https://www.yic.com.tw/en/products-en/quartz-crystal-units/",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Frequency": {
+				"value": "8MHz \u00b130ppm"
+			},
+			"Vibration Mode": "Fundamental",
+			"Load Capacitance": {
+				"value": "20pF"
+			},
+			"Shunt Capacitance": {
+				"value": "max. 7pF"
+			},
+			"ESR": {
+				"value": "max. 80R"
+			},
+			"Drive Level": {
+				"value": "max. 1mW"
+			},
+			"Insulation Resistance": {
+				"value": "min. 500MR"
+			},
+			"Ageing": {
+				"value": "max. 5ppm/year"
+			}
+		},
+		"files": {
+			"datasheet": "https://www.yic.com.tw/wp-content/uploads/2019/05/YIC-49US-49SL-49SMT-49SLMT.pdf"
+		},
+		"package": {
+			"name": "HC49-S"
+		},
+		"symbol&footprint": {
+			"symbolName": "xtal_2p",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"8.00M-HC49-S": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "YIC",
+		"partNumber": "YIC8.0000K0",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Crystal",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Frequency": {
+				"value": "8MHz \u00b130ppm "
+			},
+			"Vibration Mode": "Fundamental",
+			"Load Capacitance": {
+				"value": "20pF"
+			},
+			"Shunt Capacitance": {
+				"value": "max. 7pF"
+			},
+			"ESR": {
+				"value": "max. 80R"
+			},
+			"Insulation Resistance": {
+				"value": "500MR",
+				"conditions": {
+					"V": "100V"
+				}
+			},
+			"Ageing": {
+				"value": "max. 5ppm/year"
+			}
+		},
+		"files": {
+			"datasheet": ""
+		},
+		"package": {
+			"name": "HC49-S"
+		},
+		"symbol&footprint": {
+			"symbolName": "xtal_2p",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"YIC8.0000K0": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

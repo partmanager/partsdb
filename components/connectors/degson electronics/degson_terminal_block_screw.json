@@ -1,0 +1,321 @@
+[
+	{
+		"manufacturer": "Degson Electronics",
+		"partNumber": "DG128-5.0-03P-14",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector Terminal Block",
+		"series": {
+			"name": "DG128-5.0",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Pin Count": {
+				"value": "3"
+			},
+			"Row Count": {
+				"value": "1"
+			},
+			"Pin Spacing": {
+				"value": "5mm"
+			},
+			"Row Spacing": {
+				"value": "0"
+			},
+			"Rated Voltage": {
+				"value": "250V"
+			},
+			"Rated Current": {
+				"value": "18A"
+			},
+			"Wire Range": "2.5mm^2",
+			"Height from PCB": {
+				"value": "14mm"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "terminal_block_screw_3p",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DG128-5.0-03P-14-00A(H)": {
+				"Packaging Code": "",
+				"Packaging Type": "Bag",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Degson Electronics",
+		"partNumber": "DG128-7.5-02P-14",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector Terminal Block",
+		"series": {
+			"name": "DG128-7.5",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Pin Count": {
+				"value": "2"
+			},
+			"Row Count": {
+				"value": "1"
+			},
+			"Pin Spacing": {
+				"value": "7.5mm"
+			},
+			"Row Spacing": {
+				"value": "0"
+			},
+			"Rated Voltage": {
+				"value": "300V"
+			},
+			"Rated Current": {
+				"value": "10A"
+			},
+			"Wire Range": "2.5mm^2",
+			"Height from PCB": {
+				"value": "14.1mm"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "terminal_block_screw_2p",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DG128-7.5-02P-14-00A(H)": {
+				"Packaging Code": "",
+				"Packaging Type": "Bag",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Degson Electronics",
+		"partNumber": "DG128-7.5-03P-14",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector Terminal Block",
+		"series": {
+			"name": "DG128-7.5",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Pin Count": {
+				"value": "3"
+			},
+			"Row Count": {
+				"value": "1"
+			},
+			"Pin Spacing": {
+				"value": "7.5mm"
+			},
+			"Row Spacing": {
+				"value": "0"
+			},
+			"Rated Voltage": {
+				"value": "300V"
+			},
+			"Rated Current": {
+				"value": "10A"
+			},
+			"Wire Range": "2.5mm^2",
+			"Height from PCB": {
+				"value": "14.1mm"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "terminal_block_screw_3p",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DG128-7.5-03P-14-00A(H)": {
+				"Packaging Code": "",
+				"Packaging Type": "Bag",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Degson Electronics",
+		"partNumber": "DG301-5.0-02P-12",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector Terminal Block",
+		"series": {
+			"name": "DG301-5.0",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Pin Count": {
+				"value": "2"
+			},
+			"Row Count": {
+				"value": "1"
+			},
+			"Pin Spacing": {
+				"value": "5mm"
+			},
+			"Row Spacing": {
+				"value": "0"
+			},
+			"Rated Voltage": {
+				"value": "300V"
+			},
+			"Rated Current": {
+				"value": "15A"
+			},
+			"Contact Resistance": {
+				"value": "20m"
+			},
+			"Wire Range": "1.5mm^2",
+			"Height from PCB": {
+				"value": "10mm"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "terminal_block_screw_2p",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DG301-5.0-02P-12": {
+				"Packaging Code": "",
+				"Packaging Type": "Bag",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Degson Electronics",
+		"partNumber": "DG301-5.0-03P-12",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector Terminal Block",
+		"series": {
+			"name": "DG301-5.0",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Pin Count": {
+				"value": "3"
+			},
+			"Row Count": {
+				"value": "1"
+			},
+			"Pin Spacing": {
+				"value": "5mm"
+			},
+			"Row Spacing": {
+				"value": "0"
+			},
+			"Rated Voltage": {
+				"value": "300V"
+			},
+			"Rated Current": {
+				"value": "15A"
+			},
+			"Contact Resistance": {
+				"value": "20m"
+			},
+			"Wire Range": "1.5mm^2",
+			"Height from PCB": {
+				"value": "10mm"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "terminal_block_screw_3p",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DG301-5.0-03P-12": {
+				"Packaging Code": "",
+				"Packaging Type": "Bag",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			},
+			"DG301-5.0-03P-12-00A(H)": {
+				"Packaging Code": "",
+				"Packaging Type": "Bag",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			},
+			"DG301-5.0-03P-12-00A": {
+				"Packaging Code": "",
+				"Packaging Type": "Bag",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			},
+			"DG301-5.0-03P-12-00H": {
+				"Packaging Code": "",
+				"Packaging Type": "Bag",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

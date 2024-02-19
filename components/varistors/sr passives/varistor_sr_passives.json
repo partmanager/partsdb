@@ -1,0 +1,56 @@
+[
+	{
+		"manufacturer": "SR Passives",
+		"partNumber": "VAR7-60",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Varistor",
+		"series": {
+			"name": "VAR7",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Varistor Voltage": {
+				"value": "100V"
+			},
+			"RMS Voltage": {
+				"value": "60V"
+			},
+			"DC Voltage": {
+				"value": "85V"
+			},
+			"Clamping Voltage": {
+				"value": "165V"
+			},
+			"Power Rating": {
+				"value": "250mW"
+			}
+		},
+		"files": {
+			"Datasheet": ""
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "varistor",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"VAR7-60": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

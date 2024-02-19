@@ -1,0 +1,56 @@
+[
+	{
+		"manufacturer": "Walsin",
+		"partNumber": "WR06X2002FTL",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Resistor Thick Film",
+		"series": {
+			"name": "WR06",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Resistance": {
+				"value": "20kR \u00b11%"
+			},
+			"Rated Power": {
+				"value": "max. 100mW"
+			},
+			"TCR": {
+				"value": "100ppm/\u00b0C"
+			},
+			"Working Voltage": {
+				"value": "max. 75V"
+			},
+			"Overload Voltage": {
+				"value": "max. 150V"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "Chio 0603"
+		},
+		"symbol&footprint": {
+			"symbolName": "resistor",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"WR06X2002FTL": {
+				"Packaging Code": "",
+				"Packaging Type": "7\u201d Reel, paper",
+				"Packaging Qty": "5000",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

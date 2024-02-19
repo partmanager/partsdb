@@ -1,0 +1,119 @@
+[
+	{
+		"manufacturer": "TE Connectivity",
+		"partNumber": "CRGCQ0402F10K",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Resistor Thick Film",
+		"series": {
+			"name": "CRGCQ",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Resistance": {
+				"value": "10kR \u00b11%"
+			},
+			"Rated Power": {
+				"value": "max. 625mW"
+			},
+			"TCR": {
+				"value": "\u00b1100 ppm/\u00b0C"
+			},
+			"Working Voltage": {
+				"value": "max. 50V"
+			},
+			"Overload Voltage": {
+				"value": "max. 100V"
+			},
+			"Dielectric Withstanding Voltage": {
+				"value": "max. 100V"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "Chip 0402"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"CRGCQ0402F10K": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			},
+			"3-2176337-7": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "TE Connectivity",
+		"partNumber": "CRGCQ1206F120R",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Resistor Thick Film",
+		"series": {
+			"name": "CRGCQ",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Resistance": {
+				"value": "120R \u00b11%"
+			},
+			"Rated Power": {
+				"value": "max. 250mW"
+			},
+			"Working Voltage": {
+				"value": "max. 200V"
+			},
+			"Overload Voltage": {
+				"value": "max. 400V"
+			},
+			"Dielectric Withstanding Voltage": {
+				"value": "max. 500V"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "Chip 1206"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"CRGCQ1206F120R": {
+				"Packaging Code": "",
+				"Packaging Type": "178mm Reel, paper",
+				"Packaging Qty": "5000",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

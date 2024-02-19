@@ -1,0 +1,74 @@
+[
+    {
+        "manufacturer": "AVX",
+        "partNumber": "04023C104KAT#A",
+        "productionStatus": null,
+        "markingCode": null,
+        "partType": "MLCC",
+        "series": {
+            "name": "",
+            "description": ""
+        },
+        "description": null,
+        "productUrl": null,
+        "notes": "",
+        "tags": [],
+        "storageConditions": {
+            "temperature": "-40\u00b0C ~ 105\u00b0C",
+            "humidity": "",
+            "MSLevel": ""
+        },
+        "parameters": {
+            "Working Temp Range": "-55\u00baC ~ +125\u00baC",
+            "Capacitance": {
+                "value": "100nF \u00b110nF"
+            },
+            "Dielectric Type": "X7R",
+            "Rated Voltage": {
+                "value": "max. 25V"
+            }
+        },
+        "files": {
+            "File Datasheet": ""
+        },
+        "package": {
+            "type": "Chip 0402",
+            "dimensions": {
+                "Length": "1.0mm \u00b10.1",
+                "Width": "0.50mm \u00b10.1",
+                "e": "0.25mm \u00b10.15",
+                "Height": "max. 0.56mm"
+            }
+        },
+        "symbol&footprint": {
+            "symbolName": "capacitor_nonpolar",
+            "pinmap": {},
+            "footprints": []
+        },
+        "orderNumbers": {
+            "04023C104KAT2A": {
+                "Packaging Code": "2",
+                "Packaging Type": "Paper Tape / Reel",
+                "Packaging Qty": 10000,
+                "Reel Diameter": "7\"",
+                "Reel Width": "11.5mm \u00b11.0mm",
+                "Tape Pin 1 Quadrant": "Q1",
+                "Tape W": "8mm \u00b10.1mm",
+                "Tape E": "1.75mm \u00b10.10mm",
+                "Tape F": "3.5mm \u00b10.05mm",
+                "Tape SO": "",
+                "Tape P0": "4mm \u00b10.1mm",
+                "Tape P1": "4mm \u00b10.10mm",
+                "Tape P2": "2mm \u00b10.05mm",
+                "Tape D": "1.50mm +0.1mm/-0.0mm",
+                "Tape D1": "",
+                "Tape A0": "0.7mm \u00b10.05mm",
+                "Tape A1": "",
+                "Tape B0": "1.16mm \u00b10.05mm",
+                "Tape B1": "",
+                "Tape T": "0.4mm \u00b10.03mm",
+                "Tape K": ""
+            }
+        }
+    }
+]

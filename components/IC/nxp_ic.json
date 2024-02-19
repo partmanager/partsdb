@@ -1,0 +1,46 @@
+[
+	{
+		"manufacturer": "NXP",
+		"partNumber": "TJA1051T/3",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "IC",
+		"series": {
+			"name": "TJA1051",
+			"description": ""
+		},
+		"description": "High-speed CAN transceiver",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {},
+		"files": {},
+		"package": {
+			"name": "SO8"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TJA1051T/3.118": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			},
+			"TJA1051T/3,118": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

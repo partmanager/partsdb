@@ -1,0 +1,67 @@
+[
+	{
+		"manufacturer": "Energizer",
+		"partNumber": "E91 MAX",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Battery",
+		"series": {
+			"name": "MAX",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "https://www.energizer.com/batteries/energizer-max-alkaline-batteries",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Battery Type": "AA, R6",
+			"Battery Classification": "Alkaline",
+			"Nominal Voltage": {
+				"value": "1.5V"
+			},
+			"Nominal Internal Resistance": {
+				"value": "150mR ~ 300mR"
+			},
+			"Capacity": [
+				{
+					"value": "3000mAh",
+					"conditions": {
+						"Id": "25mA",
+						"TA": "21\u00b0C"
+					}
+				},
+				{
+					"value": "2000mAh",
+					"conditions": {
+						"Id": "250mA",
+						"TA": "21\u00b0C"
+					}
+				}
+			]
+		},
+		"files": {
+			"datasheet": "https://data.energizer.com/pdfs/e91.pdf"
+		},
+		"package": {
+			"name": "battery_aa"
+		},
+		"symbol&footprint": {
+			"symbolName": "battery",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"E91 MAX": {
+				"Packaging Code": "",
+				"Packaging Type": "Foil",
+				"Packaging Qty": "2",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

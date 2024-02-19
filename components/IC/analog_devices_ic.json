@@ -1,0 +1,96 @@
+[
+	{
+		"manufacturer": "Analog Devices",
+		"partNumber": "ADF4360-7",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "IC RF Synthesizer",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "Integrated Synthesizer and VCO",
+		"productUrl": "https://www.analog.com/en/products/adf4360-7.html",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "3V ~ 3.6V"
+			}
+		},
+		"files": {
+			"Datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADF4360-7.pdf"
+		},
+		"package": {
+			"name": "LFCSP24"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"ADF4360-7BCPZ": {
+				"Packaging Code": "",
+				"Packaging Type": "Tray",
+				"Packaging Qty": "490",
+				"Packaging Data": {}
+			},
+			"ADF4360-7BCPZRL": {
+				"Packaging Code": "",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "5000",
+				"Packaging Data": {
+					"Reel Diameter": "13\u201d",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "Q2",
+					"Tape W": "12mm \u00b10.3mm",
+					"Tape E": "1.75mm \u00b10.10mm",
+					"Tape F": "5.50mm \u00b10.10mm",
+					"Tape SO": "",
+					"Tape P0": "4.00mm \u00b10.10mm",
+					"Tape P1": "8.00mm \u00b10.10mm",
+					"Tape P2": "2.00mm \u00b10.05mm",
+					"Tape D": "1.50mm \u00b10.10mm",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "",
+					"Tape K": ""
+				}
+			},
+			"ADF4360-7BCPZRL7": {
+				"Packaging Code": "",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "1500",
+				"Packaging Data": {
+					"Reel Diameter": "7\u201d",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "Q2",
+					"Tape W": "12mm \u00b10.3mm",
+					"Tape E": "1.75mm \u00b10.10mm",
+					"Tape F": "5.50mm \u00b10.10mm",
+					"Tape SO": "",
+					"Tape P0": "4.00mm \u00b10.10mm",
+					"Tape P1": "8.00mm \u00b10.10mm",
+					"Tape P2": "2.00mm \u00b10.05mm",
+					"Tape D": "1.50mm \u00b10.10mm",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "",
+					"Tape K": ""
+				}
+			}
+		}
+	}
+]

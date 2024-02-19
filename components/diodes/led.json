@@ -1,0 +1,386 @@
+[
+	{
+		"manufacturer": "Lucky Light",
+		"partNumber": "LL-S194PBC-B4-1B",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "LED",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Color": "Blue",
+			"IF Continuous": {
+				"value": "25mA"
+			},
+			"IF Peak": {
+				"value": "100mA"
+			},
+			"VF": {
+				"value": "3.40V +0.40V/-0.60V"
+			},
+			"VR": {
+				"value": "max. 5V"
+			},
+			"I_R": {
+				"value": "max. 10uA",
+				"conditions": {
+					"V_R": "5V"
+				}
+			},
+			"Viewing Angle": {
+				"value": "130"
+			},
+			"Luminous Intensity": {
+				"value": "40mcd -20mcd"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "Chip 0603"
+		},
+		"symbol&footprint": {
+			"symbolName": "led",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"LL-S194PBC-B4-1B": {
+				"Packaging Code": "",
+				"Packaging Type": "7\" reel",
+				"Packaging Qty": "4000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Lucky Light",
+		"partNumber": "LL-S194PUYC-Y2-2B",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "LED",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Color": "Yellow",
+			"IF Continuous": {
+				"value": "25mA"
+			},
+			"IF Peak": {
+				"value": "100mA"
+			},
+			"VF": {
+				"value": "2.00V \u00b10.40V"
+			},
+			"VR": {
+				"value": "max. 5V"
+			},
+			"I_R": {
+				"value": "max. 10uA",
+				"conditions": {
+					"V_R": "5V"
+				}
+			},
+			"Viewing Angle": {
+				"value": "120"
+			},
+			"Luminous Intensity": {
+				"value": "140mcd -70mcd"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "Chip 0604"
+		},
+		"symbol&footprint": {
+			"symbolName": "led",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"LL-S194PUYC-Y2-2B": {
+				"Packaging Code": "",
+				"Packaging Type": "7\" reel",
+				"Packaging Qty": "4000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Lucky Light",
+		"partNumber": "LL-S194PVC-V1-2B",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "LED",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Color": "Red",
+			"IF Continuous": {
+				"value": "25mA"
+			},
+			"IF Peak": {
+				"value": "100mA"
+			},
+			"VF": {
+				"value": "2.00V \u00b10.40V"
+			},
+			"VR": {
+				"value": "max. 5V"
+			},
+			"I_R": {
+				"value": "max. 10uA",
+				"conditions": {
+					"V_R": "5V"
+				}
+			},
+			"Viewing Angle": {
+				"value": "120"
+			},
+			"Luminous Intensity": {
+				"value": "100mcd -50mcd"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "Chip 0605"
+		},
+		"symbol&footprint": {
+			"symbolName": "led",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"LL-S194PVC-V1-2B": {
+				"Packaging Code": "",
+				"Packaging Type": "7\" reel",
+				"Packaging Qty": "4000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Optosupply",
+		"partNumber": "OSG80603C1E",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "LED",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Color": "Green",
+			"IF Continuous": {
+				"value": "20mA"
+			},
+			"IF Peak": {
+				"value": "100mA"
+			},
+			"VF": {
+				"value": "1.80V +0.60V/-0.20V"
+			},
+			"VR": {
+				"value": "max. 5V"
+			},
+			"I_R": {
+				"value": "max. 10uA",
+				"conditions": {
+					"V_R": "5V"
+				}
+			},
+			"Viewing Angle": {
+				"value": "120"
+			},
+			"Luminous Intensity": {
+				"value": "10mcd \u00b15mcd"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "Chip 0606"
+		},
+		"symbol&footprint": {
+			"symbolName": "led",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"OSG80603C1E": {
+				"Packaging Code": "",
+				"Packaging Type": "7\" reel",
+				"Packaging Qty": "4000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "REFOND",
+		"partNumber": "RF-GNB191TS-CF",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "LED",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Color": "Green",
+			"IF Continuous": {
+				"value": "30mA"
+			},
+			"IF Peak": {
+				"value": "60mA"
+			},
+			"VF": {
+				"value": "3V \u00b10.10V"
+			},
+			"VR": {
+				"value": "max. 5V"
+			},
+			"I_R": {
+				"value": "max. 10uA",
+				"conditions": {
+					"V_R": "5V"
+				}
+			},
+			"Viewing Angle": {
+				"value": "140"
+			},
+			"Luminous Intensity": {
+				"value": "430mcd"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "Chip 0607"
+		},
+		"symbol&footprint": {
+			"symbolName": "led",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"RF-GNB191TS-CF": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "4000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "REFOND",
+		"partNumber": "RF-RUB190TS-BD",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "LED",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Color": "Red",
+			"IF Continuous": {
+				"value": "30mA"
+			},
+			"IF Peak": {
+				"value": "60mA"
+			},
+			"VF": {
+				"value": "2V \u00b10.10V"
+			},
+			"VR": {
+				"value": "max. 5V"
+			},
+			"I_R": {
+				"value": "max. 10uA",
+				"conditions": {
+					"V_R": "5V"
+				}
+			},
+			"Viewing Angle": {
+				"value": "140"
+			},
+			"Luminous Intensity": {
+				"value": "60mcd \u00b130mcd"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "Chip 0608"
+		},
+		"symbol&footprint": {
+			"symbolName": "led",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"RF-RUB190TS-BD": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "4000",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

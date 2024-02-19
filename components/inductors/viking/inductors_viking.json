@@ -1,0 +1,57 @@
+[
+	{
+		"manufacturer": "Viking",
+		"partNumber": "PCS127MT6R8",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PCS",
+			"description": "Shielded SMD Power Inductor"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "15\u00b0C ~ 28\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "6.8uH \u00b120%",
+				"conditions": {
+					"f": "100kHz",
+					"V": "250mV"
+				}
+			},
+			"DCR": {
+				"value": "14mR",
+				"conditions": {
+					"TA": "20\u00b0C"
+				}
+			},
+			"DC Rated Current": {
+				"value": "6.4A"
+			}
+		},
+		"files": {
+			"Datasheet": ""
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "inductor_with_core",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PCS127MT6R8": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

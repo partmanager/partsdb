@@ -1,0 +1,51 @@
+[
+	{
+		"manufacturer": "Diotec Semiconductor",
+		"partNumber": "MMSZ5245B",
+		"productionStatus": "",
+		"markingCode": "D5",
+		"partType": "Zener Diode",
+		"series": {
+			"name": "MMSZ52",
+			"description": "SMD Planar Zener Diodes"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-50\u00b0C ~ 150\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Forward Voltage": {
+				"value": "max. 0.9V",
+				"conditions": {
+					"I_F": "10mA",
+					"Tj": "25"
+				}
+			},
+			"Power Rating": {
+				"value": "500mW"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SOD-123F"
+		},
+		"symbol&footprint": {
+			"symbolName": "diode_zener",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"MMSZ5245B": {
+				"Packaging Code": "",
+				"Packaging Type": "7\u201d Reel",
+				"Packaging Qty": "3000",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

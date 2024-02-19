@@ -1,0 +1,93 @@
+[
+	{
+		"manufacturer": "Laird",
+		"partNumber": "CM3421Y600R-10",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Common Mode Choke",
+		"series": {
+			"name": "CM3421",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Rated Current": {
+				"value": "max. 15A",
+				"conditions": {
+					"TA": "25\u2103"
+				}
+			},
+			"DC Resistance": {
+				"value": "max. 0.75m\u03a9"
+			},
+			"Impedance": [
+				{
+					"value": "39\u03a9 \u00b125%",
+					"conditions": {
+						"f": "25MHz"
+					}
+				},
+				{
+					"value": "60\u03a9 \u00b125%",
+					"conditions": {
+						"f": "100MHz"
+					}
+				},
+				{
+					"value": "96\u03a9 \u00b125%",
+					"conditions": {
+						"f": "500MHz"
+					}
+				},
+				{
+					"value": "110\u03a9 \u00b125%",
+					"conditions": {
+						"f": "1GHz"
+					}
+				}
+			]
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "common_mode",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"CM3421Y600R-10": {
+				"Packaging Code": "",
+				"Packaging Type": "Tape and Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {
+					"Reel Diameter": "",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "",
+					"Tape W": "",
+					"Tape E": "",
+					"Tape F": "",
+					"Tape SO": "",
+					"Tape P0": "",
+					"Tape P1": "",
+					"Tape P2": "",
+					"Tape D": "",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "",
+					"Tape K": ""
+				}
+			}
+		}
+	}
+]

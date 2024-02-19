@@ -1,0 +1,38 @@
+[
+	{
+		"manufacturer": "Italtronic",
+		"partNumber": "61.602",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Enclosure",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "Enclosure ABS, wall mounting",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"61.602": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

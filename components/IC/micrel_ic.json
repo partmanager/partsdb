@@ -1,0 +1,42 @@
+[
+	{
+		"manufacturer": "Micrel",
+		"partNumber": "MIC29302A",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "IC Voltage Regulator",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "3A Fast-Response LDO Regulator",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {},
+		"files": {
+			"Datasheet": ""
+		},
+		"package": {
+			"name": "TO-263"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"MIC29302AWU": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

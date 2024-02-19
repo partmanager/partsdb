@@ -1,0 +1,500 @@
+[
+	{
+		"manufacturer": "ECE",
+		"partNumber": "SN005-60",
+		"productionStatus": "",
+		"markingCode": "5",
+		"partType": "PTC Fuse",
+		"series": {
+			"name": "SN",
+			"description": "Surface mount PTC SN (1206) model"
+		},
+		"description": "",
+		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/269",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Hold Current": {
+				"value": "max. 0.05A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip Current": {
+				"value": "max. 0.15A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Rated Voltage": {
+				"value": "max. 60V"
+			},
+			"Max fault current": {
+				"value": "max. 100A"
+			},
+			"Tripped Power Dissipation": {
+				"value": "0.4W",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip time": {
+				"value": "max. 1.5s",
+				"conditions": {
+					"I": "0.25A"
+				}
+			},
+			"Resistance": {
+				"value": "min. 3.6\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Resistance 1h after tripping": {
+				"value": "max. 50\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			}
+		},
+		"files": {
+			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020190115083136.pdf"
+		},
+		"package": {
+			"name": "Chip 1210"
+		},
+		"symbol&footprint": {
+			"symbolName": "fuse_ptc",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"SN005-60": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "ECE",
+		"partNumber": "SN010-60",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "PTC Fuse",
+		"series": {
+			"name": "SN",
+			"description": "Surface mount PTC SN (1206) model"
+		},
+		"description": "",
+		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/269",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Hold Current": {
+				"value": "max. 0.10A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip Current": {
+				"value": "max. 0.25A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Rated Voltage": {
+				"value": "max. 60V"
+			},
+			"Max fault current": {
+				"value": "max. 100A"
+			},
+			"Tripped Power Dissipation": {
+				"value": "0.4W",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip time": {
+				"value": "max. 1s",
+				"conditions": {
+					"I": "0.5A"
+				}
+			},
+			"Resistance": {
+				"value": "min. 1.6\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Resistance 1h after tripping": {
+				"value": "max. 15\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			}
+		},
+		"files": {
+			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020190115083136.pdf"
+		},
+		"package": {
+			"name": "Chip 1210"
+		},
+		"symbol&footprint": {
+			"symbolName": "fuse_ptc",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"SN010-60": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "ECE",
+		"partNumber": "SN020-30",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "PTC Fuse",
+		"series": {
+			"name": "SN",
+			"description": "Surface mount PTC SN (1206) model"
+		},
+		"description": "",
+		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/269",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Hold Current": {
+				"value": "max. 0.20A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip Current": {
+				"value": "max. 0.40A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Rated Voltage": {
+				"value": "max. 30V"
+			},
+			"Max fault current": {
+				"value": "max. 100A"
+			},
+			"Tripped Power Dissipation": {
+				"value": "0.4W",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip time": {
+				"value": "max. 0.1s",
+				"conditions": {
+					"I": "8A"
+				}
+			},
+			"Resistance": {
+				"value": "min. 0.6\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Resistance 1h after tripping": {
+				"value": "max. 2.5\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			}
+		},
+		"files": {
+			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020190115083136.pdf"
+		},
+		"package": {
+			"name": "Chip 1210"
+		},
+		"symbol&footprint": {
+			"symbolName": "fuse_ptc",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"SN020-30": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "ECE",
+		"partNumber": "SN035-16",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "PTC Fuse",
+		"series": {
+			"name": "SN",
+			"description": "Surface mount PTC SN (1206) model"
+		},
+		"description": "",
+		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/269",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Hold Current": {
+				"value": "max. 0.35A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip Current": {
+				"value": "max. 0.75A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Rated Voltage": {
+				"value": "max. 16V"
+			},
+			"Max fault current": {
+				"value": "max. 100A"
+			},
+			"Tripped Power Dissipation": {
+				"value": "0.4W",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip time": {
+				"value": "max. 0.1s",
+				"conditions": {
+					"I": "8A"
+				}
+			},
+			"Resistance": {
+				"value": "min. 0.3\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Resistance 1h after tripping": {
+				"value": "max. 1.2\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			}
+		},
+		"files": {
+			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020190115083136.pdf"
+		},
+		"package": {
+			"name": "Chip 1210"
+		},
+		"symbol&footprint": {
+			"symbolName": "fuse_ptc",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"SN035-16": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "ECE",
+		"partNumber": "SN050-08",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "PTC Fuse",
+		"series": {
+			"name": "SN",
+			"description": "Surface mount PTC SN (1206) model"
+		},
+		"description": "",
+		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/269",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Hold Current": {
+				"value": "max. 0.5A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip Current": {
+				"value": "max. 1A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Rated Voltage": {
+				"value": "max. 8V"
+			},
+			"Max fault current": {
+				"value": "max. 100A"
+			},
+			"Tripped Power Dissipation": {
+				"value": "0.4W",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip time": {
+				"value": "max. 0.1s",
+				"conditions": {
+					"I": "8A"
+				}
+			},
+			"Resistance": {
+				"value": "min. 0.15\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Resistance 1h after tripping": {
+				"value": "max. 0.7\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			}
+		},
+		"files": {
+			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020230718153334.pdf"
+		},
+		"package": {
+			"name": "Chip 1210"
+		},
+		"symbol&footprint": {
+			"symbolName": "fuse_ptc",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"SN050-08": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "ECE",
+		"partNumber": "SN075-06",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "PTC Fuse",
+		"series": {
+			"name": "SN",
+			"description": "Surface mount PTC SN (1206) model"
+		},
+		"description": "",
+		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/269",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Hold Current": {
+				"value": "max. 0.75A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip Current": {
+				"value": "Max. 1.5A",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Rated Voltage": {
+				"value": "max. 6V"
+			},
+			"Max fault current": {
+				"value": "max. 100A"
+			},
+			"Tripped Power Dissipation": {
+				"value": "0.6W",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Trip time": {
+				"value": "max. 0.2s",
+				"conditions": {
+					"I": "8A"
+				}
+			},
+			"Resistance": {
+				"value": "min. 0.09\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			},
+			"Resistance 1h after tripping": {
+				"value": "max. 0.29\u2126",
+				"conditions": {
+					"TA": "23\u00b0C"
+				}
+			}
+		},
+		"files": {
+			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020230718153334.pdf"
+		},
+		"package": {
+			"name": "Chip 1210"
+		},
+		"symbol&footprint": {
+			"symbolName": "fuse_ptc",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"SN075-06": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

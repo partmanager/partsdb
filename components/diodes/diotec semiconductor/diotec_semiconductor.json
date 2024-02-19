@@ -1,0 +1,191 @@
+[
+	{
+		"manufacturer": "Diotec Semiconductor",
+		"partNumber": "ES1J",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Small Signal Diode",
+		"series": {
+			"name": "ES1",
+			"description": "Superfast Efficient SMD Rectifier Diodes"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-50\u00b0C ~ 150\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Forward Voltage": {
+				"value": "max. 1.7V",
+				"conditions": {
+					"I_F": "1A",
+					"Tj": "25"
+				}
+			},
+			"Reverse Current": [
+				{
+					"value": "max. 5uA",
+					"conditions": {
+						"V_R": "600V",
+						"Tj": "25"
+					}
+				},
+				{
+					"value": "100uA",
+					"conditions": {
+						"V_R": "600V",
+						"Tj": "100"
+					}
+				}
+			],
+			"I_F": {
+				"value": "1A"
+			},
+			"I_FSM": [
+				{
+					"value": "30A",
+					"conditions": {
+						"t": "10ms"
+					}
+				},
+				{
+					"value": "33A",
+					"conditions": {
+						"t": "8.3ms"
+					}
+				}
+			],
+			"I_FRM": {
+				"value": "6A"
+			},
+			"V_RRM": {
+				"value": "600V"
+			},
+			"V_RSM": {
+				"value": "600V"
+			},
+			"t_rr": {
+				"value": "max. 35ns"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "DO-214AC"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"ES1J": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "7500",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Diotec Semiconductor",
+		"partNumber": "US1A",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Small Signal Diode",
+		"series": {
+			"name": "US1",
+			"description": "Ultrafast Recovery SMD Rectifier Diodes"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-50\u00b0C ~ 150\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Forward Voltage": {
+				"value": "max. 1V",
+				"conditions": {
+					"I_F": "1A",
+					"Tj": "25"
+				}
+			},
+			"Reverse Current": [
+				{
+					"value": "max. 5uA",
+					"conditions": {
+						"VR": "50V",
+						"Tj": "25"
+					}
+				},
+				{
+					"value": "100uA",
+					"conditions": {
+						"VR": "50V",
+						"Tj": "100"
+					}
+				}
+			],
+			"I_F": {
+				"value": "1A"
+			},
+			"I_FSM": [
+				{
+					"value": "30A",
+					"conditions": {
+						"t": "10ms"
+					}
+				},
+				{
+					"value": "33A",
+					"conditions": {
+						"t": "8.3ms"
+					}
+				}
+			],
+			"I_FRM": {
+				"value": "6A"
+			},
+			"V_RRM": {
+				"value": "50V"
+			},
+			"V_RSM": {
+				"value": "50V"
+			},
+			"t_rr": {
+				"value": "max. 50ns"
+			},
+			"Junction Capacitance": {
+				"value": "10pF",
+				"conditions": {
+					"V_R": "4V",
+					"f": "1MHz"
+				}
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "DO-214AC"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"US1A": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u201d Reel",
+				"Packaging Qty": "7500",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

@@ -1,0 +1,350 @@
+[
+	{
+		"manufacturer": "Adam Tech",
+		"partNumber": "HBHR-B2-10-VG-SMT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector IDC",
+		"series": {
+			"name": "HBHR",
+			"description": "IDC Connector"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Pin Count": {
+				"value": "10"
+			},
+			"Row Count": {
+				"value": "2"
+			},
+			"Pin Spacing": {
+				"value": "1.27mm"
+			},
+			"Row Spacing": {
+				"value": "1.27mm"
+			},
+			"Housing Height": {
+				"value": "5.4mm"
+			},
+			"Contact Resistance": {
+				"value": "20mR"
+			},
+			"Rated Current": {
+				"value": "1A"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"HBHR-B2-10-VG-SMT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Adam Tech",
+		"partNumber": "HBHR-B2-20-VG-SMT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector IDC",
+		"series": {
+			"name": "HBHR",
+			"description": "IDC Connector"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Pin Count": {
+				"value": "20"
+			},
+			"Row Count": {
+				"value": "2"
+			},
+			"Pin Spacing": {
+				"value": "1.27mm"
+			},
+			"Row Spacing": {
+				"value": "1.27mm"
+			},
+			"Housing Height": {
+				"value": "5.4mm"
+			},
+			"Contact Resistance": {
+				"value": "20mR"
+			},
+			"Rated Current": {
+				"value": "1A"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"HBHR-B2-20-VG-SMT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Adam Tech",
+		"partNumber": "HBHR-B2-26-VG-SMT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector IDC",
+		"series": {
+			"name": "HBHR",
+			"description": "IDC Connector"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Pin Count": {
+				"value": "26"
+			},
+			"Row Count": {
+				"value": "2"
+			},
+			"Pin Spacing": {
+				"value": "1.27mm"
+			},
+			"Row Spacing": {
+				"value": "1.27mm"
+			},
+			"Housing Height": {
+				"value": "5.4mm"
+			},
+			"Contact Resistance": {
+				"value": "20mR"
+			},
+			"Rated Current": {
+				"value": "1A"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"HBHR-B2-26-VG-SMT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Adam Tech",
+		"partNumber": "HBHR-B2-34-VG-SMT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector IDC",
+		"series": {
+			"name": "HBHR",
+			"description": "IDC Connector"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Pin Count": {
+				"value": "34"
+			},
+			"Row Count": {
+				"value": "2"
+			},
+			"Pin Spacing": {
+				"value": "1.27mm"
+			},
+			"Row Spacing": {
+				"value": "1.27mm"
+			},
+			"Housing Height": {
+				"value": "5.4mm"
+			},
+			"Contact Resistance": {
+				"value": "20mR"
+			},
+			"Rated Current": {
+				"value": "1A"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"HBHR-B2-34-VG-SMT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Adam Tech",
+		"partNumber": "HBHR-B2-40-VG-SMT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector IDC",
+		"series": {
+			"name": "HBHR",
+			"description": "IDC Connector"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Pin Count": {
+				"value": "40"
+			},
+			"Row Count": {
+				"value": "2"
+			},
+			"Pin Spacing": {
+				"value": "1.27mm"
+			},
+			"Row Spacing": {
+				"value": "1.27mm"
+			},
+			"Housing Height": {
+				"value": "5.4mm"
+			},
+			"Contact Resistance": {
+				"value": "20mR"
+			},
+			"Rated Current": {
+				"value": "1A"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"HBHR-B2-40-VG-SMT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Adam Tech",
+		"partNumber": "HBHR-B2-50-VG-SMT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector IDC",
+		"series": {
+			"name": "HBHR",
+			"description": "IDC Connector"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Pin Count": {
+				"value": "50"
+			},
+			"Row Count": {
+				"value": "2"
+			},
+			"Pin Spacing": {
+				"value": "1.27mm"
+			},
+			"Row Spacing": {
+				"value": "1.27mm"
+			},
+			"Housing Height": {
+				"value": "5.4mm"
+			},
+			"Contact Resistance": {
+				"value": "20mR"
+			},
+			"Rated Current": {
+				"value": "1A"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"HBHR-B2-50-VG-SMT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

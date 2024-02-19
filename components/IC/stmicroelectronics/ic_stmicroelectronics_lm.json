@@ -1,0 +1,44 @@
+[
+	{
+		"manufacturer": "STMicroelectronics",
+		"partNumber": "LM2901",
+		"productionStatus": "",
+		"markingCode": "2901",
+		"partType": "IC",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "Low-power quad voltage comparator",
+		"productUrl": "https://www.st.com/en/amplifiers-and-comparators/lm2901.html",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-64\u00b0C ~ 150\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "2V ~ 36V"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SO-14"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"LM2901DT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

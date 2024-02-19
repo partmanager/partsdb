@@ -1,0 +1,63 @@
+[
+	{
+		"manufacturer": "onsemi",
+		"partNumber": "MC74HC125A",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "IC",
+		"series": {
+			"name": "74",
+			"description": ""
+		},
+		"description": "Quad 3-State Noninverting Buffers",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "2V ~ 6V"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "TSSOP-14"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"MC74HC125ADTR2G": {
+				"Packaging Code": "",
+				"Packaging Type": "Tape & Reel",
+				"Packaging Qty": "2500",
+				"Packaging Data": {
+					"Reel Diameter": "",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "",
+					"Tape W": "",
+					"Tape E": "",
+					"Tape F": "",
+					"Tape SO": "",
+					"Tape P0": "",
+					"Tape P1": "",
+					"Tape P2": "",
+					"Tape D": "",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "",
+					"Tape K": ""
+				}
+			}
+		}
+	}
+]

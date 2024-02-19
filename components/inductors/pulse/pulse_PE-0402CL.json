@@ -1,0 +1,1858 @@
+[
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL100JTT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "10nH \u00b15%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.4R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 3200MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "308mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL100JTT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL101JTT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "100nH \u00b15%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 2.6R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 700MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "150mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL101JTT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL120JTT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "12nH \u00b15%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.5R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 2700MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "309mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL120JTT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL121JTT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "120nH \u00b15%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 2.8R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 600MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "150mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL121JTT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL150JTT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "15nH \u00b15%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.5R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 2300MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "310mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL150JTT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL180JTT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "18nH \u00b15%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.5R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 2100MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "311mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL180JTT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL1N0STT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "1nH \u00b10.3nH",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.1R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 10000MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "400mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL1N0STT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL1N2STT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "1.2nH \u00b10.3nH",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.1R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 10000MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "400mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL1N2STT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL1N5STT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "1.5nH \u00b10.3nH",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.1R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 6000MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "300mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL1N5STT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL1N8STT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "1.8nH \u00b10.3nH",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.1R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 6000MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "300mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL1N8STT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL220JTT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "22nH \u00b15%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.6R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 1900MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "312mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL220JTT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL270JTT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "27nH \u00b15%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.7R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 1600MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "313mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL270JTT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL2N0STT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "2nH \u00b10.3nH",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.2R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 6000MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "300mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL2N0STT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL2N2STT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "2.2nH \u00b10.3nH",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.2R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 6000MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "300mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL2N2STT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL2N7STT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "2.7nH \u00b10.3nH",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.2R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 6000MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "300mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL2N7STT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL330JTT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "33nH \u00b15%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.8R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 1300MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "200mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL330JTT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL3N3STT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "3.3nH \u00b10.3nH",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.2R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 6000MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "300mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL3N3STT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL3N6STT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "3.6nH \u00b10.3nH",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.2R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 4000MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "300mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL3N6STT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL3N9STT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "3.9nH \u00b10.3nH",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.2R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 4000MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "301mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL3N9STT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL470JTT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "47nH \u00b15%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 1.1R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 1000MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "200mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL470JTT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL4N7STT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "4.7nH \u00b10.3nH",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.2R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 4000MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "302mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL4N7STT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL560JTT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "56nH \u00b15%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 1.2R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 750MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "200mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL560JTT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL5N6STT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "5.6nH \u00b10.3nH",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.3R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 4000MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "303mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL5N6STT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL680JTT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "68nH \u00b15%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 1.4R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 750MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "180mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL680JTT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL6N2STT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "6.2nH \u00b10.3nH",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.3R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 3900MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "304mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL6N2STT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL6N8JTT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "6.8nH \u00b15%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.3R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 3900MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "305mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL6N8JTT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL7N5JTT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "7.5nH \u00b15%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.4R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 3700MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "306mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL7N5JTT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL820JTT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "82nH \u00b15%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 2.4R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 750MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "150mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL820JTT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Pulse",
+		"partNumber": "PE-0402CL8N2JTT",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "PE-0402CL",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "8.2nH \u00b15%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"DCR": {
+				"value": "max. 0.4R",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"SRF": {
+				"value": "min. 3600MHz"
+			},
+			"Q": {
+				"value": "min. 8",
+				"conditions": {
+					"f": "100MHz"
+				}
+			},
+			"Heat Reating Current": {
+				"value": "307mA",
+				"conditions": {
+					"dT": "+15\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"PE-0402CL8N2JTT": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

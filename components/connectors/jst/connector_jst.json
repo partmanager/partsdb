@@ -1,0 +1,112 @@
+[
+	{
+		"manufacturer": "JST",
+		"partNumber": "B3B-PH-K-S",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Pin Count": {
+				"value": "3"
+			},
+			"Row Count": {
+				"value": "1"
+			},
+			"Pin Spacing": {
+				"value": "2mm"
+			},
+			"Housing Height": {
+				"value": "6mm"
+			},
+			"Contact Resistance": {
+				"value": "20mR"
+			},
+			"Rated Current": {
+				"value": "2A"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"B3B-PH-K-S": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "JST",
+		"partNumber": "B4B-PH-K-S",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Pin Count": {
+				"value": "4"
+			},
+			"Row Count": {
+				"value": "1"
+			},
+			"Pin Spacing": {
+				"value": "2mm"
+			},
+			"Housing Height": {
+				"value": "6mm"
+			},
+			"Contact Resistance": {
+				"value": "20mR"
+			},
+			"Rated Current": {
+				"value": "2A"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"B4B-PH-K-S": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

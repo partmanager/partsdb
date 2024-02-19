@@ -1,0 +1,118 @@
+[
+	{
+		"manufacturer": "Connfly",
+		"partNumber": "DS1031-08-2*10P8BS-4-1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector Pins",
+		"series": {
+			"name": "DS1031",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Pin Count": {
+				"value": "20"
+			},
+			"Row Count": {
+				"value": "2"
+			},
+			"Pin Spacing": {
+				"value": "1.27mm"
+			},
+			"Row Spacing": {
+				"value": "1.27mm"
+			},
+			"Housing Height": {
+				"value": "2mm"
+			},
+			"Pin Height": {
+				"value": "3.7mm"
+			},
+			"Pin Height from PCB": {
+				"value": "6.5mm"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DS1031-08-2*10P8BS-4-1": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Connfly",
+		"partNumber": "DS1031-08-2*5P8BS-4-1",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector Pins",
+		"series": {
+			"name": "DS1031",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Pin Count": {
+				"value": "10"
+			},
+			"Row Count": {
+				"value": "2"
+			},
+			"Pin Spacing": {
+				"value": "1.27mm"
+			},
+			"Row Spacing": {
+				"value": "1.27mm"
+			},
+			"Housing Height": {
+				"value": "2mm"
+			},
+			"Pin Height": {
+				"value": "3.7mm"
+			},
+			"Pin Height from PCB": {
+				"value": "6.5mm"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DS1031-08-2*5P8BS-4-1": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

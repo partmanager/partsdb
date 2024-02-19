@@ -1,0 +1,256 @@
+[
+	{
+		"manufacturer": "Microchip",
+		"partNumber": "AT24MAC602",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "IC",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "1.7V ~ 5.5V"
+			}
+		},
+		"files": {
+			"Datasheet": ""
+		},
+		"package": {
+			"name": "SOIC8"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"AT24MAC602-SSHM-T": {
+				"Packaging Code": "",
+				"Packaging Type": "Tape",
+				"Packaging Qty": "",
+				"Packaging Data": {
+					"Reel Diameter": "",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "",
+					"Tape W": "",
+					"Tape E": "",
+					"Tape F": "",
+					"Tape SO": "",
+					"Tape P0": "",
+					"Tape P1": "",
+					"Tape P2": "",
+					"Tape D": "",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "",
+					"Tape K": ""
+				}
+			},
+			"AT24MAC602-SSHM-B": {
+				"Packaging Code": "",
+				"Packaging Type": "Tube",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Microchip",
+		"partNumber": "LAN8720A#",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "IC",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "RMII 10/100 Ethernet Transceiver with HP Auto-MDIX Support",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {},
+		"files": {
+			"Datasheet": ""
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"LAN8720A-CP": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Microchip",
+		"partNumber": "MCP1501#-25E/CHY",
+		"productionStatus": "",
+		"markingCode": "AABXY",
+		"partType": "IC Voltage Reference",
+		"series": {
+			"name": "MCP1501",
+			"description": "High-Precision Buffered Voltage Reference "
+		},
+		"description": "High-Precision Buffered Voltage Reference",
+		"productUrl": "https://www.microchip.com/en-us/product/MCP1501",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "2.7V ~ 5.5V"
+			}
+		},
+		"files": {
+			"Datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1501-Data-Sheet-20005474F.pdf"
+		},
+		"package": {
+			"name": "SOT-23"
+		},
+		"symbol&footprint": {
+			"symbolName": "MCP1501",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"MCP1501T-25E/CHY": {
+				"Packaging Code": "T",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "",
+				"Packaging Data": {
+					"Reel Diameter": "",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "Q3",
+					"Tape W": "8mm",
+					"Tape E": "1.75mm \u00b10.1mm",
+					"Tape F": "3.5mm \u00b10.05mm",
+					"Tape SO": "",
+					"Tape P0": "4mm \u00b10.1mm",
+					"Tape P1": "4mm",
+					"Tape P2": "2.0mm \u00b10.05mm",
+					"Tape D": "1.5mm +0.1mm/-0.0mm",
+					"Tape D1": "1mm",
+					"Tape A0": "3.23mm",
+					"Tape A1": "",
+					"Tape B0": "3.17mm",
+					"Tape B1": "",
+					"Tape T": "0.6mm",
+					"Tape K": "1.37mm"
+				}
+			}
+		}
+	},
+	{
+		"manufacturer": "Microchip",
+		"partNumber": "MCP9700A-E/TO",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "IC",
+		"series": {
+			"name": "",
+			"description": "MCP970#"
+		},
+		"description": "Low-Power Linear Active Thermistor ICs",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "2.3V ~ 5.5V"
+			}
+		},
+		"files": {
+			"Datasheet": ""
+		},
+		"package": {
+			"name": "TO-92"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"MCP9700A-E/TO": {
+				"Packaging Code": "",
+				"Packaging Type": "Bulk",
+				"Packaging Qty": "100",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Microchip",
+		"partNumber": "MIC29302A",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "IC Voltage Regulator",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "3A Fast-Response LDO Regulator",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {},
+		"files": {
+			"Datasheet": ""
+		},
+		"package": {
+			"name": "TO-263"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"MIC29302AWU": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

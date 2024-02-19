@@ -1,0 +1,57 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TL431LIACDBZ#",	
+		"markingCode": "1TMP",
+		"productionStatus": "",	
+		"partType": "IC Voltage Reference",
+		"series": {"name": "TL431", "description": "Programmable Shunt Regulator"},		
+		"description": "Programmable Shunt Regulator with Optimized Reference Current",
+		"productUrl": "https://www.ti.com/product/TL431LI",
+		"notes": "",
+		"tags": "TL431|VoltageReference",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Working Temp Range": {"min": "0°C", "max": "70°C"},			
+			"Supply Voltage Range": {"min": "2.495V", "max": "36V"}
+		},
+		"files": {"datasheet": "https://www.ti.com/lit/gpn/tl431li"},
+		"package": {"name": "SOT-23"},
+		"symbol&footprint": {
+			"symbolName": "opamp_single",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TL431LIACDBZR": {
+				"packagingCode": "R",				
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "3000",
+				"packagingData": {
+					"Reel Diameter":"178mm",
+					"Reel Width":"9mm",
+					"Tape Pin 1 Quadrant":"Q3",
+					"Tape W":"8mm",
+					"Tape E":"",
+					"Tape F":"",
+					"Tape SO":"",
+					"Tape P0":"",
+					"Tape P1":"4mm",
+					"Tape P2":"",
+					"Tape D":"",
+					"Tape D1":"",
+					"Tape A0":"3.15mm",
+					"Tape A1":"",
+					"Tape B0":"2.77mm",
+					"Tape B1":"",
+					"Tape T":"",
+					"Tape K":"1.22mm"
+				}						
+			}
+		}
+	}
+]

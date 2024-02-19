@@ -1,0 +1,77 @@
+[
+	{
+		"manufacturer": "Eska",
+		"partNumber": "FUSE 1206-FF PW 1A0",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Fuse",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Rated Current": {
+				"value": "max. 1A"
+			},
+			"Rated Voltage": {
+				"value": "max. 63V"
+			},
+			"Breaking Capacity": {
+				"value": "max. 50A"
+			},
+			"Voltage Drop": {
+				"value": "max. 264mV"
+			},
+			"Melting Integral": {
+				"value": "0.0028A^2*S"
+			}
+		},
+		"files": {
+			"datasheet": "https://www.tme.eu/Document/5e27e3853f633c6d57397b7032a255f8/83.pdf"
+		},
+		"package": {
+			"name": "Chip 1206"
+		},
+		"symbol&footprint": {
+			"symbolName": "fuse",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"FUSE 1206-FF PW 1A0": {
+				"Packaging Code": "",
+				"Packaging Type": "Paper Tape / Reel",
+				"Packaging Qty": "",
+				"Packaging Data": {
+					"Reel Diameter": "",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "Q1",
+					"Tape W": "8mm",
+					"Tape E": "",
+					"Tape F": "",
+					"Tape SO": "",
+					"Tape P0": "",
+					"Tape P1": "",
+					"Tape P2": "",
+					"Tape D": "",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "",
+					"Tape K": ""
+				}
+			}
+		}
+	}
+]

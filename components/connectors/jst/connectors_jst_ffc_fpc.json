@@ -1,0 +1,38 @@
+[
+    {
+        "manufacturer": "JST",
+        "partNumber": "10FMN-SMT-A-TF",
+        "productionStatus": null,
+        "markingCode": null,
+        "partType": "Connector",
+        "series": {
+            "name": "",
+            "description": ""
+        },
+        "description": "10 pin, 1mm pitch connector for FFC, non-ZIF",
+        "productUrl": null,
+        "notes": null,
+        "tags": [],
+        "storageConditions": {
+            "temperature": "-25\u00b0C ~ 85\u00b0C",
+            "humidity": "",
+            "MSLevel": ""
+        },
+        "parameters": {
+            "Working Temp Range": {
+                "Working Temp Min": "-26",
+                "Working Temp Max": "85"
+            }           
+        },
+        "files": {},  
+        "package": {},
+        "symbol&footprint": {
+            "symbolName": "connector_nonzif_10pin",
+            "pinmap": {},
+            "footprints": []
+        },
+        "orderNumbers": {
+            "10FMN-SMT-A-TF (LF)(SN)": {}
+        }
+    }
+]

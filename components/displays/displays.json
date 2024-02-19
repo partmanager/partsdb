@@ -1,0 +1,58 @@
+[
+	{
+		"manufacturer": "Display Elektronik",
+		"partNumber": "DEM 128064N SBH-PW-N",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "LCD Display",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-30\u00b0C ~ +80\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Resolution": {
+				"width": "128",
+				"height": "64"
+			},
+			"Controller": {
+				"manufacturer": "Sitronix",
+				"part number": "ST7565R",
+				"interface": "SPI | 8080 | 6800"
+			},
+			"Backlight": {
+				"source": "LED",
+				"color": "White"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DEM 128064N SBH-PW-N": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			},
+			"DEM 128064N SBH-PW-N/V": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

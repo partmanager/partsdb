@@ -1,0 +1,123 @@
+[
+	{
+		"manufacturer": "Liteon",
+		"partNumber": "1N4148W",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Small Signal Diode",
+		"series": {
+			"name": "1N",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Forward Voltage": [
+				{
+					"value": "max. 715mV",
+					"conditions": {
+						"I_F": "1mA",
+						"Tj": "25"
+					}
+				},
+				{
+					"value": "max. 855mV",
+					"conditions": {
+						"I_F": "10mA",
+						"Tj": "25"
+					}
+				},
+				{
+					"value": "max. 1V",
+					"conditions": {
+						"I_F": "50mA",
+						"Tj": "25"
+					}
+				},
+				{
+					"value": "max. 1.25V",
+					"conditions": {
+						"I_F": "150mA",
+						"Tj": "25"
+					}
+				}
+			],
+			"Reverse Current": [
+				{
+					"value": "max. 25nA",
+					"conditions": {
+						"V_R": "20V",
+						"Tj": "25\u00b0C"
+					}
+				},
+				{
+					"value": "max. 2500nA",
+					"conditions": {
+						"V_R": "75V",
+						"Tj": "25\u00b0C"
+					}
+				}
+			],
+			"I_F": {
+				"value": "300mA"
+			},
+			"I_FSM": [
+				{
+					"value": "1A",
+					"conditions": {
+						"t": "1s"
+					}
+				},
+				{
+					"value": "2A",
+					"conditions": {
+						"t": "1us"
+					}
+				}
+			],
+			"I_FRM": {
+				"value": "300mA"
+			},
+			"V_RRM": {
+				"value": "100V"
+			},
+			"t_rr": {
+				"value": "4ns"
+			},
+			"Power Rating": {
+				"value": "357mW"
+			},
+			"Junction Capacitance": {
+				"value": "max. 2pF",
+				"conditions": {
+					"f": "1MHz",
+					"VR": "0V"
+				}
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SOD-123"
+		},
+		"symbol&footprint": {
+			"symbolName": "diode",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"1N4148W": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

@@ -1,0 +1,258 @@
+[
+	{
+		"manufacturer": "Diodes Incorporated",
+		"partNumber": "1N5819HW",
+		"productionStatus": "",
+		"markingCode": "SL",
+		"partType": "Schottky Diode",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 125\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Forward Voltage": [
+				{
+					"value": "max. 0.32V",
+					"conditions": {
+						"Tj": "25",
+						"IF": "100mA"
+					}
+				},
+				{
+					"value": "max. 0.32V",
+					"conditions": {
+						"Tj": "25",
+						"IF": "1A"
+					}
+				},
+				{
+					"value": "max. 0.75V",
+					"conditions": {
+						"Tj": "25",
+						"IF": "1A"
+					}
+				}
+			],
+			"Reverse Current": [
+				{
+					"value": "10uA+40uA",
+					"conditions": {
+						"Tj": "25",
+						"VR": "4V"
+					}
+				},
+				{
+					"value": "1mA+1mA",
+					"conditions": {
+						"Tj": "100",
+						"VR": "4V"
+					}
+				},
+				{
+					"value": "10uA+40uA",
+					"conditions": {
+						"Tj": "25",
+						"VR": "6V"
+					}
+				},
+				{
+					"value": "1.5mA+1.5mA",
+					"conditions": {
+						"Tj": "100",
+						"VR": "6V"
+					}
+				},
+				{
+					"value": "max. 1mA",
+					"conditions": {
+						"Tj": "25",
+						"VR": "40V"
+					}
+				},
+				{
+					"value": "max. 10",
+					"conditions": {
+						"Tj": "100",
+						"VR": "40V"
+					}
+				}
+			],
+			"V_R": {
+				"value": "28V"
+			},
+			"I_F": {
+				"value": "1A"
+			},
+			"I_FSM": {
+				"value": "25A",
+				"conditions": {
+					"t": "8.3ms"
+				}
+			},
+			"I_FRM": {
+				"value": "1.5A"
+			},
+			"V_RRM": {
+				"value": "40V"
+			},
+			"Power Rating": {
+				"value": "450mW"
+			},
+			"Junction Capacitance": {
+				"value": "50pF +10pF",
+				"conditions": {
+					"VR": "4V",
+					"f": "1MHz"
+				}
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SOD-123"
+		},
+		"symbol&footprint": {
+			"symbolName": "schottky_diode",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"1N5819HW-7-F": {
+				"Packaging Code": "",
+				"Packaging Type": "7\u2019\u2019 Tape & Reel",
+				"Packaging Qty": "3000",
+				"Packaging Data": {
+					"Reel Diameter": "7\u201d",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "",
+					"Tape W": "",
+					"Tape E": "",
+					"Tape F": "",
+					"Tape SO": "",
+					"Tape P0": "",
+					"Tape P1": "",
+					"Tape P2": "",
+					"Tape D": "",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "",
+					"Tape K": ""
+				}
+			}
+		}
+	},
+	{
+		"manufacturer": "Diodes Incorporated",
+		"partNumber": "B330A",
+		"productionStatus": "",
+		"markingCode": "B330A",
+		"partType": "Schottky Diode",
+		"series": {
+			"name": "B3#0A",
+			"description": "3.0A SURFACE MOUNT SCHOTTKY BARRIER RECTIFIER"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Forward Voltage": {
+				"value": "max. 0.5V",
+				"conditions": {
+					"IF": "3A",
+					"Tj": "25"
+				}
+			},
+			"Reverse Current": [
+				{
+					"value": "max. 0.5mA",
+					"conditions": {
+						"Tj": "25",
+						"VR": "30V"
+					}
+				},
+				{
+					"value": "max. 20mA",
+					"conditions": {
+						"Tj": "100",
+						"VR": "30V"
+					}
+				}
+			],
+			"I_F": {
+				"value": "3A"
+			},
+			"I_FSM": {
+				"value": "80A",
+				"conditions": {
+					"t": "8.3ms"
+				}
+			},
+			"V_RRM": {
+				"value": "30V"
+			},
+			"Power Rating": {
+				"value": "850mW"
+			},
+			"Junction Capacitance": {
+				"value": "200pF",
+				"conditions": {
+					"VR": "4V",
+					"f": "1MHz"
+				}
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SMA"
+		},
+		"symbol&footprint": {
+			"symbolName": "schottky_diode",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"B330A-13-F": {
+				"Packaging Code": "",
+				"Packaging Type": "13\u2019\u2019 Tape & Reel",
+				"Packaging Qty": "5000",
+				"Packaging Data": {
+					"Reel Diameter": "13\u201d",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "",
+					"Tape W": "",
+					"Tape E": "",
+					"Tape F": "",
+					"Tape SO": "",
+					"Tape P0": "",
+					"Tape P1": "",
+					"Tape P2": "",
+					"Tape D": "",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "",
+					"Tape K": ""
+				}
+			}
+		}
+	}
+]

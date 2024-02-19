@@ -1,0 +1,470 @@
+[
+	{
+		"manufacturer": "FerroCore",
+		"partNumber": "DPWC 0805S-121",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Common Mode Choke",
+		"series": {
+			"name": "DPWC 0805S",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u2103 ~ 40\u2103",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Rated Current": {
+				"value": "max. 370mA",
+				"conditions": {
+					"TA": "25\u2103"
+				}
+			},
+			"DC Resistance": {
+				"value": "max. 0.30\u03a9"
+			},
+			"Impedance": {
+				"value": "120\u03a9 \u00b125%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "common_mode",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DPWC0805-121": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "FerroCore",
+		"partNumber": "DPWC 0805S-161",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Common Mode Choke",
+		"series": {
+			"name": "DPWC 0805S",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u2103 ~ 40\u2103",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Rated Current": {
+				"value": "max. 330mA",
+				"conditions": {
+					"TA": "25\u2103"
+				}
+			},
+			"DC Resistance": {
+				"value": "max. 0.35\u03a9"
+			},
+			"Impedance": {
+				"value": "160\u03a9 \u00b125%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "common_mode",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DPWC0805-161": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "FerroCore",
+		"partNumber": "DPWC 0805S-181",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Common Mode Choke",
+		"series": {
+			"name": "DPWC 0805S",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u2103 ~ 40\u2103",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Rated Current": {
+				"value": "max. 330mA",
+				"conditions": {
+					"TA": "25\u2103"
+				}
+			},
+			"DC Resistance": {
+				"value": "max. 0.35\u03a9"
+			},
+			"Impedance": {
+				"value": "180\u03a9 \u00b125%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "common_mode",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DPWC0805-181": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "FerroCore",
+		"partNumber": "DPWC 0805S-221",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Common Mode Choke",
+		"series": {
+			"name": "DPWC 0805S",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u2103 ~ 40\u2103",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Rated Current": {
+				"value": "max. 310mA",
+				"conditions": {
+					"TA": "25\u2103"
+				}
+			},
+			"DC Resistance": {
+				"value": "max. 0.35\u03a9"
+			},
+			"Impedance": {
+				"value": "220\u03a9 \u00b125%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "common_mode",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DPWC0805-221": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "FerroCore",
+		"partNumber": "DPWC 0805S-261",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Common Mode Choke",
+		"series": {
+			"name": "DPWC 0805S",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u2103 ~ 40\u2103",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Rated Current": {
+				"value": "max. 300mA",
+				"conditions": {
+					"TA": "25\u2103"
+				}
+			},
+			"DC Resistance": {
+				"value": "max. 0.40\u03a9"
+			},
+			"Impedance": {
+				"value": "260\u03a9 \u00b125%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "common_mode",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DPWC0805-261": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "FerroCore",
+		"partNumber": "DPWC 0805S-361",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Common Mode Choke",
+		"series": {
+			"name": "DPWC 0805S",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u2103 ~ 40\u2103",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Rated Current": {
+				"value": "max. 280mA",
+				"conditions": {
+					"TA": "25\u2103"
+				}
+			},
+			"DC Resistance": {
+				"value": "max. 0.45\u03a9"
+			},
+			"Impedance": {
+				"value": "360\u03a9 \u00b125%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "common_mode",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DPWC0805-361": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "FerroCore",
+		"partNumber": "DPWC 0805S-371",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Common Mode Choke",
+		"series": {
+			"name": "DPWC 0805S",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u2103 ~ 40\u2103",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Rated Current": {
+				"value": "max. 280mA",
+				"conditions": {
+					"TA": "25\u2103"
+				}
+			},
+			"DC Resistance": {
+				"value": "max. 0.45\u03a9"
+			},
+			"Impedance": {
+				"value": "370\u03a9 \u00b125%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "common_mode",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DPWC0805-371": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "FerroCore",
+		"partNumber": "DPWC 0805S-670",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Common Mode Choke",
+		"series": {
+			"name": "DPWC 0805S",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u2103 ~ 40\u2103",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Rated Current": {
+				"value": "max. 400mA",
+				"conditions": {
+					"TA": "25\u2103"
+				}
+			},
+			"DC Resistance": {
+				"value": "max. 0.25\u03a9"
+			},
+			"Impedance": {
+				"value": "67\u03a9 \u00b125%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "common_mode",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DPWC0805-670": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "FerroCore",
+		"partNumber": "DPWC 0805S-900",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Common Mode Choke",
+		"series": {
+			"name": "DPWC 0805S",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u2103 ~ 40\u2103",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Rated Current": {
+				"value": "max. 330mA",
+				"conditions": {
+					"TA": "25\u2103"
+				}
+			},
+			"DC Resistance": {
+				"value": "max. 0.35\u03a9"
+			},
+			"Impedance": {
+				"value": "90\u03a9 \u00b125%",
+				"conditions": {
+					"f": "100MHz"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "common_mode",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DPWC0805-900": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

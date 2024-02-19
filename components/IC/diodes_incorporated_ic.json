@@ -1,0 +1,82 @@
+[
+	{
+		"manufacturer": "Diodes Incorporated",
+		"partNumber": "AP63300",
+		"productionStatus": "",
+		"markingCode": "T6",
+		"partType": "IC Voltage Regulator",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "-40\u00b0C ~ 85\u00b0C",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "TSOT26"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "3000"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"AP63300WU-7": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Diodes Incorporated",
+		"partNumber": "AZ1117E",
+		"productionStatus": "Obsolete",
+		"markingCode": "GH18G",
+		"partType": "IC Voltage Regulator",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "1.8V 1A LDO",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {},
+		"files": {},
+		"package": {
+			"name": "SOT-223"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"AZ1117EH-1.8TRG1": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "4000",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

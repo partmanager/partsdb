@@ -1,0 +1,84 @@
+[
+	{
+		"manufacturer": "TDK",
+		"partNumber": "B88069X1023#",
+		"productionStatus": "",
+		"markingCode": "A",
+		"partType": "Surge arrester",
+		"series": {
+			"name": "S30-A75X",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "5\u00b0C ~ 35\u00b0C",
+			"humidity": "",
+			"MSLevel": "Level 1"
+		},
+		"parameters": {
+			"DC Spark-Over Voltage": {
+				"value": "75V \u00b122.5V"
+			},
+			"Insulation Resistance": {
+				"value": "min. 1GR",
+				"conditions": {
+					"V": "50V"
+				}
+			},
+			"Capacitance": {
+				"value": "max. 0.4pF",
+				"conditions": {
+					"f": "1MHz"
+				}
+			},
+			"Arc voltage": {
+				"value": "8V"
+			},
+			"Glow voltage": {
+				"value": "65V"
+			},
+			"Arc to glow transition": {
+				"value": "max. 0.6A"
+			}
+		},
+		"files": {
+			"datasheet": "https://www.tdk-electronics.tdk.com/inf/100/ds/S30-A75X-X1023T253.pdf"
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "surge_arrester_2_pin",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"B88069X1023T203": {
+				"Packaging Code": "T203",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {
+					"Reel Diameter": "",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "Q1",
+					"Tape W": "12mm",
+					"Tape E": "",
+					"Tape F": "",
+					"Tape SO": "",
+					"Tape P0": "4.00mm",
+					"Tape P1": "8.00mm",
+					"Tape P2": "2.00mm",
+					"Tape D": "",
+					"Tape D1": "1.5mm",
+					"Tape A0": "4.9mm",
+					"Tape A1": "",
+					"Tape B0": "3.65mm",
+					"Tape B1": "",
+					"Tape T": "0.40mm",
+					"Tape K": "3.4mm"
+				}
+			}
+		}
+	}
+]

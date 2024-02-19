@@ -1,0 +1,134 @@
+[
+	{
+		"manufacturer": "onsemi",
+		"partNumber": "BAW56L",
+		"productionStatus": "",
+		"markingCode": "T4",
+		"partType": "Small Signal Diode",
+		"series": {
+			"name": "1N",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Forward Voltage": [
+				{
+					"value": "max. 715mV",
+					"conditions": {
+						"I_F": "1mA",
+						"T_A": "25"
+					}
+				},
+				{
+					"value": "max. 855mV",
+					"conditions": {
+						"I_F": "10mA",
+						"T_A": "25"
+					}
+				},
+				{
+					"value": "max. 1V",
+					"conditions": {
+						"I_F": "50mA",
+						"T_A": "25"
+					}
+				},
+				{
+					"value": "max. 1.25V",
+					"conditions": {
+						"I_F": "150mA",
+						"T_A": "25"
+					}
+				}
+			],
+			"Reverse Current": [
+				{
+					"value": "max. 25nA",
+					"conditions": {
+						"V_R": "20V",
+						"Tj": "25\u00b0C"
+					}
+				},
+				{
+					"value": "max. 2500nA",
+					"conditions": {
+						"V_R": "75V",
+						"Tj": "25\u00b0C"
+					}
+				}
+			],
+			"V_R": {
+				"value": "70V"
+			},
+			"I_F": {
+				"value": "200mA"
+			},
+			"I_FSM": {
+				"value": "4A",
+				"conditions": {
+					"t": "1us"
+				}
+			},
+			"I_FRM": {
+				"value": "300mA"
+			},
+			"t_rr": {
+				"value": "6ns"
+			},
+			"Power Rating": {
+				"value": "300mW"
+			},
+			"Junction Capacitance": {
+				"value": "max. 2pF",
+				"conditions": {
+					"f": "1MHz",
+					"VR": "0V"
+				}
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SOT-23"
+		},
+		"symbol&footprint": {
+			"symbolName": "diode",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"BAW56LT1G": {
+				"Packaging Code": "",
+				"Packaging Type": "7\u2019\u2019 Tape & Reel",
+				"Packaging Qty": "3000",
+				"Packaging Data": {
+					"Reel Diameter": "7\u201d",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "",
+					"Tape W": "",
+					"Tape E": "",
+					"Tape F": "",
+					"Tape SO": "",
+					"Tape P0": "",
+					"Tape P1": "",
+					"Tape P2": "",
+					"Tape D": "",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "",
+					"Tape K": ""
+				}
+			}
+		}
+	}
+]

@@ -1,0 +1,152 @@
+[
+	{
+		"manufacturer": "Fix&Fasten",
+		"partNumber": "FIX-LEM-67",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Lightpipe",
+		"series": {
+			"name": "FIX-LEM-67",
+			"description": "Lightpipes"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Shape": "Round",
+			"Color": "Transparent",
+			"Lights Count": {
+				"value": "1"
+			},
+			"Length": {
+				"value": "6mm"
+			},
+			"Panel Cutout Diameter": {
+				"value": "3mm"
+			}
+		},
+		"files": {
+			"datasheet": "https://www.tme.eu/Document/50baa83f32b90ab2a43241af4e7b8139/FIX-LEM.pdf"
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "lightpipe_panelmount_1x",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"FIX-LEM-67": {
+				"Packaging Code": "",
+				"Packaging Type": "Bag",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Fix&Fasten",
+		"partNumber": "FIX-LEM-67-13",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Lightpipe",
+		"series": {
+			"name": "FIX-LEM-67",
+			"description": "Lightpipes"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Shape": "Round",
+			"Color": "Transparent",
+			"Lights Count": {
+				"value": "1"
+			},
+			"Length": {
+				"value": "13mm"
+			},
+			"Panel Cutout Diameter": {
+				"value": "3mm"
+			}
+		},
+		"files": {
+			"datasheet": "https://www.tme.eu/Document/50baa83f32b90ab2a43241af4e7b8139/FIX-LEM.pdf"
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "lightpipe_panelmount_1x",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"FIX-LEM-67-13": {
+				"Packaging Code": "",
+				"Packaging Type": "Bag",
+				"Packaging Qty": "2000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Fix&Fasten",
+		"partNumber": "FIX-LEM-67-27.5",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Lightpipe",
+		"series": {
+			"name": "FIX-LEM-67",
+			"description": "Lightpipes"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Shape": "Round",
+			"Color": "Transparent",
+			"Lights Count": {
+				"value": "1"
+			},
+			"Length": {
+				"value": "27.5mm"
+			},
+			"Panel Cutout Diameter": {
+				"value": "3mm"
+			}
+		},
+		"files": {
+			"datasheet": "https://www.tme.eu/Document/50baa83f32b90ab2a43241af4e7b8139/FIX-LEM.pdf"
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "lightpipe_panelmount_1x",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"FIX-LEM-67-27.5": {
+				"Packaging Code": "",
+				"Packaging Type": "Bag",
+				"Packaging Qty": "1000",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

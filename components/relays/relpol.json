@@ -1,0 +1,72 @@
+[
+	{
+		"manufacturer": "Relpol",
+		"partNumber": "RM85-2011-35-1012",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Relay",
+		"series": {
+			"name": "RM85",
+			"description": "Miniature relays"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Coil Voltage": {
+				"value": "12V -3.6V/+18.6V"
+			},
+			"Coil Must Release Voltage": {
+				"value": "max. 1.2V"
+			},
+			"Coil Resistance": {
+				"value": "360R \u00b110%"
+			},
+			"Coil Power": {
+				"value": "0.4W +0.08W"
+			},
+			"Contact Configuration": "SPDT",
+			"Switching Voltage": {
+				"value": "250V -245V/+190V"
+			},
+			"Switching Current": {
+				"value": "16A +14A"
+			},
+			"Contact Resistance": {
+				"value": "max. 100mR"
+			},
+			"Contact Operating Life": {
+				"value": "30000000"
+			},
+			"Operating time": {
+				"value": "7ms"
+			},
+			"Release time": {
+				"value": "3ms"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "Relay_RM85"
+		},
+		"symbol&footprint": {
+			"symbolName": "relay_spst_6p",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"RM85-2011-35-1012": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

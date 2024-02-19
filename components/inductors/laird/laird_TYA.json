@@ -1,0 +1,710 @@
+[
+	{
+		"manufacturer": "Laird",
+		"partNumber": "TYA252010100M-10",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "TYA252010",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u00b0C ~ 40\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "10uH \u00b120%",
+				"conditions": {
+					"f": "1MHz",
+					"V": "1Vrms"
+				}
+			},
+			"DCR": {
+				"value": "max. 740mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "0.65A"
+			},
+			"Heat Reating Current": {
+				"value": "0.9A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "inductor",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TYA252010100M-10": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Laird",
+		"partNumber": "TYA2520101R0M-10",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "TYA252010",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u00b0C ~ 40\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "1uH \u00b120%",
+				"conditions": {
+					"f": "1MHz",
+					"V": "1Vrms"
+				}
+			},
+			"DCR": {
+				"value": "max. 85mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "3.1A"
+			},
+			"Heat Reating Current": {
+				"value": "2.2A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "inductor",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TYA2520101R0M-10": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Laird",
+		"partNumber": "TYA2520101R5M-10",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "TYA252010",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u00b0C ~ 40\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "1.5uH \u00b120%",
+				"conditions": {
+					"f": "1MHz",
+					"V": "1Vrms"
+				}
+			},
+			"DCR": {
+				"value": "max. 106mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "2.6A"
+			},
+			"Heat Reating Current": {
+				"value": "2A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "inductor",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TYA2520101R5M-10": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Laird",
+		"partNumber": "TYA2520102R2M-10",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "TYA252010",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u00b0C ~ 40\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "2.2uH \u00b120%",
+				"conditions": {
+					"f": "1MHz",
+					"V": "1Vrms"
+				}
+			},
+			"DCR": {
+				"value": "max. 155mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "1.9A"
+			},
+			"Heat Reating Current": {
+				"value": "1.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "inductor",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TYA2520102R2M-10": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Laird",
+		"partNumber": "TYA2520103R3M-10",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "TYA252010",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u00b0C ~ 40\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "3.3uH \u00b120%",
+				"conditions": {
+					"f": "1MHz",
+					"V": "1Vrms"
+				}
+			},
+			"DCR": {
+				"value": "max. 235mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "1.6A"
+			},
+			"Heat Reating Current": {
+				"value": "1.2A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "inductor",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TYA2520103R3M-10": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Laird",
+		"partNumber": "TYA2520104R7M-10",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "TYA252010",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u00b0C ~ 40\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "4.7uH \u00b120%",
+				"conditions": {
+					"f": "1MHz",
+					"V": "1Vrms"
+				}
+			},
+			"DCR": {
+				"value": "max. 290mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "1.3A"
+			},
+			"Heat Reating Current": {
+				"value": "1A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "inductor",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TYA2520104R7M-10": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Laird",
+		"partNumber": "TYA2520106R8M-10",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "TYA252010",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u00b0C ~ 40\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "6.8uH \u00b120%",
+				"conditions": {
+					"f": "1MHz",
+					"V": "1Vrms"
+				}
+			},
+			"DCR": {
+				"value": "max. 480mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "1A"
+			},
+			"Heat Reating Current": {
+				"value": "0.95A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "inductor",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TYA2520106R8M-10": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Laird",
+		"partNumber": "TYA252010R24M-10",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "TYA252010",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u00b0C ~ 40\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.24uH \u00b120%",
+				"conditions": {
+					"f": "1MHz",
+					"V": "1Vrms"
+				}
+			},
+			"DCR": {
+				"value": "max. 33mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "6.1A"
+			},
+			"Heat Reating Current": {
+				"value": "3.7A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "inductor",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TYA252010R24M-10": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Laird",
+		"partNumber": "TYA252010R33M-10",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "TYA252010",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u00b0C ~ 40\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.33uH \u00b120%",
+				"conditions": {
+					"f": "1MHz",
+					"V": "1Vrms"
+				}
+			},
+			"DCR": {
+				"value": "max. 39mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "4.8A"
+			},
+			"Heat Reating Current": {
+				"value": "3.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "inductor",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TYA252010R33M-10": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Laird",
+		"partNumber": "TYA252010R47M-10",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "TYA252010",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u00b0C ~ 40\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.47uH \u00b120%",
+				"conditions": {
+					"f": "1MHz",
+					"V": "1Vrms"
+				}
+			},
+			"DCR": {
+				"value": "max. 45mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "4.4A"
+			},
+			"Heat Reating Current": {
+				"value": "3.2A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "inductor",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TYA252010R47M-10": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Laird",
+		"partNumber": "TYA252010R68M-10",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "TYA252010",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u00b0C ~ 40\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "0.68uH \u00b120%",
+				"conditions": {
+					"f": "1MHz",
+					"V": "1Vrms"
+				}
+			},
+			"DCR": {
+				"value": "max. 59mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "3.2A"
+			},
+			"Heat Reating Current": {
+				"value": "2.75A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "inductor",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TYA252010R68M-10": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Laird",
+		"partNumber": "TYA2520123R3M-10",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "TYA252012",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-10\u00b0C ~ 40\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "3.3uH \u00b120%",
+				"conditions": {
+					"f": "1MHz",
+					"V": "1Vrms"
+				}
+			},
+			"DCR": {
+				"value": "max. 215mR",
+				"conditions": {
+					"TA": "25\u00b0C"
+				}
+			},
+			"DC Saturation Current": {
+				"value": "1.7A"
+			},
+			"Heat Reating Current": {
+				"value": "1.5A",
+				"conditions": {
+					"dT": "40\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "inductor",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TYA2520123R3M-10": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

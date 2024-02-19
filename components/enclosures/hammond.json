@@ -1,0 +1,120 @@
+[
+	{
+		"manufacturer": "Hammond",
+		"partNumber": "1551V1GY",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Enclosure",
+		"series": {
+			"name": "1551V",
+			"description": ""
+		},
+		"description": "Enclosure ABS, wall mounting",
+		"productUrl": "https://www.hammfg.com/part/1551V1GY",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Material": "ABS",
+			"Color": "Gray",
+			"IP Rating": "IP30",
+			"Flame Rating": "UL94 HB",
+			"Length": {
+				"value": "40mm"
+			},
+			"Width": {
+				"value": "40mm"
+			},
+			"Height": {
+				"value": "20mm"
+			},
+			"PCB Length": {
+				"value": "max. 34mm"
+			},
+			"PCB Width": {
+				"value": "max. 34mm"
+			}
+		},
+		"files": {
+			"STEP": "https://www.hammfg.com/files/parts/stp/1551V1GY.zip",
+			"datasheet": "https://www.hammfg.com/files/parts/pdf/1551V1GY.pdf"
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"1551V1GY": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Hammond",
+		"partNumber": "1551V4GY",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Enclosure",
+		"series": {
+			"name": "1551V",
+			"description": ""
+		},
+		"description": "Enclosure ABS, wall mounting",
+		"productUrl": "https://www.hammfg.com/part/1551V4GY",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Material": "ABS",
+			"Color": "Gray",
+			"IP Rating": "IP30",
+			"Flame Rating": "UL94 HB",
+			"Length": {
+				"value": "80mm"
+			},
+			"Width": {
+				"value": "80mm"
+			},
+			"Height": {
+				"value": "20mm"
+			},
+			"PCB Length": {
+				"value": "max. 74mm"
+			},
+			"PCB Width": {
+				"value": "max. 74mm"
+			}
+		},
+		"files": {
+			"STEP": "https://www.hammfg.com/files/parts/stp/1551V4GY.zip",
+			"datasheet": "https://www.hammfg.com/files/parts/pdf/1551V4GY.pdf"
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"1551V4GY": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

@@ -1,0 +1,154 @@
+[
+	{
+		"manufacturer": "ATTEND",
+		"partNumber": "115H-BA00",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector Bus",
+		"series": {
+			"name": "115H",
+			"description": ""
+		},
+		"description": "2x SIM Card, Dual SIM",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Bus Type": "SIM Card"
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"115H-BA00": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "ATTEND",
+		"partNumber": "123A-85BA0",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector Bus",
+		"series": {
+			"name": "123A",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Bus Type": "M.2 Key B"
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"123A-85BA0": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "ATTEND",
+		"partNumber": "123A-85EA0",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector Bus",
+		"series": {
+			"name": "123A",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Bus Type": "M.2 Key E"
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"123A-85EA0": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "ATTEND",
+		"partNumber": "123A-NUT-85",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Connector Accessory",
+		"series": {
+			"name": "123A",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Bus Type": "M.2"
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"123A-NUT-85": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

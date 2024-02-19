@@ -1,0 +1,53 @@
+[
+	{
+		"manufacturer": "Ferrocore",
+		"partNumber": "HPI0640-4R7",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Inductor",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Inductance": {
+				"value": "4.7uH \u00b120%"
+			},
+			"DCR": {
+				"value": "32mR \u00b17%"
+			},
+			"DC Saturation Current": {
+				"value": "7A"
+			},
+			"Heat Reating Current": {
+				"value": "6A"
+			}
+		},
+		"files": {
+			"Datasheet": ""
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "inductor_with_core",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"HPI0640-4R7": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]

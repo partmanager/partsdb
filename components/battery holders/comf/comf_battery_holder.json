@@ -1,0 +1,43 @@
+[
+	{
+		"manufacturer": "Comf",
+		"partNumber": "BH-331P",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Battery Holder",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "Battery holder 3x AA, R6, PCB mount",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Battery Type": "R6",
+			"Battery Count": {
+				"value": "3"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "battery_holder_3xR6",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"BH-331P": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]
