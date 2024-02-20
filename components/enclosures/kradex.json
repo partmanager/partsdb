@@ -169,6 +169,48 @@
 	},
 	{
 		"manufacturer": "Kradex",
+		"partNumber": "ZD3TC ABS V0",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Enclosure Accessory",
+		"series": {
+			"name": "ZD",
+			"description": ""
+		},
+		"description": "Enclosure Accessories ABS, for Kradex ZD series",
+		"productUrl": "https://www.kradex.com.pl/product/accessories/zd3tcj_abs_v0?lang=en",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Enclosure Type": {
+				"value": "DIN Rail"
+			},
+			"Material": "ABS",
+			"Color": "White"
+		},
+		"files": {"datasheet": "https://www.kradex.com.pl/products/1030/ZD3TC.pdf"},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"ZD3TC ABS V0": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "4",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Kradex",
 		"partNumber": "ZD3TCS",
 		"productionStatus": "",
 		"markingCode": "",

@@ -34,5 +34,113 @@
 				"Packaging Data": {}
 			}
 		}
+	},
+	{
+		"manufacturer": "Italtronic",
+		"partNumber": "P15010201F.BL",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Enclosure",
+		"series": {
+			"name": "Modulbox",
+			"description": ""
+		},
+		"description": "Enclosure Accessory, Panel Modulbox without frame 1M",
+		"productUrl": "https://eng.italtronic.com/accessori/P15010201F.BL/",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {"datasheet": "https://eng.italtronic.com/download.php?action=techDraw&code=P15010201F.BL&format=pdf"},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"P15010201F.BL": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "200",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Italtronic",
+		"partNumber": "25.0101000.BL",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Enclosure",
+		"series": {
+			"name": "Modulbox",
+			"description": ""
+		},
+		"description": "Enclosure, Kit enclosure Modulbox XTS 1M53-A2F",
+		"productUrl": "https://eng.italtronic.com/accessori/25.0101000.BL/",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"25.0101000.BL": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "200",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Italtronic",
+		"partNumber": "25.0104000.BL",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Enclosure",
+		"series": {
+			"name": "Modulbox",
+			"description": ""
+		},
+		"description": "Enclosure, Modulbox XTS 1M53-A",
+		"productUrl": "https://eng.italtronic.com/accessori/25.0104000.BL/",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"25.0104000.BL": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "200",
+				"Packaging Data": {}
+			}
+		}
 	}
 ]

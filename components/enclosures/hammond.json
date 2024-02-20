@@ -116,5 +116,65 @@
 				"Packaging Data": {}
 			}
 		}
+	},
+	{
+		"manufacturer": "Hammond",
+		"partNumber": "1590B",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Enclosure",
+		"series": {
+			"name": "1590",
+			"description": ""
+		},
+		"description": "Enclosure Aluminium",
+		"productUrl": "https://www.hammfg.com/part/1590B?referer=736",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Material": "Aluminum",
+			"Color": "Natural Aluminum",
+			"IP Rating": "IP54",
+			"Flame Rating": "",
+			"Length": {
+				"value": "113mm"
+			},
+			"Width": {
+				"value": "60mm"
+			},
+			"Height": {
+				"value": "31mm"
+			},
+			"PCB Length": {
+				"value": "max. 53.45mm"
+			},
+			"PCB Width": {
+				"value": "max. 105.05mm"
+			}
+		},
+		"files": {
+			"STEP": "https://www.hammfg.com/files/parts/stp/1590B.zip",
+			"datasheet": "https://www.hammfg.com/files/parts/pdf/1590B.pdf"
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "enclosure",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"1590B": {
+				"Packaging Code": "",
+				"Packaging Type": "shrink wrap",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
 	}
+
 ]
