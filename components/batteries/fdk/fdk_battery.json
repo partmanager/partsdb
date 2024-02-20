@@ -1,0 +1,57 @@
+[
+	{
+		"manufacturer": "FDK",
+		"partNumber": "CR14250SE",
+		"productionStatus": "",
+		"markingCode": "",
+		"partType": "Battery",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "https://www.fdk.com/battery/lithium_e/high_capacity/",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Battery Type": "CR14250",
+			"Battery Classification": "Lithium",
+			"Nominal Voltage": {
+				"value": "3V"
+			},
+			"Capacity": [
+				{
+					"value": "850mAh",
+					"conditions": {
+						"Id": "0.5mA",
+						"TA": "23\u00b0C"
+					}
+				}
+			]
+		},
+		"files": {
+			"datasheet": "https://www.fdk.com/battery/lithium_e/data_sheet/CR14250SE_Data-sheet.pdf"
+		},
+		"package": {
+			"name": "CR14250"
+		},
+		"symbol&footprint": {
+			"symbolName": "battery",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"CR14250SE 3PF": {
+				"Packaging Code": "",
+				"Packaging Type": "Foil",
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
+	}
+]
