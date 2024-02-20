@@ -40,7 +40,7 @@
 		"partNumber": "P15010201F.BL",
 		"productionStatus": "",
 		"markingCode": "",
-		"partType": "Enclosure",
+		"partType": "Enclosure Accessory",
 		"series": {
 			"name": "Modulbox",
 			"description": ""
@@ -54,8 +54,8 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
-		"parameters": {"datasheet": "https://eng.italtronic.com/download.php?action=techDraw&code=P15010201F.BL&format=pdf"},
-		"files": {},
+		"parameters": {},
+		"files": {"datasheet": "https://eng.italtronic.com/download.php?action=techDraw&code=P15010201F.BL&format=pdf"},
 		"package": {},
 		"symbol&footprint": {
 			"symbolName": "",
