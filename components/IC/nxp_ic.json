@@ -42,5 +42,93 @@
 				"Packaging Data": {}
 			}
 		}
+	},
+	{
+		"manufacturer": "NXP",
+		"partNumber": "MPL115A2",
+		"productionStatus": "Obsolete",
+		"markingCode": "",
+		"partType": "IC",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "Miniature I2C digital barometer, 50 to 115 kPa",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {},
+		"files": {},
+		"package": {
+			"name": "TSON8"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"MPL115A2": {
+				"Packaging Code": "",
+				"Packaging Type": "Tray",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			},
+			"MPL115A2T1": {
+				"Packaging Code": "",
+				"Packaging Type": "Tape & Reel",
+				"Packaging Qty": "1000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "NXP",
+		"partNumber": "MAG3110",
+		"productionStatus": "In Production",
+		"markingCode": "",
+		"partType": "IC",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "Three-Axis, Digital Magnetometer",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {},
+		"files": {},
+		"package": {
+			"name": "DFN-10"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"MAG3110FCR1": {
+				"Packaging Code": "",
+				"Packaging Type": "Tape & Reel",
+				"Packaging Qty": "1000",
+				"Packaging Data": {}
+			},
+			"FXMS3110CDR1": {
+				"Packaging Code": "",
+				"Packaging Type": "Tape & Reel",
+				"Packaging Qty": "1000",
+				"Packaging Data": {}
+			}
+		}
 	}
 ]
