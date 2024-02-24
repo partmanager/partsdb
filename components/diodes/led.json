@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 80\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Color": "Blue",
 			"IF Continuous": {
@@ -81,6 +85,10 @@
 			"temperature": "-40\u00b0C ~ 85\u00b0C",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 80\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Color": "Yellow",
@@ -146,6 +154,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 80\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Color": "Red",
 			"IF Continuous": {
@@ -209,6 +221,10 @@
 			"temperature": "-40\u00b0C ~ 85\u00b0C",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Color": "Green",
@@ -274,6 +290,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Color": "Green",
 			"IF Continuous": {
@@ -337,6 +357,10 @@
 			"temperature": "-40\u00b0C ~ 85\u00b0C",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Color": "Red",

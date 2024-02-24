@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Bus Type": "SIM Card"
 		},
@@ -55,6 +59,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Bus Type": "M.2 Key B"
@@ -94,6 +102,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Bus Type": "M.2 Key E"
 		},
@@ -131,6 +143,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Bus Type": "M.2"

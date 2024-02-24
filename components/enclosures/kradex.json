@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Enclosure Type": {
 				"value": "DIN Rail"
@@ -59,6 +63,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Enclosure Type": {
@@ -102,6 +110,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Enclosure Type": {
 				"value": "DIN Rail"
@@ -143,6 +155,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Enclosure Type": {
@@ -186,6 +202,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Enclosure Type": {
 				"value": "DIN Rail"
@@ -227,6 +247,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Enclosure Type": {
@@ -270,6 +294,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Enclosure Type": {
 				"value": "DIN Rail"
@@ -311,6 +339,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Enclosure Type": {
@@ -354,6 +386,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Enclosure Type": {
 				"value": "DIN Rail"
@@ -395,6 +431,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Enclosure Type": {
@@ -438,6 +478,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Enclosure Type": {
 				"value": "DIN Rail"
@@ -479,6 +523,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Enclosure Type": {

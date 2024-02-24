@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Module Type": "Single board computer"
 		},
@@ -56,6 +60,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Module Type": "Single board computer"
 		},
@@ -93,6 +101,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Module Type": "Single board computer"

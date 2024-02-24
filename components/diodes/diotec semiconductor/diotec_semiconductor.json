@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-50\u00b0C ~ 150\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Forward Voltage": {
 				"value": "max. 1.7V",
@@ -108,6 +112,10 @@
 			"temperature": "-50\u00b0C ~ 150\u00b0C",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-50\u00b0C ~ 150\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Forward Voltage": {

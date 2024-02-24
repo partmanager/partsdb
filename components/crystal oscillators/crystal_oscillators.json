@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": "Level 1"
 		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 70\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Supply Voltage": {
 				"value": "3.3V \u00b10.165V"

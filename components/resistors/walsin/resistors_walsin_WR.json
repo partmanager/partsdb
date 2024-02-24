@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 155\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Resistance": {
 				"value": "20kR \u00b11%"

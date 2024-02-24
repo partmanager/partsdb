@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-18\u00b0C ~ 55\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Battery Type": "AA, R6",
 			"Battery Classification": "Alkaline",

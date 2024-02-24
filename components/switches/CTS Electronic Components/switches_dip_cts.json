@@ -1,0 +1,45 @@
+[
+    {
+        "manufacturer": "CTS Electronic Components",
+        "partNumber": "218-4LPST",        
+        "partType": "Switch",
+        "series": {
+            "name": "",
+            "description": ""
+        },
+        "description": "DIP Switch 4 switches",                
+        "tags": [],
+        "storageConditions": {
+            "temperature": "-40\u00b0C ~ 105\u00b0C",
+            "humidity": "",
+            "MSLevel": ""
+        },
+        "parameters": {
+            "Working Temp Range": {
+                "range": "-55 ~ 105"                
+            },
+            "Position Count": {
+                "value": 4
+            },
+            "Pin Pitch": {
+            	"value": "1.24mm"
+            },
+            "Switching Voltage": {
+                "value": "max. 24V"
+            },
+            "Switching Current": {
+                "value": "max. 25mA"
+            }            
+        },
+        "files": {},  
+        "package": {},
+        "symbol&footprint": {
+            "symbolName": "switch_dip_4_position",
+            "pinmap": {},
+            "footprints": []
+        },
+        "orderNumbers": {
+            "218-4LPST": {}
+        }
+    }
+]

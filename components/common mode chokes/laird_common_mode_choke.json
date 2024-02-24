@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Rated Current": {
 				"value": "max. 15A",

@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-45\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Pin Count": {
 				"value": "3"
@@ -72,6 +76,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-45\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Pin Count": {

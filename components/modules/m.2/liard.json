@@ -9,6 +9,10 @@
 			"name": "",
 			"description": ""
 		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+		},
 		"description": "WIFI module",
 		"productUrl": "",
 		"notes": "",
@@ -56,6 +60,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Module Type": "WIFI module",

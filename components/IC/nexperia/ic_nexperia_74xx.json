@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {},
 		"files": {},
 		"package": {
@@ -55,6 +59,10 @@
 			"temperature": "-65\u00b0C ~ 150\u00b0C",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {},
 		"files": {},

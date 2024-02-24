@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 70\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Resolution": {
 				"width": "128",

@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-10\u00b0C ~ 60\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Frequency": {
 				"value": "8MHz \u00b110ppm "
@@ -85,6 +89,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Frequency": {
 				"value": "24MHz \u00b130ppm "
@@ -145,6 +153,10 @@
 			"temperature": "-45\u00b0C ~ 130\u00b0C",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Frequency": {
@@ -229,6 +241,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-10\u00b0C ~ 60\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Frequency": {
 				"value": "14.31818MHz \u00b130ppm",
@@ -300,6 +316,10 @@
 			"temperature": "-40\u00b0C ~ 85\u00b0C",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-10\u00b0C ~ 60\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Frequency": {
@@ -373,6 +393,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Frequency": {
 				"value": "12MHz \u00b110ppm "
@@ -433,6 +457,10 @@
 			"temperature": "-40\u00b0C ~ 85\u00b0C",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-10\u00b0C ~ 60\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Frequency": {
@@ -502,6 +530,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-10\u00b0C ~ 60\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Frequency": {
@@ -612,6 +644,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 70\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Frequency": {

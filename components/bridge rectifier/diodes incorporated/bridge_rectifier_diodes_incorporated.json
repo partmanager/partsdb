@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": "Level 1 \u2192 J-STD-020"
 		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"V_RRM Peak Repetitive Reverse Voltage": {
 				"value": "1000V",

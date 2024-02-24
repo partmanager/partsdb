@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 105\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Battery Type": "CR2032",
 			"Battery Count": {

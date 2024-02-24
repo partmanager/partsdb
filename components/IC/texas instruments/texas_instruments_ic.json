@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Supply Voltage Range": {
 				"value": "3V ~ 5.5V"
@@ -59,6 +63,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Supply Voltage Range": {
@@ -105,6 +113,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Supply Voltage Range": {
 				"value": "3.75V ~ 64V"
@@ -149,6 +161,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Supply Voltage Range": {
@@ -198,6 +214,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Supply Voltage Range": {
 				"value": "4.75V ~5.25V"
@@ -239,6 +259,10 @@
 			"temperature": "-65\u00b0C ~ 150\u00b0C",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 165\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Supply Voltage Range": {
@@ -282,6 +306,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {},
 		"files": {},
 		"package": {},
@@ -324,6 +352,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {},
 		"files": {},
 		"package": {},
@@ -365,6 +397,10 @@
 			"temperature": "-55\u00b0C ~ 150\u00b0C",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Supply Voltage Range": {

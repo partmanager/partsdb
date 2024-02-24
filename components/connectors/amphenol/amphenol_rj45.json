@@ -56,6 +56,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "0\u00b0C ~ 70\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Bus Type": "Ethernet"
 		},

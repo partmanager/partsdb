@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": "Level 1"
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 150\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Inductance": {
 				"value": "6.8uH \u00b120%",

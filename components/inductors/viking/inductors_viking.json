@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Inductance": {
 				"value": "6.8uH \u00b120%",
@@ -49,7 +53,7 @@
 			"PCS127MT6R8": {
 				"Packaging Code": "",
 				"Packaging Type": "",
-				"Packaging Qty": "",
+				"Packaging Qty": "400",
 				"Packaging Data": {}
 			}
 		}

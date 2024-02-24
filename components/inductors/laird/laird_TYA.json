@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-10\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Inductance": {
 				"value": "10uH \u00b120%",
@@ -76,6 +80,10 @@
 			"temperature": "-10\u00b0C ~ 40\u00b0C",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-10\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Inductance": {
@@ -136,6 +144,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-10\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Inductance": {
 				"value": "1.5uH \u00b120%",
@@ -194,6 +206,10 @@
 			"temperature": "-10\u00b0C ~ 40\u00b0C",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-10\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Inductance": {
@@ -254,6 +270,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-10\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Inductance": {
 				"value": "3.3uH \u00b120%",
@@ -312,6 +332,10 @@
 			"temperature": "-10\u00b0C ~ 40\u00b0C",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-10\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Inductance": {
@@ -372,6 +396,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-10\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Inductance": {
 				"value": "6.8uH \u00b120%",
@@ -430,6 +458,10 @@
 			"temperature": "-10\u00b0C ~ 40\u00b0C",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-10\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Inductance": {
@@ -490,6 +522,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-10\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Inductance": {
 				"value": "0.33uH \u00b120%",
@@ -548,6 +584,10 @@
 			"temperature": "-10\u00b0C ~ 40\u00b0C",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-10\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Inductance": {
@@ -608,6 +648,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-10\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Inductance": {
 				"value": "0.68uH \u00b120%",
@@ -666,6 +710,10 @@
 			"temperature": "-10\u00b0C ~ 40\u00b0C",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-10\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Inductance": {

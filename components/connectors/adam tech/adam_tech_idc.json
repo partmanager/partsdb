@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 105\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Pin Count": {
 				"value": "10"
@@ -75,6 +79,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 105\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Pin Count": {
@@ -134,6 +142,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 105\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Pin Count": {
 				"value": "26"
@@ -191,6 +203,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 105\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Pin Count": {
@@ -250,6 +266,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 105\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Pin Count": {
 				"value": "40"
@@ -307,6 +327,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 105\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Pin Count": {

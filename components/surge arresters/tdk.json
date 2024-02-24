@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": "Level 1"
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"DC Spark-Over Voltage": {
 				"value": "75V \u00b122.5V"

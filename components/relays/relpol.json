@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 70\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Coil Voltage": {
 				"value": "12V -3.6V/+18.6V"

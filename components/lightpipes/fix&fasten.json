@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 70\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Shape": "Round",
 			"Color": "Transparent",
@@ -68,6 +72,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 70\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Shape": "Round",
 			"Color": "Transparent",
@@ -117,6 +125,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 70\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Shape": "Round",

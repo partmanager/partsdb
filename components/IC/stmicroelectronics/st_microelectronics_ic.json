@@ -18,6 +18,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {},
 		"files": {},
 		"package": {},
@@ -53,6 +57,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {},
 		"files": {},
@@ -90,6 +98,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {},
 		"files": {},
 		"package": {},
@@ -126,6 +138,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {},
 		"files": {},
 		"package": {},
@@ -161,6 +177,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Supply Voltage Range": {
@@ -201,6 +221,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {
 			"Supply Voltage Range": {
@@ -244,6 +268,10 @@
 			"humidity": "",
 			"MSLevel": ""
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+		},
 		"parameters": {
 			"Supply Voltage Range": {
 				"value": "2V ~ 3.6V"
@@ -285,6 +313,10 @@
 			"temperature": "",
 			"humidity": "",
 			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 125\u00b0C",
+			"humidity": ""			
 		},
 		"parameters": {},
 		"files": {},
