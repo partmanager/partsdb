@@ -1,0 +1,57 @@
+[
+    {
+        "manufacturer": "TE Connectivity",
+        "partNumber": "1571983-3",        
+        "partType": "Switch",
+        "series": {
+            "name": "",
+            "description": ""
+        },
+        "description": "DIP Switch 2 switches",                
+        "tags": [],
+        "storageConditions": {
+            "temperature": "-40\u00b0C ~ 105\u00b0C",
+            "humidity": "",
+            "MSLevel": ""
+        },
+        "operatingConditions": {
+			"temperature": "-30\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+	},
+        "parameters": {
+        	"Switch Type": "DIP Switch",
+            "Position Count": {
+                "value": 2
+            },
+            "Pin Pitch": {
+            	"value": "1.27mm"
+            },
+            "Switching Voltage": {
+                "value": "max. 24V"
+            },
+            "Switching Current": {
+                "value": "max. 25mA"
+            },
+            "Contact Resistance": {
+            	"value": "max. 100mR"
+            },
+            "Insulation Resistance": {
+            	"value": "min. 100MR",
+            	"condition": {"V": "100V"}
+            },
+            "Operating Life": {
+            	"value": 1000
+            }
+        },
+        "files": {},  
+        "package": {},
+        "symbol&footprint": {
+            "symbolName": "switch_dip_4_position",
+            "pinmap": {},
+            "footprints": []
+        },
+        "orderNumbers": {
+            "1571983-3": {}
+        }
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "manufacturer": "Ninigi",
+        "partNumber": "TACTM-69N-F",        
+        "partType": "Switch",
+        "series": {
+            "name": "",
+            "description": ""
+        },
+        "description": "DIP Switch 2 switches",                
+        "tags": [],
+        "storageConditions": {
+            "temperature": "",
+            "humidity": "",
+            "MSLevel": ""
+        },
+        "operatingConditions": {
+			"temperature": "-30\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+	},
+        "parameters": {
+        	"Switch Type": "Tact Switch",
+        	"Configuration": "SPST-NO",
+            "Position Count": {
+                "value": 1
+            },
+            "Pin Pitch": {
+            	"value": "4.5mm"
+            },
+            "Switching Voltage": {
+                "value": "max. 12V"
+            },
+            "Switching Current": {
+                "value": "max. 50mA"
+            },
+            "Operating Life": {
+            	"value": 100000
+            }
+        },
+        "files": {},  
+        "package": {},
+        "symbol&footprint": {
+            "symbolName": "",
+            "pinmap": {},
+            "footprints": []
+        },
+        "orderNumbers": {
+            "TACTM-69N-F": {
+            	"Packaging Code": "",
+		"Packaging Type": "",
+		"Packaging Qty": "",
+		"Packaging Data": {}
+            ""}
+        }
+    }
+]

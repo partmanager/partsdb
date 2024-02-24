@@ -1,0 +1,62 @@
+[
+    {
+        "manufacturer": "Sungmun Electronics CO., LTC.",
+        "partNumber": "TDR-16",        
+        "partType": "Switch",
+        "series": {
+            "name": "TDR",
+            "description": "ROTARY DIP SWITCH"
+        },
+        "description": "Rotary switch, 16 position",                
+        "tags": [],
+        "storageConditions": {
+            "temperature": "-40\u00b0C ~ 85\u00b0C",
+            "humidity": "",
+            "MSLevel": ""
+        },
+        "operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": ""			
+	},
+        "parameters": {
+        	"Switch Type": "Encoding Switch",
+            "Position Count": {
+                "value": 16
+            },
+            "Pin Pitch": {
+            	"value": "1.27mm"
+            },
+            "Switching Voltage": {
+                "value": "max. 42V"
+            },
+            "Switching Current": {
+                "value": "max. 150mA"
+            },
+            "Contact Resistance": {
+            	"value": "max. 80mR"
+            },
+            "Insulation Resistance": {
+            	"value": "min. 100MR",
+            	"condition": {"V": "250V"}
+            },
+            "Operating Life": {
+            	"value": 10000
+            }
+        },
+        "files": {},  
+        "package": {},
+        "symbol&footprint": {
+            "symbolName": "rotary_hex_switch_16_pos",
+            "pinmap": {},
+            "footprints": []
+        },
+        "orderNumbers": {
+            "TDR-16": {
+            	"Packaging Code": "",
+		"Packaging Type": "",
+		"Packaging Qty": "",
+		"Packaging Data": {}
+            ""}
+        }
+    }
+]
