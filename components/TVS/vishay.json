@@ -23,9 +23,7 @@
 			"humidity": ""
 		},
 		"parameters": {
-			"Directions": {
-				"value": "Unidirectional"
-			},
+			"Configuration": "Unidirectional",
 			"Power Rating": {
 				"value": "400W",
 				"conditions": {
@@ -123,9 +121,7 @@
 			"humidity": ""
 		},
 		"parameters": {
-			"Directions": {
-				"value": "Unidirectional"
-			},
+			"Configuration": "Unidirectional",
 			"Power Rating": {
 				"value": "400W",
 				"conditions": {
