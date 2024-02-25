@@ -89,7 +89,9 @@
 			"Configuration": "Unidirectional",
 			"V_RWM": {
 				"value": "max. 5V",
-				"T_A": "25\u2103"
+				"conditions": {
+					"T_A": "25\u2103"
+				}
 			},
 			"V_BR": {
 				"value": "min. 5.4V",
