@@ -20,7 +20,7 @@
 		},
 		"operatingConditions": {
 			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"humidity": ""
 		},
 		"parameters": {
 			"Hold Current": {
@@ -107,7 +107,7 @@
 		},
 		"operatingConditions": {
 			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"humidity": ""
 		},
 		"parameters": {
 			"Hold Current": {
@@ -194,7 +194,7 @@
 		},
 		"operatingConditions": {
 			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"humidity": ""
 		},
 		"parameters": {
 			"Hold Current": {
@@ -281,7 +281,7 @@
 		},
 		"operatingConditions": {
 			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"humidity": ""
 		},
 		"parameters": {
 			"Hold Current": {
@@ -368,7 +368,7 @@
 		},
 		"operatingConditions": {
 			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"humidity": ""
 		},
 		"parameters": {
 			"Hold Current": {
@@ -455,7 +455,7 @@
 		},
 		"operatingConditions": {
 			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"humidity": ""
 		},
 		"parameters": {
 			"Hold Current": {
@@ -465,7 +465,7 @@
 				}
 			},
 			"Trip Current": {
-				"value": "Max. 1.5A",
+				"value": "max. 1.5A",
 				"conditions": {
 					"TA": "23\u00b0C"
 				}
