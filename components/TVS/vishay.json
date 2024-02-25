@@ -1,204 +1,202 @@
 [
-    {
-        "manufacturer": "Vishay",
-        "partNumber": "SMAJ5.0A",
-        "productionStatus": "",
-        "markingCode": "AE",
-        "partType": "TVS",
-        "series": {
-            "name": "SMAJ",
-            "description": ""
-        },
-        "description": "",
-        "productUrl": "",
-        "notes": "",
-        "tags": [],
-        "storageConditions": {
-            "temperature": "-65\u2103 ~ 150\u2103",
-            "humidity": "",
-            "MSLevel": ""
-        },
-        "operatingConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": ""			
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "SMAJ5.0A",
+		"productionStatus": "",
+		"markingCode": "AE",
+		"partType": "TVS",
+		"series": {
+			"name": "SMAJ",
+			"description": ""
 		},
-        "parameters": {
-            "Directions": {
-                "value": "Unidirectional"
-            },
-            "Power Rating": {
-                "value": "400W",
-                "conditions": {
-                    "tp": "10/1000us"
-                }
-            },
-            "V_RWM": {
-                "value": "5V",
-                "conditions": {
-                	"T_A": "25\u2103"
-                }
-            },
-            "V_BR": {
-                "value": "6.4V +0.67V",
-                "conditions": {
-                    "I_R": "10mA"
-                }
-            },
-            "I_RM": {
-                "value": "max. 800uA",
-                "conditions": {
-                    "V_RWM": "5V",
-                    "T_A": "25\u2103"
-                }
-            },
-            "V_CL": {
-                "value": "max. 9.2V",
-                "conditions": {
-                    "I_PP": "43.5A",
-                    "T_A": "25\u2103"
-                }
-            },
-            "IPP": {
-                "value": "max. 43A"
-            },
-            "Package": {
-                "value": "DO-214AC"
-            }
-        },
-        "files": {},
-        "package": {},
-        "symbol&footprint": {
-            "symbolName": "",
-            "pinmap": {},
-            "footprints": []
-        },
-        "orderNumbers": {
-            "SMAJ5.0A-E3/61": {
-                "Packaging Code": "",
-                "Packaging Type": "7\u201d Tape and reel",
-                "Packaging Qty": "1800",
-                "Packaging Data": {
-                    "Reel Diameter": "",
-                    "Reel Width": "",
-                    "Tape Pin 1 Quadrant": "",
-                    "Tape W": "",
-                    "Tape E": "",
-                    "Tape F": "",
-                    "Tape SO": "",
-                    "Tape P0": "",
-                    "Tape P1": "",
-                    "Tape P2": "",
-                    "Tape D": "",
-                    "Tape D1": "",
-                    "Tape A0": "",
-                    "Tape A1": "",
-                    "Tape B0": "",
-                    "Tape B1": "",
-                    "Tape T": "",
-                    "Tape K": ""
-                }
-            }
-        }
-    },
-    {
-        "manufacturer": "Vishay",
-        "partNumber": "SMAJ6.0A",
-        "productionStatus": "",
-        "markingCode": "AG",
-        "partType": "TVS",
-        "series": {
-            "name": "SMAJ",
-            "description": ""
-        },
-        "description": "",
-        "productUrl": "",
-        "notes": "",
-        "tags": [],
-        "storageConditions": {
-            "temperature": "-65\u2103 ~ 150\u2103",
-            "humidity": "",
-            "MSLevel": ""
-        },
-        "operatingConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": ""			
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u2103 ~ 150\u2103",
+			"humidity": "",
+			"MSLevel": ""
 		},
-        "parameters": {
-            "Directions": {
-                "value": "Unidirectional"
-            },
-            "Power Rating": {
-                "value": "400W",
-                "conditions": {
-                    "tp": "10/1000us"
-                }
-            },
-            "Reverse  Standoff  Voltage (V_RWM)": {
-                "value": "6V",
-                "conditions": {
-                	"T_A": "25\u2103"
-                }
-            },
-            "Breakdown  Voltage (V_BR)": {
-                "value": "6.67V +0.7V",
-                "conditions": {
-                    "I_R": "10mA"
-                }
-            },
-            "Reverse Leakage Current (I_RM)": {
-                "value": "max. 800uA",
-                "conditions": {
-                    "V_RWM": "6V",
-                    "T_A": "25\u2103"
-                }
-            },
-            "Clamping  Voltage (V_CL)": {
-                "value": "max. 10.3V",
-                "conditions": {
-                    "I_PP": "38.8A",
-                    "T_A": "25\u2103"
-                }
-            },
-            "Peak Pulse Current (IPP)": {
-                "value": "max. 38.8A"
-            },
-            "Package": {
-                "value": "DO-214AC"
-            }
-        },
-        "files": {},
-        "package": {},
-        "symbol&footprint": {
-            "symbolName": "",
-            "pinmap": {},
-            "footprints": []
-        },
-        "orderNumbers": {
-            "SMAJ6.0A-E3/61": {
-                "Packaging Code": "",
-                "Packaging Type": "7\u201d Tape and reel",
-                "Packaging Qty": "1800",
-                "Packaging Data": {
-                    "Reel Diameter": "",
-                    "Reel Width": "",
-                    "Tape Pin 1 Quadrant": "",
-                    "Tape W": "",
-                    "Tape E": "",
-                    "Tape F": "",
-                    "Tape SO": "",
-                    "Tape P0": "",
-                    "Tape P1": "",
-                    "Tape P2": "",
-                    "Tape D": "",
-                    "Tape D1": "",
-                    "Tape A0": "",
-                    "Tape A1": "",
-                    "Tape B0": "",
-                    "Tape B1": "",
-                    "Tape T": "",
-                    "Tape K": ""
-                }
-            }
-        }
-    }
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C",
+			"humidity": ""
+		},
+		"parameters": {
+			"Directions": {
+				"value": "Unidirectional"
+			},
+			"Power Rating": {
+				"value": "400W",
+				"conditions": {
+					"tp": "10/1000us"
+				}
+			},
+			"V_RWM": {
+				"value": "5V",
+				"conditions": {
+					"T_A": "25\u2103"
+				}
+			},
+			"V_BR": {
+				"value": "6.4V +0.67V",
+				"conditions": {
+					"I_R": "10mA"
+				}
+			},
+			"I_RM": {
+				"value": "max. 800uA",
+				"conditions": {
+					"V_RWM": "5V",
+					"T_A": "25\u2103"
+				}
+			},
+			"V_CL": {
+				"value": "max. 9.2V",
+				"conditions": {
+					"I_PP": "43.5A",
+					"T_A": "25\u2103"
+				}
+			},
+			"IPP": {
+				"value": "max. 43A"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "DO-214AC"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"SMAJ5.0A-E3/61": {
+				"Packaging Code": "",
+				"Packaging Type": "7\u201d Tape and reel",
+				"Packaging Qty": "1800",
+				"Packaging Data": {
+					"Reel Diameter": "",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "",
+					"Tape W": "",
+					"Tape E": "",
+					"Tape F": "",
+					"Tape SO": "",
+					"Tape P0": "",
+					"Tape P1": "",
+					"Tape P2": "",
+					"Tape D": "",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "",
+					"Tape K": ""
+				}
+			}
+		}
+	},
+	{
+		"manufacturer": "Vishay",
+		"partNumber": "SMAJ6.0A",
+		"productionStatus": "",
+		"markingCode": "AG",
+		"partType": "TVS",
+		"series": {
+			"name": "SMAJ",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u2103 ~ 150\u2103",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C",
+			"humidity": ""
+		},
+		"parameters": {
+			"Directions": {
+				"value": "Unidirectional"
+			},
+			"Power Rating": {
+				"value": "400W",
+				"conditions": {
+					"tp": "10/1000us"
+				}
+			},
+			"V_RWM": {
+				"value": "6V",
+				"conditions": {
+					"T_A": "25\u2103"
+				}
+			},
+			"V_BR": {
+				"value": "6.67V +0.7V",
+				"conditions": {
+					"I_R": "10mA"
+				}
+			},
+			"I_RM": {
+				"value": "max. 800uA",
+				"conditions": {
+					"V_RWM": "6V",
+					"T_A": "25\u2103"
+				}
+			},
+			"V_CL": {
+				"value": "max. 10.3V",
+				"conditions": {
+					"I_PP": "38.8A",
+					"T_A": "25\u2103"
+				}
+			},
+			"IPP": {
+				"value": "max. 38.8A"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "DO-214AC"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"SMAJ6.0A-E3/61": {
+				"Packaging Code": "",
+				"Packaging Type": "7\u201d Tape and reel",
+				"Packaging Qty": "1800",
+				"Packaging Data": {
+					"Reel Diameter": "",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "",
+					"Tape W": "",
+					"Tape E": "",
+					"Tape F": "",
+					"Tape SO": "",
+					"Tape P0": "",
+					"Tape P1": "",
+					"Tape P2": "",
+					"Tape D": "",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "",
+					"Tape K": ""
+				}
+			}
+		}
+	}
 ]
