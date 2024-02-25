@@ -1,0 +1,49 @@
+[
+    {
+        "manufacturer": "Yangjie",
+        "partNumber": "YJL03G10A",
+        "productionStatus": "",
+        "markingCode": "",
+        "partType": "Transistor MOSFET N",
+        "series": {
+            "name": "",
+            "description": ""
+        },
+        "description": "N-Channel Enhancement Mode Field Effect Transistor",
+        "productUrl": "",
+        "notes": "",
+        "tags": [],
+        "storageConditions": {
+            "temperature": "",
+            "humidity": "",
+            "MSLevel": ""
+        },
+        "parameters": {
+            "Drain Source Breakdown Voltage": {
+                "value": "min. 100V",
+                "conditions": {
+                    "I_D": "250uA",
+                    "V_GS": "0V",
+                    "T_j": "25\u00b0C"
+                }
+            }
+        },
+        "files": {},
+        "package": {
+            "name": "SOT23"
+        },
+        "symbol&footprint": {
+            "symbolName": "mos_n",
+            "pinmap": {},
+            "footprints": []
+        },
+        "orderNumbers": {
+            "YJL03G10A": {
+                "Packaging Code": "",
+                "Packaging Type": "",
+                "Packaging Qty": "",
+                "Packaging Data": {}
+            }
+        }
+    }
+]

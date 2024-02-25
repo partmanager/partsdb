@@ -1,0 +1,61 @@
+[
+    {
+        "manufacturer": "nexperia",
+        "partNumber": "NX138AK",
+        "productionStatus": "",
+        "markingCode": "AP",
+        "partType": "Transistor MOSFET N",
+        "series": {
+            "name": "",
+            "description": ""
+        },
+        "description": "60 V, N-channel Trench MOSFET",
+        "productUrl": "",
+        "notes": "",
+        "tags": [],
+        "storageConditions": {
+            "temperature": "-65\u00b0C ~ 150\u00b0C",
+            "humidity": "",
+            "MSLevel": ""
+        },
+        		"operatingConditions": {
+			"temperature": "-60\u00b0C ~ 150\u00b0C",
+			"humidity": ""			
+		},
+        "parameters": {
+            "Drain Source Breakdown Voltage": {
+                "value": "min. 60V",
+                "conditions": {
+                    "I_D": "250uA",
+                    "V_GS": "0V",
+                    "T_j": "25\u00b0C"
+                }
+            },
+            "Forward Transconductance": {
+                "value": "3.5S",
+                "conditions": {
+                    "V_DS": "10V",
+                    "I_D": "180mA",
+                    "T_j": "25\u00b0C"
+                }
+            }
+        },
+        "files": {},
+        "package": {
+            "name": "SOT23"
+        },
+        "symbol&footprint": {
+            "symbolName": "mos_n",
+            "pinmap": {},
+            "footprints": []
+        },
+        "orderNumbers": {
+            "NX138AKR": {
+                "Packaging Code": "",
+                "Packaging Type": "",
+                "Packaging Qty": "",
+                "Packaging Data": {}
+            }
+        }
+    }
+]
