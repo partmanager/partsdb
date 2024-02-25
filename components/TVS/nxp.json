@@ -1,0 +1,146 @@
+[
+    {
+        "manufacturer": "NXP",
+        "partNumber": "PESD2CAN",
+        "productionStatus": "",
+        "markingCode": "6R",
+        "partType": "TVS",
+        "series": {
+            "name": "",
+            "description": ""
+        },
+        "description": "",
+        "productUrl": "",
+        "notes": "",
+        "tags": [],
+        "storageConditions": {
+            "temperature": "-65\u2103 ~ 150\u2103",
+            "humidity": "",
+            "MSLevel": ""
+        },
+        "parameters": {
+            "Configuration":"Bidirectional",
+            "Power Rating": {
+                "value": "max. 230W",
+                "conditions": {
+                    "tp": "8/20us"
+                }
+            },
+            "V_RWM": {
+                "value": "max. 24V",
+                "conditions": {
+                    "T_A": "25\u2103"
+                }
+            },
+            "V_BR": {
+                "value": "28V -1.8V+2.3V",
+                "conditions": {
+                    "I_R": "1mA",
+                    "T_A": "25\u2103"
+                }
+            },
+            "I_RM": {
+                "value": "1nA +9nA",
+                "conditions": {
+                    "V_RWM": "24V",
+                    "T_A": "25\u2103"
+                }
+            },
+            "V_CL": [
+                {
+                    "value": "max. 34V",
+                    "conditions": {
+                        "I_PP": "1A",
+                        "T_A": "25\u2103"
+                    }
+                },
+                {
+                    "value": "max. 41V",
+                    "conditions": {
+                        "I_PP": "5A",
+                        "T_A": "25\u2103"
+                    }
+                }
+            ],
+            "IPP": {
+                "value": "max. 5A"
+            },
+            "Cd": {
+                "value": "25pF +5pF",
+                "conditions": {
+                    "f": "1MHz",
+                    "V_R": "0V",
+                    "T_A": "25\u2103"
+                }
+            },
+            "V_ESD IEC 61000-4-2": {
+                "value": "30kV"
+            },
+            "V_ESD MIL-STD-883": {
+                "value": "16kV"
+            },
+            "V_ESD machine model": {
+                "value": "400V"
+            }
+        },
+        "files": {},
+        "package": {"name":  "SOT23"},
+        "symbol&footprint": {
+            "symbolName": "",
+            "pinmap": {},
+            "footprints": []
+        },
+        "orderNumbers": {
+            "PESD2CAN-215": {
+                "Packaging Code": "",
+                "Packaging Type": "Tape and reel",
+                "Packaging Qty": "3000",
+                "Packaging Data": {
+                    "Reel Diameter": "",
+                    "Reel Width": "",
+                    "Tape Pin 1 Quadrant": "",
+                    "Tape W": "",
+                    "Tape E": "",
+                    "Tape F": "",
+                    "Tape SO": "",
+                    "Tape P0": "",
+                    "Tape P1": "",
+                    "Tape P2": "",
+                    "Tape D": "",
+                    "Tape D1": "",
+                    "Tape A0": "",
+                    "Tape A1": "",
+                    "Tape B0": "",
+                    "Tape B1": "",
+                    "Tape T": "",
+                    "Tape K": ""
+                }
+            },
+            "PESD2CAN-235": {
+                "Packaging Code": "",
+                "Packaging Type": "Tape and reel",
+                "Packaging Qty": "10000",
+                "Packaging Data": {
+                    "Reel Diameter": "",
+                    "Reel Width": "",
+                    "Tape Pin 1 Quadrant": "",
+                    "Tape W": "",
+                    "Tape E": "",
+                    "Tape F": "",
+                    "Tape SO": "",
+                    "Tape P0": "",
+                    "Tape P1": "",
+                    "Tape P2": "",
+                    "Tape D": "",
+                    "Tape D1": "",
+                    "Tape A0": "",
+                    "Tape A1": "",
+                    "Tape B0": "",
+                    "Tape B1": "",
+                    "Tape T": "",
+                    "Tape K": ""
+                }
+            }
+        }
+    }
+]

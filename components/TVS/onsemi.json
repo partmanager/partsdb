@@ -1,0 +1,138 @@
+[
+	{
+		"manufacturer": "onsemi",
+		"partNumber": "ESD9L3.3####",
+		"productionStatus": "",
+		"markingCode": "6",
+		"partType": "TVS",
+		"series": {
+			"name": "ESD9L",
+			"description": "ESD Protection Diodes with Ultra\u2212Low Capacitance"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-55\u2103 ~ 150\u2103",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Configuration": "Unidirectional",
+			"V_RWM": {
+				"value": "max. 3.3V",
+				"conditions": {
+					"T_A": "25℃"
+				}
+			},
+			"V_BR": {
+				"value": "min. 4.8V",
+				"conditions": {
+					"I_R": "1mA"
+				}
+			},
+			"I_RM": {
+				"value": "max. 1uA",
+				"conditions": {
+					"V_RWM": "3.3V",
+					"T_A": "25℃"
+				}
+			},
+			"V_CL": {
+				"value": "max. 9V",
+				"conditions": {
+					"I_PP": "1A",
+					"T_A": "25℃"
+				}
+			},
+			"IPP": {
+				"value": "max. 1A"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SOD-923"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"ESD9L3.3ST5G": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "8000",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "onsemi",
+		"partNumber": "ESD9L5.0####",
+		"productionStatus": "",
+		"markingCode": "D",
+		"partType": "TVS",
+		"series": {
+			"name": "ESD9L",
+			"description": "ESD Protection Diodes with Ultra\u2212Low Capacitance"
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-55\u2103 ~ 150\u2103",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Configuration": "Unidirectional",
+			"V_RWM": {
+				"value": "max. 5V",
+				"T_A": "25℃"
+			},
+			"V_BR": {
+				"value": "min. 5.4V",
+				"conditions": {
+					"I_R": "1mA"
+				}
+			},
+			"I_RM": {
+				"value": "max. 1uA",
+				"conditions": {
+					"V_RWM": "5V",
+					"T_A": "25℃"
+				}
+			},
+			"V_CL": {
+				"value": "max. 9.8V",
+				"conditions": {
+					"I_PP": "1A",
+					"T_A": "25℃"
+				}
+			},
+			"IPP": {
+				"value": "max. 1A"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SOD-923"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"ESD9L3.3ST5G": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "8000",
+				"Packaging Data": {}
+			}
+		}
+	}
+]
