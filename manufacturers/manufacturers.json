@@ -6,7 +6,8 @@
 		"website": "https://abracon.com/",
 		"email": "abinfo@abracon.com",
 		"phone": null,
-		"comment": null},
+		"comment": null
+	},
 	{
 		"name": "Adam Tech",
 		"full_name": null,
@@ -14,7 +15,8 @@
 		"website": "https://www.adam-tech.com/",
 		"email": null,
 		"phone": null,
-		"comment": null},
+		"comment": null
+	},
 	{
 		"name": "AG TermoPasty",
 		"full_name": "AG TermoPasty",
@@ -22,7 +24,8 @@
 		"website": null,
 		"email": null,
 		"phone": null,
-		"comment": null},
+		"comment": null
+	},
 	{
 		"name": "Aimtec",
 		"full_name": "Aimtec",
@@ -30,7 +33,8 @@
 		"website": "https://aimtec.com/",
 		"email": "info@aimtec.com",
 		"phone": null,
-		"comment": null},
+		"comment": null
+	},
 	{
 		"name": "Aishi",
 		"full_name": null,
@@ -38,7 +42,8 @@
 		"website": "https://www.aishi.com/",
 		"email": "aihua@aishi.com",
 		"phone": null,
-		"comment": null},
+		"comment": null
+	},
 	{
 		"name": "Alema",
 		"full_name": "Alema",
@@ -46,7 +51,8 @@
 		"website": null,
 		"email": null,
 		"phone": null,
-		"comment": null},
+		"comment": null
+	},
 	{
 		"name": "AMASS",
 		"full_name": "AMASS",
@@ -54,7 +60,8 @@
 		"website": null,
 		"email": null,
 		"phone": null,
-		"comment": null},
+		"comment": null
+	},
 	{
 		"name": "Amphenol",
 		"full_name": "Amphenol Communications Solutions",
@@ -62,7 +69,8 @@
 		"website": "",
 		"email": "",
 		"phone": "",
-		"comment": ""},
+		"comment": ""
+	},
 	{
 		"name": "Amphenol ICC",
 		"full_name": null,
@@ -70,7 +78,8 @@
 		"website": null,
 		"email": null,
 		"phone": null,
-		"comment": null}, 
+		"comment": null
+	},
 	{
 		"name": "Analog Devices",
 		"full_name": null,
@@ -78,7 +87,8 @@
 		"website": null,
 		"email": null,
 		"phone": null,
-		"comment": null},
+		"comment": null
+	},
 	{
 		"name": "Atmel",
 		"full_name": null,
@@ -86,7 +96,8 @@
 		"website": null,
 		"email": null,
 		"phone": null,
-		"comment": null},
+		"comment": null
+	},
 	{
 		"name": "ATTEND",
 		"full_name": "ATTEND Technology Inc.",
@@ -94,7 +105,8 @@
 		"website": "https://www.attend.com.tw/",
 		"email": null,
 		"phone": null,
-		"comment": null},
+		"comment": null
+	},
 	{
 		"name": "AVX",
 		"full_name": null,
@@ -102,5 +114,789 @@
 		"website": null,
 		"email": null,
 		"phone": null,
-		"comment": null}		
+		"comment": null
+	},
+	{
+		"name": "B+B SmartWorx",
+		"full_name": "B+B SmartWorx",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Bourns",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "CANAL ELECTRONIC",
+		"full_name": "CANAL ELECTRONIC",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "C&K",
+		"full_name": "C&K",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Coilcraft",
+		"full_name": "Coilcraft",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Comf",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Connfly",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "DC COMPONENTS",
+		"full_name": "DC COMPONENTS",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Degson Electronics",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Diodec Semiconductor",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Diodes Incorporated",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Diotec Semiconductor",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Display Elektronik",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "DREMEC",
+		"full_name": "DREMEC",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "EATON",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "ECE",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Electro-PJP",
+		"full_name": "Electro-PJP",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Energizer",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Eska",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Fastron",
+		"full_name": "Fastron",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "FDK",
+		"full_name": "FDK",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "FerroCore",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Fix&Fasten",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Hammond",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "HIROSE",
+		"full_name": "HIROSE",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Hope RF",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "ILSI",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Infineon",
+		"full_name": "Infineon Technologies",
+		"address": "",
+		"website": "https://www.infineon.com",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "IQD",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Italtronic",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Jamicon",
+		"full_name": "",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "JB Capacitors",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "JOINT TECH",
+		"full_name": "JOINT TECH",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Kemet",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "KOA Speer",
+		"full_name": " KOA Speer Electronics",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Kradex",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Laird",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Laird Connectivity",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Liteon",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Lucky Light",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "LUMBERG",
+		"full_name": "LUMBERG",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Maxim Integrated",
+		"full_name": "Maxim Integrated",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Measurement Specialties",
+		"full_name": "Measurement Specialties",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Microchip",
+		"full_name": "Microchip Technology",
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Molex",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Murata",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Myir Tech",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Nexperia",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Nichicon",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Ninigi",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "NXP",
+		"full_name": "NXP Semiconductors",
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "onsemi",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "ON Semiconductor",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Optosupply",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Panasonic",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Pulse",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Quectel",
+		"full_name": "Quectel",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "REFOND",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Relpol",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Richtek",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Ricoh",
+		"full_name": "Ricoh Electronic Devices Company",
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Royalohm",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Samsung",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Samwha",
+		"full_name": "Samwha Capacitor Group",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Semtech",
+		"full_name": "Semtech",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Shori Electric",
+		"full_name": "Shori Electric",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Sierra Wireless",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Sipex",
+		"full_name": "Sipex Corporation",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Skyworks",
+		"full_name": "Skyworks Solutions, Inc.",
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "SR Passives",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "STMicroelectronics",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Sungmun Electronics",
+		"full_name": "Sungmun Electronics CO., LTD.",
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Susumu",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Taiyo Yuden",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "TDK",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "TE Connectivity",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Texas Instruments",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "TT Electronics",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Unknown",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "VARTA",
+		"full_name": "VARTA",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Viking",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Vishay",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Walsin",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Wurth Elektronik",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Xinya",
+		"full_name": "Xinya Electronic Co., Ltd.",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Yageo",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "YIC",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	}
 ]
