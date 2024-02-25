@@ -23,12 +23,12 @@ class YageoRCLResistorGenerator(YageoResistorBase):
                                   'RC2010': 'Chip 2010', 'RC2512': 'Chip 2512'},
                          packaging=['R_07', 'R_10', 'R_13', 'R_7W', 'R_3W', 'K_07', 'K_10', 'K_13', 'K_7W', 'K_3W',
                                     'S_7N'],
-                         power_rating_codes={'1/20W': '1/20W', '1/16W': '1/16W', '1/8W': '1/8W', '1/10W': '1/10W',
-                                             '1/5W': '1/5W', '1/4W': '1/4W', '1/2W': '1/2W', '1W': '1W', '1.5W': '1.5W',
-                                             '3/4W': '3/4W', '1.25W': '1.25W', '2W': '2W',
-                                             '1/20D': '1/20W', '1/16D': '1/16W', '1/8D': '1/8W', '1/10D': '1/10W',
-                                             '1/5D': '1/5W', '1/4D': '1/4W', '1/2D': '1/2W', '1D': '1W', '1.5D': '1.5W',
-                                             '3/4D': '3/4W', '1.25D': '1.25W', '2D': '2W'},  # D indicates dual power
+                         power_rating_codes={'1/20W': '50mW', '1/16W': '62.5mW', '1/8W': '125mW', '1/10W': '100mW',
+                                             '1/5W': '0.2W', '1/4W': '0.25W', '1/2W': '0.5W', '1W': '1W', '1.5W': '1.5W',
+                                             '3/4W': '0.75W', '1.25W': '1.25W', '2W': '2W',
+                                             '1/20D': '50mW', '1/16D': '62.5mW', '1/8D': '125mW', '1/10D': '0.1W',
+                                             '1/5D': '0.2W', '1/4D': '0.25W', '1/2D': '0.5W', '1D': '1W', '1.5D': '1.5W',
+                                             '3/4D': '0.75W', '1.25D': '1.25W', '2D': '2W'},  # D indicates dual power
                          product_url='',
                          notes="Generated based on data from datasheet: Revision: 201304")
         self.max_working_voltage = {'RC0075': '10V', 'RC0100': '15V', 'RC0201': '25V', 'RC0402': '50V', 'RC0603': '75V',
