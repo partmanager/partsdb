@@ -14,10 +14,12 @@
             "humidity": "",
             "MSLevel": ""
         },
+        "operatingConditions": {
+			"temperature": "-55\u00b0C ~ 105\u00b0C",
+			"humidity": ""			
+	},
         "parameters": {
-            "Working Temp Range": {
-                "range": "-55 ~ 105"                
-            },
+        "Switch Type": "DIP Switch",
             "Position Count": {
                 "value": 4
             },
