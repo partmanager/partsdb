@@ -33,7 +33,7 @@
                 }
             },
             "V_BR": {
-                "value": "28V -1.8V+2.3V",
+                "value": "28V -1.8V/+2.3V",
                 "conditions": {
                     "I_R": "1mA",
                     "T_A": "25\u2103"
