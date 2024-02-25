@@ -32,33 +32,33 @@
                     "tp": "10/1000us"
                 }
             },
-            "Reverse  Standoff  Voltage (V_RWM)": {
+            "V_RWM": {
                 "value": "5V",
                 "conditions": {
                 	"T_A": "25\u2103"
                 }
             },
-            "Breakdown  Voltage (V_BR)": {
+            "V_BR": {
                 "value": "6.4V +0.67V",
                 "conditions": {
                     "I_R": "10mA"
                 }
             },
-            "Reverse Leakage Current (I_RM)": {
+            "I_RM": {
                 "value": "max. 800uA",
                 "conditions": {
                     "V_RWM": "5V",
                     "T_A": "25\u2103"
                 }
             },
-            "Clamping  Voltage (V_CL)": {
+            "V_CL": {
                 "value": "max. 9.2V",
                 "conditions": {
                     "I_PP": "43.5A",
                     "T_A": "25\u2103"
                 }
             },
-            "Peak Pulse Current (IPP)": {
+            "IPP": {
                 "value": "max. 43A"
             },
             "Package": {
