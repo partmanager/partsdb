@@ -167,7 +167,7 @@
 			"V_CL": {
 				"value": "max. 10.3V",
 				"conditions": {
-					"IPP": "200A",
+					"I_PP": "200A",
 					"tp": "8/20us",
 					"T_A": "25\u2103"
 				}
@@ -256,7 +256,7 @@
 			"V_CL": {
 				"value": "max. 17V",
 				"conditions": {
-					"IPP": "5A",
+					"I_PP": "5A",
 					"tp": "8/20us",
 					"T_A": "25\u2103"
 				}
@@ -345,7 +345,7 @@
 			"V_CL": {
 				"value": "max. 17V",
 				"conditions": {
-					"IPP": "5A",
+					"I_PP": "5A",
 					"tp": "8/20us",
 					"T_A": "25\u2103"
 				}
@@ -437,7 +437,7 @@
 			"V_CL": {
 				"value": "max. 17V",
 				"conditions": {
-					"IPP": "5A",
+					"I_PP": "5A",
 					"tp": "8/20us",
 					"T_A": "25\u2103"
 				}
