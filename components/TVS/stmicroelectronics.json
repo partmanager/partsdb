@@ -145,8 +145,11 @@
 			"Power Rating": {
 				"value": "600W"
 			},
-			"Reverse  Standoff  Voltage (V_RWM) @ T_A=25\u2103": {
-				"value": "3.3V"
+			"V_RWM": {
+				"value": "3.3V",
+				"conditions": {
+					"T_A": "25\u2103"
+				}
 			},
 			"V_BR": {
 				"value": "4.1V",
