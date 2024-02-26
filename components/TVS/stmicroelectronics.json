@@ -1,0 +1,475 @@
+[
+	{
+		"manufacturer": "STMicroelectronics",
+		"partNumber": "SMAJ6.0A",
+		"productionStatus": "",
+		"markingCode": "DUB",
+		"partType": "TVS",
+		"series": {
+			"name": "SMAJ",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u2103 ~ 150\u2103",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Configuration": "Unidirectional",
+			"Power Rating": [
+				{
+					"value": "400W",
+					"conditions": {
+						"tp": "10/1000us"
+					}
+				},
+				{
+					"value": "2300W",
+					"conditions": {
+						"tp": "8/20us"
+					}
+				}
+			],
+			"V_RWM": {
+				"value": "6V",
+				"conditions": {
+					"T_A": "25\u2103"
+				}
+			},
+			"V_BR": {
+				"value": "6.7V +0.35V",
+				"conditions": {
+					"I_R": "10mA"
+				}
+			},
+			"I_RM": [
+				{
+					"value": "max. 20uA",
+					"conditions": {
+						"V_RWM": "6V",
+						"T_A": "25\u2103"
+					}
+				},
+				{
+					"value": "max. 50uA",
+					"conditions": {
+						"V_RWM": "6V",
+						"T_A": "85\u2103"
+					}
+				}
+			],
+			"V_CL": [
+				{
+					"value": "max. 10.3V",
+					"conditions": {
+						"I_PP": "38.8A",
+						"tp": "10/1000us",
+						"T_A": "25\u2103"
+					}
+				},
+				{
+					"value": "max. 13.7V",
+					"conditions": {
+						"I_PP": "170A",
+						"tp": "8/20us",
+						"T_A": "25\u2103"
+					}
+				}
+			],
+			"IPP": {
+				"value": "max. 170A"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "DO-214AC"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"SMAJ6.0A-TR": {
+				"Packaging Code": "",
+				"Packaging Type": "Tape and reel",
+				"Packaging Qty": "5000",
+				"Packaging Data": {
+					"Reel Diameter": "",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "",
+					"Tape W": "",
+					"Tape E": "",
+					"Tape F": "",
+					"Tape SO": "",
+					"Tape P0": "",
+					"Tape P1": "",
+					"Tape P2": "",
+					"Tape D": "",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "",
+					"Tape K": ""
+				}
+			}
+		}
+	},
+	{
+		"manufacturer": "STMicroelectronics",
+		"partNumber": "SMLVT3V3",
+		"productionStatus": "",
+		"markingCode": "CD",
+		"partType": "TVS",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u2103 ~ 175\u2103",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Configuration": "Unidirectional",
+			"Power Rating": {
+				"value": "600W"
+			},
+			"Reverse  Standoff  Voltage (V_RWM) @ T_A=25\u2103": {
+				"value": "3.3V"
+			},
+			"V_BR": {
+				"value": "4.1V",
+				"conditions": {
+					"I_R": "1mA"
+				}
+			},
+			"I_RM": {
+				"value": "200uA",
+				"conditions": {
+					"V_RWM": "3.3V",
+					"T_A": "25\u2103"
+				}
+			},
+			"V_CL": {
+				"value": "max. 10.3V",
+				"conditions": {
+					"T_A": "25\u2103"
+				}
+			},
+			"IPP": {
+				"value": "max. 200A"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SMB"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"SMLVT3V3": {
+				"Packaging Code": "",
+				"Packaging Type": "Tape and reel",
+				"Packaging Qty": "2500",
+				"Packaging Data": {
+					"Reel Diameter": "",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "",
+					"Tape W": "",
+					"Tape E": "",
+					"Tape F": "",
+					"Tape SO": "",
+					"Tape P0": "",
+					"Tape P1": "",
+					"Tape P2": "",
+					"Tape D": "",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "",
+					"Tape K": ""
+				}
+			}
+		}
+	},
+	{
+		"manufacturer": "STMicroelectronics",
+		"partNumber": "USBLC6-2",
+		"productionStatus": "",
+		"markingCode": "UL26",
+		"partType": "TVS",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-55\u2103 ~ 150\u2103",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Configuration": "Unidirectional",
+			"V_RWM": {
+				"value": "5.25V",
+				"conditions": {
+					"T_A": "25\u2103"
+				}
+			},
+			"V_BR": {
+				"value": "6V",
+				"conditions": {
+					"I_R": "1mA"
+				}
+			},
+			"I_RM": {
+				"value": "0.150uA",
+				"conditions": {
+					"V_RWM": "5.25V",
+					"T_A": "25\u2103"
+				}
+			},
+			"V_CL": {
+				"value": "max. 17V",
+				"conditions": {
+					"T_A": "25\u2103"
+				}
+			},
+			"IPP": {
+				"value": "max. 5A"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SOT23-6L"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"USBLC6-2SC6": {
+				"Packaging Code": "",
+				"Packaging Type": "Tape and reel",
+				"Packaging Qty": "3000",
+				"Packaging Data": {
+					"Reel Diameter": "",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "",
+					"Tape W": "",
+					"Tape E": "",
+					"Tape F": "",
+					"Tape SO": "",
+					"Tape P0": "",
+					"Tape P1": "",
+					"Tape P2": "",
+					"Tape D": "",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "",
+					"Tape K": ""
+				}
+			}
+		}
+	},
+	{
+		"manufacturer": "STMicroelectronics",
+		"partNumber": "USBLC6-2P",
+		"productionStatus": "",
+		"markingCode": "F",
+		"partType": "TVS",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-55\u2103 ~ 150\u2103",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Configuration": "Unidirectional",
+			"V_RWM": {
+				"value": "5.25V",
+				"conditions": {
+					"T_A": "25\u2103"
+				}
+			},
+			"V_BR": {
+				"value": "6V",
+				"conditions": {
+					"I_R": "1mA"
+				}
+			},
+			"I_RM": {
+				"value": "0.150uA",
+				"conditions": {
+					"V_RWM": "5.25V",
+					"T_A": "25\u2103"
+				}
+			},
+			"V_CL": {
+				"value": "max. 17V",
+				"conditions": {
+					"T_A": "25\u2103"
+				}
+			},
+			"IPP": {
+				"value": "max. 5A"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SOT-666"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"USBLC6-2P6": {
+				"Packaging Code": "",
+				"Packaging Type": "Tape and reel",
+				"Packaging Qty": "3000",
+				"Packaging Data": {
+					"Reel Diameter": "",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "",
+					"Tape W": "",
+					"Tape E": "",
+					"Tape F": "",
+					"Tape SO": "",
+					"Tape P0": "",
+					"Tape P1": "",
+					"Tape P2": "",
+					"Tape D": "",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "",
+					"Tape K": ""
+				}
+			}
+		}
+	},
+	{
+		"manufacturer": "STMicroelectronics",
+		"partNumber": "USBLC6-4",
+		"productionStatus": "",
+		"markingCode": "UL46",
+		"partType": "TVS",
+		"series": {
+			"name": "",
+			"description": ""
+		},
+		"description": "",
+		"productUrl": "",
+		"notes": "",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-55\u2103 ~ 150\u2103",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"parameters": {
+			"Configuration": "Unidirectional",
+			"Power Rating": {
+				"value": "130W"
+			},
+			"V_RWM": {
+				"value": "5.25V",
+				"conditions": {
+					"T_A": "25\u2103"
+				}
+			},
+			"V_BR": {
+				"value": "6V +4V",
+				"conditions": {
+					"I_R": "1mA"
+				}
+			},
+			"I_RM": {
+				"value": "0.150uA",
+				"conditions": {
+					"V_RWM": "5.25V",
+					"T_A": "25\u2103"
+				}
+			},
+			"V_CL": {
+				"value": "max. 17V",
+				"conditions": {
+					"T_A": "25\u2103"
+				}
+			},
+			"IPP": {
+				"value": "max. 5A"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SOT23-6L"
+		},
+		"symbol&footprint": {
+			"symbolName": "",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"USBLC6-4SC6": {
+				"Packaging Code": "",
+				"Packaging Type": "Tape and reel",
+				"Packaging Qty": "3000",
+				"Packaging Data": {
+					"Reel Diameter": "",
+					"Reel Width": "",
+					"Tape Pin 1 Quadrant": "",
+					"Tape W": "",
+					"Tape E": "",
+					"Tape F": "",
+					"Tape SO": "",
+					"Tape P0": "",
+					"Tape P1": "",
+					"Tape P2": "",
+					"Tape D": "",
+					"Tape D1": "",
+					"Tape A0": "",
+					"Tape A1": "",
+					"Tape B0": "",
+					"Tape B1": "",
+					"Tape T": "",
+					"Tape K": ""
+				}
+			}
+		}
+	}
+]
