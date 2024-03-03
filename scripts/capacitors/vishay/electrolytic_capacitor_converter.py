@@ -58,7 +58,7 @@ class VishayElectrolyticCapacitorConverter(CapacitorGeneratorBase):
                                 'partNumber': partnumber,
                                 'productionStatus': None,
                                 'markingCode': None,
-                                'partType': 'MLCC',
+                                'partType': 'Aluminium Electrolytic Capacitor',
                                 'series': {'name': self.parameters['Series']},
                                 'description': None,
                                 'productUrl': None,

@@ -14,7 +14,7 @@ def generate_vishay_capacitors(dest_dir, data_sources):
 
     gsc_parameters = {
         'Series': 'GSC',
-        'Dielectric Type': 'AlO',
+        'Dielectric Type': 'Aluminium Oxide',
         'tolerance': '±20%'}
     gsc_generator = VishayElectrolyticCapacitorConverter(data_sources + 'GSC.ods', gsc_parameters)
     gsc_generator.generate(dest_dir + 'vishay_GSC_generated.json')
