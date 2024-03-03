@@ -128,7 +128,6 @@ class KemetCapacitorConverter(CapacitorGeneratorBase):
                         capacitance_code = capacitor['Capacitance Code']
                         dielectric_code = {'C0G': 'G', 'X7R': 'R'}[self.parameters['Dielectric Type']]
                         if len(case_height) > 2:
-                            print(case_height)
                             allowed_tolerance = self.parameters['tolerance exception'][case_height[-1]]
                             case_height = case_height[:-1]
                         else:
@@ -136,7 +135,6 @@ class KemetCapacitorConverter(CapacitorGeneratorBase):
                         for capacitance_tolerance_code in capacitor['Tolerance'].split(', '): #['J', 'K', 'M']:
                             if capacitance_tolerance_code in allowed_tolerance:
                                 partnumber = f"C{case_code}C{capacitance_code}{capacitance_tolerance_code}{voltage_code[voltage]}{dielectric_code}AC#"
-                                print(case_code, case_height)
 
                                 parameters = {
                                     'Working Temp Range': '-55°C ~ 125°C',

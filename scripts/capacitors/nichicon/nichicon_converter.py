@@ -44,7 +44,6 @@ class NichiconCapacitorConverter(CapacitorGeneratorBase):
     def generate_capacitor(self):
         for capacitor in self.capacitor_data:
             if capacitor['Case size φD × L  (mm)']:
-                print(capacitor)
                 diameter = capacitor['Case size φD × L  (mm)'].split('×')[0].strip()
                 series = self.parameters['Series']
                 voltage_code = capacitor['Voltage code']

@@ -113,7 +113,6 @@ class WalsinCapacitorConverter(CapacitorGeneratorBase):
                         capacitance_code = capacitor['Capacitance Code'].replace("(", '').replace(")", '').replace("-",
                                                                                                                    "")
                         dielectric_code = self.dielectric_code[self.parameters['Dielectric Type']]
-                        print(case_code, case_height_annotated, capacitance, self.parameters['Dielectric Type'])
                         for tolerance_code in self.tolerances_for_capacitance(capacitance,
                                                                               self.parameters['Dielectric Type'],
                                                                               case_height_annotated):

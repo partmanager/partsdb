@@ -16,11 +16,12 @@ class PartGeneratorBase:
     def get_package_dimension(self, size_code, power_rating_code):
         return self.dimensions[size_code]
 
-    def encode_parameter(self, value, tolerance=None, conditions=None):
+    @staticmethod
+    def encode_parameter(value, tolerance=None, unit=None, conditions=None):
         if tolerance:
-            value_tolerance = value + ' ' + tolerance
+            value_tolerance = f"{value} {tolerance}" if unit is None else f"{value}{unit} {tolerance}"
         else:
-            value_tolerance = value
+            value_tolerance = value if unit is None else f"{value}{unit}"
         if conditions:
             return {'value': value_tolerance, 'conditions': conditions}
         return {'value': value_tolerance}
@@ -82,7 +83,7 @@ class PartGeneratorBase:
         for order_number in part['orderNumbers']:
             packaging = part['orderNumbers'][order_number]
             if packaging:
-                print(part)
+                #print(part)
                 assert packaging['Packaging Type'] in ['Paper Tape / Reel',
                                                        'Embossed Tape / Reel',
                                                        'Paper Tape / Box',

@@ -90,7 +90,6 @@ def allowed_packing_styles(size, thickness):
             return {'K': 500}
         else:
             return {'K': 1000}
-    print(size, thickness)
 
 
 class YageoCapacitorConverter(CapacitorGeneratorBase):
@@ -111,7 +110,6 @@ class YageoCapacitorConverter(CapacitorGeneratorBase):
                         for tolerance in self.allowed_tolerance(capacitance):
                             case, voltage = decode_case_and_volgage(case_and_voltage)
                             partnumber = f"{self.parameters['Partname header']}{case}{tolerance_code[tolerance]}#{self.parameters['Dielectric Type']}{voltage_code[str(voltage)]}{series_code}{capacitance_to_str(capacitance).replace('.', 'R')}"
-                            print(partnumber, capacitance, case, voltage, capacitor[case_and_voltage])
                             package_dimension = package_dimensions(case, capacitance)
 
                             parameters = {

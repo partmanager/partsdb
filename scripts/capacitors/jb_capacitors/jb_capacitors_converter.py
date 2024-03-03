@@ -63,7 +63,6 @@ class JBCapacitorsConverter(CapacitorGeneratorBase):
         for capacitor in self.capacitor_data:
             if capacitor['Size ØDxL (mm)']:
                 generation_parameters = self.parameters
-                print(capacitor)
                 dimensions = decode_dimensions(capacitor['Size ØDxL (mm)'])
                 voltage = capacitor['Voltage']
                 capacitance_code = '{:03d}'.format(int(capacitor['Capacitance Code'])) if "R" not in capacitor[

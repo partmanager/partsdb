@@ -36,7 +36,6 @@ class AishiCapacitorConverter(CapacitorGeneratorBase):
 
     def generate_capacitor(self):
         for capacitor in self.capacitor_data:
-            print(capacitor)
             partnumber = capacitor['Part Number']
             ordernumber = partnumber
             dimensions = decode_dimensions(capacitor['Size ΦdxL(mm)'])
