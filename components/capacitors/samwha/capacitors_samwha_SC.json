@@ -1,0 +1,51 @@
+[
+    {
+        "manufacturer": "Samwha",
+        "partNumber": "SC1V476M6L006#",
+        "productionStatus": null,
+        "markingCode": null,
+        "partType": "Aluminium Electrolytic Capacitor",
+        "series": {
+            "name": "SC",
+            "description": ""
+        },
+        "description": null,
+        "productUrl": null,
+        "notes": null,
+        "tags": [],
+        "storageConditions": {
+            "temperature": "",
+            "humidity": "",
+            "MSLevel": ""
+        },
+        "operatingConditions": {
+            "temperature": "-40\u00b0C ~ 85\u00b0C",
+            "humidity": ""
+        },
+        "parameters": {
+            "Capacitance": {
+                "value": "47\u03bcF \u00b120%"
+            },
+            "Dielectric Type": "Aluminium Oxide",
+            "Rated Voltage": {
+                "value": "max. 35V"
+            },
+            "Rated Ripple Current": {
+                "value": "max. 94mA"
+            },
+            "Endurance": {
+                "value": "2000h"
+            }
+        },
+        "files": {},  
+        "package": {},
+        "symbol&footprint": {
+            "symbolName": "capacitor_polar",
+            "pinmap": {},
+            "footprints": []
+        },
+        "orderNumbers": {
+            "SC1V476M6L006VR": {}
+        }
+    }
+]
