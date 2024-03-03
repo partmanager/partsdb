@@ -151,7 +151,6 @@ class VishayCapacitorConverter(CapacitorGeneratorBase):
                         if '/' in case_height:
                             case_height = case_height[0]
                         if len(case_height) > 1 and case_height[-1] != "’":
-                            print(case_height)
                             tolerances = {'1': ['B', 'C', 'D', 'F', 'G', 'K'], '2': ['K'], '3': ['M']}
                             allowed_tolerance = tolerances[case_height[-1]]
                             case_height = case_height[:-1]
@@ -166,7 +165,6 @@ class VishayCapacitorConverter(CapacitorGeneratorBase):
                                 continue
 
                             partnumber = f"VJ{case_code}{dielectric_code}{capacitance_code}{capacitance_tolerance_code}X{voltage_code[voltage]}#W1BC"
-                            print(case_code, case_height)
 
                             parameters = {
                                 'Working Temp Range': '-55°C ~ 125°C',
