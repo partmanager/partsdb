@@ -1,0 +1,58 @@
+[
+	{
+		"manufacturer": "Bourns",
+		"partNumber": "ECW1D-B24-BC0024L",
+		"partType": "Switch",
+		"series": {
+			"name": "ECW",
+			"description": "Digital Contacting Encoder"
+		},
+		"description": "Encoder, 2bit quadrature code",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": "",
+			"MSLevel": ""
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C",
+			"humidity": ""
+		},
+		"parameters": {
+			"Switch Type": "Encoder",
+			"Switching Voltage": {
+				"value": "max. 10V"
+			},
+			"Switching Current": {
+				"value": "max. 10mA"
+			},
+			"Contact Resistance": {
+				"value": "max. 5R"
+			},
+			"Insulation Resistance": {
+				"value": "min. 1000MR",
+				"condition": {
+					"V": "500V"
+				}
+			},
+			"Operating Life": {
+				"value": 200000
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "quadrature_encoder",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"ECW1D-B24-BC0024L": {
+				"Packaging Code": "",
+				"Packaging Type": "",
+				"Packaging Qty": "",
+				"Packaging Data": {}
+			}
+		}
+	}
+]
