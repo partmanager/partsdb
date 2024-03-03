@@ -20,6 +20,9 @@
 		},
 		"parameters": {
 			"Switch Type": "Encoder",
+			"Position Count": {
+				"value": 24
+			},
 			"Switching Voltage": {
 				"value": "max. 10V"
 			},
