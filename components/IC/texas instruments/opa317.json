@@ -1,25 +1,35 @@
 [
 	{
 		"manufacturer": "Texas Instruments",
-		"partNumber": "OPA317IDBV",	
-		"markingCode": "OVCQ",	
+		"partNumber": "OPA317IDBV",
+		"markingCode": "OVCQ",
 		"partType": "IC Opamp",
-		"series": {"name": "OPAx317", "description": "Zerø-Drift, Low-Offset, Rail-to-Rail I/O Operational Amplifier"},		
-		"description": "OPA317 Zerø-Drift, Low-Offset, Rail-to-Rail I/O Operational Amplifier",
+		"series": {
+			"name": "OPAx317",
+			"description": "Zer\u00f8-Drift, Low-Offset, Rail-to-Rail I/O Operational Amplifier"
+		},
+		"description": "OPA317 Zer\u00f8-Drift, Low-Offset, Rail-to-Rail I/O Operational Amplifier",
 		"productUrl": "https://www.ti.com/product/OPA317",
-		"notes": "",
 		"tags": "Opamp",
 		"storageConditions": {
-			"temperature": "-65\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
-        	},
-		"parameters": {
-			"WorkingTemperatureRange": {"min": "-40°C", "max": "150°C"},			
-			"Supply Voltage Range": {"min": "1.8V", "max": "5.5V"}
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
 		},
-		"files": {"datasheet": "https://www.ti.com/lit/gpn/OPA317"},
-		"package": {"name": "SOT-23"},
+		"parameters": {
+			"WorkingTemperatureRange": {
+				"min": "-40\u00b0C",
+				"max": "150\u00b0C"
+			},
+			"Supply Voltage Range": {
+				"min": "1.8V",
+				"max": "5.5V"
+			}
+		},
+		"files": {
+			"datasheet": "https://www.ti.com/lit/gpn/OPA317"
+		},
+		"package": {
+			"name": "SOT-23"
+		},
 		"symbol&footprint": {
 			"symbolName": "opamp_single",
 			"pinmap": {},
@@ -27,28 +37,18 @@
 		},
 		"orderNumbers": {
 			"OPA317IDBVR": {
-				"packagingCode": "R",				
+				"packagingCode": "R",
 				"packagingType": "Embossed Tape / Reel",
 				"packagingQuantity": "3000",
 				"packagingData": {
-					"Reel Diameter":"178mm",
-					"Reel Width":"9mm",
-					"Tape Pin 1 Quadrant":"Q3",
-					"Tape W":"8mm",
-					"Tape E":"",
-					"Tape F":"",
-					"Tape SO":"",
-					"Tape P0":"",
-					"Tape P1":"4mm",
-					"Tape P2":"",
-					"Tape D":"",
-					"Tape D1":"",
-					"Tape A0":"3.3mm",
-					"Tape A1":"",
-					"Tape B0":"3.2mm",
-					"Tape B1":"",
-					"Tape T":"",
-					"Tape K":"1.4mm"
+					"Reel Diameter": "178mm",
+					"Reel Width": "9mm",
+					"Tape Pin 1 Quadrant": "Q3",
+					"Tape W": "8mm",
+					"Tape P1": "4mm",
+					"Tape A0": "3.3mm",
+					"Tape B0": "3.2mm",
+					"Tape K": "1.4mm"
 				}
 			},
 			"OPA317IDBVT": {
@@ -56,24 +56,14 @@
 				"packagingType": "Embossed Tape / Reel",
 				"packagingQuantity": "250",
 				"packagingData": {
-					"Reel Diameter":"178mm",
-					"Reel Width":"9mm",
-					"Tape Pin 1 Quadrant":"Q3",
-					"Tape W":"8mm",
-					"Tape E":"",
-					"Tape F":"",
-					"Tape SO":"",
-					"Tape P0":"",
-					"Tape P1":"4mm",
-					"Tape P2":"",
-					"Tape D":"",
-					"Tape D1":"",
-					"Tape A0":"3.3mm",
-					"Tape A1":"",
-					"Tape B0":"3.2mm",
-					"Tape B1":"",
-					"Tape T":"",
-					"Tape K":"1.4mm"
+					"Reel Diameter": "178mm",
+					"Reel Width": "9mm",
+					"Tape Pin 1 Quadrant": "Q3",
+					"Tape W": "8mm",
+					"Tape P1": "4mm",
+					"Tape A0": "3.3mm",
+					"Tape B0": "3.2mm",
+					"Tape K": "1.4mm"
 				}
 			}
 		}

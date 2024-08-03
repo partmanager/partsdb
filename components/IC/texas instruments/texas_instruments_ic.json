@@ -2,25 +2,16 @@
 	{
 		"manufacturer": "Texas Instruments",
 		"partNumber": "ISO1050DW",
-		"productionStatus": "",
 		"markingCode": "ISO1050",
 		"partType": "IC",
-		"series": {
-			"name": "",
-			"description": ""
-		},
+		"series": {},
 		"description": "Isolated CAN Transceiver",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-65\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
 		},
 		"parameters": {
 			"Supply Voltage Range": {
@@ -32,13 +23,11 @@
 			"name": "SOIC16"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"ISO1050DWR": {
-				"Packaging Code": "",
 				"Packaging Type": "330mm Reel",
 				"Packaging Qty": "2000",
 				"Packaging Data": {}
@@ -48,25 +37,14 @@
 	{
 		"manufacturer": "Texas Instruments",
 		"partNumber": "ISO1412",
-		"productionStatus": "",
 		"markingCode": "ISO1412",
 		"partType": "IC",
-		"series": {
-			"name": "",
-			"description": ""
-		},
+		"series": {},
 		"description": "Isolated RS-485/RS-422 Transceiver with Robust EMC",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Supply Voltage Range": {
@@ -81,14 +59,11 @@
 			"name": "SOIC16"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"ISO1412DW": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "40",
 				"Packaging Data": {}
 			}
@@ -97,25 +72,16 @@
 	{
 		"manufacturer": "Texas Instruments",
 		"partNumber": "LM317L",
-		"productionStatus": "",
 		"markingCode": "LB",
 		"partType": "IC Voltage Regulator",
-		"series": {
-			"name": "",
-			"description": ""
-		},
+		"series": {},
 		"description": "LM317L 3-Terminal Adjustable Regulator",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-65\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-65\u00b0C ~ 150\u00b0C",
-			"humidity": ""			
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
 		},
 		"parameters": {
 			"Supply Voltage Range": {
@@ -130,14 +96,11 @@
 			"name": "SOT89"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"LM317LIPK": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "1000",
 				"Packaging Data": {}
 			}
@@ -146,25 +109,13 @@
 	{
 		"manufacturer": "Texas Instruments",
 		"partNumber": "SN65HVD256",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "IC",
-		"series": {
-			"name": "",
-			"description": ""
-		},
+		"series": {},
 		"description": "Turbo CAN Transceivers for Higher Data Rates and Large Networks Including Features for Functional Safety",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Supply Voltage Range": {
@@ -176,19 +127,15 @@
 			"name": "SOIC8"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"SN65HVD256D": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "75",
 				"Packaging Data": {}
 			},
 			"SN65HVD256DR": {
-				"Packaging Code": "",
 				"Packaging Type": "330mm Reel",
 				"Packaging Qty": "2500",
 				"Packaging Data": {}
@@ -198,25 +145,15 @@
 	{
 		"manufacturer": "Texas Instruments",
 		"partNumber": "SN65LBC184D",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "IC",
-		"series": {
-			"name": "",
-			"description": ""
-		},
+		"series": {},
 		"description": "Differential Transceiver With Transient Voltage Suppression",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-40\u00b0C ~ 160\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-40\u00b0C ~ 160\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Supply Voltage Range": {
@@ -228,15 +165,11 @@
 			"name": "SOIC8"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"SN65LBC184D": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -244,25 +177,16 @@
 	{
 		"manufacturer": "Texas Instruments",
 		"partNumber": "TLIN1021DRQ1",
-		"productionStatus": "",
 		"markingCode": "TL021",
 		"partType": "IC",
-		"series": {
-			"name": "",
-			"description": ""
-		},
+		"series": {},
 		"description": "Fault-Protected LIN Transceiver with Inhibit and Wake",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-65\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 165\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 165\u00b0C"
 		},
 		"parameters": {
 			"Supply Voltage Range": {
@@ -274,13 +198,11 @@
 			"name": "SOIC8"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"TLIN1021DRQ1": {
-				"Packaging Code": "",
 				"Packaging Type": "330mm Reel",
 				"Packaging Qty": "2500",
 				"Packaging Data": {}
@@ -290,43 +212,31 @@
 	{
 		"manufacturer": "Texas Instruments",
 		"partNumber": "TLV62130",
-		"productionStatus": "",
 		"markingCode": "VUBI",
 		"partType": "IC",
-		"series": {
-			"name": "",
-			"description": ""
-		},
+		"series": {},
 		"description": "3-V to 17-V 3-A Step-Down Converter",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-65\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {},
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"TLV62130RGTR": {
-				"Packaging Code": "",
 				"Packaging Type": "Reel 13\u201d",
 				"Packaging Qty": "3000",
 				"Packaging Data": {}
 			},
 			"TLV62130RGTT": {
-				"Packaging Code": "",
 				"Packaging Type": "Reel 7\u201d",
 				"Packaging Qty": "250",
 				"Packaging Data": {}
@@ -336,43 +246,31 @@
 	{
 		"manufacturer": "Texas Instruments",
 		"partNumber": "TLV62130A",
-		"productionStatus": "",
 		"markingCode": "VUNI",
 		"partType": "IC",
-		"series": {
-			"name": "",
-			"description": ""
-		},
+		"series": {},
 		"description": "3-V to 17-V 3-A Step-Down Converter",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-65\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {},
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"TLV62130ARGTR": {
-				"Packaging Code": "",
 				"Packaging Type": "Reel 13\u201d",
 				"Packaging Qty": "3000",
 				"Packaging Data": {}
 			},
 			"TLV62130ARGTT": {
-				"Packaging Code": "",
 				"Packaging Type": "Reel 7\u201d",
 				"Packaging Qty": "250",
 				"Packaging Data": {}
@@ -382,25 +280,16 @@
 	{
 		"manufacturer": "Texas Instruments",
 		"partNumber": "TPS562202",
-		"productionStatus": "",
 		"markingCode": "2202",
 		"partType": "IC Voltage Regulator",
-		"series": {
-			"name": "",
-			"description": ""
-		},
+		"series": {},
 		"description": "4.3-V to 17-V Input, 2-A Synchronous Buck Converter",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
 		},
 		"parameters": {
 			"Supply Voltage Range": {
@@ -412,13 +301,11 @@
 			"name": "SOT563"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"TPS562202DRLR": {
-				"Packaging Code": "",
 				"Packaging Type": "180mm Reel",
 				"Packaging Qty": "4000",
 				"Packaging Data": {}
