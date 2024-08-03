@@ -135,6 +135,15 @@
 		"comment": ""
 	},
 	{
+		"name": "Bridgelux",
+		"full_name": "",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
 		"name": "CANAL ELECTRONIC",
 		"full_name": "CANAL ELECTRONIC",
 		"address": "",
@@ -180,6 +189,15 @@
 		"comment": ""
 	},
 	{
+		"name": "CTS",
+		"full_name": "CTS Electronic Components",
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
 		"name": "DC COMPONENTS",
 		"full_name": "DC COMPONENTS",
 		"address": "",
@@ -223,6 +241,15 @@
 		"email": "",
 		"phone": "",
 		"comment": ""
+	},
+	{
+		"name": "DIPTRONICS",
+		"full_name": null,
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
 	},
 	{
 		"name": "Display Elektronik",
@@ -324,6 +351,15 @@
 		"comment": ""
 	},
 	{
+		"name": "GCT",
+		"full_name": null,
+		"address": "",
+		"website": "https://gct.co/",
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
 		"name": "Hammond",
 		"full_name": null,
 		"address": "",
@@ -409,6 +445,24 @@
 		"full_name": "JOINT TECH",
 		"address": "",
 		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "Joyin",
+		"full_name": null,
+		"address": "",
+		"website": null,
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
+		"name": "JST",
+		"full_name": "J.S.T. Mfg. Co.,Ltd.",
+		"address": "",
+		"website": "https://www.jst-mfg.com/",
 		"email": null,
 		"phone": null,
 		"comment": null
@@ -502,6 +556,15 @@
 		"email": null,
 		"phone": null,
 		"comment": null
+	},
+	{
+		"name": "Micrel",
+		"full_name": "Micrel",
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
 	},
 	{
 		"name": "Microchip",
@@ -883,6 +946,15 @@
 	},
 	{
 		"name": "Yageo",
+		"full_name": null,
+		"address": "",
+		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Yangjie",
 		"full_name": null,
 		"address": "",
 		"website": "",
