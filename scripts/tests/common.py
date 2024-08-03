@@ -24,7 +24,7 @@ def load_part_types():
             'ESD Suppressor',
             'Fuse',
             'Ind', 'Inductor', 'IC', 'IC LDO', 'IC MCU',
-            'IC Voltage Reference', 'IC Voltage Regulator', 'IC DC-DC', 'IC Opamp', 'IC RF Amplifier', 'IC RF Synthesizer',
+            'IC Voltage Reference', 'IC Voltage Regulator', 'IC Voltage Regulator Switching', 'IC DC-DC', 'IC Opamp', 'IC RF Amplifier', 'IC RF Synthesizer',
             'LED',
             'LCD Display',
             'Lightpipe',

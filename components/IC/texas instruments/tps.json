@@ -1,6 +1,107 @@
 [
 	{
 		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS54424",
+		"markingCode": "54424",
+		"partType": "IC Voltage Regulator Switching",
+		"description": "4.5V to 17V Input, Current Mode, 4A Synchronous SWIFT\u2122 Step-Down Converter",
+		"productUrl": "https://www.ti.com/product/TPS54424",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C",
+			"MSLevel": "Level-2-260C-1 YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 150\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "4.5V ~ 17V"
+			}
+		},
+		"files": {
+			"datasheet": "https://www.ti.com/lit/ds/symlink/tps54424.pdf"
+		},
+		"package": {
+			"name": "VQFN-HR-16"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"BOOT": {
+					"no": [
+						1
+					],
+					"func": "In",
+					"desc": "Floating supply voltage for high-side MOSFET gate drive circuit. Connect a 0.1-\u03bcF ceramic\ncapacitor between BOOT and SW pins."
+				},
+				"VIN": {
+					"no": [
+						2,
+						11
+					],
+					"func": "Pwr In",
+					"desc": "Input voltage supply pin. Power for the internal circuit and the connection to drain of high-\nside MOSFET. Connect both pins to the input power source with a low impedance\nconnection. Connect both pins and their neighboring PGND pins"
+				},
+				"PGND": {
+					"no": [
+						3,
+						4,
+						5,
+						8,
+						9,
+						10
+					],
+					"func": "Pwr GND",
+					"desc": "Ground return for low-side power MOSFET and its drivers."
+				}
+			},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TPS54424RNVR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"Packaging Type": "180mm Reel",
+				"Packaging Qty": "3000",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "3.75mm",
+						"B0": "3.75mm",
+						"K0": "1.15mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			},
+			"TPS54424RNVT": {
+				"productionStatus": "Active",
+				"packagingCode": "T",
+				"Packaging Type": "180mm Reel",
+				"Packaging Qty": "250",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "3.75mm",
+						"B0": "3.75mm",
+						"K0": "1.15mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	},
+	{
+		"manufacturer": "Texas Instruments",
 		"partNumber": "TPS562202",
 		"markingCode": "2202",
 		"partType": "IC Voltage Regulator",
