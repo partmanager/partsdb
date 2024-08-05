@@ -81,6 +81,146 @@
 	},
 	{
 		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS54260DRC#",
+		"markingCode": "54260",
+		"partType": "IC Voltage Regulator Switching",
+		"description": "3.5V to 60V input, 2.5A step-down converter with eco-mode",
+		"productUrl": "https://www.ti.com/product/TPS54260",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "Level-1-260C-UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 150\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "3.5V ~ 60V"
+			}
+		},
+		"files": {
+			"datasheet": "https://www.ti.com/lit/ds/symlink/tps54260.pdf"
+		},
+		"package": {
+			"name": "VSON-10"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"BOOT": {
+					"no": [
+						1
+					],
+					"func": "In"
+				},
+				"VIN": {
+					"no": [
+						2
+					],
+					"func": "Pwr In"
+				},
+				"EN": {
+					"no": [
+						3
+					],
+					"func": "In"
+				},
+				"SS/TR": {
+					"no": [
+						4
+					],
+					"func": "In"
+				},
+				"RT/CLK": {
+					"no": [
+						5
+					],
+					"func": "In"
+				},
+				"PWRGD": {
+					"no": [
+						6
+					],
+					"func": "Out OpenDrain"
+				},
+				"VSENSE": {
+					"no": [
+						7
+					],
+					"func": "In"
+				},
+				"COMP": {
+					"no": [
+						8
+					],
+					"func": "In"
+				},
+				"GND": {
+					"no": [
+						9
+					],
+					"func": "Pwr In"
+				},
+				"PH": {
+					"no": [
+						10
+					],
+					"func": "Out"
+				},
+				"EP": {
+					"no": [
+						"EP"
+					],
+					"func": "Pwr In"
+				}
+			},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TPS54260DRCR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "3000",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "3.3mm",
+						"B0": "3.3mm",
+						"K0": "1.1mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			},
+			"TPS54260DRCT": {
+				"productionStatus": "Active",
+				"packagingCode": "T",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "250",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "3.3mm",
+						"B0": "3.3mm",
+						"K0": "1.1mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	},
+	{
+		"manufacturer": "Texas Instruments",
 		"partNumber": "TPS54424",
 		"markingCode": "54424",
 		"partType": "IC Voltage Regulator Switching",
