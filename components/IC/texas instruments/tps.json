@@ -182,6 +182,86 @@
 	},
 	{
 		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS54531DDA#",
+		"markingCode": "54531",
+		"partType": "IC Voltage Regulator Switching",
+		"description": "3.5V to 28V Input, 5A, 570kHz Step-Down Converter with Eco-mode",
+		"productUrl": "https://www.ti.com/product/TPS54531",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "Level-2-260C-1 YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 150\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "3.5V ~ 28V"
+			}
+		},
+		"files": {
+			"datasheet": "https://www.ti.com/lit/ds/symlink/tps54531.pdf"
+		},
+		"package": {
+			"name": "SO-8-EP"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"BOOT": {
+					"no": [
+						1
+					],
+					"func": "In",
+					"desc": "A 0.1-\u03bcF bootstrap capacitor is required between the BOOT and PH pins. If the voltage on this capacitor falls below the minimum requirement, the high-side MOSFET is forced to switch off until the capacitor is refreshed."
+				},
+				"VIN": {
+					"no": [
+						2
+					],
+					"func": "Pwr In",
+					"desc": "Input supply voltage, 3.5 V to 28 V"
+				},
+				"EN": {
+					"no": [
+						3
+					],
+					"func": "In",
+					"desc": "Enable pin. Pull below 1.25 V to disable. Float to enable. Programming the input undervoltage lockout with two resistors is recommended."
+				}
+			},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TPS54531DDA": {
+				"productionStatus": "Active",
+				"Packaging Type": "Tube",
+				"Packaging Qty": "75"
+			},
+			"TPS54531DDAR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "2500",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.8mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "6.4mm",
+						"B0": "5.2mm",
+						"K0": "2.1mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	},
+	{
+		"manufacturer": "Texas Instruments",
 		"partNumber": "TPS562202",
 		"markingCode": "2202",
 		"partType": "IC Voltage Regulator",
