@@ -1,7 +1,7 @@
 import json
 import unittest
 from pathlib import Path
-from common import load_files, load_manufacturers, load_part_types
+from common import load_files, load_manufacturers, load_part_types, load_packaging_types
 
 
 class TestJsonFiles(unittest.TestCase):
@@ -9,6 +9,7 @@ class TestJsonFiles(unittest.TestCase):
     def setUpClass(cls):
         cls.manufacturers = load_manufacturers()
         cls.part_types = load_part_types()
+        cls.packaging_types = load_packaging_types()
         cls.files = load_files(Path('./components'))
         cls.json_files = []
         for f in cls.files:
@@ -34,6 +35,15 @@ class TestJsonFiles(unittest.TestCase):
             for part in json_file['data']:
                 self.assertIn(part['partType'], self.part_types,
                               msg=f"for part {part['partNumber']}, in: {json_file['file']}")
+
+    def test_validate_packaging_type(self):
+        for json_file in self.json_files:
+            for part in json_file['data']:
+                for order_number in part['orderNumbers']:
+                    order = part['orderNumbers'][order_number]
+                    if 'Packaging Type' in order:
+                        self.assertIn(order['Packaging Type'], self.packaging_types,
+                                      msg=f"for part {part['partNumber']}, in: {json_file['file']}")
 
 
 if __name__ == '__main__':

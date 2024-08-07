@@ -121,27 +121,12 @@
 		"orderNumbers": {
 			"1N4148W-7-F": {
 				"Packaging Code": "",
-				"Packaging Type": "7\u2019\u2019 Tape & Reel",
+				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "3000",
 				"Packaging Data": {
-					"Reel Diameter": "7\u201d",
-					"Reel Width": "",
-					"Tape Pin 1 Quadrant": "",
-					"Tape W": "",
-					"Tape E": "",
-					"Tape F": "",
-					"Tape SO": "",
-					"Tape P0": "",
-					"Tape P1": "",
-					"Tape P2": "",
-					"Tape D": "",
-					"Tape D1": "",
-					"Tape A0": "",
-					"Tape A1": "",
-					"Tape B0": "",
-					"Tape B1": "",
-					"Tape T": "",
-					"Tape K": ""
+					"reel": {
+						"Diameter": "7"
+					}
 				}
 			}
 		}

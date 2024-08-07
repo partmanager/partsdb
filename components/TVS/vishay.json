@@ -72,27 +72,12 @@
 		"orderNumbers": {
 			"SMAJ5.0A-E3/61": {
 				"Packaging Code": "",
-				"Packaging Type": "7\u201d Tape and reel",
+				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "1800",
 				"Packaging Data": {
-					"Reel Diameter": "",
-					"Reel Width": "",
-					"Tape Pin 1 Quadrant": "",
-					"Tape W": "",
-					"Tape E": "",
-					"Tape F": "",
-					"Tape SO": "",
-					"Tape P0": "",
-					"Tape P1": "",
-					"Tape P2": "",
-					"Tape D": "",
-					"Tape D1": "",
-					"Tape A0": "",
-					"Tape A1": "",
-					"Tape B0": "",
-					"Tape B1": "",
-					"Tape T": "",
-					"Tape K": ""
+					"reel": {
+						"Diameter": "7\""
+					}
 				}
 			}
 		}
@@ -170,27 +155,12 @@
 		"orderNumbers": {
 			"SMAJ6.0A-E3/61": {
 				"Packaging Code": "",
-				"Packaging Type": "7\u201d Tape and reel",
+				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "1800",
 				"Packaging Data": {
-					"Reel Diameter": "",
-					"Reel Width": "",
-					"Tape Pin 1 Quadrant": "",
-					"Tape W": "",
-					"Tape E": "",
-					"Tape F": "",
-					"Tape SO": "",
-					"Tape P0": "",
-					"Tape P1": "",
-					"Tape P2": "",
-					"Tape D": "",
-					"Tape D1": "",
-					"Tape A0": "",
-					"Tape A1": "",
-					"Tape B0": "",
-					"Tape B1": "",
-					"Tape T": "",
-					"Tape K": ""
+					"reel": {
+						"Diameter": "7\""
+					}
 				}
 			}
 		}

@@ -118,9 +118,13 @@
 		"orderNumbers": {
 			"CRGCQ1206F120R": {
 				"Packaging Code": "",
-				"Packaging Type": "178mm Reel, paper",
+				"Packaging Type": "Paper Tape / Reel",
 				"Packaging Qty": "5000",
-				"Packaging Data": {}
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "178mm"
+					}
+				}
 			}
 		}
 	}

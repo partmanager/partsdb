@@ -51,9 +51,13 @@
 		"orderNumbers": {
 			"WR06X2002FTL": {
 				"Packaging Code": "",
-				"Packaging Type": "7\u201d Reel, paper",
+				"Packaging Type": "Paper Tape / Reel",
 				"Packaging Qty": "5000",
-				"Packaging Data": {}
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "7\""
+					}
+				}
 			}
 		}
 	}

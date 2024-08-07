@@ -108,73 +108,83 @@
 		"symbol&footprint": {
 			"pinmap": {
 				"BOOT": {
-					"no": [
-						1
-					],
+					"no": 1,
 					"func": "In"
 				},
 				"VIN": {
-					"no": [
-						2
-					],
+					"no": 2,
 					"func": "Pwr In"
 				},
 				"EN": {
-					"no": [
-						3
-					],
+					"no": 3,
 					"func": "In"
 				},
 				"SS/TR": {
-					"no": [
-						4
-					],
+					"no": 4,
 					"func": "In"
 				},
 				"RT/CLK": {
-					"no": [
-						5
-					],
+					"no": 5,
 					"func": "In"
 				},
 				"PWRGD": {
-					"no": [
-						6
-					],
+					"no": 6,
 					"func": "Out OpenDrain"
 				},
 				"VSENSE": {
-					"no": [
-						7
-					],
+					"no": 7,
 					"func": "In"
 				},
 				"COMP": {
-					"no": [
-						8
-					],
+					"no": 8,
 					"func": "In"
 				},
 				"GND": {
-					"no": [
-						9
-					],
+					"no": 9,
 					"func": "Pwr In"
 				},
 				"PH": {
-					"no": [
-						10
-					],
+					"no": 10,
 					"func": "Out"
 				},
 				"EP": {
-					"no": [
-						"EP"
-					],
+					"no": "EP",
 					"func": "Pwr In"
 				}
 			},
-			"footprints": []
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"VIN",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"EN",
+						"PWRGD",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"SS/TR",
+						"RT/CLK",
+						"COMP"
+					],
+					"right_side": [
+						"BOOT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"PH",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"VSENSE",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"EP",
+						"GND"
+					]
+				}
+			}
 		},
 		"orderNumbers": {
 			"TPS54260DRCR": {
@@ -281,7 +291,7 @@
 			"TPS54424RNVR": {
 				"productionStatus": "Active",
 				"packagingCode": "R",
-				"Packaging Type": "180mm Reel",
+				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "3000",
 				"Packaging Data": {
 					"reel": {
@@ -301,7 +311,7 @@
 			"TPS54424RNVT": {
 				"productionStatus": "Active",
 				"packagingCode": "T",
-				"Packaging Type": "180mm Reel",
+				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "250",
 				"Packaging Data": {
 					"reel": {
@@ -409,7 +419,8 @@
 		"description": "4.3-V to 17-V Input, 2-A Synchronous Buck Converter",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C"
+			"temperature": "-55\u00b0C ~ 150\u00b0C",
+			"MSLevel": "Level-1-260C-UNLIM"
 		},
 		"operatingConditions": {
 			"temperature": "-55\u00b0C ~ 150\u00b0C"
@@ -429,9 +440,22 @@
 		},
 		"orderNumbers": {
 			"TPS562202DRLR": {
-				"Packaging Type": "180mm Reel",
+				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "4000",
-				"Packaging Data": {}
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "1.8mm",
+						"B0": "1.8mm",
+						"K0": "0.75mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
 			}
 		}
 	},

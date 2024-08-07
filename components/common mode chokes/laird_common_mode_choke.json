@@ -69,28 +69,9 @@
 		"orderNumbers": {
 			"CM3421Y600R-10": {
 				"Packaging Code": "",
-				"Packaging Type": "Tape and Reel",
+				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "2000",
-				"Packaging Data": {
-					"Reel Diameter": "",
-					"Reel Width": "",
-					"Tape Pin 1 Quadrant": "",
-					"Tape W": "",
-					"Tape E": "",
-					"Tape F": "",
-					"Tape SO": "",
-					"Tape P0": "",
-					"Tape P1": "",
-					"Tape P2": "",
-					"Tape D": "",
-					"Tape D1": "",
-					"Tape A0": "",
-					"Tape A1": "",
-					"Tape B0": "",
-					"Tape B1": "",
-					"Tape T": "",
-					"Tape K": ""
-				}
+				"Packaging Data": {}
 			}
 		}
 	}

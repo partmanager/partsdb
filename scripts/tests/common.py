@@ -24,7 +24,8 @@ def load_part_types():
             'ESD Suppressor',
             'Fuse',
             'Ind', 'Inductor', 'IC', 'IC LDO', 'IC MCU',
-            'IC Voltage Reference', 'IC Voltage Regulator', 'IC Voltage Regulator Switching', 'IC DC-DC', 'IC Opamp', 'IC RF Amplifier', 'IC RF Synthesizer',
+            'IC Load Switch', 'IC Voltage Reference', 'IC Voltage Regulator', 'IC Voltage Regulator Switching',
+            'IC DC-DC', 'IC Opamp', 'IC RF Amplifier', 'IC RF Synthesizer',
             'LED',
             'LCD Display',
             'Lightpipe',
@@ -49,7 +50,13 @@ def load_part_types():
 def load_manufacturers():
     with open('./manufacturers/manufacturers.json') as f:
         manufacturers = json.load(f)
-        return [x['name'] for x in manufacturers] + [x['full_name'] for x in manufacturers if x['full_name'] is not None and len(x['full_name']) > 0]
+        return [x['name'] for x in manufacturers] + [x['full_name'] for x in manufacturers if
+                                                     x['full_name'] is not None and len(x['full_name']) > 0]
+
+
+def load_packaging_types():
+    return ['Bag', 'Bulk', 'Cut Tape', 'Embossed Tape / Reel', 'Paper Tape / Reel', 'Foil',
+            'shrink wrap', 'Tube', 'Tray', '', 'Tape & Reel', '13” Reel', '7" reel']
 
 
 def load_files(directory):

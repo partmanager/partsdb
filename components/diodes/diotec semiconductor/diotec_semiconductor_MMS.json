@@ -46,9 +46,13 @@
 		"orderNumbers": {
 			"MMSZ5245B": {
 				"Packaging Code": "",
-				"Packaging Type": "7\u201d Reel",
+				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "3000",
-				"Packaging Data": {}
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "7\""
+					}
+				}
 			}
 		}
 	}

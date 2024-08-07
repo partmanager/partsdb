@@ -92,7 +92,7 @@
         "orderNumbers": {
             "PESD2CAN,215": {
                 "Packaging Code": "",
-                "Packaging Type": "Tape and reel",
+                "Packaging Type": "Embossed Tape / Reel",
                 "Packaging Qty": "3000",
                 "Packaging Data": {
                     "Reel Diameter": "",
@@ -117,7 +117,7 @@
             },
             "PESD2CAN.215": {
                 "Packaging Code": "",
-                "Packaging Type": "Tape and reel",
+                "Packaging Type": "Embossed Tape / Reel",
                 "Packaging Qty": "3000",
                 "Packaging Data": {
                     "Reel Diameter": "",
@@ -142,7 +142,7 @@
             },
             "PESD2CAN,235": {
                 "Packaging Code": "",
-                "Packaging Type": "Tape and reel",
+                "Packaging Type": "Embossed Tape / Reel",
                 "Packaging Qty": "10000",
                 "Packaging Data": {
                     "Reel Diameter": "",
@@ -167,7 +167,7 @@
             },
             "PESD2CAN.235": {
                 "Packaging Code": "",
-                "Packaging Type": "Tape and reel",
+                "Packaging Type": "Embossed Tape / Reel",
                 "Packaging Qty": "10000",
                 "Packaging Data": {
                     "Reel Diameter": "",
@@ -282,7 +282,7 @@
         "orderNumbers": {
             "PESD5V0L4UG.115": {
                 "Packaging Code": "",
-                "Packaging Type": "Tape and reel",
+                "Packaging Type": "Embossed Tape / Reel",
                 "Packaging Qty": "3000",
                 "Packaging Data": {
                     "Reel Diameter": "",

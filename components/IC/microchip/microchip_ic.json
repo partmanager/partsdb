@@ -41,28 +41,9 @@
 		"orderNumbers": {
 			"AT24MAC602-SSHM-T": {
 				"Packaging Code": "",
-				"Packaging Type": "Tape",
+				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "",
-				"Packaging Data": {
-					"Reel Diameter": "",
-					"Reel Width": "",
-					"Tape Pin 1 Quadrant": "",
-					"Tape W": "",
-					"Tape E": "",
-					"Tape F": "",
-					"Tape SO": "",
-					"Tape P0": "",
-					"Tape P1": "",
-					"Tape P2": "",
-					"Tape D": "",
-					"Tape D1": "",
-					"Tape A0": "",
-					"Tape A1": "",
-					"Tape B0": "",
-					"Tape B1": "",
-					"Tape T": "",
-					"Tape K": ""
-				}
+				"Packaging Data": {}
 			},
 			"AT24MAC602-SSHM-B": {
 				"Packaging Code": "",
