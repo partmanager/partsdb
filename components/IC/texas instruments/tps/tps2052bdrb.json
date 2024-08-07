@@ -1,0 +1,162 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS2052BDRB#",
+		"markingCode": "2052",
+		"partType": "IC Load Switch",
+		"description": "2ch, 0.5A loading, 2.7-5.5V, 70m\u03a9 USB power switch, active-high",
+		"productUrl": "https://www.ti.com/product/TPS2052B",
+		"tags": [
+			"USB"
+		],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "Level-1-260C-UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "2.7V ~ 5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tps2052b.pdf"
+				},
+				"SLVS514O": {
+					"url": "https://www.ti.com/lit/ds/slvs514o/slvs514o.pdf",
+					"date": "01-2024",
+					"md5sum": "c73e939ff1ecfa7181cfa3936d8c9328"
+				}
+			}
+		},
+		"package": {
+			"name": "SON-8"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"EN1": {
+					"no": 3,
+					"func": "In-Digital; Active High",
+					"desc": "Switch 1 control input, Active high"
+				},
+				"EN2": {
+					"no": 4,
+					"func": "In-Digital; Active High",
+					"desc": "Switch 2 control input, Active high"
+				},
+				"GND": {
+					"no": 1,
+					"func": "Pwr GND",
+					"desc": "Power Ground"
+				},
+				"IN": {
+					"no": 2,
+					"func": "Pwr In",
+					"desc": "Input Voltage"
+				},
+				"OC1": {
+					"no": 8,
+					"func": "Out-OpenDrain; Active low",
+					"desc": "Overcurrent indication, open-drain output, active low"
+				},
+				"OC2": {
+					"no": 5,
+					"func": "Out-OpenDrain; Active low",
+					"desc": "Overcurrent indication, open-drain output, active low"
+				},
+				"OUT1": {
+					"no": 7,
+					"func": "Pwr Out",
+					"desc": "Switch 1 power output"
+				},
+				"OUT2": {
+					"no": 6,
+					"func": "Pwr Out",
+					"desc": "Switch 1 power output"
+				},
+				"EP": {
+					"no": "EP",
+					"func": "Pwr GND",
+					"desc": "Exposed pad, connect to GND."
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"EN1",
+						"EN2",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"OC1",
+						"OC2"
+					],
+					"right_side": [
+						"OUT1",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"OUT2",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"EP",
+						"GND"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"TPS2052BDRBR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "3000",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "3.3mm",
+						"B0": "3.3mm",
+						"K0": "1.0mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			},
+			"TPS2052BDRBT": {
+				"productionStatus": "Active",
+				"packagingCode": "T",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "250",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "3.3mm",
+						"B0": "3.3mm",
+						"K0": "1.0mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]
