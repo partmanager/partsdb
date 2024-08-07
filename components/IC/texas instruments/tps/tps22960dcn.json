@@ -1,0 +1,131 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS22960DCN#",
+		"markingCode": "72",
+		"partType": "IC Load Switch",
+		"description": "2ch, 5.5V, 0.5A, 435-m\u03a9 load switch with output discharge",
+		"productUrl": "https://www.ti.com/product/TPS22960",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "Level-1-260C-UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "1.62V ~ 5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tps22960.pdf"
+				},
+				"SLVS914E": {
+					"url": "https://www.ti.com/lit/ds/slvs914e/slvs914e.pdf",
+					"date": "04-2024",
+					"md5sum": "77c1c831289f2a092470bba6a58fbffa"
+				}
+			}
+		},
+		"package": {
+			"name": "SOT-23-8"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"V_IN1": {
+					"no": 1,
+					"func": "Pwr In",
+					"desc": "Switch 1 power input"
+				},
+				"ON1": {
+					"no": 2,
+					"func": "In-Digital; Active High",
+					"desc": "Switch 1 control input, Active high"
+				},
+				"ON2": {
+					"no": 3,
+					"func": "In-Digital; Active High",
+					"desc": "Switch 2 control input, Active high"
+				},
+				"V_IN2": {
+					"no": 4,
+					"func": "Pwr In",
+					"desc": "Switch 2 power input"
+				},
+				"V_OUT2": {
+					"no": 5,
+					"func": "Pwr Out",
+					"desc": "Switch 1 power output"
+				},
+				"GND": {
+					"no": 6,
+					"func": "Pwr GND",
+					"desc": "Power Ground"
+				},
+				"SR": {
+					"no": 7,
+					"func": "In-Analog",
+					"desc": "Slew rate control pin"
+				},
+				"V_OUT1": {
+					"no": 8,
+					"func": "Pwr Out",
+					"desc": "Switch 2 power output"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"ON1",
+						"ON2",
+						"!@#SEPARATOR#@!",
+						"V_IN1",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"V_IN2",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"SR",
+						"GND"
+					],
+					"right_side": [
+						"V_OUT1",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"V_OUT2"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"TPS22960DCNR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "3000",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "3.23mm",
+						"B0": "3.17mm",
+						"K0": "1.73mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]
