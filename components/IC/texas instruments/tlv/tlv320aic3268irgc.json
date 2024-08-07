@@ -1,0 +1,86 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TLV320AIC3268IRGC#",
+		"markingCode": "AIC3268",
+		"partType": "IC",
+		"description": "Ultra Low Power Stereo Audio Codec",
+		"productUrl": "https://www.ti.com/product/TLV320AIC3268",
+		"tags": [
+			"Audio Codec"
+		],
+		"storageConditions": {
+			"temperature": "-55\u00b0C ~ 125\u00b0C",
+			"MSLevel": "Level-3-260C-168 HR"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "1.65V ~ 3.6V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tlv320aic3268.pdf"
+				},
+				"SLAS953A": {
+					"url": "https://www.ti.com/lit/ds/slvs514o/slvs514o.pdf",
+					"date": "02-2014",
+					"md5sum": "af7095dd08b0b1723e960c73353bb7dd"
+				}
+			}
+		},
+		"package": {
+			"name": "VQFN-64"
+		},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TLV320AIC3268IRGCR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "2000",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "16.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "9.3mm",
+						"B0": "9.3mm",
+						"K0": "1.1mm",
+						"P1": "12mm",
+						"W": "16mm"
+					}
+				}
+			},
+			"TLV320AIC3268IRGCT": {
+				"productionStatus": "Active",
+				"packagingCode": "T",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "250",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "16.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "9.3mm",
+						"B0": "9.3mm",
+						"K0": "1.1mm",
+						"P1": "12mm",
+						"W": "16mm"
+					}
+				}
+			}
+		}
+	}
+]
