@@ -1,0 +1,134 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS71701DCK#",
+		"markingCode": "BMT",
+		"partType": "IC LDO",
+		"series": {
+			"name": "TPS717",
+			"description": "150mA, high-PSRR, low-IQ, low-dropout voltage regulator with enable"
+		},
+		"description": "Adjustable Low-Noise, High-Bandwidth PSRR, Low-Dropout, 150-mA Linear Regulator",
+		"productUrl": "https://www.ti.com/product/TPS737",
+		"tags": "LDO",
+		"storageConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C",
+			"MSLevel": "Level-1-260C-1 UNLIM"
+		},
+		"parameters": {
+			"Working Temp Range": {
+				"min": "-40\u00b0C",
+				"max": "125\u00b0C"
+			},
+			"Supply Voltage Range": {
+				"min": "2.5V",
+				"max": "6V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tps717.pdf"
+				},
+				"SBVS068I": {
+					"date": "01-2016",
+					"md5sum": "01ffba3d292726f106f8811d801bd631"
+				}
+			}
+		},
+		"package": {
+			"name": "SC70-5"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"EN": {
+					"no": 3,
+					"func": "In-Digital; Active High",
+					"desc": "Enable Voltage Regulator, Active high"
+				},
+				"FB": {
+					"no": 4,
+					"func": "In-Analog",
+					"desc": "Feedback voltage"
+				},
+				"GND": {
+					"no": 2,
+					"func": "Pwr GND",
+					"desc": "Power Ground"
+				},
+				"IN": {
+					"no": 1,
+					"func": "Pwr In",
+					"desc": "Input Voltage"
+				},
+				"OUT": {
+					"no": 5,
+					"func": "Pwr Out",
+					"desc": "Regulated voltage output"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"EN"
+					],
+					"right_side": [
+						"OUT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"FB",
+						"GND"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"TPS71701DCKR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "3000",
+				"packagingData": {
+					"reel": {
+						"Diameter": "178mm",
+						"Width": "9mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"W": "8mm",
+						"P1": "4mm",
+						"A0": "2.4mm",
+						"B0": "2.5mm",
+						"K0": "1.2mm"
+					}
+				}
+			},
+			"TPS71701DCKT": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "250",
+				"packagingData": {
+					"reel": {
+						"Diameter": "178mm",
+						"Width": "9mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"W": "8mm",
+						"P1": "4mm",
+						"A0": "2.4mm",
+						"B0": "2.5mm",
+						"K0": "1.2mm"
+					}
+				}
+			}
+		}
+	}
+]
