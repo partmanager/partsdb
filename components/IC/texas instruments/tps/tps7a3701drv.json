@@ -1,0 +1,144 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS7A3701DRV#",
+		"markingCode": "SJI",
+		"productionStatus": "Active",
+		"partType": "IC LDO",
+		"series": {
+			"name": "TPS7A37",
+			"description": "LDO 1A, 1% high-accuracy with reverse current protection"
+		},
+		"description": "LDO Vout=Adj, Iout=1A, Vin=2.2V ~ 5.5V, high accuracy",
+		"productUrl": "https://www.ti.com/product/TPS7A37",
+		"tags": "LDO",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "Level-2-260C-1 YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.2V",
+				"max": "5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tps7a37.pdf"
+				},
+				"SBVS220B": {
+					"date": "08-2015",
+					"md5sum": "205aca2d58700c1d87aac3b93d4800bb"
+				}
+			}
+		},
+		"package": {
+			"name": "WSON-6"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"EN": {
+					"no": 4,
+					"func": "In-Digital; Active High",
+					"desc": "Enable Voltage Regulator, Active high"
+				},
+				"FB": {
+					"no": 2,
+					"func": "In-Analog",
+					"desc": "Feedback voltage"
+				},
+				"GND": {
+					"no": 3,
+					"func": "Pwr GND",
+					"desc": "Power Ground"
+				},
+				"IN": {
+					"no": 6,
+					"func": "Pwr In",
+					"desc": "Input Voltage"
+				},
+				"NC": {
+					"no": 5,
+					"func": "NC",
+					"desc": "Not connected"
+				},
+				"OUT": {
+					"no": 1,
+					"func": "Pwr Out",
+					"desc": "Regulated voltage output"
+				},
+				"EP": {
+					"no": "EP",
+					"func": "Pwr GND",
+					"desc": "Ground"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"EN",
+						"NC"
+					],
+					"right_side": [
+						"OUT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"FB",
+						"GND",
+						"EP"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"TPS7A3701DRVR": {
+				"packagingCode": "R",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "3000",
+				"packagingData": {
+					"reel": {
+						"Diameter": "179mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "2.2mm",
+						"B0": "2.2mm",
+						"K0": "1.2mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			},
+			"TPS7A3701DRVT": {
+				"packagingCode": "T",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "250",
+				"packagingData": {
+					"reel": {
+						"Diameter": "179mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "2.2mm",
+						"B0": "2.2mm",
+						"K0": "1.2mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]
