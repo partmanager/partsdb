@@ -1,0 +1,44 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TLV62130A",
+		"markingCode": "VUNI",
+		"partType": "IC",
+		"series": {},
+		"description": "3-V to 17-V 3-A Step-Down Converter",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TLV62130ARGTR": {
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "3000",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "13\u201d"
+					}
+				}
+			},
+			"TLV62130ARGTT": {
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": 250,
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "7\""
+					}
+				}
+			}
+		}
+	}
+]
