@@ -1,0 +1,132 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TLV70733DQN#",
+		"markingCode": "YH",
+		"partType": "IC LDO",
+		"series": {
+			"name": "TLV707",
+			"description": "LDO Iout=200mA, low IQ, low-dropout voltage regulator with enable"
+		},
+		"description": "LDO, Vout=3.3V, Iout=200mA, Vin= high-PSRR, low-IQ, low-dropout voltage regulator with enable",
+		"productUrl": "https://www.ti.com/product/TLV707",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C",
+			"MSLevel": "Level-1-260C-UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "2V ~ 5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tlv707.pdf"
+				},
+				"SBVS153G": {
+					"url": "https://www.ti.com/lit/ds/sbvs153g/sbvs153g.pdf",
+					"date": "06-2023",
+					"md5sum": "c3d8bbdd2f7095576ac56f406dd2fc22"
+				}
+			}
+		},
+		"package": {
+			"name": "X2SON-4"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"OUT": {
+					"no": 1,
+					"func": "Pwr Out",
+					"desc": "Regulated output voltage."
+				},
+				"GND": {
+					"no": 2,
+					"func": "Pwr GND",
+					"desc": "Power Ground"
+				},
+				"EN": {
+					"no": 3,
+					"func": "In-Digital; Active High",
+					"desc": "Enable voltage regulator"
+				},
+				"IN": {
+					"no": 4,
+					"func": "Pwr In",
+					"desc": "Input voltage"
+				},
+				"EP": {
+					"no": "EP",
+					"func": "NC-GND"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"EN"
+					],
+					"right_side": [
+						"OUT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"GND",
+						"EP"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"TLV70733DQNR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "3000",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "1.16mm",
+						"B0": "1.16mm",
+						"K0": "0.5mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			},
+			"TLV70733DQNT": {
+				"productionStatus": "Active",
+				"packagingCode": "T",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "250",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "1.16mm",
+						"B0": "1.16mm",
+						"K0": "0.5mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]
