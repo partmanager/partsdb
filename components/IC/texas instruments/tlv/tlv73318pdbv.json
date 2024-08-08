@@ -1,14 +1,14 @@
 [
 	{
 		"manufacturer": "Texas Instruments",
-		"partNumber": "TLV73333PDBV#",
-		"markingCode": "VCIQ",
+		"partNumber": "TLV73318PDBV#",
+		"markingCode": "VCGQ",
 		"partType": "IC LDO",
 		"series": {
 			"name": "TLV733P",
 			"description": "300mA, capacitor free, low IQ, low-dropout voltage regulator with enable"
 		},
-		"description": "LDO, Vout=3.3V, Iout=300mA, Vin=1.4V ~ 5.5V, capacitor free, with enable",
+		"description": "LDO, Vout=1.8V, Iout=300mA, Vin=1.4V ~ 5.5V, capacitor free, with enable",
 		"productUrl": "https://www.ti.com/product/TLV733P",
 		"tags": [],
 		"storageConditions": {
@@ -87,7 +87,7 @@
 			}
 		},
 		"orderNumbers": {
-			"TLV73333PDBVR": {
+			"TLV73318PDBVR": {
 				"productionStatus": "Active",
 				"packagingCode": "R",
 				"Packaging Type": "Embossed Tape / Reel",
@@ -107,7 +107,7 @@
 					}
 				}
 			},
-			"TLV73333PDBVT": {
+			"TLV73318PDBVT": {
 				"productionStatus": "Active",
 				"packagingCode": "T",
 				"Packaging Type": "Embossed Tape / Reel",
