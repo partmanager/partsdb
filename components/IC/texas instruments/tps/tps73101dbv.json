@@ -1,0 +1,133 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS73101DBV#",
+		"markingCode": "PWYQ",
+		"partType": "IC LDO",
+		"series": {
+			"name": "TPS731",
+			"description": "150mA, high-accuracy, ultra-low-dropout voltage regulator with reverse current protection & enable"
+		},
+		"description": "Adjustable 150mA, high-accuracy, ultra-low-dropout voltage regulator with reverse current protection & enable",
+		"productUrl": "https://www.ti.com/product/TPS731",
+		"tags": "LDO",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "Level-1-260C-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "1.7V",
+				"max": "5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tps731.pdf"
+				},
+				"SBVS034N": {
+					"date": "12-2015",
+					"md5sum": "7248119eb0f2b5ff45292df08c2d7737"
+				}
+			}
+		},
+		"package": {
+			"name": "SOT-23-5"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"IN": {
+					"no": 1,
+					"func": "Pwr In",
+					"desc": "Input Voltage"
+				},
+				"GND": {
+					"no": 2,
+					"func": "Pwr GND",
+					"desc": "Power Ground"
+				},
+				"EN": {
+					"no": 3,
+					"func": "In-Digital; Active High",
+					"desc": "Enable Voltage Regulator, Active high"
+				},
+				"FB": {
+					"no": 4,
+					"func": "In-Analog",
+					"desc": "Voltage feedback input pin"
+				},
+				"OUT": {
+					"no": 5,
+					"func": "Pwr Out",
+					"desc": "Regulated voltage output"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"EN"
+					],
+					"right_side": [
+						"OUT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"FB",
+						"GND"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"TPS73101DBVR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "3000",
+				"packagingData": {
+					"reel": {
+						"Diameter": "178mm",
+						"Width": "9mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "3.23mm",
+						"B0": "3.17mm",
+						"K0": "1.37mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			},
+			"TPS73101DBVT": {
+				"productionStatus": "Active",
+				"packagingCode": "T",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "250",
+				"packagingData": {
+					"reel": {
+						"Diameter": "178mm",
+						"Width": "9mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "3.23mm",
+						"B0": "3.17mm",
+						"K0": "1.37mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]
