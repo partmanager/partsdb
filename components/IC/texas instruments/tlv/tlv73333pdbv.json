@@ -1,0 +1,132 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TLV73333PDBV#",
+		"markingCode": "VCIQ",
+		"partType": "IC LDO",
+		"series": {
+			"name": "TLV733P",
+			"description": "300mA, capacitor free, low IQ, low-dropout voltage regulator with enable"
+		},
+		"description": "300-mA, high-PSRR, low-IQ, low-dropout voltage regulator with enable",
+		"productUrl": "https://www.ti.com/product/TLV733P",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 160\u00b0C",
+			"MSLevel": "Level-1-260C-UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 150\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "1.4V ~ 5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tlv733p.pdf"
+				},
+				"SBVS235C": {
+					"date": "07-2019",
+					"md5sum": "ebf64a768f15eac919a03ac70ec020c3"
+				}
+			}
+		},
+		"package": {
+			"name": "SOT-23-5"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"IN": {
+					"no": 1,
+					"func": "Pwr In",
+					"desc": "Input voltage"
+				},
+				"GND": {
+					"no": 2,
+					"func": "Pwr GND",
+					"desc": "Power Ground"
+				},
+				"EN": {
+					"no": 3,
+					"func": "In-Digital; Active High",
+					"desc": "Enable voltage regulator"
+				},
+				"NC": {
+					"no": 4,
+					"func": "NC-GND",
+					"desc": "No connection."
+				},
+				"OUT": {
+					"no": 5,
+					"func": "Pwr Out",
+					"desc": "Regulated output voltage."
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"EN"
+					],
+					"right_side": [
+						"OUT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"NC",
+						"GND"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"TLV73333PDBVR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "3000",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "3.2mm",
+						"B0": "3.2mm",
+						"K0": "1.4mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			},
+			"TLV73333PDBVT": {
+				"productionStatus": "Active",
+				"packagingCode": "T",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "250",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "3.2mm",
+						"B0": "3.2mm",
+						"K0": "1.4mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]
