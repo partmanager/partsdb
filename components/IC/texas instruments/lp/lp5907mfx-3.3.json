@@ -1,60 +1,6 @@
 [
 	{
 		"manufacturer": "Texas Instruments",
-		"partNumber": "LP2985IM5-3.3#",
-		"markingCode": "L0RB",
-		"partType": "IC LDO",
-		"series": {
-			"name": "LP2985-N",
-			"description": "150-mA, 16-V, low-dropout voltage regulator with enable"
-		},
-		"description": "LDO 3.3V 150mA, Vin 2.2~16V, low-dropout voltage regulator with enable",
-		"productUrl": "https://www.ti.com/product/LP2985-N",
-		"tags": "LDO",
-		"storageConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"MSLevel": "Level-1-260C-UNLIM"
-		},
-		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 125\u00b0C"
-		},
-		"parameters": {
-			"Supply Voltage Range": {
-				"min": "2.5V",
-				"max": "16V"
-			}
-		},
-		"files": {
-			"datasheet": "https://www.ti.com/lit/ds/symlink/lp2985-n.pdf"
-		},
-		"package": {
-			"name": "SOT-23-5"
-		},
-		"orderNumbers": {
-			"LP2985IM5-3.3/NOPB": {
-				"productionStatus": "Active",
-				"packagingCode": "R",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "3000",
-				"packagingData": {
-					"reel": {
-						"Diameter": "180mm",
-						"Width": "8.4mm"
-					},
-					"tape": {
-						"Pin 1 Quadrant": "Q3",
-						"W": "8mm",
-						"P1": "4mm",
-						"A0": "3.2mm",
-						"B0": "3.2mm",
-						"K0": "1.4mm"
-					}
-				}
-			}
-		}
-	},
-	{
-		"manufacturer": "Texas Instruments",
 		"partNumber": "LP5907MFX-3.3#",
 		"markingCode": "LLVB",
 		"partType": "IC LDO",
