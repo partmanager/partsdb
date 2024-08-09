@@ -1,0 +1,130 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "INA169NA#",
+		"markingCode": "A69",
+		"partType": "IC Current Sense",
+		"series": {
+			"name": "INA1x9",
+			"description": "High-Side Measurement Current Shunt Monitor"
+		},
+		"description": "High-Side Measurement Current Shunt Monitor",
+		"productUrl": "https://www.ti.com/product/INA169",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "Level-2-260C-1 YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.7V",
+				"max": "60V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/ina169.pdf"
+				},
+				"SBOS181F": {
+					"date": "02-2017",
+					"md5sum": "694bf6e69a4ce21d4235d5d994c4fb87"
+				}
+			}
+		},
+		"package": {
+			"name": "SOT-23-5"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"OUT": {
+					"no": 1,
+					"func": "Out-Analog",
+					"desc": "Output voltage"
+				},
+				"GND": {
+					"no": 2,
+					"func": "Pwr GND",
+					"desc": "Power Ground"
+				},
+				"IN+": {
+					"no": 3,
+					"func": "In-Analog",
+					"desc": "Connect to shunt resistor"
+				},
+				"IN-": {
+					"no": 4,
+					"func": "In-Analog",
+					"desc": "Connect to shunt resistor"
+				},
+				"V+": {
+					"no": 5,
+					"func": "Pwr In",
+					"desc": "Power supply"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN+",
+						"!@#SEPARATOR#@!",
+						"IN-"
+					],
+					"right_side": [
+						"V+",
+						"!@#SEPARATOR#@!",
+						"OUT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"GND"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"INA169NA/3K": {
+				"productionStatus": "Active",
+				"packagingCode": "/3K",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "3000",
+				"packagingData": {
+					"reel": {
+						"Diameter": "178mm",
+						"Width": "9mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "3.3mm",
+						"B0": "3.2mm",
+						"K0": "1.4mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			},
+			"INA169NA/250": {
+				"productionStatus": "Active",
+				"packagingCode": "/250",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "250",
+				"packagingData": {
+					"reel": {
+						"Diameter": "178mm",
+						"Width": "9mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "3.3mm",
+						"B0": "3.2mm",
+						"K0": "1.4mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]

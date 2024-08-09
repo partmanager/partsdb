@@ -1,0 +1,152 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "INA199A2RSW#",
+		"markingCode": "NTJ",
+		"partType": "IC Current Sense",
+		"series": {
+			"name": "INA199",
+			"description": "26V, Bidirectional, Zero-Drift, Low- or High-Side, Voltage-Output, Current-Shunt Monitor"
+		},
+		"description": "26V, bi-directional current sense amplifier",
+		"productUrl": "https://www.ti.com/product/INA199",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "Level-1-260C-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.7V",
+				"max": "26V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/ina199.pdf"
+				},
+				"SBOS469H": {
+					"date": "10-2013",
+					"md5sum": "55273351c76764081fba73c434157c26"
+				}
+			}
+		},
+		"package": {
+			"name": "UQFN-10"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"NC": {
+					"no": [
+						1,
+						7
+					],
+					"func": "NC-GND",
+					"desc": "Not internally connected. Leave floating or connect to ground"
+				},
+				"IN+": {
+					"no": [
+						2,
+						3
+					],
+					"func": "In-Analog",
+					"desc": "Connect to shunt resistor"
+				},
+				"IN-": {
+					"no": [
+						4,
+						5
+					],
+					"func": "In-Analog",
+					"desc": "Connect to shunt resistor"
+				},
+				"V+": {
+					"no": 6,
+					"func": "Pwr In",
+					"desc": "Power supply"
+				},
+				"REF": {
+					"no": 8,
+					"func": "In-Analog",
+					"desc": "Reference voltage"
+				},
+				"GND": {
+					"no": 9,
+					"func": "Pwr GND",
+					"desc": "Power Ground"
+				},
+				"OUT": {
+					"no": 10,
+					"func": "Out-Analog",
+					"desc": "Output voltage"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN+",
+						"IN-",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"REF",
+						"NC"
+					],
+					"right_side": [
+						"V+",
+						"!@#SEPARATOR#@!",
+						"OUT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"GND"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"INA199A2RSWR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "3000",
+				"packagingData": {
+					"reel": {
+						"Diameter": "179mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "1.7mm",
+						"B0": "2.1mm",
+						"K0": "0.7mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			},
+			"INA199A2RSWT": {
+				"productionStatus": "Obsolete",
+				"packagingCode": "T",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "250",
+				"packagingData": {
+					"reel": {
+						"Diameter": "179mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "1.7mm",
+						"B0": "2.1mm",
+						"K0": "0.7mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]

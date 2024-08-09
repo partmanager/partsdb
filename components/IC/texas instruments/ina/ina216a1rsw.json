@@ -1,0 +1,140 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "INA216A1RSW#",
+		"markingCode": "SNJ",
+		"partType": "IC Current Sense",
+		"series": {
+			"name": "INA216",
+			"description": "1.8 to 5.5V, high-precision current sense amplifier"
+		},
+		"description": "Small Size, Low-Power, Unidirectional, Current Shunt Monitor Zero-Drift Series",
+		"productUrl": "https://www.ti.com/product/INA216",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "Level-1-260C UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "1.8V",
+				"max": "5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/ina216.pdf"
+				},
+				"SBOS503C": {
+					"date": "11-2011",
+					"md5sum": "41e0a5a336b9652a4af3c3ede2d21d2c"
+				}
+			}
+		},
+		"package": {
+			"name": "UQFN-10"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"NC": {
+					"no": [
+						1,
+						6,
+						7,
+						8
+					],
+					"func": "NC-GND",
+					"desc": "Not internally connected. Leave floating or connect to ground"
+				},
+				"IN+": {
+					"no": [
+						2,
+						3
+					],
+					"func": "In-Analog",
+					"desc": "Connect to shunt resistor"
+				},
+				"IN-": {
+					"no": [
+						4,
+						5
+					],
+					"func": "In-Analog",
+					"desc": "Connect to shunt resistor"
+				},
+				"GND": {
+					"no": 9,
+					"func": "Pwr GND",
+					"desc": "Power Ground"
+				},
+				"OUT": {
+					"no": 10,
+					"func": "Out-Analog",
+					"desc": "Output voltage"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN+",
+						"IN-",
+						"!@#SEPARATOR#@!",
+						"NC"
+					],
+					"right_side": [
+						"OUT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"GND"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"INA216A1RSWR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "3000",
+				"packagingData": {
+					"reel": {
+						"Diameter": "179mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "1.7mm",
+						"B0": "2.1mm",
+						"K0": "0.7mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			},
+			"INA216A1RSWT": {
+				"productionStatus": "Obsolete",
+				"packagingCode": "T",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "250",
+				"packagingData": {
+					"reel": {
+						"Diameter": "179mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "1.7mm",
+						"B0": "2.1mm",
+						"K0": "0.7mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]

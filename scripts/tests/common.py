@@ -23,7 +23,8 @@ def load_part_types():
             'Enclosure Accessory',
             'ESD Suppressor',
             'Fuse',
-            'Ind', 'Inductor', 'IC', 'IC LDO', 'IC MCU',
+            'Ind', 'Inductor',
+            'IC', 'IC Current Sense', 'IC LDO', 'IC MCU',
             'IC Load Switch', 'IC Voltage Reference', 'IC Voltage Regulator', 'IC Voltage Regulator Switching',
             'IC DC-DC', 'IC Opamp', 'IC RF Amplifier', 'IC RF Synthesizer',
             'LED',
@@ -57,6 +58,17 @@ def load_manufacturers():
 def load_packaging_types():
     return ['Bag', 'Bulk', 'Cut Tape', 'Embossed Tape / Reel', 'Paper Tape / Reel', 'Foil',
             'shrink wrap', 'Tube', 'Tray', '', 'Tape & Reel', '13” Reel', '7" reel']
+
+
+def load_msl_classification():
+    return ['MSL-1 UNLIM',
+            'MSL-2 1-YEAR',
+            'MSL-2A 4-WEEKS',
+            'MSL-3 168-HOURS',
+            'MSL-4 72-HOURS',
+            'MSL-5 48-HOURS',
+            'MSL-5A 24-HOURS',
+            'MSL-6 TOL']
 
 
 def load_files(directory):

@@ -1,0 +1,150 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "INA301A2IDGK#",
+		"markingCode": "ZGI6",
+		"partType": "IC Current Sense",
+		"series": {
+			"name": "INA301",
+			"description": "36V, High-Speed, Zero-Drift, Voltage-Output, Current-Shunt Monitor with High-Speed, Overcurrent Comparator"
+		},
+		"description": "36V, High-Speed, Zero-Drift, Voltage-Output, Current-Shunt Monitor with High-Speed, Overcurrent Comparator",
+		"productUrl": "https://www.ti.com/product/INA301",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "Level-2-260C-1 YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.7V",
+				"max": "5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/ina301.pdf"
+				},
+				"SBOS713A": {
+					"date": "02-2016",
+					"md5sum": "4c3e1caaf360ad257352eb32583cfbe2"
+				}
+			}
+		},
+		"package": {
+			"name": "VSSOP-8"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"VS": {
+					"no": 1,
+					"func": "Pwr In",
+					"desc": "Power supply"
+				},
+				"OUT": {
+					"no": 2,
+					"func": "Out-Analog",
+					"desc": "Output voltage"
+				},
+				"LIMIT": {
+					"no": 3,
+					"func": "In-Analog",
+					"desc": "Alert threshold limit input"
+				},
+				"GND": {
+					"no": 4,
+					"func": "Pwr GND",
+					"desc": "Power Ground"
+				},
+				"RESET": {
+					"no": 5,
+					"func": "In-Digital",
+					"desc": "Transparent or latch mode selection input"
+				},
+				"ALERT": {
+					"no": 6,
+					"func": "Out-Digital; OpenDrain; ActiveLow",
+					"desc": "Overcurrent alert, active low, open drain output"
+				},
+				"IN-": {
+					"no": 7,
+					"func": "In-Analog",
+					"desc": "Connect to shunt resistor"
+				},
+				"IN+": {
+					"no": 8,
+					"func": "In-Analog",
+					"desc": "Connect to shunt resistor"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN+",
+						"IN-",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"LIMIT"
+					],
+					"right_side": [
+						"VS",
+						"!@#SEPARATOR#@!",
+						"OUT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"ALERT",
+						"RESET",
+						"!@#SEPARATOR#@!",
+						"GND"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"INA301A2IDGKR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "2500",
+				"packagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "5.3mm",
+						"B0": "3.4mm",
+						"K0": "1.4mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			},
+			"INA301A2IDGKT": {
+				"productionStatus": "Active",
+				"packagingCode": "T",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "250",
+				"packagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "5.3mm",
+						"B0": "3.4mm",
+						"K0": "1.4mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]

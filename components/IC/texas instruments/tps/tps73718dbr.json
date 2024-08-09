@@ -1,0 +1,76 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS73718DRB#",
+		"markingCode": "RAL",
+		"partType": "IC LDO",
+		"description": "1A Low-Dropout Regulator With Reverse Current Protection",
+		"productUrl": "https://www.ti.com/product/TPS737",
+		"tags": "LDO",
+		"storageConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C",
+			"MSLevel": "Level-2-260C-1 YEAR"
+		},
+		"parameters": {
+			"Working Temp Range": {
+				"min": "-40\u00b0C",
+				"max": "125\u00b0C"
+			},
+			"Supply Voltage Range": {
+				"min": "2.2V",
+				"max": "5.5V"
+			}
+		},
+		"files": {
+			"datasheet": "https://www.ti.com/lit/ds/symlink/tps737.pdf"
+		},
+		"package": {
+			"name": "SON-8"
+		},
+		"orderNumbers": {
+			"TPS73718DRBT": {
+				"productionStatus": "Obsolete"
+			},
+			"TPS73718DRBR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "3000",
+				"packagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"W": "12mm",
+						"P1": "8mm",
+						"A0": "3.3mm",
+						"B0": "3.3mm",
+						"K0": "1.1mm"
+					}
+				}
+			},
+			"TPS73718DRBRM3": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "3000",
+				"packagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"W": "12mm",
+						"P1": "8mm",
+						"A0": "3.3mm",
+						"B0": "3.3mm",
+						"K0": "1.1mm"
+					}
+				}
+			}
+		}
+	}
+]
