@@ -1,14 +1,14 @@
 [
 	{
 		"manufacturer": "Texas Instruments",
-		"partNumber": "LP5907MFX-3.3#",
-		"markingCode": "LLVB",
+		"partNumber": "LP5907MFX-3.0#",
+		"markingCode": "LLZB",
 		"partType": "IC LDO",
 		"series": {
 			"name": "LP5907",
 			"description": "250mA, low-noise, high-PSRR, ultra-low-dropout voltage regulator with low IQ and enable"
 		},
-		"description": "LDO Vout=3.3V, Iout=250mA, Vin=2.2~5.5V, low-dropout voltage regulator with enable",
+		"description": "LDO Vout=3.0V, Iout=250mA, Vin=2.2~5.5V, low-dropout voltage regulator with enable",
 		"productUrl": "https://www.ti.com/product/LP5907",
 		"tags": "LDO",
 		"storageConditions": {
@@ -79,7 +79,7 @@
 			}
 		},
 		"orderNumbers": {
-			"LP5907MFX-3.3/NOPB": {
+			"LP5907MFX-3.0/NOPB": {
 				"productionStatus": "Active",
 				"packagingType": "Embossed Tape / Reel",
 				"packagingQuantity": "3000",

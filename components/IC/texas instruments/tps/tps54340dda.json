@@ -1,0 +1,114 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS54340DDA#",
+		"markingCode": "54340",
+		"partType": "IC Voltage Regulator Switching",
+		"description": "Vin=42V, Iout=3.5A, Step-Down DC/DC Converter with Eco-mode",
+		"productUrl": "https://www.ti.com/product/TPS54340",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-2 1-YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "4.5V ~ 42V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tps54340.pdf"
+				},
+				"SLVSBK0D": {
+					"date": "03-2017",
+					"md5sum": "bf537af37b7d50428d6a15829d8b04df"
+				}
+			}
+		},
+		"package": {
+			"name": "SOIC-8"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"BOOT": {
+					"no": 1,
+					"func": "In-Analog",
+					"desc": "A 0.1-\u03bcF bootstrap capacitor is required between BOOT and PH. If the voltage on this capacitor falls below the minimum requirement, the high-side MOSFET is forced to switch off until the capacitor is refreshed."
+				},
+				"VIN": {
+					"no": 2,
+					"func": "Pwr In",
+					"desc": "Input supply voltage, 4.5 V to 42 V"
+				},
+				"EN": {
+					"no": 3,
+					"func": "In-Analog",
+					"desc": "Enable pin. Pull below 1.2 V to disable. Float to enable."
+				},
+				"RT/CLK": {
+					"no": 4,
+					"func": "In-Analog",
+					"desc": "Resistor timing and external clock"
+				},
+				"FB": {
+					"no": 5,
+					"func": "In-Analog",
+					"desc": "Voltage feedback"
+				},
+				"COMP": {
+					"no": 6,
+					"func": "Out-Analog",
+					"desc": "Error amplifier output"
+				},
+				"GND": {
+					"no": 7,
+					"func": "Pwr GND",
+					"desc": "Power ground"
+				},
+				"SW": {
+					"no": 8,
+					"func": "Out-Analog",
+					"desc": "Connect to inductor"
+				},
+				"EP": {
+					"no": "EP",
+					"func": "Pwr GND",
+					"desc": "Power ground"
+				}
+			},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TPS54340DDA": {
+				"productionStatus": "Active",
+				"Packaging Type": "Tube",
+				"Packaging Qty": "75"
+			},
+			"TPS54340DDAR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "2500",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "6.4mm",
+						"B0": "5.2mm",
+						"K0": "2.1mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]

@@ -1,0 +1,215 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS7A8801RTJ#",
+		"markingCode": "TPS7A88",
+		"productionStatus": "Active",
+		"partType": "IC LDO",
+		"description": "LDO Vout=Adj, Iout=1A, Vin=1.4V ~ 6.5V, dual",
+		"productUrl": "https://www.ti.com/product/TPS7A88",
+		"tags": "LDO",
+		"storageConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "1.4V",
+				"max": "6.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tps7a88.pdf"
+				},
+				"SBVS248A": {
+					"date": "11-2015",
+					"md5sum": "79008b3d662da1af3eb64f6b2fd154cc"
+				}
+			}
+		},
+		"package": {
+			"name": "WSON-20"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"IN1": {
+					"no": [
+						1,
+						2
+					],
+					"func": "Pwr In",
+					"desc": "Input Voltage"
+				},
+				"GND": {
+					"no": [
+						3,
+						13
+					],
+					"func": "Pwr GND",
+					"desc": "Power Ground"
+				},
+				"IN2": {
+					"no": [
+						4,
+						5
+					],
+					"func": "Pwr In",
+					"desc": "Input Voltage"
+				},
+				"EN2": {
+					"no": 6,
+					"func": "In-Digital; Active High",
+					"desc": "Enable Voltage Regulator, Active high"
+				},
+				"NR/SS2": {
+					"no": 7,
+					"func": "In-Analog",
+					"desc": "Connect capacitor"
+				},
+				"SS_CTRL2": {
+					"no": 8,
+					"func": "In-Digital",
+					"desc": "Soft start control"
+				},
+				"PG2": {
+					"no": 9,
+					"func": "Out-Digital; OpenDrain",
+					"desc": "Power good signal"
+				},
+				"FB2": {
+					"no": 10,
+					"func": "In-Analog",
+					"desc": "Voltage feedback"
+				},
+				"OUT2": {
+					"no": [
+						11,
+						12
+					],
+					"func": "Out-Analog",
+					"desc": "Power output"
+				},
+				"OUT1": {
+					"no": [
+						14,
+						15
+					],
+					"func": "Out-Analog",
+					"desc": "Power output"
+				},
+				"FB1": {
+					"no": 16,
+					"func": "In-Analog",
+					"desc": "Voltage feedback"
+				},
+				"PG1": {
+					"no": 17,
+					"func": "Out-Digital; OpenDrain",
+					"desc": "Power good signal"
+				},
+				"SS_CTRL1": {
+					"no": 18,
+					"func": "In-Digital",
+					"desc": "Soft start control"
+				},
+				"NR/SS1": {
+					"no": 19,
+					"func": "In-Analog",
+					"desc": "Connect capacitor"
+				},
+				"EN1": {
+					"no": 20,
+					"func": "In-Digital; Active High",
+					"desc": "Enable Voltage Regulator, Active high"
+				},
+				"EP": {
+					"no": "EP",
+					"func": "Pwr GND",
+					"desc": "Ground"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN1",
+						"EN1",
+						"!@#SEPARATOR#@!",
+						"PG1",
+						"SS_CTRL1",
+						"NR/SS1",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"IN2",
+						"EN2",
+						"!@#SEPARATOR#@!",
+						"PG2",
+						"SS_CTRL2",
+						"NR/SS2"
+					],
+					"right_side": [
+						"OUT1",
+						"!@#SEPARATOR#@!",
+						"FB1",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"OUT2",
+						"!@#SEPARATOR#@!",
+						"FB2",
+						"!@#SEPARATOR#@!",
+						"GND",
+						"EP"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"TPS7A8801RTJR": {
+				"packagingCode": "R",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "3000",
+				"packagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "4.25mm",
+						"B0": "4.25mm",
+						"K0": "1.15mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			},
+			"TPS7A8801RTJT": {
+				"packagingCode": "T",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "250",
+				"packagingData": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "4.25mm",
+						"B0": "4.25mm",
+						"K0": "1.15mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]
