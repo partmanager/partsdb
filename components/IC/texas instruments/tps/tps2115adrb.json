@@ -1,0 +1,151 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS2115ADRB#",
+		"markingCode": "CGF",
+		"partType": "IC",
+		"description": "2.8V to 5.5V, 84m\u03a9, 1.25A, power mux with manual, automatic switchover and status output",
+		"productUrl": "https://www.ti.com/product/TPS2115A",
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C",
+			"MSLevel": "MSL-2 1-YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.8V",
+				"max": "5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tps2115a.pdf"
+				},
+				"SBVS044F": {
+					"date": "05-2012",
+					"md5sum": "45b68f7ec7d49ac0f6583a6c43c4c30d"
+				}
+			}
+		},
+		"package": {
+			"name": "SON-8"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"STAT": {
+					"no": 1,
+					"func": "Out-Digital; OpenDrain"
+				},
+				"D0": {
+					"no": 2,
+					"func": "In-Digital"
+				},
+				"D1": {
+					"no": 3,
+					"func": "In-Digital;"
+				},
+				"ILIM": {
+					"no": 4,
+					"func": "In-Analog",
+					"desc": "Connect resistor to ground to set current limit"
+				},
+				"GND": {
+					"no": 5,
+					"func": "Pwr GND",
+					"desc": "Power Ground"
+				},
+				"IN2": {
+					"no": 6,
+					"func": "Pwr In",
+					"desc": "Primary power input"
+				},
+				"OUT": {
+					"no": 7,
+					"func": "Pwr Out",
+					"desc": "Power switch output"
+				},
+				"IN1": {
+					"no": 8,
+					"func": "Pwr In",
+					"desc": "Secondary power input"
+				},
+				"EP": {
+					"no": "EP",
+					"func": "Pwr GND",
+					"desc": "Exposed Pad, connect to ground"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"D0",
+						"D1",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"STAT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"ILIM"
+					],
+					"right_side": [
+						"IN1",
+						"IN2",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"OUT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"GND",
+						"EP"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"TPS2115ADRBR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "300",
+				"packagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "3.3mm",
+						"B0": "3.3mm",
+						"K0": "1.1mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			},
+			"TPS2115ADRBT": {
+				"productionStatus": "Active",
+				"packagingCode": "T",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "250",
+				"packagingData": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "3.3mm",
+						"B0": "3.3mm",
+						"K0": "1.1mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]

@@ -1,0 +1,79 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS65217DRSL#",
+		"markingCode": "TPS65217D",
+		"partType": "IC Voltage Regulator",
+		"description": "Single-Chip PMIC for Battery-Powered Systems",
+		"productUrl": "https://www.ti.com/product/TPS65217",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-3 168-HOURS"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 105\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "4.3V",
+				"max": "5.8V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tps65217.pdf"
+				},
+				"SLVSB64I": {
+					"date": "03-2018",
+					"md5sum": "1fb3b7f027fa8fa19a4463e26e449127"
+				}
+			}
+		},
+		"package": {
+			"name": "VQFN-48"
+		},
+		"orderNumbers": {
+			"TPS65217DRSLR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "3000",
+				"packagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "16.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "6.3mm",
+						"B0": "6.3mm",
+						"K0": "1.1mm",
+						"P1": "12mm",
+						"W": "16mm"
+					}
+				}
+			},
+			"TPS65217DRSLT": {
+				"productionStatus": "Active",
+				"packagingCode": "T",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "250",
+				"packagingData": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "16.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "6.3mm",
+						"B0": "6.3mm",
+						"K0": "1.1mm",
+						"P1": "12mm",
+						"W": "16mm"
+					}
+				}
+			}
+		}
+	}
+]

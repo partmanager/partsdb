@@ -1,0 +1,59 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS65105RGE#",
+		"markingCode": "TPS65105",
+		"partType": "IC Voltage Regulator",
+		"description": "Triple Output LCD Supply With Linear Regulator and VCOM Buffer",
+		"productUrl": "https://www.ti.com/product/TPS65105",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL 2-1 YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.7V",
+				"max": "5.8V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tps65105.pdf"
+				},
+				"SLVS496D": {
+					"date": "08-2016",
+					"md5sum": "e15a15a15184f277e8f464f6ca399211"
+				}
+			}
+		},
+		"package": {
+			"name": "VQFN-24"
+		},
+		"orderNumbers": {
+			"TPS65105RGER": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "3000",
+				"packagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "4.25mm",
+						"B0": "4.25mm",
+						"K0": "1.15mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]

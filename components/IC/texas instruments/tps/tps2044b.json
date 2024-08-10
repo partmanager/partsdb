@@ -1,0 +1,174 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS2044B#",
+		"markingCode": "2044B",
+		"partType": "IC Load Switch",
+		"series": {
+			"name": "TPS20xxB",
+			"description": "Current-Limited, Power-Distribution Switches"
+		},
+		"description": "4-ch, 0.5A loading, 2.7-5.5V, 70m\u03a9 USB power switch, active-low",
+		"productUrl": "https://www.ti.com/product/TPS2044B",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.7V",
+				"max": "5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tps2044b.pdf"
+				},
+				"SBVS044F": {
+					"date": "06-2024",
+					"md5sum": "c73e939ff1ecfa7181cfa3936d8c9328"
+				}
+			}
+		},
+		"package": {
+			"name": "SOIC-16"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"GND": {
+					"no": [
+						1,
+						5
+					],
+					"func": "Pwr GND"
+				},
+				"IN1": {
+					"no": 2,
+					"func": "Pwr In"
+				},
+				"EN1": {
+					"no": 3,
+					"func": "In-Digital; ActiveLow"
+				},
+				"EN2": {
+					"no": 4,
+					"func": "In-Digital; ActiveLow"
+				},
+				"IN2": {
+					"no": 6,
+					"func": "Pwr In",
+					"desc": "Power input for OUT2 and OUT3"
+				},
+				"EN3": {
+					"no": 7,
+					"func": "In-Digital; ActiveLow"
+				},
+				"EN4": {
+					"no": 8,
+					"func": "In-Digital; ActiveLow"
+				},
+				"OC4": {
+					"no": 9,
+					"func": "Out-Digital; OpenDrain; ActiveLow"
+				},
+				"OUT4": {
+					"no": 10,
+					"func": "Pwr Out"
+				},
+				"OUT3": {
+					"no": 11,
+					"func": "Pwr Out"
+				},
+				"OC3": {
+					"no": 12,
+					"func": "Out-Digital; OpenDrain; ActiveLow"
+				},
+				"OC2": {
+					"no": 13,
+					"func": "Out-Digital; OpenDrain; ActiveLow"
+				},
+				"OUT2": {
+					"no": 14,
+					"func": "Pwr Out"
+				},
+				"OUT1": {
+					"no": 15,
+					"func": "Pwr Out"
+				},
+				"OC1": {
+					"no": 16,
+					"func": "Out-Digital; OpenDrain; ActiveLow"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN1",
+						"IN2",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"OC1",
+						"OC2",
+						"OC3",
+						"OC4",
+						"!@#SEPARATOR#@!",
+						"EN1",
+						"EN2",
+						"EN3",
+						"EN4",
+						"!@#SEPARATOR#@!",
+						"GND"
+					],
+					"right_side": [
+						"OUT1",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"OUT2",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"OUT3",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"OUT4"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"TPS2044BD": {
+				"productionStatus": "Active",
+				"packagingType": "Tube",
+				"packagingQuantity": "40"
+			},
+			"TPS2044BDR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "2500",
+				"packagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "16.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "6.5mm",
+						"B0": "10.3mm",
+						"K0": "2.1mm",
+						"P1": "4mm",
+						"W": "16mm"
+					}
+				}
+			}
+		}
+	}
+]
