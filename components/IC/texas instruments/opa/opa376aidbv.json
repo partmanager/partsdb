@@ -1,0 +1,130 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "OPA376AIDBV#",
+		"markingCode": "BUQ",
+		"partType": "IC Opamp",
+		"series": {
+			"name": "OPAx376",
+			"description": "Low-Noise, Low Quiescent Current, Precision Operational Amplifier"
+		},
+		"description": "Low-Noise, Low Quiescent Current, Precision Operational Amplifier",
+		"productUrl": "https://www.ti.com/product/OPA376",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-2 1-YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.2V",
+				"max": "5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/opa376.pdf"
+				},
+				"SBOS406G": {
+					"date": "12-2015",
+					"md5sum": "c1def2cdd1e6ad52013eb8186f057555"
+				}
+			}
+		},
+		"package": {
+			"name": "SOT-23-5"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"OUT": {
+					"no": 1,
+					"func": "Out-Analog",
+					"desc": "Output voltage"
+				},
+				"V-": {
+					"no": 2,
+					"func": "Pwr In",
+					"desc": "Power supply, negative voltage"
+				},
+				"IN+": {
+					"no": 3,
+					"func": "In-Analog",
+					"desc": "Positive input signal"
+				},
+				"IN-": {
+					"no": 4,
+					"func": "In-Analog",
+					"desc": "Negative input signal"
+				},
+				"V+": {
+					"no": 5,
+					"func": "Pwr In",
+					"desc": "Power supply, positive voltage"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN+",
+						"!@#SEPARATOR#@!",
+						"IN-"
+					],
+					"right_side": [
+						"V+",
+						"!@#SEPARATOR#@!",
+						"OUT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"V-"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"OPA376AIDBVR": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Quantity": 3000,
+				"packagingData": {
+					"reel": {
+						"Diameter": "179mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "3.2mm",
+						"B0": "3.2mm",
+						"K0": "1.4mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			},
+			"OPA376AIDBVRT": {
+				"Status": "Active",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Quantity": 250,
+				"packagingData": {
+					"reel": {
+						"Diameter": "179mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "3.2mm",
+						"B0": "3.2mm",
+						"K0": "1.4mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]
