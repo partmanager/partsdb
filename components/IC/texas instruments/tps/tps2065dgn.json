@@ -1,0 +1,126 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS2065DGN#",
+		"markingCode": "2065",
+		"partType": "IC Load Switch",
+		"description": "2ch, 1A loading, 2.7-5.5V, 70m\u03a9 USB power switch, active-high",
+		"productUrl": "https://www.ti.com/product/TPS2065",
+		"tags": [
+			"USB"
+		],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "2.7V ~ 5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tps2065.pdf"
+				},
+				"SLVS490K": {
+					"url": "https://www.ti.com/lit/ds/slvs490k/slvs490k.pdf",
+					"date": "06-2024",
+					"md5sum": "2df9329b8d26baa63be2e638739e8a52"
+				}
+			}
+		},
+		"package": {
+			"name": "HVSSOP-8"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"GND": {
+					"no": 1,
+					"func": "PwrGND",
+					"desc": "Power Ground"
+				},
+				"IN": {
+					"no": [
+						2,
+						3
+					],
+					"func": "PwrIn",
+					"desc": "Input Voltage"
+				},
+				"EN": {
+					"no": 4,
+					"func": "InDigital;ActiveHigh",
+					"desc": "Switch control input, Active high"
+				},
+				"OC": {
+					"no": 5,
+					"func": "OutDigital;OpenDrain;ActiveLow",
+					"desc": "Overcurrent indication, open-drain output, active low"
+				},
+				"OUT": {
+					"no": [
+						6,
+						7,
+						8
+					],
+					"func": "PwrOut",
+					"desc": "Switch power output"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"OC",
+						"!@#SEPARATOR#@!",
+						"EN"
+					],
+					"right_side": [
+						"OUT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"GND"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"TPS2065DGN": {
+				"Status": "Active",
+				"Type": "Tube",
+				"Qty": "80"
+			},
+			"TPS2065DGNR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "2500",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "5.3mm",
+						"B0": "3.4mm",
+						"K0": "1.4mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]
