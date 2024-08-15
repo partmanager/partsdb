@@ -43,22 +43,22 @@
 			"pinmap": {
 				"EN": {
 					"no": 4,
-					"func": "In-Digital; Active High",
+					"func": "InDigital;ActiveHigh",
 					"desc": "Enable Voltage Regulator, Active high"
 				},
 				"FB": {
 					"no": 2,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Feedback voltage"
 				},
 				"GND": {
 					"no": 3,
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Power Ground"
 				},
 				"IN": {
 					"no": 6,
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Input Voltage"
 				},
 				"NC": {
@@ -68,12 +68,12 @@
 				},
 				"OUT": {
 					"no": 1,
-					"func": "Pwr Out",
+					"func": "PwrOut",
 					"desc": "Regulated voltage output"
 				},
 				"EP": {
 					"no": "EP",
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Ground"
 				}
 			},

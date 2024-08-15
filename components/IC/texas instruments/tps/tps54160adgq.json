@@ -41,52 +41,52 @@
 				},
 				"VIN": {
 					"no": 2,
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Supply voltage"
 				},
 				"EN": {
 					"no": 3,
-					"func": "In-Digital; ActiveHigh",
+					"func": "InDigital;ActiveHigh",
 					"desc": "Enable"
 				},
 				"SS/TR": {
 					"no": 4,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Soft-Start/Tracking Pin"
 				},
 				"RT/CLK": {
 					"no": 5,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Resistor timing and external clock"
 				},
 				"PWRGD": {
 					"no": 6,
-					"func": "Out-Digital; OpenDrain; ActiveLow",
+					"func": "OutDigital;OpenDrain;ActiveLow",
 					"desc": "Power good signal"
 				},
 				"VSENSE": {
 					"no": 7,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Voltage feedback"
 				},
 				"COMP": {
 					"no": 8,
-					"func": "Out-Analog",
+					"func": "OutAnalog",
 					"desc": "Error amplifier output"
 				},
 				"GND": {
 					"no": 9,
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Power Ground"
 				},
 				"PH": {
 					"no": 10,
-					"func": "Out-Analog",
+					"func": "OutAnalog",
 					"desc": "MOSFET Source, connect to coil"
 				},
 				"EP": {
 					"no": "EP",
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Exposed Pad, connect to ground"
 				}
 			},

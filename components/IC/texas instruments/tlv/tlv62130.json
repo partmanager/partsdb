@@ -5,7 +5,7 @@
 		"markingCode": "VUBI",
 		"partType": "IC",
 		"series": {},
-		"description": "3-V to 17-V 3-A Step-Down Converter",
+		"description": "Vin=3V ~ 17V, Iout=3A, Step-Down Converter",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-65\u00b0C ~ 150\u00b0C"

@@ -37,44 +37,44 @@
 			"pinmap": {
 				"STAT": {
 					"no": 1,
-					"func": "Out-Digital; OpenDrain"
+					"func": "OutDigital;OpenDrain"
 				},
 				"D0": {
 					"no": 2,
-					"func": "In-Digital"
+					"func": "InDigital"
 				},
 				"D1": {
 					"no": 3,
-					"func": "In-Digital;"
+					"func": "InDigital"
 				},
 				"ILIM": {
 					"no": 4,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Connect resistor to ground to set current limit"
 				},
 				"GND": {
 					"no": 5,
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Power Ground"
 				},
 				"IN2": {
 					"no": 6,
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Primary power input"
 				},
 				"OUT": {
 					"no": 7,
-					"func": "Pwr Out",
+					"func": "PwrOut",
 					"desc": "Power switch output"
 				},
 				"IN1": {
 					"no": 8,
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Secondary power input"
 				},
 				"EP": {
 					"no": "EP",
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Exposed Pad, connect to ground"
 				}
 			},

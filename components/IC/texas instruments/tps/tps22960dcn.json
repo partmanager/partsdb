@@ -38,42 +38,42 @@
 			"pinmap": {
 				"V_IN1": {
 					"no": 1,
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Switch 1 power input"
 				},
 				"ON1": {
 					"no": 2,
-					"func": "In-Digital; Active High",
+					"func": "InDigital;ActiveHigh",
 					"desc": "Switch 1 control input, Active high"
 				},
 				"ON2": {
 					"no": 3,
-					"func": "In-Digital; Active High",
+					"func": "InDigital;ActiveHigh",
 					"desc": "Switch 2 control input, Active high"
 				},
 				"V_IN2": {
 					"no": 4,
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Switch 2 power input"
 				},
 				"V_OUT2": {
 					"no": 5,
-					"func": "Pwr Out",
+					"func": "PwrOut",
 					"desc": "Switch 1 power output"
 				},
 				"GND": {
 					"no": 6,
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Power Ground"
 				},
 				"SR": {
 					"no": 7,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Slew rate control pin"
 				},
 				"V_OUT1": {
 					"no": 8,
-					"func": "Pwr Out",
+					"func": "PwrOut",
 					"desc": "Switch 2 power output"
 				}
 			},

@@ -29,47 +29,47 @@
 			"pinmap": {
 				"BOOT": {
 					"no": 1,
-					"func": "In"
+					"func": "InAnalog"
 				},
 				"VIN": {
 					"no": 2,
-					"func": "Pwr In"
+					"func": "PwrIn"
 				},
 				"EN": {
 					"no": 3,
-					"func": "In"
+					"func": "InDigital"
 				},
 				"SS/TR": {
 					"no": 4,
-					"func": "In"
+					"func": "InAnalog"
 				},
 				"RT/CLK": {
 					"no": 5,
-					"func": "In"
+					"func": "InAnalog"
 				},
 				"PWRGD": {
 					"no": 6,
-					"func": "Out OpenDrain"
+					"func": "OutDigital;OpenDrain"
 				},
 				"VSENSE": {
 					"no": 7,
-					"func": "In"
+					"func": "InAnalog"
 				},
 				"COMP": {
 					"no": 8,
-					"func": "In"
+					"func": "InAnalog"
 				},
 				"GND": {
 					"no": 9,
-					"func": "Pwr In"
+					"func": "PwrGND"
 				},
 				"PH": {
 					"no": 10,
-					"func": "Out"
+					"func": "OutAnalog"
 				},
 				"EP": {
 					"no": "EP",
-					"func": "Pwr In"
+					"func": "PwrGND"
 				}
 			},
 			"footprints": [],
@@ -181,7 +181,7 @@
 					"no": [
 						1
 					],
-					"func": "In",
+					"func": "InAnalog",
 					"desc": "Floating supply voltage for high-side MOSFET gate drive circuit. Connect a 0.1-\u03bcF ceramic\ncapacitor between BOOT and SW pins."
 				},
 				"VIN": {
@@ -189,7 +189,7 @@
 						2,
 						11
 					],
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Input voltage supply pin. Power for the internal circuit and the connection to drain of high-\nside MOSFET. Connect both pins to the input power source with a low impedance\nconnection. Connect both pins and their neighboring PGND pins"
 				},
 				"PGND": {
@@ -201,7 +201,7 @@
 						9,
 						10
 					],
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Ground return for low-side power MOSFET and its drivers."
 				}
 			},
@@ -282,21 +282,21 @@
 					"no": [
 						1
 					],
-					"func": "In",
+					"func": "InAnalog",
 					"desc": "A 0.1-\u03bcF bootstrap capacitor is required between the BOOT and PH pins. If the voltage on this capacitor falls below the minimum requirement, the high-side MOSFET is forced to switch off until the capacitor is refreshed."
 				},
 				"VIN": {
 					"no": [
 						2
 					],
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Input supply voltage, 3.5 V to 28 V"
 				},
 				"EN": {
 					"no": [
 						3
 					],
-					"func": "In",
+					"func": "InDigital",
 					"desc": "Enable pin. Pull below 1.25 V to disable. Float to enable. Programming the input undervoltage lockout with two resistors is recommended."
 				}
 			},
@@ -418,14 +418,14 @@
 					"no": [
 						10
 					],
-					"func": "In analog",
+					"func": "InAnalog",
 					"desc": "Voltage feedback of adjustable versions, must be connected to VOUT at fixed output voltage versions"
 				},
 				"GND": {
 					"no": [
 						9
 					],
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Control / logic ground"
 				}
 			},

@@ -42,22 +42,22 @@
 			"pinmap": {
 				"OUT": {
 					"no": 1,
-					"func": "Pwr Out",
+					"func": "PwrOut",
 					"desc": "Regulated output voltage."
 				},
 				"GND": {
 					"no": 2,
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Power Ground"
 				},
 				"EN": {
 					"no": 3,
-					"func": "In-Digital; Active High",
+					"func": "InDigital;ActiveHigh",
 					"desc": "Enable voltage regulator"
 				},
 				"IN": {
 					"no": 4,
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Input voltage"
 				},
 				"EP": {

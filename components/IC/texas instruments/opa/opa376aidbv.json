@@ -41,27 +41,27 @@
 			"pinmap": {
 				"OUT": {
 					"no": 1,
-					"func": "Out-Analog",
+					"func": "OutAnalog",
 					"desc": "Output voltage"
 				},
 				"V-": {
 					"no": 2,
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Power supply, negative voltage"
 				},
 				"IN+": {
 					"no": 3,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Positive input signal"
 				},
 				"IN-": {
 					"no": 4,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Negative input signal"
 				},
 				"V+": {
 					"no": 5,
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Power supply, positive voltage"
 				}
 			},

@@ -42,7 +42,7 @@
 						1,
 						2
 					],
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Input Voltage"
 				},
 				"GND": {
@@ -50,7 +50,7 @@
 						3,
 						13
 					],
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Power Ground"
 				},
 				"IN2": {
@@ -58,32 +58,32 @@
 						4,
 						5
 					],
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Input Voltage"
 				},
 				"EN2": {
 					"no": 6,
-					"func": "In-Digital; Active High",
+					"func": "InDigital;ActiveHigh",
 					"desc": "Enable Voltage Regulator, Active high"
 				},
 				"NR/SS2": {
 					"no": 7,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Connect capacitor"
 				},
 				"SS_CTRL2": {
 					"no": 8,
-					"func": "In-Digital",
+					"func": "InDigital",
 					"desc": "Soft start control"
 				},
 				"PG2": {
 					"no": 9,
-					"func": "Out-Digital; OpenDrain",
+					"func": "OutDigital;OpenDrain",
 					"desc": "Power good signal"
 				},
 				"FB2": {
 					"no": 10,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Voltage feedback"
 				},
 				"OUT2": {
@@ -91,7 +91,7 @@
 						11,
 						12
 					],
-					"func": "Out-Analog",
+					"func": "OutAnalog",
 					"desc": "Power output"
 				},
 				"OUT1": {
@@ -99,37 +99,37 @@
 						14,
 						15
 					],
-					"func": "Out-Analog",
+					"func": "OutAnalog",
 					"desc": "Power output"
 				},
 				"FB1": {
 					"no": 16,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Voltage feedback"
 				},
 				"PG1": {
 					"no": 17,
-					"func": "Out-Digital; OpenDrain",
+					"func": "OutDigital;OpenDrain",
 					"desc": "Power good signal"
 				},
 				"SS_CTRL1": {
 					"no": 18,
-					"func": "In-Digital",
+					"func": "InDigital",
 					"desc": "Soft start control"
 				},
 				"NR/SS1": {
 					"no": 19,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Connect capacitor"
 				},
 				"EN1": {
 					"no": 20,
-					"func": "In-Digital; Active High",
+					"func": "InDigital;ActiveHigh",
 					"desc": "Enable Voltage Regulator, Active high"
 				},
 				"EP": {
 					"no": "EP",
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Ground"
 				}
 			},

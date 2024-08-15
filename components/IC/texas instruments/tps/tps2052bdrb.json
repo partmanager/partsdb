@@ -40,47 +40,47 @@
 			"pinmap": {
 				"EN1": {
 					"no": 3,
-					"func": "In-Digital; Active High",
+					"func": "InDigital;ActiveHigh",
 					"desc": "Switch 1 control input, Active high"
 				},
 				"EN2": {
 					"no": 4,
-					"func": "In-Digital; Active High",
+					"func": "InDigital;ActiveHigh",
 					"desc": "Switch 2 control input, Active high"
 				},
 				"GND": {
 					"no": 1,
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Power Ground"
 				},
 				"IN": {
 					"no": 2,
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Input Voltage"
 				},
 				"OC1": {
 					"no": 8,
-					"func": "Out-OpenDrain; Active low",
+					"func": "OutDigital;OpenDrain;ActiveLow",
 					"desc": "Overcurrent indication, open-drain output, active low"
 				},
 				"OC2": {
 					"no": 5,
-					"func": "Out-OpenDrain; Active low",
+					"func": "OutDigital;OpenDrain;ActiveLow",
 					"desc": "Overcurrent indication, open-drain output, active low"
 				},
 				"OUT1": {
 					"no": 7,
-					"func": "Pwr Out",
+					"func": "PwrOut",
 					"desc": "Switch 1 power output"
 				},
 				"OUT2": {
 					"no": 6,
-					"func": "Pwr Out",
+					"func": "PwrOut",
 					"desc": "Switch 1 power output"
 				},
 				"EP": {
 					"no": "EP",
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Exposed pad, connect to GND."
 				}
 			},

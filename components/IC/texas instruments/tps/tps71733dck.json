@@ -43,27 +43,27 @@
 			"pinmap": {
 				"EN": {
 					"no": 3,
-					"func": "In-Digital; Active High",
+					"func": "InDigital;ActiveHigh",
 					"desc": "Enable Voltage Regulator, Active high"
 				},
 				"GND": {
 					"no": 2,
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Power Ground"
 				},
 				"IN": {
 					"no": 1,
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Input Voltage"
 				},
 				"NR": {
 					"no": 4,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Connect noise reduction capacitor to this pin."
 				},
 				"OUT": {
 					"no": 5,
-					"func": "Pwr Out",
+					"func": "PwrOut",
 					"desc": "Regulated voltage output"
 				}
 			},

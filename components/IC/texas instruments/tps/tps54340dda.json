@@ -37,47 +37,47 @@
 			"pinmap": {
 				"BOOT": {
 					"no": 1,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "A 0.1-\u03bcF bootstrap capacitor is required between BOOT and PH. If the voltage on this capacitor falls below the minimum requirement, the high-side MOSFET is forced to switch off until the capacitor is refreshed."
 				},
 				"VIN": {
 					"no": 2,
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Input supply voltage, 4.5 V to 42 V"
 				},
 				"EN": {
 					"no": 3,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Enable pin. Pull below 1.2 V to disable. Float to enable."
 				},
 				"RT/CLK": {
 					"no": 4,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Resistor timing and external clock"
 				},
 				"FB": {
 					"no": 5,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Voltage feedback"
 				},
 				"COMP": {
 					"no": 6,
-					"func": "Out-Analog",
+					"func": "OutAnalog",
 					"desc": "Error amplifier output"
 				},
 				"GND": {
 					"no": 7,
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Power ground"
 				},
 				"SW": {
 					"no": 8,
-					"func": "Out-Analog",
+					"func": "OutAnalog",
 					"desc": "Connect to inductor"
 				},
 				"EP": {
 					"no": "EP",
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Power ground"
 				}
 			},

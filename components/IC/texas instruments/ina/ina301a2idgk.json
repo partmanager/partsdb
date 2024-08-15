@@ -41,42 +41,42 @@
 			"pinmap": {
 				"VS": {
 					"no": 1,
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Power supply"
 				},
 				"OUT": {
 					"no": 2,
-					"func": "Out-Analog",
+					"func": "OutAnalog",
 					"desc": "Output voltage"
 				},
 				"LIMIT": {
 					"no": 3,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Alert threshold limit input"
 				},
 				"GND": {
 					"no": 4,
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Power Ground"
 				},
 				"RESET": {
 					"no": 5,
-					"func": "In-Digital",
+					"func": "InDigital",
 					"desc": "Transparent or latch mode selection input"
 				},
 				"ALERT": {
 					"no": 6,
-					"func": "Out-Digital; OpenDrain; ActiveLow",
+					"func": "OutDigital;OpenDrain;ActiveLow",
 					"desc": "Overcurrent alert, active low, open drain output"
 				},
 				"IN-": {
 					"no": 7,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Connect to shunt resistor"
 				},
 				"IN+": {
 					"no": 8,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Connect to shunt resistor"
 				}
 			},

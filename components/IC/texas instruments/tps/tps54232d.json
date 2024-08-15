@@ -38,14 +38,14 @@
 					"no": [
 						2
 					],
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Input supply voltage, 3.5 V to 28 V"
 				},
 				"EN": {
 					"no": [
 						3
 					],
-					"func": "In",
+					"func": "InDigital",
 					"desc": "Enable pin. Pull below 1.25 V to disable. Float to enable. Programming the input undervoltage lockout with\ntwo resistors is recommended."
 				}
 			},

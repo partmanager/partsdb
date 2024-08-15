@@ -47,37 +47,37 @@
 				},
 				"PG": {
 					"no": 4,
-					"func": "Out-Digital; OpenDrain",
+					"func": "OutDigital;OpenDrain",
 					"desc": "Power good signal, require external resistor"
 				},
 				"FB": {
 					"no": 5,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Voltage feedback"
 				},
 				"AGND": {
 					"no": 6,
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Analog ground"
 				},
 				"FSW": {
 					"no": 7,
-					"func": "In-Digital",
+					"func": "InDigital",
 					"desc": "Switching Frequency Select"
 				},
 				"DEF": {
 					"no": 8,
-					"func": "In-Digital",
+					"func": "InDigital",
 					"desc": "Output voltage scaling"
 				},
 				"SS/TR": {
 					"no": 9,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Soft-Start/Tracking Pin"
 				},
 				"AVIN": {
 					"no": 10,
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Supply voltage for control circuit. Connect to the same source as PVIN"
 				},
 				"PVIN": {
@@ -85,17 +85,17 @@
 						11,
 						12
 					],
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Supply voltage for power stage"
 				},
 				"EN": {
 					"no": 13,
-					"func": "In-Digital",
+					"func": "InDigital",
 					"desc": "Enable"
 				},
 				"VOS": {
 					"no": 14,
-					"func": "In-Analog",
+					"func": "InAnalog",
 					"desc": "Output voltage sense pin and connection for the control loop circuitry"
 				},
 				"PGND": {
@@ -103,12 +103,12 @@
 						15,
 						16
 					],
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Output voltage sense pin and connection for the control loop circuitry"
 				},
 				"EP": {
 					"no": "EP",
-					"func": "Pwr GND",
+					"func": "PwrGND",
 					"desc": "Exposed Pad, connec to to ground"
 				}
 			},

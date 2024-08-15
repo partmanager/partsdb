@@ -44,64 +44,64 @@
 						1,
 						5
 					],
-					"func": "Pwr GND"
+					"func": "PwrGND"
 				},
 				"IN1": {
 					"no": 2,
-					"func": "Pwr In"
+					"func": "PwrIn"
 				},
 				"EN1": {
 					"no": 3,
-					"func": "In-Digital; ActiveLow"
+					"func": "InDigital;ActiveLow"
 				},
 				"EN2": {
 					"no": 4,
-					"func": "In-Digital; ActiveLow"
+					"func": "InDigital;ActiveLow"
 				},
 				"IN2": {
 					"no": 6,
-					"func": "Pwr In",
+					"func": "PwrIn",
 					"desc": "Power input for OUT2 and OUT3"
 				},
 				"EN3": {
 					"no": 7,
-					"func": "In-Digital; ActiveLow"
+					"func": "InDigital;ActiveLow"
 				},
 				"EN4": {
 					"no": 8,
-					"func": "In-Digital; ActiveLow"
+					"func": "InDigital;ActiveLow"
 				},
 				"OC4": {
 					"no": 9,
-					"func": "Out-Digital; OpenDrain; ActiveLow"
+					"func": "OutDigital;OpenDrain;ActiveLow"
 				},
 				"OUT4": {
 					"no": 10,
-					"func": "Pwr Out"
+					"func": "PwrOut"
 				},
 				"OUT3": {
 					"no": 11,
-					"func": "Pwr Out"
+					"func": "PwrOut"
 				},
 				"OC3": {
 					"no": 12,
-					"func": "Out-Digital; OpenDrain; ActiveLow"
+					"func": "OutDigital;OpenDrain;ActiveLow"
 				},
 				"OC2": {
 					"no": 13,
-					"func": "Out-Digital; OpenDrain; ActiveLow"
+					"func": "OutDigital;OpenDrain;ActiveLow"
 				},
 				"OUT2": {
 					"no": 14,
-					"func": "Pwr Out"
+					"func": "PwrOut"
 				},
 				"OUT1": {
 					"no": 15,
-					"func": "Pwr Out"
+					"func": "PwrOut"
 				},
 				"OC1": {
 					"no": 16,
-					"func": "Out-Digital; OpenDrain; ActiveLow"
+					"func": "OutDigital;OpenDrain;ActiveLow"
 				}
 			},
 			"footprints": [],
