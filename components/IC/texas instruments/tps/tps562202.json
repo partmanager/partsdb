@@ -1,0 +1,51 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS562202",
+		"markingCode": "2202",
+		"partType": "IC Voltage Regulator",
+		"series": {},
+		"description": "4.3-V to 17-V Input, 2-A Synchronous Buck Converter",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C",
+			"MSLevel": "Level-1-260C-UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "4.3V ~ 17V"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SOT563"
+		},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TPS562202DRLR": {
+				"Packaging Type": "Embossed Tape / Reel",
+				"Packaging Qty": "4000",
+				"Packaging Data": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "1.8mm",
+						"B0": "1.8mm",
+						"K0": "0.75mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]
