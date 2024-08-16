@@ -1,0 +1,113 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TL972ID#",
+		"markingCode": "Z972",
+		"partType": "IC Opamp",
+		"series": {
+			"name": "TL97x",
+			"description": "Output Rail-To-Rail Very-Low-Noise Operational Amplifiers"
+		},
+		"description": "Dual, 12V, 12MHz operational amplifier",
+		"productUrl": "https://www.ti.com/product/TL972",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.7V",
+				"max": "12V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tl972.pdf"
+				},
+				"SLOS467H": {
+					"date": "01-2015",
+					"md5sum": "916a36be95af7133b9c1054228728210"
+				}
+			}
+		},
+		"package": {
+			"name": "SOIC-8"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"OUT1": {
+					"no": 1,
+					"func": "OutAnalog",
+					"desc": "Output voltage"
+				},
+				"IN1-": {
+					"no": 2,
+					"func": "InAnalog",
+					"desc": "Negative input signal"
+				},
+				"IN1+": {
+					"no": 3,
+					"func": "InAnalog",
+					"desc": "Positive input signal"
+				},
+				"VCC-": {
+					"no": 4,
+					"func": "PwrIn",
+					"desc": "Power supply, negative voltage"
+				},
+				"IN2+": {
+					"no": 5,
+					"func": "InAnalog",
+					"desc": "Positive input signal"
+				},
+				"IN2-": {
+					"no": 6,
+					"func": "InAnalog",
+					"desc": "Negative input signal"
+				},
+				"OUT2": {
+					"no": 7,
+					"func": "OutAnalog",
+					"desc": "Output voltage"
+				},
+				"VCC+": {
+					"no": 8,
+					"func": "PwrIn",
+					"desc": "Power supply, positive voltage"
+				}
+			},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TL972ID": {
+				"Status": "Obsolete",
+				"Code": null,
+				"Type": "Tube"
+			},
+			"TL972IDR": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Quantity": 2500,
+				"packagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "6.4mm",
+						"B0": "5.2mm",
+						"K0": "2.1mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]
