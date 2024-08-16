@@ -1,0 +1,134 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "LMV331IDCK#",
+		"markingCode": [
+			"R2F",
+			"R2R"
+		],
+		"partType": "IC Comparator",
+		"series": {
+			"name": "LMV331, LMV393, LMV339",
+			"description": "General purpose comparators"
+		},
+		"description": "Single General Purpose Comparator",
+		"productUrl": "https://www.ti.com/product/LMV331",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.7V",
+				"max": "5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/lmv331.pdf"
+				},
+				"SLCS136U": {
+					"date": "10-2020",
+					"md5sum": "b78265d80e04d596c1950715a2f58bbe"
+				}
+			}
+		},
+		"package": {
+			"name": "SC70"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"IN+": {
+					"no": 1,
+					"func": "InAnalog",
+					"desc": "Positive input signal"
+				},
+				"GND": {
+					"no": 2,
+					"func": "PwrIn",
+					"desc": "Power supply, negative voltage"
+				},
+				"IN-": {
+					"no": 3,
+					"func": "InAnalog",
+					"desc": "Negative input signal"
+				},
+				"OUT": {
+					"no": 4,
+					"func": "OutAnalog",
+					"desc": "Comparator output"
+				},
+				"VCC+": {
+					"no": 5,
+					"func": "PwrIn",
+					"desc": "Power supply, positive voltage"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN+",
+						"!@#SEPARATOR#@!",
+						"IN-"
+					],
+					"right_side": [
+						"VCC+",
+						"!@#SEPARATOR#@!",
+						"OUT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"GND"
+					]
+				},
+				"opamp": {}
+			}
+		},
+		"orderNumbers": {
+			"LMV331IDCKR": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Quantity": 3000,
+				"packagingData": {
+					"reel": {
+						"Diameter": "178mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "2.4mm",
+						"B0": "2.5mm",
+						"K0": "1.2mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			},
+			"LMV331IDCKT": {
+				"Status": "LastTimeBuy",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Quantity": 250,
+				"packagingData": {
+					"reel": {
+						"Diameter": "178mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "2.4mm",
+						"B0": "2.5mm",
+						"K0": "1.2mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]
