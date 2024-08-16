@@ -81,7 +81,8 @@
 						"!@#SEPARATOR#@!",
 						"V-"
 					]
-				}
+				},
+				"opamp": {}
 			}
 		},
 		"orderNumbers": {
