@@ -1,0 +1,80 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TCA9548AMRGE#",
+		"markingCode": "PW548A",
+		"partType": "IC",
+		"description": "I2C 8 channel switch",
+		"productUrl": "https://www.ti.com/product/TCA9548A",
+		"tags": "I2C, Switch",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-2 1-YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "1.65V",
+				"max": "5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tca9548a.pdf"
+				},
+				"SCPS207G": {
+					"date": "11-2019",
+					"md5sum": "ab9c9a9dad111f01e5d42701bfa177fa"
+				}
+			}
+		},
+		"package": {
+			"name": "VQFN-24"
+		},
+		"orderNumbers": {
+			"TCA9548AMRGER": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Quantity": 3000,
+				"packagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "4.25mm",
+						"B0": "4.25mm",
+						"K0": "1.15mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			},
+			"TCA9548ARGER": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Quantity": 3000,
+				"packagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "4.25mm",
+						"B0": "4.25mm",
+						"K0": "1.15mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]
