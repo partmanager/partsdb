@@ -1,0 +1,132 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TCA9509DGK#",
+		"markingCode": [
+			"7KO",
+			"7KQ"
+		],
+		"partType": "IC Level translator",
+		"description": "I2C Level translator",
+		"productUrl": "https://www.ti.com/product/TCA9509",
+		"tags": "I2C",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "0.9V",
+				"max": "5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tca9509.pdf"
+				},
+				"SCPS225D": {
+					"date": "04-2021",
+					"md5sum": "9b6aef3aa97bcf796a5557653b47b147"
+				}
+			}
+		},
+		"package": {
+			"name": "VSSOP-8"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"VCCA": {
+					"no": 1,
+					"func": "PwrIn",
+					"desc": "Power supply, 0.9V ~ 5.5v"
+				},
+				"SCLA": {
+					"no": 2,
+					"func": "InOut",
+					"desc": "SCL"
+				},
+				"SDAA": {
+					"no": 3,
+					"func": "InOut",
+					"desc": "SDL"
+				},
+				"GND": {
+					"no": 4,
+					"func": "PwrIn",
+					"desc": "Power supply ground"
+				},
+				"EN": {
+					"no": 5,
+					"func": "InDigital;ActiveHigh",
+					"desc": "Enable level translator"
+				},
+				"SCLB": {
+					"no": 6,
+					"func": "InOut",
+					"desc": "SCL"
+				},
+				"SDAB": {
+					"no": 7,
+					"func": "InOut",
+					"desc": "SDL"
+				},
+				"VCCB": {
+					"no": 8,
+					"func": "PwrIn",
+					"desc": "Power supply, 2.7V ~ 5.5v"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"VCCA",
+						"!@#SEPARATOR#@!",
+						"SCLA",
+						"!@#SEPARATOR#@!",
+						"SDAA",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"EN"
+					],
+					"right_side": [
+						"VCCB",
+						"!@#SEPARATOR#@!",
+						"SCLB",
+						"!@#SEPARATOR#@!",
+						"SDAB",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"GND"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"TCA9509DGKR": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Quantity": 2500,
+				"packagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "5.3mm",
+						"B0": "3.4mm",
+						"K0": "1.4mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]
