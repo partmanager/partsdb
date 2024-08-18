@@ -1,0 +1,130 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "DS2482S-100#",
+		"markingCode": "DS2482S-100",
+		"partType": "IC",
+		"series": {
+			"name": "DS2482-100",
+			"description": "I2C to 1-Wire bridge"
+		},
+		"description": "I2C to 1-Wire bridge",
+		"productUrl": "https://www.analog.com/en/products/ds2482-100.html",
+		"storageConditions": {
+			"temperature": "-55\u00b0C ~ 125\u00b0C",
+			"MSLevel": "Level-1-260C-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.9V",
+				"max": "5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ds2482-100.pdf"
+				},
+				"Rev 11": {
+					"date": "08-2024",
+					"md5sum": "98c9ab69ddb73782b0fa1b46b41634bb"
+				}
+			},
+			"reliabilityData": {
+				"latest": {
+					"url": "https://www.analog.com/media/en/technical-documentation/reliability-data/ds2482-100.pdf"
+				},
+				"Rev A3": {
+					"date": "12-01-2023",
+					"md5sum": "df1b055341a112590484f973658bba5d"
+				}
+			}
+		},
+		"package": {
+			"name": "SO-8"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"VCC": {
+					"no": 1,
+					"func": "PwrIn",
+					"desc": "Power supply"
+				},
+				"IO": {
+					"no": 2,
+					"func": "InOut",
+					"desc": "1-Wire in out"
+				},
+				"GND": {
+					"no": 3,
+					"func": "PwrGND",
+					"desc": "Power Ground"
+				},
+				"SCL": {
+					"no": 4,
+					"func": "InDigital",
+					"desc": "I2C SCL"
+				},
+				"SDA": {
+					"no": 5,
+					"func": "InDigital",
+					"desc": "I2C SDA"
+				},
+				"PCTLZ": {
+					"no": 6,
+					"func": "OutDigital;ActiveLow",
+					"desc": "Pin control external MOSFET that provides extra power for 1-Wire line"
+				},
+				"AD1": {
+					"no": 7,
+					"func": "InDigital",
+					"desc": "I2C Address input"
+				},
+				"AD0": {
+					"no": 8,
+					"func": "InDigital",
+					"desc": "I2C Address input"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"SDA",
+						"SCL",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"AD0",
+						"AD1"
+					],
+					"right_side": [
+						"VCC",
+						"!@#SEPARATOR#@!",
+						"PCTLZ",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"IO",
+						"!@#SEPARATOR#@!",
+						"GND"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"DS2482S-100+": {
+				"productionStatus": "Active",
+				"Code": "",
+				"Type": "Tube"
+			},
+			"DS2482S-100+T&R": {
+				"productionStatus": "Active",
+				"packagingCode": "T&R",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "2500"
+			}
+		}
+	}
+]
