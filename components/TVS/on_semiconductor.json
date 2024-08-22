@@ -2,21 +2,15 @@
 	{
 		"manufacturer": "ON Semiconductor",
 		"partNumber": "ESD9L3.3####",
-		"productionStatus": "",
 		"markingCode": "6",
 		"partType": "TVS",
 		"series": {
 			"name": "ESD9L",
 			"description": "ESD Protection Diodes with Ultra\u2212Low Capacitance"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-55\u2103 ~ 150\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-55\u2103 ~ 150\u2103"
 		},
 		"parameters": {
 			"Configuration": "Unidirectional",
@@ -53,14 +47,11 @@
 			"name": "SOD-923"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"ESD9L3.3ST5G": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "8000",
 				"Packaging Data": {}
 			}
@@ -69,21 +60,15 @@
 	{
 		"manufacturer": "ON Semiconductor",
 		"partNumber": "ESD9L5.0####",
-		"productionStatus": "",
 		"markingCode": "D",
 		"partType": "TVS",
 		"series": {
 			"name": "ESD9L",
 			"description": "ESD Protection Diodes with Ultra\u2212Low Capacitance"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-55\u2103 ~ 150\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-55\u2103 ~ 150\u2103"
 		},
 		"parameters": {
 			"Configuration": "Unidirectional",
@@ -122,14 +107,11 @@
 			"name": "SOD-923"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"ESD9L3.3ST5G": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "8000",
 				"Packaging Data": {}
 			}

@@ -2,25 +2,18 @@
 	{
 		"manufacturer": "Richtek",
 		"partNumber": "RT9018A-18GSP",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "IC Voltage Regulator",
 		"series": {
 			"name": "RT9018A/B",
 			"description": "Maximum 3A, Ultra Low Dropout Regulator"
 		},
 		"description": "Adj 3A LDO",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-65\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {},
 		"files": {},
@@ -28,15 +21,11 @@
 			"name": "SOP-8"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"RT9018A-18GSP": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

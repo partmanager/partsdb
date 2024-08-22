@@ -2,25 +2,12 @@
 	{
 		"manufacturer": "Myir Tech",
 		"partNumber": "MYC-Y6ULY2-4E512D-50-C",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Module",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-20\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-20\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Module Type": "Single board computer"
@@ -28,14 +15,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"MYC-Y6ULY2-4E512D-50-C": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
 			}
@@ -44,25 +28,12 @@
 	{
 		"manufacturer": "Myir Tech",
 		"partNumber": "MYC-Y6ULY2-4E512D-50-X",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Module",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-20\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-20\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Module Type": "Single board computer"
@@ -70,14 +41,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"MYC-Y6ULY2-4E512D-50-X": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
 			}
@@ -86,25 +54,12 @@
 	{
 		"manufacturer": "Myir Tech",
 		"partNumber": "MYC-Y6ULY2-V2-4E512D-50-C",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Module",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-20\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-20\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Module Type": "Single board computer"
@@ -112,14 +67,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"MYC-Y6ULY2-V2-4E512D-50-C": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
 			}

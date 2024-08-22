@@ -1,0 +1,172 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "BQ25570RGR#",
+		"markingCode": "BQ570",
+		"partType": "IC",
+		"description": "nano power boost charger and buck converter\nfor energy harvester powered applications",
+		"productUrl": "https://www.ti.com/product/BQ25570",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "0.1V",
+				"max": "5.1V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/bq25570.pdf"
+				},
+				"SLUSBH2G": {
+					"date": "05-2019",
+					"md5sum": "d49253fdc24c0629136d1f452cbe2134"
+				}
+			}
+		},
+		"package": {
+			"name": "VQFN-20"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"EN": {
+					"no": 5,
+					"func": "InDigital;ActiveLow",
+					"desc": "Integrated Circuit Enable"
+				},
+				"LBOOST": {
+					"no": 20,
+					"func": "InOut",
+					"desc": "Connect to inductor"
+				},
+				"LBUCK": {
+					"no": 16,
+					"func": "InOut"
+				},
+				"NC": {
+					"no": [
+						9,
+						17
+					],
+					"func": "NC-GND"
+				},
+				"OK_HYST": {
+					"no": 10,
+					"func": "InAnalog"
+				},
+				"OK_PROG": {
+					"no": 11,
+					"func": "InAnalog"
+				},
+				"VBAT": {
+					"no": 7,
+					"func": "InOut"
+				},
+				"VBAT_OK": {
+					"no": 13,
+					"func": "OutDigital"
+				},
+				"VBAT_OV": {
+					"no": 7,
+					"func": "InAnalog"
+				},
+				"VIN_DC": {
+					"no": 2,
+					"func": "InAnalog"
+				},
+				"VOC_SAMP": {
+					"no": 3,
+					"func": "InAnalog"
+				},
+				"ILIM": {
+					"no": 12,
+					"func": "InOut"
+				},
+				"VOUT": {
+					"no": 14,
+					"func": "OutAnalog"
+				},
+				"VOUT_EN": {
+					"no": 6,
+					"func": "InDigital;ActiveHigh"
+				},
+				"VOUT_SET": {
+					"no": 12,
+					"func": "InAnalog"
+				},
+				"VREF_SAMP": {
+					"no": 4,
+					"func": "InAnalog"
+				},
+				"VRDIV": {
+					"no": 8,
+					"func": "OutAnalog"
+				},
+				"VSS": {
+					"no": [
+						1,
+						15
+					],
+					"func": "PwrGND"
+				},
+				"VSTOR": {
+					"no": 19,
+					"func": "OutAnalog"
+				},
+				"EP": {
+					"no": "EP",
+					"func": "PwrGND"
+				}
+			},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"BQ25570RGRR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "3000",
+				"packagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "3.75mm",
+						"B0": "3.75mm",
+						"K0": "1.15mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			},
+			"BQ25570RGRT": {
+				"productionStatus": "Active",
+				"packagingCode": "T",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "250",
+				"packagingData": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "3.75mm",
+						"B0": "3.75mm",
+						"K0": "1.15mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]

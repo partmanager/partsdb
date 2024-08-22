@@ -13,7 +13,7 @@
 		"tags": "LDO",
 		"storageConditions": {
 			"temperature": "-65\u00b0C ~ 150\u00b0C",
-			"MSLevel": "Level-1-260C-1 UNLIM"
+			"MSLevel": "MSL-1 UNLIM"
 		},
 		"operatingConditions": {
 			"temperature": "-40\u00b0C ~ 125\u00b0C"

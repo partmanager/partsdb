@@ -10,13 +10,10 @@
 		"description": "Encoder, 2bit quadrature code",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Switch Type": "Encoder",
@@ -51,9 +48,6 @@
 		},
 		"orderNumbers": {
 			"ECW1D-B24-BC0024L": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

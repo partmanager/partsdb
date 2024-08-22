@@ -2,25 +2,15 @@
 	{
 		"manufacturer": "Fix&Fasten",
 		"partNumber": "FIX-LEM-67",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Lightpipe",
 		"series": {
 			"name": "FIX-LEM-67",
 			"description": "Lightpipes"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 70\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 70\u00b0C"
 		},
 		"parameters": {
 			"Shape": "Round",
@@ -46,7 +36,6 @@
 		},
 		"orderNumbers": {
 			"FIX-LEM-67": {
-				"Packaging Code": "",
 				"Packaging Type": "Bag",
 				"Packaging Qty": "2000",
 				"Packaging Data": {}
@@ -56,25 +45,15 @@
 	{
 		"manufacturer": "Fix&Fasten",
 		"partNumber": "FIX-LEM-67-13",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Lightpipe",
 		"series": {
 			"name": "FIX-LEM-67",
 			"description": "Lightpipes"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 70\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 70\u00b0C"
 		},
 		"parameters": {
 			"Shape": "Round",
@@ -100,7 +79,6 @@
 		},
 		"orderNumbers": {
 			"FIX-LEM-67-13": {
-				"Packaging Code": "",
 				"Packaging Type": "Bag",
 				"Packaging Qty": "2000",
 				"Packaging Data": {}
@@ -110,25 +88,15 @@
 	{
 		"manufacturer": "Fix&Fasten",
 		"partNumber": "FIX-LEM-67-27.5",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Lightpipe",
 		"series": {
 			"name": "FIX-LEM-67",
 			"description": "Lightpipes"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 70\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 70\u00b0C"
 		},
 		"parameters": {
 			"Shape": "Round",
@@ -154,7 +122,6 @@
 		},
 		"orderNumbers": {
 			"FIX-LEM-67-27.5": {
-				"Packaging Code": "",
 				"Packaging Type": "Bag",
 				"Packaging Qty": "1000",
 				"Packaging Data": {}

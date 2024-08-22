@@ -2,25 +2,16 @@
 	{
 		"manufacturer": "Abracon",
 		"partNumber": "ABM3B-8.000MHZ-10-1UT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Crystal",
 		"series": {
-			"name": "ABM3B",
-			"description": ""
+			"name": "ABM3B"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-10\u00b0C ~ 60\u00b0C",
-			"humidity": ""			
+			"temperature": "-10\u00b0C ~ 60\u00b0C"
 		},
 		"parameters": {
 			"Frequency": {
@@ -52,20 +43,14 @@
 				"value": "max. 5ppm/year"
 			}
 		},
-		"files": {
-			"datasheet": ""
-		},
+		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"ABM3B-8.000MHZ-10-1UT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -73,25 +58,16 @@
 	{
 		"manufacturer": "ILSI",
 		"partNumber": "ILCX13-FF5F-24.0000",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Crystal",
 		"series": {
-			"name": "ILCX13",
-			"description": ""
+			"name": "ILCX13"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Frequency": {
@@ -117,20 +93,14 @@
 				"value": "max. 5ppm/year"
 			}
 		},
-		"files": {
-			"datasheet": ""
-		},
+		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"ILCX13-FF5F-24.0000": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -138,25 +108,14 @@
 	{
 		"manufacturer": "IQD",
 		"partNumber": "LFXTAL071742CUTT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Crystal",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-45\u00b0C ~ 130\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-45\u00b0C ~ 130\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Frequency": {
@@ -185,12 +144,9 @@
 				"value": "max. 5ppm/year"
 			}
 		},
-		"files": {
-			"datasheet": ""
-		},
+		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
@@ -206,25 +162,14 @@
 	{
 		"manufacturer": "SR Passives",
 		"partNumber": "14.31818M-49S-SR",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Crystal",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-10\u00b0C ~ 60\u00b0C",
-			"humidity": ""			
+			"temperature": "-10\u00b0C ~ 60\u00b0C"
 		},
 		"parameters": {
 			"Frequency": {
@@ -259,9 +204,7 @@
 				"value": "max. 5ppm/year"
 			}
 		},
-		"files": {
-			"datasheet": ""
-		},
+		"files": {},
 		"package": {
 			"name": "HC-49/U"
 		},
@@ -272,9 +215,6 @@
 		},
 		"orderNumbers": {
 			"14.31818M-49S-SR": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -282,25 +222,14 @@
 	{
 		"manufacturer": "SR Passives",
 		"partNumber": "25M-49S-SR",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Crystal",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-10\u00b0C ~ 60\u00b0C",
-			"humidity": ""			
+			"temperature": "-10\u00b0C ~ 60\u00b0C"
 		},
 		"parameters": {
 			"Frequency": {
@@ -335,9 +264,7 @@
 				"value": "max. 5ppm/year"
 			}
 		},
-		"files": {
-			"datasheet": ""
-		},
+		"files": {},
 		"package": {
 			"name": "HC-49/U"
 		},
@@ -348,9 +275,6 @@
 		},
 		"orderNumbers": {
 			"25M-49S-SR": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -358,25 +282,14 @@
 	{
 		"manufacturer": "SR Passives",
 		"partNumber": "3225-12M-SR",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Crystal",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Frequency": {
@@ -402,20 +315,14 @@
 				"value": "max. 3ppm/year"
 			}
 		},
-		"files": {
-			"datasheet": ""
-		},
+		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"3225-12M-SR": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -423,25 +330,14 @@
 	{
 		"manufacturer": "SR Passives",
 		"partNumber": "8M-49S-SR",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Crystal",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-10\u00b0C ~ 60\u00b0C",
-			"humidity": ""			
+			"temperature": "-10\u00b0C ~ 60\u00b0C"
 		},
 		"parameters": {
 			"Frequency": {
@@ -473,9 +369,7 @@
 				"value": "max. 5ppm/year"
 			}
 		},
-		"files": {
-			"datasheet": ""
-		},
+		"files": {},
 		"package": {
 			"name": "HC-49/S"
 		},
@@ -486,9 +380,6 @@
 		},
 		"orderNumbers": {
 			"8M-49S-SR": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -496,25 +387,12 @@
 	{
 		"manufacturer": "YIC",
 		"partNumber": "32.768K-TC38",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Crystal",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-10\u00b0C ~ 60\u00b0C",
-			"humidity": ""			
+			"temperature": "-10\u00b0C ~ 60\u00b0C"
 		},
 		"parameters": {
 			"Frequency": {
@@ -524,9 +402,7 @@
 				"value": "12.5pF"
 			}
 		},
-		"files": {
-			"datasheet": ""
-		},
+		"files": {},
 		"package": {
 			"name": "TC38"
 		},
@@ -537,9 +413,6 @@
 		},
 		"orderNumbers": {
 			"32.768K-TC38": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -547,22 +420,11 @@
 	{
 		"manufacturer": "YIC",
 		"partNumber": "8.00M-HC49-S",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Crystal",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
+		"series": {},
 		"productUrl": "https://www.yic.com.tw/en/products-en/quartz-crystal-units/",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"parameters": {
 			"Frequency": {
 				"value": "8MHz \u00b130ppm"
@@ -600,9 +462,6 @@
 		},
 		"orderNumbers": {
 			"8.00M-HC49-S": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -610,25 +469,12 @@
 	{
 		"manufacturer": "YIC",
 		"partNumber": "YIC8.0000K0",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Crystal",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-20\u00b0C ~ 70\u00b0C",
-			"humidity": ""			
+			"temperature": "-20\u00b0C ~ 70\u00b0C"
 		},
 		"parameters": {
 			"Frequency": {
@@ -654,9 +500,7 @@
 				"value": "max. 5ppm/year"
 			}
 		},
-		"files": {
-			"datasheet": ""
-		},
+		"files": {},
 		"package": {
 			"name": "HC49-S"
 		},
@@ -667,9 +511,6 @@
 		},
 		"orderNumbers": {
 			"YIC8.0000K0": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

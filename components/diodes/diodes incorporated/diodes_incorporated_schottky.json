@@ -2,25 +2,15 @@
 	{
 		"manufacturer": "Diodes Incorporated",
 		"partNumber": "1N5819HW",
-		"productionStatus": "",
 		"markingCode": "SL",
 		"partType": "Schottky Diode",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-65\u00b0C ~ 125\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-65\u00b0C ~ 125\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-65\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-65\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Forward Voltage": [
@@ -130,7 +120,6 @@
 		},
 		"orderNumbers": {
 			"1N5819HW-7-F": {
-				"Packaging Code": "",
 				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "3000",
 				"Packaging Data": {
@@ -144,25 +133,18 @@
 	{
 		"manufacturer": "Diodes Incorporated",
 		"partNumber": "B330A",
-		"productionStatus": "",
 		"markingCode": "B330A",
 		"partType": "Schottky Diode",
 		"series": {
 			"name": "B3#0A",
 			"description": "3.0A SURFACE MOUNT SCHOTTKY BARRIER RECTIFIER"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
 		},
 		"parameters": {
 			"Forward Voltage": {
@@ -222,12 +204,11 @@
 		},
 		"orderNumbers": {
 			"B330A-13-F": {
-				"Packaging Code": "",
 				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "5000",
 				"Packaging Data": {
 					"reel": {
-						"Diameter": "13”"
+						"Diameter": "13\u201d"
 					}
 				}
 			}

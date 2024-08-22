@@ -2,25 +2,15 @@
 	{
 		"manufacturer": "Bourns",
 		"partNumber": "CAT16-220J4LF",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Resistor Array",
 		"series": {
 			"name": "CAT16",
 			"description": "Chip Resistor Arrays"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Elements Count": {
@@ -53,15 +43,11 @@
 			"name": "Chip Array 1206"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"CAT16-220J4LF": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

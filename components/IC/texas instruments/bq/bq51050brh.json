@@ -1,0 +1,215 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "BQ51050BRHL#",
+		"markingCode": "BQ51050B",
+		"partType": "IC",
+		"series": {
+			"name": "BQ5105xB",
+			"description": "High-Efficiency Qi v1.2-Compliant Wireless Power Receiver and Battery Charger"
+		},
+		"description": "High-Efficiency Qi v1.2-Compliant Wireless Power Receiver and Battery Charger",
+		"productUrl": "https://www.ti.com/product/BQ51050B",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-2 1-YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "0\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "4V",
+				"max": "10V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/bq51050b.pdf"
+				},
+				"SLUSB42F": {
+					"date": "06-2017",
+					"md5sum": "047ca6b52556ad7e8ce0f15769fbcd9e"
+				}
+			}
+		},
+		"package": {
+			"name": "VQFN-20"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"PGND": {
+					"no": [
+						1,
+						20
+					],
+					"func": "PwrGND",
+					"desc": "Power ground"
+				},
+				"AC1": {
+					"no": 2,
+					"func": "InAnalog",
+					"desc": "Input power from receiver coil"
+				},
+				"BOOT1": {
+					"no": 3,
+					"func": "OutAnalog"
+				},
+				"BAT": {
+					"no": 4,
+					"func": "OutAnalog"
+				},
+				"CLAMP1": {
+					"no": 5,
+					"func": "OutDigital"
+				},
+				"COMM1": {
+					"no": 6,
+					"func": "OutDigital"
+				},
+				"CHG": {
+					"no": 7,
+					"func": "OutDigital;ActiveLow"
+				},
+				"AD-EN": {
+					"no": 8,
+					"func": "OutAnalog;ActiveLow",
+					"desc": "Push-pull driver for external PFET"
+				},
+				"AD": {
+					"no": 9,
+					"func": "InAnalog"
+				},
+				"TERM": {
+					"no": 10,
+					"func": "InAnalog"
+				},
+				"EN2": {
+					"no": 11,
+					"func": "InDigital"
+				},
+				"ILIM": {
+					"no": 12,
+					"func": "InOut"
+				},
+				"TS/CTRL": {
+					"no": 13,
+					"func": "InAnalog"
+				},
+				"FOD": {
+					"no": 14,
+					"func": "InDigital"
+				},
+				"COMM2": {
+					"no": 15,
+					"func": "OutDigital"
+				},
+				"CLAMP2": {
+					"no": 16,
+					"func": "OutDigital"
+				},
+				"BOOT2": {
+					"no": 17,
+					"func": "OutAnalog"
+				},
+				"RECT": {
+					"no": 18,
+					"func": "OutAnalog"
+				},
+				"AC2": {
+					"no": 19,
+					"func": "InAnalog",
+					"desc": "Input power from receiver coil"
+				},
+				"EP": {
+					"no": "EP",
+					"func": "PwrGND"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"AD-EN",
+						"!@#SEPARATOR#@!",
+						"AD",
+						"COMM1",
+						"!@#SEPARATOR#@!",
+						"BOOT1",
+						"!@#SEPARATOR#@!",
+						"AC1",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"AC2",
+						"!@#SEPARATOR#@!",
+						"BOOT2",
+						"!@#SEPARATOR#@!",
+						"COMM2",
+						"!@#SEPARATOR#@!",
+						"CLAMP2",
+						"CLAMP1",
+						"ILIM",
+						"FOD"
+					],
+					"right_side": [
+						"BAT",
+						"!@#SEPARATOR#@!",
+						"RECT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"TS/CTRL",
+						"!@#SEPARATOR#@!",
+						"CHG",
+						"TERM",
+						"EN2",
+						"PGND"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"BQ51050BRHLR": {
+				"productionStatus": "Active",
+				"packagingCode": "R",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "3000",
+				"packagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "3.71mm",
+						"B0": "4.71mm",
+						"K0": "1.1mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			},
+			"BQ51050BRHLT": {
+				"productionStatus": "Active",
+				"packagingCode": "T",
+				"packagingType": "Embossed Tape / Reel",
+				"packagingQuantity": "250",
+				"packagingData": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "3.71mm",
+						"B0": "4.71mm",
+						"K0": "1.1mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]

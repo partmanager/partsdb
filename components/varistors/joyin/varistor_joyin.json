@@ -2,22 +2,12 @@
 	{
 		"manufacturer": "Joyin",
 		"partNumber": "JVR07N101K",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Varistor",
 		"series": {
-			"name": "7N",
-			"description": ""
+			"name": "7N"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"parameters": {
 			"Varistor Voltage": {
 				"value": "100V \u00b110%"
@@ -38,9 +28,7 @@
 				"value": "250mW"
 			}
 		},
-		"files": {
-			"Datasheet": ""
-		},
+		"files": {},
 		"package": {},
 		"symbol&footprint": {
 			"symbolName": "varistor",
@@ -49,9 +37,6 @@
 		},
 		"orderNumbers": {
 			"JVR07N101K": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

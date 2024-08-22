@@ -9,7 +9,7 @@
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"MSLevel": "Level-1-260C-UNLIM"
+			"MSLevel": "MSL-1 UNLIM"
 		},
 		"operatingConditions": {
 			"temperature": "-55\u00b0C ~ 150\u00b0C"

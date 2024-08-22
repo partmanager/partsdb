@@ -2,25 +2,14 @@
 	{
 		"manufacturer": "Lucky Light",
 		"partNumber": "LL-S194PBC-B4-1B",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "LED",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 80\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 80\u00b0C"
 		},
 		"parameters": {
 			"Color": "Blue",
@@ -60,7 +49,6 @@
 		},
 		"orderNumbers": {
 			"LL-S194PBC-B4-1B": {
-				"Packaging Code": "",
 				"Packaging Type": "7\" reel",
 				"Packaging Qty": "4000",
 				"Packaging Data": {}
@@ -70,25 +58,14 @@
 	{
 		"manufacturer": "Lucky Light",
 		"partNumber": "LL-S194PUYC-Y2-2B",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "LED",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 80\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 80\u00b0C"
 		},
 		"parameters": {
 			"Color": "Yellow",
@@ -128,7 +105,6 @@
 		},
 		"orderNumbers": {
 			"LL-S194PUYC-Y2-2B": {
-				"Packaging Code": "",
 				"Packaging Type": "7\" reel",
 				"Packaging Qty": "4000",
 				"Packaging Data": {}
@@ -138,25 +114,14 @@
 	{
 		"manufacturer": "Lucky Light",
 		"partNumber": "LL-S194PVC-V1-2B",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "LED",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 80\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 80\u00b0C"
 		},
 		"parameters": {
 			"Color": "Red",
@@ -196,7 +161,6 @@
 		},
 		"orderNumbers": {
 			"LL-S194PVC-V1-2B": {
-				"Packaging Code": "",
 				"Packaging Type": "7\" reel",
 				"Packaging Qty": "4000",
 				"Packaging Data": {}
@@ -206,25 +170,14 @@
 	{
 		"manufacturer": "Optosupply",
 		"partNumber": "OSG80603C1E",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "LED",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Color": "Green",
@@ -264,7 +217,6 @@
 		},
 		"orderNumbers": {
 			"OSG80603C1E": {
-				"Packaging Code": "",
 				"Packaging Type": "7\" reel",
 				"Packaging Qty": "4000",
 				"Packaging Data": {}
@@ -274,25 +226,14 @@
 	{
 		"manufacturer": "REFOND",
 		"partNumber": "RF-GNB191TS-CF",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "LED",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Color": "Green",
@@ -332,8 +273,6 @@
 		},
 		"orderNumbers": {
 			"RF-GNB191TS-CF": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "4000",
 				"Packaging Data": {}
 			}
@@ -342,25 +281,14 @@
 	{
 		"manufacturer": "REFOND",
 		"partNumber": "RF-RUB190TS-BD",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "LED",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Color": "Red",
@@ -400,8 +328,6 @@
 		},
 		"orderNumbers": {
 			"RF-RUB190TS-BD": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "4000",
 				"Packaging Data": {}
 			}

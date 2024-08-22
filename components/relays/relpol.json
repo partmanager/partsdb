@@ -2,25 +2,15 @@
 	{
 		"manufacturer": "Relpol",
 		"partNumber": "RM85-2011-35-1012",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Relay",
 		"series": {
 			"name": "RM85",
 			"description": "Miniature relays"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 70\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 70\u00b0C"
 		},
 		"parameters": {
 			"Coil Voltage": {
@@ -66,8 +56,6 @@
 		},
 		"orderNumbers": {
 			"RM85-2011-35-1012": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
 			}

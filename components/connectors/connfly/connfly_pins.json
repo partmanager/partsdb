@@ -2,25 +2,14 @@
 	{
 		"manufacturer": "Connfly",
 		"partNumber": "DS1031-08-2*10P8BS-4-1",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector Pins",
 		"series": {
-			"name": "DS1031",
-			"description": ""
+			"name": "DS1031"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 105\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 105\u00b0C"
 		},
 		"parameters": {
 			"Pin Count": {
@@ -48,14 +37,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"DS1031-08-2*10P8BS-4-1": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
 			}
@@ -64,25 +50,14 @@
 	{
 		"manufacturer": "Connfly",
 		"partNumber": "DS1031-08-2*5P8BS-4-1",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector Pins",
 		"series": {
-			"name": "DS1031",
-			"description": ""
+			"name": "DS1031"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 105\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 105\u00b0C"
 		},
 		"parameters": {
 			"Pin Count": {
@@ -110,14 +85,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"DS1031-08-2*5P8BS-4-1": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
 			}

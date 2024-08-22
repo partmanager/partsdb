@@ -1,38 +1,38 @@
 [
-    {
-        "manufacturer": "GCT",
-        "partNumber": "SIM8060",
-        "productionStatus": null,
-        "markingCode": null,
-        "partType": "Connector",
-        "series": {
-            "name": "",
-            "description": ""
-        },
-        "description": "Nano SIM Card Connector",
-        "productUrl": null,
-        "notes": null,
-        "tags": ["SIM Card", "SIMCard", "Nano SIM"],
-        "storageConditions": {
-            "temperature": "-40\u00b0C ~ 70\u00b0C",
-            "humidity": "max. 80%",
-            "MSLevel": ""
-        },
-        "parameters": {
-            "Working Temp Range": {
-                "Working Temp Min": "-20",
-                "Working Temp Max": "85"
-            }           
-        },
-        "files": {},  
-        "package": {},
-        "symbol&footprint": {
-            "symbolName": "connector_card_nanosim_with_switch",
-            "pinmap": {},
-            "footprints": []
-        },
-        "orderNumbers": {
-            "SIM8060-6-0-14-00-A": {}
-        }
-    }
+	{
+		"manufacturer": "GCT",
+		"partNumber": "SIM8060",
+		"productionStatus": null,
+		"markingCode": null,
+		"partType": "Connector",
+		"series": {},
+		"description": "Nano SIM Card Connector",
+		"productUrl": null,
+		"notes": null,
+		"tags": [
+			"SIM Card",
+			"SIMCard",
+			"Nano SIM"
+		],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 70\u00b0C",
+			"humidity": "max. 80%"
+		},
+		"parameters": {
+			"Working Temp Range": {
+				"Working Temp Min": "-20",
+				"Working Temp Max": "85"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "connector_card_nanosim_with_switch",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"SIM8060-6-0-14-00-A": {}
+		}
+	}
 ]

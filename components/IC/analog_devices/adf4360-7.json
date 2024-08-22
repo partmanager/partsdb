@@ -2,25 +2,16 @@
 	{
 		"manufacturer": "Analog Devices",
 		"partNumber": "ADF4360-7",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "IC RF Synthesizer",
-		"series": {
-			"name": "",
-			"description": ""
-		},
+		"series": {},
 		"description": "Integrated Synthesizer and VCO",
 		"productUrl": "https://www.analog.com/en/products/adf4360-7.html",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Supply Voltage Range": {
@@ -34,24 +25,20 @@
 			"name": "LFCSP24"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"ADF4360-7BCPZ": {
-				"Code": "",
 				"Type": "Tray",
 				"Qty": 490
 			},
 			"ADF4360-7BCPZRL": {
-				"Code": "",
 				"Type": "Embossed Tape / Reel",
 				"Qty": 5000,
 				"packagingData": {
 					"reel": {
-						"Diameter": "13\u201d",
-						"Width": ""
+						"Diameter": "13\u201d"
 					},
 					"tape": {
 						"Pin 1 Quadrant": "Q2",
@@ -66,13 +53,11 @@
 				}
 			},
 			"ADF4360-7BCPZRL7": {
-				"Code": "",
 				"Type": "Embossed Tape / Reel",
 				"Qty": 1500,
 				"packagingData": {
 					"reel": {
-						"Diameter": "7\u201d",
-						"Width": ""
+						"Diameter": "7\u201d"
 					},
 					"tape": {
 						"Pin 1 Quadrant": "Q2",

@@ -2,26 +2,14 @@
 	{
 		"manufacturer": "Laird Connectivity",
 		"partNumber": "453-00048",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Module",
-		"series": {
-			"name": "",
-			"description": ""
-		},
+		"series": {},
 		"operatingConditions": {
-			"temperature": "-20\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-20\u00b0C ~ 85\u00b0C"
 		},
 		"description": "WIFI module",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"parameters": {
 			"Module Type": "WIFI module",
 			"Key": "E"
@@ -29,14 +17,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"453-00048": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
 			}
@@ -45,25 +30,13 @@
 	{
 		"manufacturer": "Laird Connectivity",
 		"partNumber": "453-00049",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Module",
-		"series": {
-			"name": "",
-			"description": ""
-		},
+		"series": {},
 		"description": "WIFI module",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-20\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-20\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Module Type": "WIFI module",
@@ -72,14 +45,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"453-00049": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
 			}

@@ -2,25 +2,16 @@
 	{
 		"manufacturer": "Liteon",
 		"partNumber": "1N4148W",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Small Signal Diode",
 		"series": {
-			"name": "1N",
-			"description": ""
+			"name": "1N"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-65\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-65\u00b0C ~ 150\u00b0C",
-			"humidity": ""			
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
 		},
 		"parameters": {
 			"Forward Voltage": [
@@ -117,9 +108,6 @@
 		},
 		"orderNumbers": {
 			"1N4148W": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

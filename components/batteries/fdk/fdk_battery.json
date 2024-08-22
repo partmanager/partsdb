@@ -2,22 +2,11 @@
 	{
 		"manufacturer": "FDK",
 		"partNumber": "CR14250SE",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Battery",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
+		"series": {},
 		"productUrl": "https://www.fdk.com/battery/lithium_e/high_capacity/",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"parameters": {
 			"Battery Type": "CR14250",
 			"Battery Classification": "Lithium",
@@ -47,7 +36,6 @@
 		},
 		"orderNumbers": {
 			"CR14250SE 3PF": {
-				"Packaging Code": "",
 				"Packaging Type": "Foil",
 				"Packaging Qty": "1",
 				"Packaging Data": {}

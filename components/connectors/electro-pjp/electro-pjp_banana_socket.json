@@ -2,26 +2,13 @@
 	{
 		"manufacturer": "Electro-PJP",
 		"partNumber": "3110",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "Ø4mm uninsulated socket / M6 Threaded stud and hex nuts",
+		"series": {},
+		"description": "\u00d84mm uninsulated socket / M6 Threaded stud and hex nuts",
 		"productUrl": "https://www.electro-pjp.com/en/Product/o4mm-uninsulated-socket-o2mm-hole-terminal-m6-threaded-stud-and-hex-nuts/",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
-		"operatingConditions": {
-			"temperature": "",
-			"humidity": ""			
-		},
+		"storageConditions": {},
+		"operatingConditions": {},
 		"parameters": {
 			"Pin Count": {
 				"value": "1"
@@ -36,15 +23,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"3110-I": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

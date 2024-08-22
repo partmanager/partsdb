@@ -2,25 +2,12 @@
 	{
 		"manufacturer": "JST",
 		"partNumber": "B3B-PH-K-S",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-45\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-45\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Pin Count": {
@@ -45,15 +32,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"B3B-PH-K-S": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -61,25 +44,12 @@
 	{
 		"manufacturer": "JST",
 		"partNumber": "B4B-PH-K-S",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-45\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-45\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Pin Count": {
@@ -104,15 +74,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"B4B-PH-K-S": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

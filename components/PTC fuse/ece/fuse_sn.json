@@ -2,25 +2,17 @@
 	{
 		"manufacturer": "ECE",
 		"partNumber": "SN005-60",
-		"productionStatus": "",
 		"markingCode": "5",
 		"partType": "PTC Fuse",
 		"series": {
 			"name": "SN",
 			"description": "Surface mount PTC SN (1206) model"
 		},
-		"description": "",
 		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/269",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Hold Current": {
@@ -79,9 +71,6 @@
 		},
 		"orderNumbers": {
 			"SN005-60": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -89,25 +78,16 @@
 	{
 		"manufacturer": "ECE",
 		"partNumber": "SN010-60",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "PTC Fuse",
 		"series": {
 			"name": "SN",
 			"description": "Surface mount PTC SN (1206) model"
 		},
-		"description": "",
 		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/269",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Hold Current": {
@@ -166,9 +146,6 @@
 		},
 		"orderNumbers": {
 			"SN010-60": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -176,25 +153,16 @@
 	{
 		"manufacturer": "ECE",
 		"partNumber": "SN020-30",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "PTC Fuse",
 		"series": {
 			"name": "SN",
 			"description": "Surface mount PTC SN (1206) model"
 		},
-		"description": "",
 		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/269",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Hold Current": {
@@ -253,9 +221,6 @@
 		},
 		"orderNumbers": {
 			"SN020-30": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -263,25 +228,16 @@
 	{
 		"manufacturer": "ECE",
 		"partNumber": "SN035-16",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "PTC Fuse",
 		"series": {
 			"name": "SN",
 			"description": "Surface mount PTC SN (1206) model"
 		},
-		"description": "",
 		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/269",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Hold Current": {
@@ -340,9 +296,6 @@
 		},
 		"orderNumbers": {
 			"SN035-16": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -350,25 +303,16 @@
 	{
 		"manufacturer": "ECE",
 		"partNumber": "SN050-08",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "PTC Fuse",
 		"series": {
 			"name": "SN",
 			"description": "Surface mount PTC SN (1206) model"
 		},
-		"description": "",
 		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/269",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Hold Current": {
@@ -427,9 +371,6 @@
 		},
 		"orderNumbers": {
 			"SN050-08": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -437,25 +378,16 @@
 	{
 		"manufacturer": "ECE",
 		"partNumber": "SN075-06",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "PTC Fuse",
 		"series": {
 			"name": "SN",
 			"description": "Surface mount PTC SN (1206) model"
 		},
-		"description": "",
 		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/269",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Hold Current": {
@@ -514,9 +446,6 @@
 		},
 		"orderNumbers": {
 			"SN075-06": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

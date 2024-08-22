@@ -8,7 +8,7 @@
 		"productUrl": "https://www.ti.com/product/TPS62132",
 		"storageConditions": {
 			"temperature": "-65\u00b0C ~ 150\u00b0C",
-			"MSLevel": "Level-2-260C-1 YEAR"
+			"MSLevel": "MSL-2 1-YEAR"
 		},
 		"operatingConditions": {
 			"temperature": "-40\u00b0C ~ 125\u00b0C"

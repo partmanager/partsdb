@@ -2,25 +2,15 @@
 	{
 		"manufacturer": "Energizer",
 		"partNumber": "E91 MAX",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Battery",
 		"series": {
-			"name": "MAX",
-			"description": ""
+			"name": "MAX"
 		},
-		"description": "",
 		"productUrl": "https://www.energizer.com/batteries/energizer-max-alkaline-batteries",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-18\u00b0C ~ 55\u00b0C",
-			"humidity": ""			
+			"temperature": "-18\u00b0C ~ 55\u00b0C"
 		},
 		"parameters": {
 			"Battery Type": "AA, R6",
@@ -61,7 +51,6 @@
 		},
 		"orderNumbers": {
 			"E91 MAX": {
-				"Packaging Code": "",
 				"Packaging Type": "Foil",
 				"Packaging Qty": "2",
 				"Packaging Data": {}

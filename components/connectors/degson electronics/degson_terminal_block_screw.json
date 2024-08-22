@@ -2,25 +2,14 @@
 	{
 		"manufacturer": "Degson Electronics",
 		"partNumber": "DG128-5.0-03P-14",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector Terminal Block",
 		"series": {
-			"name": "DG128-5.0",
-			"description": ""
+			"name": "DG128-5.0"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 105\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 105\u00b0C"
 		},
 		"parameters": {
 			"Pin Count": {
@@ -55,7 +44,6 @@
 		},
 		"orderNumbers": {
 			"DG128-5.0-03P-14-00A(H)": {
-				"Packaging Code": "",
 				"Packaging Type": "Bag",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
@@ -65,25 +53,14 @@
 	{
 		"manufacturer": "Degson Electronics",
 		"partNumber": "DG128-7.5-02P-14",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector Terminal Block",
 		"series": {
-			"name": "DG128-7.5",
-			"description": ""
+			"name": "DG128-7.5"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 105\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 105\u00b0C"
 		},
 		"parameters": {
 			"Pin Count": {
@@ -118,7 +95,6 @@
 		},
 		"orderNumbers": {
 			"DG128-7.5-02P-14-00A(H)": {
-				"Packaging Code": "",
 				"Packaging Type": "Bag",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
@@ -128,25 +104,14 @@
 	{
 		"manufacturer": "Degson Electronics",
 		"partNumber": "DG128-7.5-03P-14",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector Terminal Block",
 		"series": {
-			"name": "DG128-7.5",
-			"description": ""
+			"name": "DG128-7.5"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 105\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 105\u00b0C"
 		},
 		"parameters": {
 			"Pin Count": {
@@ -181,7 +146,6 @@
 		},
 		"orderNumbers": {
 			"DG128-7.5-03P-14-00A(H)": {
-				"Packaging Code": "",
 				"Packaging Type": "Bag",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
@@ -191,25 +155,14 @@
 	{
 		"manufacturer": "Degson Electronics",
 		"partNumber": "DG301-5.0-02P-12",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector Terminal Block",
 		"series": {
-			"name": "DG301-5.0",
-			"description": ""
+			"name": "DG301-5.0"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-30\u00b0C ~ 120\u00b0C",
-			"humidity": ""			
+			"temperature": "-30\u00b0C ~ 120\u00b0C"
 		},
 		"parameters": {
 			"Pin Count": {
@@ -247,13 +200,11 @@
 		},
 		"orderNumbers": {
 			"DG301-5.0-02P-12": {
-				"Packaging Code": "",
 				"Packaging Type": "Bag",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
 			},
 			"DG301-5.0-02P-12-00A(H)": {
-				"Packaging Code": "",
 				"Packaging Type": "Bag",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
@@ -263,25 +214,14 @@
 	{
 		"manufacturer": "Degson Electronics",
 		"partNumber": "DG301-5.0-03P-12",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector Terminal Block",
 		"series": {
-			"name": "DG301-5.0",
-			"description": ""
+			"name": "DG301-5.0"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-30\u00b0C ~ 120\u00b0C",
-			"humidity": ""			
+			"temperature": "-30\u00b0C ~ 120\u00b0C"
 		},
 		"parameters": {
 			"Pin Count": {
@@ -319,25 +259,21 @@
 		},
 		"orderNumbers": {
 			"DG301-5.0-03P-12": {
-				"Packaging Code": "",
 				"Packaging Type": "Bag",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
 			},
 			"DG301-5.0-03P-12-00A(H)": {
-				"Packaging Code": "",
 				"Packaging Type": "Bag",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
 			},
 			"DG301-5.0-03P-12-00A": {
-				"Packaging Code": "",
 				"Packaging Type": "Bag",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
 			},
 			"DG301-5.0-03P-12-00H": {
-				"Packaging Code": "",
 				"Packaging Type": "Bag",
 				"Packaging Qty": "1",
 				"Packaging Data": {}

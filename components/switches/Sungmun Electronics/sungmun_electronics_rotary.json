@@ -10,13 +10,10 @@
 		"description": "Rotary switch, 16 position",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Switch Type": "Encoding Switch",
@@ -54,9 +51,6 @@
 		},
 		"orderNumbers": {
 			"TDR-16": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

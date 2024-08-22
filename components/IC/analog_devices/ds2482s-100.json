@@ -12,7 +12,7 @@
 		"productUrl": "https://www.analog.com/en/products/ds2482-100.html",
 		"storageConditions": {
 			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"MSLevel": "Level-1-260C-1 UNLIM"
+			"MSLevel": "MSL-1 UNLIM"
 		},
 		"operatingConditions": {
 			"temperature": "-40\u00b0C ~ 85\u00b0C"
@@ -116,7 +116,6 @@
 		"orderNumbers": {
 			"DS2482S-100+": {
 				"productionStatus": "Active",
-				"Code": "",
 				"Type": "Tube"
 			},
 			"DS2482S-100+T&R": {

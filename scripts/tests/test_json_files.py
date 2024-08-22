@@ -1,7 +1,7 @@
 import json
 import unittest
 from pathlib import Path
-from common import load_files, load_manufacturers, load_part_types, load_packaging_types
+from common import load_files, load_manufacturers, load_part_types, load_packaging_types, load_msl_classification
 
 
 class TestJsonFiles(unittest.TestCase):
@@ -10,6 +10,7 @@ class TestJsonFiles(unittest.TestCase):
         cls.manufacturers = load_manufacturers()
         cls.part_types = load_part_types()
         cls.packaging_types = load_packaging_types()
+        cls.msl_classification = load_msl_classification()
         cls.files = load_files(Path('./components'))
         cls.json_files = []
         for f in cls.files:
@@ -44,6 +45,13 @@ class TestJsonFiles(unittest.TestCase):
                     if 'Packaging Type' in order:
                         self.assertIn(order['Packaging Type'], self.packaging_types,
                                       msg=f"for part {part['partNumber']}, in: {json_file['file']}")
+
+    def test_validate_msl_field(self):
+        for json_file in self.json_files:
+            for part in json_file['data']:
+                if 'storageConditions' in part and 'MSLevel' in part['storageConditions']:
+                    self.assertIn(part['storageConditions']['MSLevel'], self.msl_classification,
+                              msg=f"for part {part['partNumber']}, in: {json_file['file']}")
 
 
 if __name__ == '__main__':

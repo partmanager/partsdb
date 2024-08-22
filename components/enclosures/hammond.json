@@ -2,25 +2,16 @@
 	{
 		"manufacturer": "Hammond",
 		"partNumber": "1551V1GY",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Enclosure",
 		"series": {
-			"name": "1551V",
-			"description": ""
+			"name": "1551V"
 		},
 		"description": "Enclosure ABS, wall mounting",
 		"productUrl": "https://www.hammfg.com/part/1551V1GY",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-20\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-20\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Material": "ABS",
@@ -49,14 +40,11 @@
 		},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"1551V1GY": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
 			}
@@ -65,25 +53,16 @@
 	{
 		"manufacturer": "Hammond",
 		"partNumber": "1551V4GY",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Enclosure",
 		"series": {
-			"name": "1551V",
-			"description": ""
+			"name": "1551V"
 		},
 		"description": "Enclosure ABS, wall mounting",
 		"productUrl": "https://www.hammfg.com/part/1551V4GY",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-20\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-20\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Material": "ABS",
@@ -112,15 +91,11 @@
 		},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"1551V4GY": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -128,27 +103,18 @@
 	{
 		"manufacturer": "Hammond",
 		"partNumber": "1590B",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Enclosure",
 		"series": {
-			"name": "1590",
-			"description": ""
+			"name": "1590"
 		},
 		"description": "Enclosure Aluminium",
 		"productUrl": "https://www.hammfg.com/part/1590B?referer=736",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"parameters": {
 			"Material": "Aluminum",
 			"Color": "Natural Aluminum",
 			"IP Rating": "IP54",
-			"Flame Rating": "",
 			"Length": {
 				"value": "113mm"
 			},
@@ -177,12 +143,10 @@
 		},
 		"orderNumbers": {
 			"1590B": {
-				"Packaging Code": "",
 				"Packaging Type": "shrink wrap",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
 			}
 		}
 	}
-
 ]

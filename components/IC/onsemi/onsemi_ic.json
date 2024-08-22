@@ -2,25 +2,18 @@
 	{
 		"manufacturer": "onsemi",
 		"partNumber": "MC7805BDTG",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "IC Voltage Regulator",
 		"series": {
 			"name": "78XX",
 			"description": "Positive Voltage Regulator"
 		},
 		"description": "Voltage Regulator 5V",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-65\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {},
 		"files": {},
@@ -28,13 +21,11 @@
 			"name": "DPAK"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"MC7805BDTG": {
-				"Packaging Code": "",
 				"Packaging Type": "Tube",
 				"Packaging Qty": "75",
 				"Packaging Data": {}

@@ -2,22 +2,10 @@
 	{
 		"manufacturer": "EATON",
 		"partNumber": "PS04LTVA1",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "ESD Suppressor",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"parameters": {
 			"Directions": {
 				"value": "Bidirectional"
@@ -50,15 +38,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PS04LTVA1": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

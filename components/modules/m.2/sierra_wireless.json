@@ -2,25 +2,15 @@
 	{
 		"manufacturer": "Sierra Wireless",
 		"partNumber": "EM7455",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Module",
-		"series": {
-			"name": "",
-			"description": ""
-		},
+		"series": {},
 		"description": "LTE Modem",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "max. 85\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "max. 85\u2103"
 		},
 		"operatingConditions": {
-			"temperature": "-20\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-20\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Module Type": "LTE Modem",
@@ -29,14 +19,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"EM7455": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
 			}

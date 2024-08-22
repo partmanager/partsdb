@@ -2,25 +2,18 @@
 	{
 		"manufacturer": "Nexperia",
 		"partNumber": "74HC165PW",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "IC",
 		"series": {
-			"name": "74",
-			"description": ""
+			"name": "74"
 		},
 		"description": "8-bit parallel-in/serial out shift register",
 		"productUrl": "https://www.nexperia.com/products/analog-logic-ics/logic/flip-flops-latches-registers-counters-dividers/shift-registers/74HC165PW.html",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-65\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {},
 		"files": {},
@@ -28,15 +21,11 @@
 			"name": "TSSOP16"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"74HC165PW,118": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -44,25 +33,18 @@
 	{
 		"manufacturer": "Nexperia",
 		"partNumber": "74HC595PW",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "IC",
 		"series": {
-			"name": "74",
-			"description": ""
+			"name": "74"
 		},
 		"description": "8-bit serial-in, serial or parallel-out shift register with output latches; 3-state",
 		"productUrl": "https://www.nexperia.com/product/74HC595PW",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-65\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {},
 		"files": {},
@@ -70,15 +52,11 @@
 			"name": "TSSOP16"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"74HC595PW,118": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

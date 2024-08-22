@@ -2,25 +2,17 @@
 	{
 		"manufacturer": "Vishay",
 		"partNumber": "SMAJ5.0A",
-		"productionStatus": "",
 		"markingCode": "AE",
 		"partType": "TVS",
 		"series": {
-			"name": "SMAJ",
-			"description": ""
+			"name": "SMAJ"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-65\u2103 ~ 150\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-65\u2103 ~ 150\u2103"
 		},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": ""
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
 		},
 		"parameters": {
 			"Configuration": "Unidirectional",
@@ -65,13 +57,11 @@
 			"name": "DO-214AC"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"SMAJ5.0A-E3/61": {
-				"Packaging Code": "",
 				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "1800",
 				"Packaging Data": {
@@ -85,25 +75,17 @@
 	{
 		"manufacturer": "Vishay",
 		"partNumber": "SMAJ6.0A",
-		"productionStatus": "",
 		"markingCode": "AG",
 		"partType": "TVS",
 		"series": {
-			"name": "SMAJ",
-			"description": ""
+			"name": "SMAJ"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-65\u2103 ~ 150\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-65\u2103 ~ 150\u2103"
 		},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": ""
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
 		},
 		"parameters": {
 			"Configuration": "Unidirectional",
@@ -148,13 +130,11 @@
 			"name": "DO-214AC"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"SMAJ6.0A-E3/61": {
-				"Packaging Code": "",
 				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "1800",
 				"Packaging Data": {

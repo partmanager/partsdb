@@ -2,22 +2,10 @@
 	{
 		"manufacturer": "Eska",
 		"partNumber": "FUSE 1206-FF PW 1A0",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Fuse",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"parameters": {
 			"Rated Current": {
 				"value": "max. 1A"
@@ -48,28 +36,10 @@
 		},
 		"orderNumbers": {
 			"FUSE 1206-FF PW 1A0": {
-				"Packaging Code": "",
 				"Packaging Type": "Paper Tape / Reel",
-				"Packaging Qty": "",
 				"Packaging Data": {
-					"Reel Diameter": "",
-					"Reel Width": "",
 					"Tape Pin 1 Quadrant": "Q1",
-					"Tape W": "8mm",
-					"Tape E": "",
-					"Tape F": "",
-					"Tape SO": "",
-					"Tape P0": "",
-					"Tape P1": "",
-					"Tape P2": "",
-					"Tape D": "",
-					"Tape D1": "",
-					"Tape A0": "",
-					"Tape A1": "",
-					"Tape B0": "",
-					"Tape B1": "",
-					"Tape T": "",
-					"Tape K": ""
+					"Tape W": "8mm"
 				}
 			}
 		}

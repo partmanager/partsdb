@@ -2,25 +2,14 @@
 	{
 		"manufacturer": "Laird",
 		"partNumber": "CM3421Y600R-10",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Common Mode Choke",
 		"series": {
-			"name": "CM3421",
-			"description": ""
+			"name": "CM3421"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Rated Current": {
@@ -68,7 +57,6 @@
 		},
 		"orderNumbers": {
 			"CM3421Y600R-10": {
-				"Packaging Code": "",
 				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "2000",
 				"Packaging Data": {}

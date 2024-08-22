@@ -1,49 +1,35 @@
 [
-    {
-        "manufacturer": "Bridgelux",
-        "partNumber": "BXT3800P06M",
-        "productionStatus": "",
-        "markingCode": "",
-        "partType": "Transistor MOSFET P",
-        "series": {
-            "name": "",
-            "description": ""
-        },
-        "description": "-60V -3A P-Channel Enhancement Mode Power MOSFET",
-        "productUrl": "",
-        "notes": "",
-        "tags": [],
-        "storageConditions": {
-            "temperature": "",
-            "humidity": "",
-            "MSLevel": ""
-        },
-        "parameters": {
-            "Drain Source Breakdown Voltage": {
-                "value": "min. -60V",
-                "conditions": {
-                    "I_D": "250uA",
-                    "V_GS": "0V",
-                    "T_j": "25\u00b0C"
-                }
-            }
-        },
-        "files": {},
-        "package": {
-            "name": "SOT23"
-        },
-        "symbol&footprint": {
-            "symbolName": "mos_p",
-            "pinmap": {},
-            "footprints": []
-        },
-        "orderNumbers": {
-            "BXT3800P06M": {
-                "Packaging Code": "",
-                "Packaging Type": "",
-                "Packaging Qty": "",
-                "Packaging Data": {}
-            }
-        }
-    }
+	{
+		"manufacturer": "Bridgelux",
+		"partNumber": "BXT3800P06M",
+		"partType": "Transistor MOSFET P",
+		"series": {},
+		"description": "-60V -3A P-Channel Enhancement Mode Power MOSFET",
+		"tags": [],
+		"storageConditions": {},
+		"parameters": {
+			"Drain Source Breakdown Voltage": {
+				"value": "min. -60V",
+				"conditions": {
+					"I_D": "250uA",
+					"V_GS": "0V",
+					"T_j": "25\u00b0C"
+				}
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SOT23"
+		},
+		"symbol&footprint": {
+			"symbolName": "mos_p",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"BXT3800P06M": {
+				"Packaging Data": {}
+			}
+		}
+	}
 ]

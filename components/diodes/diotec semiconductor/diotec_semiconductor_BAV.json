@@ -2,25 +2,15 @@
 	{
 		"manufacturer": "Diotec Semiconductor",
 		"partNumber": "BAV99W",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Small Signal Diode",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
+		"series": {},
 		"productUrl": "https://diotec.com/en/product/BAV99W.html",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
 		},
 		"parameters": {
 			"Forward Voltage": [
@@ -65,7 +55,7 @@
 			"I_F": {
 				"value": "0.2A"
 			},
-			"I_FSM":{
+			"I_FSM": {
 				"value": "0.5A",
 				"conditions": {
 					"t": "1s"
@@ -102,11 +92,9 @@
 		},
 		"orderNumbers": {
 			"BAV99W": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "3000",
 				"Packaging Data": {}
 			}
 		}
-	}	
+	}
 ]

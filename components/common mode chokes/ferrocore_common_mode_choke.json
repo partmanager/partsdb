@@ -2,25 +2,16 @@
 	{
 		"manufacturer": "FerroCore",
 		"partNumber": "DPWC 0805S-121",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Common Mode Choke",
 		"series": {
-			"name": "DPWC 0805S",
-			"description": ""
+			"name": "DPWC 0805S"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u2103 ~ 40\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u2103 ~ 40\u2103"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Rated Current": {
@@ -48,8 +39,6 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-121": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "2000",
 				"Packaging Data": {}
 			}
@@ -58,25 +47,16 @@
 	{
 		"manufacturer": "FerroCore",
 		"partNumber": "DPWC 0805S-161",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Common Mode Choke",
 		"series": {
-			"name": "DPWC 0805S",
-			"description": ""
+			"name": "DPWC 0805S"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u2103 ~ 40\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u2103 ~ 40\u2103"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Rated Current": {
@@ -104,8 +84,6 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-161": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "2000",
 				"Packaging Data": {}
 			}
@@ -114,25 +92,16 @@
 	{
 		"manufacturer": "FerroCore",
 		"partNumber": "DPWC 0805S-181",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Common Mode Choke",
 		"series": {
-			"name": "DPWC 0805S",
-			"description": ""
+			"name": "DPWC 0805S"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u2103 ~ 40\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u2103 ~ 40\u2103"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Rated Current": {
@@ -160,8 +129,6 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-181": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "2000",
 				"Packaging Data": {}
 			}
@@ -170,25 +137,16 @@
 	{
 		"manufacturer": "FerroCore",
 		"partNumber": "DPWC 0805S-221",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Common Mode Choke",
 		"series": {
-			"name": "DPWC 0805S",
-			"description": ""
+			"name": "DPWC 0805S"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u2103 ~ 40\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u2103 ~ 40\u2103"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Rated Current": {
@@ -216,8 +174,6 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-221": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "2000",
 				"Packaging Data": {}
 			}
@@ -226,25 +182,16 @@
 	{
 		"manufacturer": "FerroCore",
 		"partNumber": "DPWC 0805S-261",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Common Mode Choke",
 		"series": {
-			"name": "DPWC 0805S",
-			"description": ""
+			"name": "DPWC 0805S"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u2103 ~ 40\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u2103 ~ 40\u2103"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Rated Current": {
@@ -272,8 +219,6 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-261": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "2000",
 				"Packaging Data": {}
 			}
@@ -282,25 +227,16 @@
 	{
 		"manufacturer": "FerroCore",
 		"partNumber": "DPWC 0805S-361",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Common Mode Choke",
 		"series": {
-			"name": "DPWC 0805S",
-			"description": ""
+			"name": "DPWC 0805S"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u2103 ~ 40\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u2103 ~ 40\u2103"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Rated Current": {
@@ -328,8 +264,6 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-361": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "2000",
 				"Packaging Data": {}
 			}
@@ -338,25 +272,16 @@
 	{
 		"manufacturer": "FerroCore",
 		"partNumber": "DPWC 0805S-371",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Common Mode Choke",
 		"series": {
-			"name": "DPWC 0805S",
-			"description": ""
+			"name": "DPWC 0805S"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u2103 ~ 40\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u2103 ~ 40\u2103"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Rated Current": {
@@ -384,8 +309,6 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-371": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "2000",
 				"Packaging Data": {}
 			}
@@ -394,25 +317,16 @@
 	{
 		"manufacturer": "FerroCore",
 		"partNumber": "DPWC 0805S-670",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Common Mode Choke",
 		"series": {
-			"name": "DPWC 0805S",
-			"description": ""
+			"name": "DPWC 0805S"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u2103 ~ 40\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u2103 ~ 40\u2103"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Rated Current": {
@@ -440,8 +354,6 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-670": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "2000",
 				"Packaging Data": {}
 			}
@@ -450,25 +362,16 @@
 	{
 		"manufacturer": "FerroCore",
 		"partNumber": "DPWC 0805S-900",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Common Mode Choke",
 		"series": {
-			"name": "DPWC 0805S",
-			"description": ""
+			"name": "DPWC 0805S"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u2103 ~ 40\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u2103 ~ 40\u2103"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Rated Current": {
@@ -496,8 +399,6 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-900": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "2000",
 				"Packaging Data": {}
 			}

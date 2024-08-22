@@ -2,25 +2,18 @@
 	{
 		"manufacturer": "Ricoh",
 		"partNumber": "RP605K333B",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "IC Voltage Regulator",
 		"series": {
 			"name": "RP605x",
 			"description": "300mA Ultra-low Power Buck Boost DC/DC Converter with Battery Monitor"
 		},
 		"description": "DC/DC Converter 300mA 3.3V",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Supply Voltage Range": {
@@ -32,15 +25,11 @@
 			"name": "DFN(PLP)2730-12"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"RP605K333B-TR": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

@@ -2,39 +2,22 @@
 	{
 		"manufacturer": "Atmel",
 		"partNumber": "AT24MAC602",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "IC",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {},
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"AT24MAC602-SSHM": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

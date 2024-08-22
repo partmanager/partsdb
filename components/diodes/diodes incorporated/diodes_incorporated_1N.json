@@ -2,25 +2,17 @@
 	{
 		"manufacturer": "Diodes Incorporated",
 		"partNumber": "1N4148W",
-		"productionStatus": "",
 		"markingCode": "T4",
 		"partType": "Small Signal Diode",
 		"series": {
-			"name": "1N",
-			"description": ""
+			"name": "1N"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
 		},
 		"parameters": {
 			"Forward Voltage": [
@@ -120,7 +112,6 @@
 		},
 		"orderNumbers": {
 			"1N4148W-7-F": {
-				"Packaging Code": "",
 				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "3000",
 				"Packaging Data": {

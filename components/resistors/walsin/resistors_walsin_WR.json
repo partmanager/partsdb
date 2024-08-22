@@ -2,25 +2,14 @@
 	{
 		"manufacturer": "Walsin",
 		"partNumber": "WR06X2002FTL",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Resistor Thick Film",
 		"series": {
-			"name": "WR06",
-			"description": ""
+			"name": "WR06"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 155\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 155\u00b0C"
 		},
 		"parameters": {
 			"Resistance": {
@@ -50,7 +39,6 @@
 		},
 		"orderNumbers": {
 			"WR06X2002FTL": {
-				"Packaging Code": "",
 				"Packaging Type": "Paper Tape / Reel",
 				"Packaging Qty": "5000",
 				"Packaging Data": {

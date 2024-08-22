@@ -2,25 +2,15 @@
 	{
 		"manufacturer": "Adam Tech",
 		"partNumber": "HBHR-B2-10-VG-SMT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector IDC",
 		"series": {
 			"name": "HBHR",
 			"description": "IDC Connector"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 105\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 105\u00b0C"
 		},
 		"parameters": {
 			"Pin Count": {
@@ -48,15 +38,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"HBHR-B2-10-VG-SMT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -64,25 +50,15 @@
 	{
 		"manufacturer": "Adam Tech",
 		"partNumber": "HBHR-B2-20-VG-SMT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector IDC",
 		"series": {
 			"name": "HBHR",
 			"description": "IDC Connector"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 105\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 105\u00b0C"
 		},
 		"parameters": {
 			"Pin Count": {
@@ -110,15 +86,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"HBHR-B2-20-VG-SMT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -126,25 +98,15 @@
 	{
 		"manufacturer": "Adam Tech",
 		"partNumber": "HBHR-B2-26-VG-SMT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector IDC",
 		"series": {
 			"name": "HBHR",
 			"description": "IDC Connector"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 105\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 105\u00b0C"
 		},
 		"parameters": {
 			"Pin Count": {
@@ -172,15 +134,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"HBHR-B2-26-VG-SMT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -188,25 +146,15 @@
 	{
 		"manufacturer": "Adam Tech",
 		"partNumber": "HBHR-B2-34-VG-SMT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector IDC",
 		"series": {
 			"name": "HBHR",
 			"description": "IDC Connector"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 105\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 105\u00b0C"
 		},
 		"parameters": {
 			"Pin Count": {
@@ -234,15 +182,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"HBHR-B2-34-VG-SMT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -250,25 +194,15 @@
 	{
 		"manufacturer": "Adam Tech",
 		"partNumber": "HBHR-B2-40-VG-SMT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector IDC",
 		"series": {
 			"name": "HBHR",
 			"description": "IDC Connector"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 105\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 105\u00b0C"
 		},
 		"parameters": {
 			"Pin Count": {
@@ -296,15 +230,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"HBHR-B2-40-VG-SMT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -312,25 +242,15 @@
 	{
 		"manufacturer": "Adam Tech",
 		"partNumber": "HBHR-B2-50-VG-SMT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector IDC",
 		"series": {
 			"name": "HBHR",
 			"description": "IDC Connector"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 105\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 105\u00b0C"
 		},
 		"parameters": {
 			"Pin Count": {
@@ -358,15 +278,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"HBHR-B2-50-VG-SMT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

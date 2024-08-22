@@ -27,4 +27,4 @@ def cleanup_and_sort_json_files(files):
             print(f"Invalid JSON file {f}: {e}")
 
 
-cleanup_and_sort_json_files(load_files('./components/IC/texas instruments'))
+cleanup_and_sort_json_files(load_files('./components'))

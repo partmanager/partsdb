@@ -2,25 +2,18 @@
 	{
 		"manufacturer": "Diotec Semiconductor",
 		"partNumber": "MMSZ5245B",
-		"productionStatus": "",
 		"markingCode": "D5",
 		"partType": "Zener Diode",
 		"series": {
 			"name": "MMSZ52",
 			"description": "SMD Planar Zener Diodes"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-50\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-50\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-50\u00b0C ~ 150\u00b0C",
-			"humidity": ""			
+			"temperature": "-50\u00b0C ~ 150\u00b0C"
 		},
 		"parameters": {
 			"Forward Voltage": {
@@ -45,7 +38,6 @@
 		},
 		"orderNumbers": {
 			"MMSZ5245B": {
-				"Packaging Code": "",
 				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "3000",
 				"Packaging Data": {

@@ -2,25 +2,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL100JTT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -54,15 +43,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL100JTT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -70,25 +55,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL101JTT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -122,15 +96,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL101JTT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -138,25 +108,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL120JTT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -190,15 +149,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL120JTT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -206,25 +161,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL121JTT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -258,15 +202,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL121JTT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -274,25 +214,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL150JTT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -326,15 +255,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL150JTT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -342,25 +267,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL180JTT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -394,15 +308,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL180JTT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -410,25 +320,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL1N0STT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -462,15 +361,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL1N0STT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -478,25 +373,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL1N2STT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -530,15 +414,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL1N2STT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -546,25 +426,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL1N5STT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -598,15 +467,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL1N5STT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -614,25 +479,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL1N8STT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -666,15 +520,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL1N8STT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -682,25 +532,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL220JTT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -734,15 +573,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL220JTT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -750,25 +585,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL270JTT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -802,15 +626,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL270JTT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -818,25 +638,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL2N0STT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -870,15 +679,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL2N0STT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -886,25 +691,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL2N2STT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -938,15 +732,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL2N2STT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -954,25 +744,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL2N7STT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -1006,15 +785,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL2N7STT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -1022,25 +797,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL330JTT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -1074,15 +838,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL330JTT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -1090,25 +850,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL3N3STT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -1142,15 +891,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL3N3STT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -1158,25 +903,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL3N6STT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -1210,15 +944,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL3N6STT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -1226,25 +956,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL3N9STT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -1278,15 +997,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL3N9STT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -1294,25 +1009,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL470JTT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -1346,15 +1050,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL470JTT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -1362,25 +1062,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL4N7STT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -1414,15 +1103,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL4N7STT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -1430,25 +1115,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL560JTT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -1482,15 +1156,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL560JTT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -1498,25 +1168,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL5N6STT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -1550,15 +1209,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL5N6STT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -1566,25 +1221,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL680JTT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -1618,15 +1262,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL680JTT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -1634,25 +1274,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL6N2STT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -1686,15 +1315,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL6N2STT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -1702,25 +1327,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL6N8JTT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -1754,15 +1368,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL6N8JTT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -1770,25 +1380,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL7N5JTT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -1822,15 +1421,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL7N5JTT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -1838,25 +1433,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL820JTT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -1890,15 +1474,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL820JTT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -1906,25 +1486,14 @@
 	{
 		"manufacturer": "Pulse",
 		"partNumber": "PE-0402CL8N2JTT",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "PE-0402CL",
-			"description": ""
+			"name": "PE-0402CL"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -1958,15 +1527,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"PE-0402CL8N2JTT": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

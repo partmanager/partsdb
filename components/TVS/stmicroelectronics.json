@@ -2,21 +2,14 @@
 	{
 		"manufacturer": "STMicroelectronics",
 		"partNumber": "SMAJ6.0A",
-		"productionStatus": "",
 		"markingCode": "DUB",
 		"partType": "TVS",
 		"series": {
-			"name": "SMAJ",
-			"description": ""
+			"name": "SMAJ"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-65\u2103 ~ 150\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-65\u2103 ~ 150\u2103"
 		},
 		"parameters": {
 			"Configuration": "Unidirectional",
@@ -89,56 +82,26 @@
 			"name": "DO-214AC"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"SMAJ6.0A-TR": {
-				"Packaging Code": "",
 				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "5000",
-				"Packaging Data": {
-					"Reel Diameter": "",
-					"Reel Width": "",
-					"Tape Pin 1 Quadrant": "",
-					"Tape W": "",
-					"Tape E": "",
-					"Tape F": "",
-					"Tape SO": "",
-					"Tape P0": "",
-					"Tape P1": "",
-					"Tape P2": "",
-					"Tape D": "",
-					"Tape D1": "",
-					"Tape A0": "",
-					"Tape A1": "",
-					"Tape B0": "",
-					"Tape B1": "",
-					"Tape T": "",
-					"Tape K": ""
-				}
+				"Packaging Data": {}
 			}
 		}
 	},
 	{
 		"manufacturer": "STMicroelectronics",
 		"partNumber": "SMLVT3V3",
-		"productionStatus": "",
 		"markingCode": "CD",
 		"partType": "TVS",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-65\u2103 ~ 175\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-65\u2103 ~ 175\u2103"
 		},
 		"parameters": {
 			"Configuration": "Unidirectional",
@@ -181,56 +144,26 @@
 			"name": "SMB"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"SMLVT3V3": {
-				"Packaging Code": "",
 				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "2500",
-				"Packaging Data": {
-					"Reel Diameter": "",
-					"Reel Width": "",
-					"Tape Pin 1 Quadrant": "",
-					"Tape W": "",
-					"Tape E": "",
-					"Tape F": "",
-					"Tape SO": "",
-					"Tape P0": "",
-					"Tape P1": "",
-					"Tape P2": "",
-					"Tape D": "",
-					"Tape D1": "",
-					"Tape A0": "",
-					"Tape A1": "",
-					"Tape B0": "",
-					"Tape B1": "",
-					"Tape T": "",
-					"Tape K": ""
-				}
+				"Packaging Data": {}
 			}
 		}
 	},
 	{
 		"manufacturer": "STMicroelectronics",
 		"partNumber": "USBLC6-2",
-		"productionStatus": "",
 		"markingCode": "UL26",
 		"partType": "TVS",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-55\u2103 ~ 150\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-55\u2103 ~ 150\u2103"
 		},
 		"parameters": {
 			"Configuration": "Unidirectional",
@@ -270,56 +203,26 @@
 			"name": "SOT23-6L"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"USBLC6-2SC6": {
-				"Packaging Code": "",
 				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "3000",
-				"Packaging Data": {
-					"Reel Diameter": "",
-					"Reel Width": "",
-					"Tape Pin 1 Quadrant": "",
-					"Tape W": "",
-					"Tape E": "",
-					"Tape F": "",
-					"Tape SO": "",
-					"Tape P0": "",
-					"Tape P1": "",
-					"Tape P2": "",
-					"Tape D": "",
-					"Tape D1": "",
-					"Tape A0": "",
-					"Tape A1": "",
-					"Tape B0": "",
-					"Tape B1": "",
-					"Tape T": "",
-					"Tape K": ""
-				}
+				"Packaging Data": {}
 			}
 		}
 	},
 	{
 		"manufacturer": "STMicroelectronics",
 		"partNumber": "USBLC6-2P",
-		"productionStatus": "",
 		"markingCode": "F",
 		"partType": "TVS",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-55\u2103 ~ 150\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-55\u2103 ~ 150\u2103"
 		},
 		"parameters": {
 			"Configuration": "Unidirectional",
@@ -359,56 +262,26 @@
 			"name": "SOT-666"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"USBLC6-2P6": {
-				"Packaging Code": "",
 				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "3000",
-				"Packaging Data": {
-					"Reel Diameter": "",
-					"Reel Width": "",
-					"Tape Pin 1 Quadrant": "",
-					"Tape W": "",
-					"Tape E": "",
-					"Tape F": "",
-					"Tape SO": "",
-					"Tape P0": "",
-					"Tape P1": "",
-					"Tape P2": "",
-					"Tape D": "",
-					"Tape D1": "",
-					"Tape A0": "",
-					"Tape A1": "",
-					"Tape B0": "",
-					"Tape B1": "",
-					"Tape T": "",
-					"Tape K": ""
-				}
+				"Packaging Data": {}
 			}
 		}
 	},
 	{
 		"manufacturer": "STMicroelectronics",
 		"partNumber": "USBLC6-4",
-		"productionStatus": "",
 		"markingCode": "UL46",
 		"partType": "TVS",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-55\u2103 ~ 150\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-55\u2103 ~ 150\u2103"
 		},
 		"parameters": {
 			"Configuration": "Unidirectional",
@@ -451,35 +324,14 @@
 			"name": "SOT23-6L"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"USBLC6-4SC6": {
-				"Packaging Code": "",
 				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "3000",
-				"Packaging Data": {
-					"Reel Diameter": "",
-					"Reel Width": "",
-					"Tape Pin 1 Quadrant": "",
-					"Tape W": "",
-					"Tape E": "",
-					"Tape F": "",
-					"Tape SO": "",
-					"Tape P0": "",
-					"Tape P1": "",
-					"Tape P2": "",
-					"Tape D": "",
-					"Tape D1": "",
-					"Tape A0": "",
-					"Tape A1": "",
-					"Tape B0": "",
-					"Tape B1": "",
-					"Tape T": "",
-					"Tape K": ""
-				}
+				"Packaging Data": {}
 			}
 		}
 	}

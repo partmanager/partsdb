@@ -10,7 +10,7 @@
 		"tags": "LDO",
 		"storageConditions": {
 			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"MSLevel": "Level-2-260C-1 YEAR"
+			"MSLevel": "MSL-2 1-YEAR"
 		},
 		"parameters": {
 			"Working Temp Range": {

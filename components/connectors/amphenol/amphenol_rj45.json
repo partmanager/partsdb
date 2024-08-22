@@ -2,36 +2,22 @@
 	{
 		"manufacturer": "Amphenol ICC",
 		"partNumber": "LMJ1998824110DL1T39J",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector Bus",
-		"series": {
-			"name": "",
-			"description": ""
-		},
+		"series": {},
 		"description": "RJ45 shielded, 8p8c with LED, with Transformer",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"parameters": {
 			"Bus Type": "Ethernet"
 		},
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"LMJ1998824110DL1T39J": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
 			}
@@ -40,25 +26,15 @@
 	{
 		"manufacturer": "Amphenol ICC",
 		"partNumber": "LMJ2018814100DL2T1B",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Connector Bus",
 		"series": {
-			"name": "LMJ201",
-			"description": ""
+			"name": "LMJ201"
 		},
 		"description": "RJ45 shielded, 8p8c with LED, with Transformer",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "0\u00b0C ~ 70\u00b0C",
-			"humidity": ""			
+			"temperature": "0\u00b0C ~ 70\u00b0C"
 		},
 		"parameters": {
 			"Bus Type": "Ethernet"
@@ -66,14 +42,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"LMJ2018814100DL2T1B": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "1",
 				"Packaging Data": {}
 			}

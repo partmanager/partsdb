@@ -1,111 +1,24 @@
 [
 	{
 		"manufacturer": "Italtronic",
-		"partNumber": "61.602",
-		"productionStatus": "",
-		"markingCode": "",
-		"partType": "Enclosure",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "Enclosure ABS, wall mounting",
-		"productUrl": "",
-		"notes": "",
-		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
-		"operatingConditions": {
-			"temperature": "-20\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
-		},
-		"parameters": {},
-		"files": {},
-		"package": {},
-		"symbol&footprint": {
-			"symbolName": "",
-			"pinmap": {},
-			"footprints": []
-		},
-		"orderNumbers": {
-			"61.602": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "1",
-				"Packaging Data": {}
-			}
-		}
-	},
-	{
-		"manufacturer": "Italtronic",
-		"partNumber": "P15010201F.BL",
-		"productionStatus": "",
-		"markingCode": "",
-		"partType": "Enclosure Accessory",
-		"series": {
-			"name": "Modulbox",
-			"description": ""
-		},
-		"description": "Enclosure Accessory, Panel Modulbox without frame 1M",
-		"productUrl": "https://eng.italtronic.com/accessori/P15010201F.BL/",
-		"notes": "",
-		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
-		"parameters": {},
-		"files": {"datasheet": "https://eng.italtronic.com/download.php?action=techDraw&code=P15010201F.BL&format=pdf"},
-		"package": {},
-		"symbol&footprint": {
-			"symbolName": "",
-			"pinmap": {},
-			"footprints": []
-		},
-		"orderNumbers": {
-			"P15010201F.BL": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "200",
-				"Packaging Data": {}
-			}
-		}
-	},
-	{
-		"manufacturer": "Italtronic",
 		"partNumber": "25.0101000.BL",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Enclosure",
 		"series": {
-			"name": "Modulbox",
-			"description": ""
+			"name": "Modulbox"
 		},
 		"description": "Enclosure, Kit enclosure Modulbox XTS 1M53-A2F",
 		"productUrl": "https://eng.italtronic.com/accessori/25.0101000.BL/",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"parameters": {},
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"25.0101000.BL": {
-				"Packaging Code": "",
-				"Packaging Type": "",
 				"Packaging Qty": "200",
 				"Packaging Data": {}
 			}
@@ -114,34 +27,75 @@
 	{
 		"manufacturer": "Italtronic",
 		"partNumber": "25.0104000.BL",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Enclosure",
 		"series": {
-			"name": "Modulbox",
-			"description": ""
+			"name": "Modulbox"
 		},
 		"description": "Enclosure, Modulbox XTS 1M53-A",
 		"productUrl": "https://eng.italtronic.com/accessori/25.0104000.BL/",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"parameters": {},
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"25.0104000.BL": {
-				"Packaging Code": "",
-				"Packaging Type": "",
+				"Packaging Qty": "200",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Italtronic",
+		"partNumber": "61.602",
+		"partType": "Enclosure",
+		"series": {},
+		"description": "Enclosure ABS, wall mounting",
+		"tags": [],
+		"storageConditions": {},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"61.602": {
+				"Packaging Qty": "1",
+				"Packaging Data": {}
+			}
+		}
+	},
+	{
+		"manufacturer": "Italtronic",
+		"partNumber": "P15010201F.BL",
+		"partType": "Enclosure Accessory",
+		"series": {
+			"name": "Modulbox"
+		},
+		"description": "Enclosure Accessory, Panel Modulbox without frame 1M",
+		"productUrl": "https://eng.italtronic.com/accessori/P15010201F.BL/",
+		"tags": [],
+		"storageConditions": {},
+		"parameters": {},
+		"files": {
+			"datasheet": "https://eng.italtronic.com/download.php?action=techDraw&code=P15010201F.BL&format=pdf"
+		},
+		"package": {},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"P15010201F.BL": {
 				"Packaging Qty": "200",
 				"Packaging Data": {}
 			}

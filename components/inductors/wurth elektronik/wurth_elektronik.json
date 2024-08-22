@@ -2,25 +2,15 @@
 	{
 		"manufacturer": "Wurth Elektronik",
 		"partNumber": "744314110",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-40\u00b0C ~ 40\u00b0C",
-			"humidity": "",
-			"MSLevel": "Level 1"
+			"MSLevel": "MSL-1 UNLIM"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 150\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 150\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -73,9 +63,7 @@
 		},
 		"orderNumbers": {
 			"744314110": {
-				"Packaging Code": "",
 				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "",
 				"Packaging Data": {
 					"Reel Diameter": "330mm \u00b12mm ",
 					"Reel Width": "22.4mm",
@@ -83,16 +71,12 @@
 					"Tape W": "16mm +0.3mm/-0.1mm",
 					"Tape E": "1.75mm \u00b10.1mm",
 					"Tape F": "7.5mm \u00b10.1mm",
-					"Tape SO": "",
 					"Tape P0": "4mm \u00b10.1mm12mm \u00b10.1mm",
-					"Tape P1": "",
 					"Tape P2": "2mm \u00b10.1mm",
 					"Tape D": "1.5mm +0.1mm/-0.0mm",
 					"Tape D1": "1.5mm",
 					"Tape A0": "7.3mm",
-					"Tape A1": "",
 					"Tape B0": "7.55mm",
-					"Tape B1": "",
 					"Tape T": "0.35mm",
 					"Tape K": "5.55mm"
 				}

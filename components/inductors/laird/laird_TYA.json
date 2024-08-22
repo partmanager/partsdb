@@ -2,25 +2,16 @@
 	{
 		"manufacturer": "Laird",
 		"partNumber": "TYA252010100M-10",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "TYA252010",
-			"description": ""
+			"name": "TYA252010"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u00b0C ~ 40\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u00b0C ~ 40\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-10\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-10\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -55,9 +46,6 @@
 		},
 		"orderNumbers": {
 			"TYA252010100M-10": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -65,25 +53,16 @@
 	{
 		"manufacturer": "Laird",
 		"partNumber": "TYA2520101R0M-10",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "TYA252010",
-			"description": ""
+			"name": "TYA252010"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u00b0C ~ 40\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u00b0C ~ 40\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-10\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-10\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -118,9 +97,6 @@
 		},
 		"orderNumbers": {
 			"TYA2520101R0M-10": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -128,25 +104,16 @@
 	{
 		"manufacturer": "Laird",
 		"partNumber": "TYA2520101R5M-10",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "TYA252010",
-			"description": ""
+			"name": "TYA252010"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u00b0C ~ 40\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u00b0C ~ 40\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-10\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-10\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -181,9 +148,6 @@
 		},
 		"orderNumbers": {
 			"TYA2520101R5M-10": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -191,25 +155,16 @@
 	{
 		"manufacturer": "Laird",
 		"partNumber": "TYA2520102R2M-10",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "TYA252010",
-			"description": ""
+			"name": "TYA252010"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u00b0C ~ 40\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u00b0C ~ 40\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-10\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-10\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -244,9 +199,6 @@
 		},
 		"orderNumbers": {
 			"TYA2520102R2M-10": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -254,25 +206,16 @@
 	{
 		"manufacturer": "Laird",
 		"partNumber": "TYA2520103R3M-10",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "TYA252010",
-			"description": ""
+			"name": "TYA252010"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u00b0C ~ 40\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u00b0C ~ 40\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-10\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-10\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -307,9 +250,6 @@
 		},
 		"orderNumbers": {
 			"TYA2520103R3M-10": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -317,25 +257,16 @@
 	{
 		"manufacturer": "Laird",
 		"partNumber": "TYA2520104R7M-10",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "TYA252010",
-			"description": ""
+			"name": "TYA252010"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u00b0C ~ 40\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u00b0C ~ 40\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-10\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-10\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -370,9 +301,6 @@
 		},
 		"orderNumbers": {
 			"TYA2520104R7M-10": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -380,25 +308,16 @@
 	{
 		"manufacturer": "Laird",
 		"partNumber": "TYA2520106R8M-10",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "TYA252010",
-			"description": ""
+			"name": "TYA252010"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u00b0C ~ 40\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u00b0C ~ 40\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-10\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-10\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -433,9 +352,6 @@
 		},
 		"orderNumbers": {
 			"TYA2520106R8M-10": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -443,25 +359,16 @@
 	{
 		"manufacturer": "Laird",
 		"partNumber": "TYA252010R24M-10",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "TYA252010",
-			"description": ""
+			"name": "TYA252010"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u00b0C ~ 40\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u00b0C ~ 40\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-10\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-10\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -496,9 +403,6 @@
 		},
 		"orderNumbers": {
 			"TYA252010R24M-10": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -506,25 +410,16 @@
 	{
 		"manufacturer": "Laird",
 		"partNumber": "TYA252010R33M-10",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "TYA252010",
-			"description": ""
+			"name": "TYA252010"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u00b0C ~ 40\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u00b0C ~ 40\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-10\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-10\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -559,9 +454,6 @@
 		},
 		"orderNumbers": {
 			"TYA252010R33M-10": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -569,25 +461,16 @@
 	{
 		"manufacturer": "Laird",
 		"partNumber": "TYA252010R47M-10",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "TYA252010",
-			"description": ""
+			"name": "TYA252010"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u00b0C ~ 40\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u00b0C ~ 40\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-10\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-10\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -622,9 +505,6 @@
 		},
 		"orderNumbers": {
 			"TYA252010R47M-10": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -632,25 +512,16 @@
 	{
 		"manufacturer": "Laird",
 		"partNumber": "TYA252010R68M-10",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "TYA252010",
-			"description": ""
+			"name": "TYA252010"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u00b0C ~ 40\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u00b0C ~ 40\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-10\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-10\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -685,9 +556,6 @@
 		},
 		"orderNumbers": {
 			"TYA252010R68M-10": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -695,25 +563,16 @@
 	{
 		"manufacturer": "Laird",
 		"partNumber": "TYA2520123R3M-10",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "TYA252012",
-			"description": ""
+			"name": "TYA252012"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-10\u00b0C ~ 40\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-10\u00b0C ~ 40\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-10\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-10\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -748,9 +607,6 @@
 		},
 		"orderNumbers": {
 			"TYA2520123R3M-10": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

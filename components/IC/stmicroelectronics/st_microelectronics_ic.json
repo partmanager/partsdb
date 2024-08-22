@@ -2,39 +2,22 @@
 	{
 		"manufacturer": "STMicroelectronics",
 		"partNumber": "EMIF03-SIM02M8",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "IC",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {},
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"EMIF03-SIM02M8": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -42,39 +25,22 @@
 	{
 		"manufacturer": "STMicroelectronics",
 		"partNumber": "EMIF04-1005M8",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "IC",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {},
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"EMIF04-1005M8": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -82,39 +48,23 @@
 	{
 		"manufacturer": "STMicroelectronics",
 		"partNumber": "EMIF06-1005MX12Y",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "IC",
-		"series": {
-			"name": "",
-			"description": ""
-		},
+		"series": {},
 		"description": "TVS and EMI Filter for 6 IO",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {},
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"EMIF06-1005MX12Y": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -122,39 +72,23 @@
 	{
 		"manufacturer": "STMicroelectronics",
 		"partNumber": "EMIF06-MSD02N16",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "IC",
-		"series": {
-			"name": "",
-			"description": ""
-		},
+		"series": {},
 		"description": "TVS and EMI Filter for SDCard",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {},
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"EMIF06-MSD02N16": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -162,25 +96,15 @@
 	{
 		"manufacturer": "STMicroelectronics",
 		"partNumber": "L7805ACD2T",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "IC Voltage Regulator",
 		"series": {
-			"name": "78XX",
-			"description": ""
+			"name": "78XX"
 		},
 		"description": "5V Positive Voltage Regulator",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Supply Voltage Range": {
@@ -190,15 +114,11 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"L7805ACD2T-TR": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -206,25 +126,14 @@
 	{
 		"manufacturer": "STMicroelectronics",
 		"partNumber": "STM32G070CBT6",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "IC",
 		"series": {
-			"name": "STM32G",
-			"description": ""
+			"name": "STM32G"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Supply Voltage Range": {
@@ -236,15 +145,11 @@
 			"name": "LQFP32"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"STM32G070CBT6": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -252,25 +157,14 @@
 	{
 		"manufacturer": "STMicroelectronics",
 		"partNumber": "STM32G071CBT6",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "IC",
 		"series": {
-			"name": "STM32G",
-			"description": ""
+			"name": "STM32G"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Supply Voltage Range": {
@@ -282,15 +176,11 @@
 			"name": "LQFP32"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"STM32G071CBT6": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -298,39 +188,22 @@
 	{
 		"manufacturer": "STMicroelectronics",
 		"partNumber": "ULN2001D1013##",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "IC",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {},
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"ULN2001D1013TR": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

@@ -2,25 +2,16 @@
 	{
 		"manufacturer": "Diodes Incorporated",
 		"partNumber": "HDS10M",
-		"productionStatus": "",
 		"markingCode": "HDS10M",
 		"partType": "Bridge Rectifier",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-55\u00b0C ~ +150\u00b0C",
-			"humidity": "",
-			"MSLevel": "Level 1 \u2192 J-STD-020"
+			"MSLevel": "MSL-1 UNLIM"
 		},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
 		},
 		"parameters": {
 			"V_RRM Peak Repetitive Reverse Voltage": {
@@ -100,9 +91,7 @@
 				}
 			}
 		},
-		"files": {
-			"datasheet": ""
-		},
+		"files": {},
 		"package": {
 			"name": "HDS"
 		},
@@ -116,26 +105,7 @@
 				"Packaging Code": "13",
 				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "5000",
-				"Packaging Data": {
-					"Reel Diameter": "",
-					"Reel Width": "",
-					"Tape Pin 1 Quadrant": "",
-					"Tape W": "",
-					"Tape E": "",
-					"Tape F": "",
-					"Tape SO": "",
-					"Tape P0": "",
-					"Tape P1": "",
-					"Tape P2": "",
-					"Tape D": "",
-					"Tape D1": "",
-					"Tape A0": "",
-					"Tape A1": "",
-					"Tape B0": "",
-					"Tape B1": "",
-					"Tape T": "",
-					"Tape K": ""
-				}
+				"Packaging Data": {}
 			}
 		}
 	}

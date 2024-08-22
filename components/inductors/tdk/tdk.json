@@ -2,25 +2,17 @@
 	{
 		"manufacturer": "TDK",
 		"partNumber": "B82432C1105J000",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "B82432C",
-			"description": ""
+			"name": "B82432C"
 		},
-		"description": "",
 		"productUrl": "https://product.tdk.com/en/search/inductor/inductor/smd/info?part_no=B82432C1105J000",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-25\u00b0C ~ 40\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-25\u00b0C ~ 40\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -59,27 +51,20 @@
 		},
 		"orderNumbers": {
 			"B82432C1105J000": {
-				"Packaging Code": "",
 				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "2500",
 				"Packaging Data": {
-					"Reel Diameter": "",
 					"Reel Width": "18.4mm",
 					"Tape Pin 1 Quadrant": "Q1",
 					"Tape W": "12mm \u00b10.3mm",
 					"Tape E": "1.75mm  \u00b10.1mm",
 					"Tape F": "5.5mm  \u00b10.1mm",
-					"Tape SO": "",
 					"Tape P0": "4mm \u00b10.1mm",
 					"Tape P1": "8mm \u00b10.1mm",
 					"Tape P2": "2mm \u00b10.05mm",
 					"Tape D": "1.5mm +0.1mm/-0.0mm",
 					"Tape D1": "1.6mm \u00b10.1mm",
-					"Tape A0": "",
-					"Tape A1": "",
-					"Tape B0": "",
 					"Tape B1": "5.9mm",
-					"Tape T": "",
 					"Tape K": "4.1mm"
 				}
 			}
@@ -88,25 +73,16 @@
 	{
 		"manufacturer": "TDK",
 		"partNumber": "MLG1005S62NJ#000",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "MLG",
-			"description": ""
+			"name": "MLG"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": [
@@ -162,9 +138,7 @@
 				}
 			]
 		},
-		"files": {
-			"Datasheet": ""
-		},
+		"files": {},
 		"package": {
 			"name": "Chip 0402"
 		},
@@ -185,12 +159,10 @@
 					"Tape W": "8mm \u00b10.3mm",
 					"Tape E": "1.75mm  \u00b10.1mm",
 					"Tape F": "3.5mm  \u00b10.05mm",
-					"Tape SO": "",
 					"Tape P0": "4mm \u00b10.1mm",
 					"Tape P1": "2mm \u00b10.05mm",
 					"Tape P2": "2mm \u00b10.05mm",
 					"Tape D": "1.5mm +0.1mm/-0.0mm",
-					"Tape D1": "",
 					"Tape A0": "0.62mm \u00b10.1mm",
 					"Tape A1": "0.62mm \u00b10.1mm",
 					"Tape B0": "1.12mm \u00b10.1mm",
@@ -204,25 +176,16 @@
 	{
 		"manufacturer": "TDK",
 		"partNumber": "MLZ2012DR10D#000",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Inductor",
 		"series": {
-			"name": "MLZ",
-			"description": ""
+			"name": "MLZ"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {
 			"Inductance": {
@@ -247,9 +210,7 @@
 				}
 			}
 		},
-		"files": {
-			"Datasheet": ""
-		},
+		"files": {},
 		"package": {
 			"name": "Chip 2012"
 		},
@@ -270,12 +231,10 @@
 					"Tape W": "8mm \u00b10.3mm",
 					"Tape E": "1.75mm  \u00b10.1mm",
 					"Tape F": "3.5mm  \u00b10.05mm",
-					"Tape SO": "",
 					"Tape P0": "4mm \u00b10.1mm",
 					"Tape P1": "4mm \u00b10.1mm",
 					"Tape P2": "2mm \u00b10.05mm",
 					"Tape D": "1.5mm +0.1mm/-0.0mm",
-					"Tape D1": "",
 					"Tape A0": "1.5mm \u00b10.2mm",
 					"Tape A1": "1.5mm \u00b10.2mm",
 					"Tape B0": "2.3mm \u00b10.2mm",

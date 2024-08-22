@@ -2,25 +2,18 @@
 	{
 		"manufacturer": "Nexperia",
 		"partNumber": "74AVC4T245BQ",
-		"productionStatus": "",
 		"markingCode": "C4T245",
 		"partType": "IC",
 		"series": {
-			"name": "74",
-			"description": ""
+			"name": "74"
 		},
 		"description": "4-bit dual supply translating transceiver 3-state",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-65\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 125\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {},
 		"files": {},
@@ -28,18 +21,16 @@
 			"name": "SOT763-1"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"74AVC4T245BQ,115": {
-				"Packaging Code": "",
 				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "3000",
 				"Packaging Data": {
 					"reel": {
-						"Diameter": "13”"
+						"Diameter": "13\u201d"
 					}
 				}
 			}

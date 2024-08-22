@@ -2,25 +2,14 @@
 	{
 		"manufacturer": "TE Connectivity",
 		"partNumber": "CRGCQ0402F10K",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Resistor Thick Film",
 		"series": {
-			"name": "CRGCQ",
-			"description": ""
+			"name": "CRGCQ"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 155\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 155\u00b0C"
 		},
 		"parameters": {
 			"Resistance": {
@@ -47,21 +36,14 @@
 			"name": "Chip 0402"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"CRGCQ0402F10K": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			},
 			"3-2176337-7": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -69,25 +51,14 @@
 	{
 		"manufacturer": "TE Connectivity",
 		"partNumber": "CRGCQ1206F120R",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Resistor Thick Film",
 		"series": {
-			"name": "CRGCQ",
-			"description": ""
+			"name": "CRGCQ"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 155\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 155\u00b0C"
 		},
 		"parameters": {
 			"Resistance": {
@@ -111,13 +82,11 @@
 			"name": "Chip 1206"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"CRGCQ1206F120R": {
-				"Packaging Code": "",
 				"Packaging Type": "Paper Tape / Reel",
 				"Packaging Qty": "5000",
 				"Packaging Data": {

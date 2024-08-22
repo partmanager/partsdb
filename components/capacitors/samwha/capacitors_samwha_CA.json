@@ -1,51 +1,48 @@
 [
-    {
-        "manufacturer": "Samwha",
-        "partNumber": "CA1C476M6L006VR",
-        "productionStatus": null,
-        "markingCode": null,
-        "partType": "Aluminium Electrolytic Capacitor",
-        "series": {
-            "name": "CA",
-            "description": ""
-        },
-        "description": null,
-        "productUrl": null,
-        "notes": null,
-        "tags": [],
-        "storageConditions": {
-            "temperature": "-40\u00b0C ~ 105\u00b0C",
-            "humidity": "",
-            "MSLevel": ""
-        },
-        "parameters": {
-            "Working Temp Range": {
-                "Working Temp Min": "-55",
-                "Working Temp Max": "105"
-            },
-            "Capacitance": {
-                "value": "47\u03bcF \u00b120%"
-            },
-            "Dielectric Type": "Aluminium Oxide",
-            "Rated Voltage": {
-                "value": "max. 16V"
-            },
-            "Rated Ripple Current": {
-                "value": "max. 50mA"
-            },
-            "Endurance": {
-                "value": "5000h"
-            }
-        },
-        "files": {},  
-        "package": {},
-        "symbol&footprint": {
-            "symbolName": "capacitor_polar",
-            "pinmap": {},
-            "footprints": []
-        },
-        "orderNumbers": {
-            "CA1C476M6L006VR": {}
-        }
-    }
+	{
+		"manufacturer": "Samwha",
+		"partNumber": "CA1C476M6L006VR",
+		"productionStatus": null,
+		"markingCode": null,
+		"partType": "Aluminium Electrolytic Capacitor",
+		"series": {
+			"name": "CA"
+		},
+		"description": null,
+		"productUrl": null,
+		"notes": null,
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 105\u00b0C"
+		},
+		"parameters": {
+			"Working Temp Range": {
+				"Working Temp Min": "-55",
+				"Working Temp Max": "105"
+			},
+			"Capacitance": {
+				"value": "47\u03bcF \u00b120%"
+			},
+			"Dielectric Type": "Aluminium Oxide",
+			"Rated Voltage": {
+				"value": "max. 16V"
+			},
+			"Rated Ripple Current": {
+				"value": "max. 50mA"
+			},
+			"Endurance": {
+				"value": "5000h"
+			}
+		},
+		"files": {},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "capacitor_polar",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"CA1C476M6L006VR": {}
+		}
+	}
 ]

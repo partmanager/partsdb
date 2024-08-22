@@ -2,25 +2,17 @@
 	{
 		"manufacturer": "onsemi",
 		"partNumber": "BAW56L",
-		"productionStatus": "",
 		"markingCode": "T4",
 		"partType": "Small Signal Diode",
 		"series": {
-			"name": "1N",
-			"description": ""
+			"name": "1N"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": ""			
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
 		},
 		"parameters": {
 			"Forward Voltage": [
@@ -109,7 +101,6 @@
 		},
 		"orderNumbers": {
 			"BAW56LT1G": {
-				"Packaging Code": "",
 				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "3000",
 				"Packaging Data": {

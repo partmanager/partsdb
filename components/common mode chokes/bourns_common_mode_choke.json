@@ -2,25 +2,17 @@
 	{
 		"manufacturer": "Bourns",
 		"partNumber": "DR331-513AE",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Common Mode Choke",
 		"series": {
 			"name": "DR331",
 			"description": "Surface Mount Data Line Chokes"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-55\u2103 ~ 135\u2103",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-55\u2103 ~ 135\u2103"
 		},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 135\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 135\u00b0C"
 		},
 		"parameters": {
 			"Rated Current": {
@@ -42,7 +34,6 @@
 		},
 		"orderNumbers": {
 			"DR331-513AE": {
-				"Packaging Code": "",
 				"Packaging Type": "Embossed Tape / Reel",
 				"Packaging Qty": "1500",
 				"Packaging Data": {
@@ -51,19 +42,10 @@
 					"Tape Pin 1 Quadrant": "Q2",
 					"Tape W": "16mm",
 					"Tape E": "2.525mm",
-					"Tape F": "",
-					"Tape SO": "",
 					"Tape P0": "4mm",
 					"Tape P1": "8mm",
 					"Tape P2": "2mm",
-					"Tape D": "1.55mm",
-					"Tape D1": "",
-					"Tape A0": "",
-					"Tape A1": "",
-					"Tape B0": "",
-					"Tape B1": "",
-					"Tape T": "",
-					"Tape K": ""
+					"Tape D": "1.55mm"
 				}
 			}
 		}

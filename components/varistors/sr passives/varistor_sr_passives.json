@@ -2,22 +2,12 @@
 	{
 		"manufacturer": "SR Passives",
 		"partNumber": "VAR7-60",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Varistor",
 		"series": {
-			"name": "VAR7",
-			"description": ""
+			"name": "VAR7"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"parameters": {
 			"Varistor Voltage": {
 				"value": "100V"
@@ -35,9 +25,7 @@
 				"value": "250mW"
 			}
 		},
-		"files": {
-			"Datasheet": ""
-		},
+		"files": {},
 		"package": {},
 		"symbol&footprint": {
 			"symbolName": "varistor",
@@ -46,9 +34,6 @@
 		},
 		"orderNumbers": {
 			"VAR7-60": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

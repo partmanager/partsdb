@@ -2,25 +2,17 @@
 	{
 		"manufacturer": "Diotec Semiconductor",
 		"partNumber": "ES1J",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Small Signal Diode",
 		"series": {
 			"name": "ES1",
 			"description": "Superfast Efficient SMD Rectifier Diodes"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-50\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-50\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-50\u00b0C ~ 150\u00b0C",
-			"humidity": ""			
+			"temperature": "-50\u00b0C ~ 150\u00b0C"
 		},
 		"parameters": {
 			"Forward Voltage": {
@@ -81,13 +73,11 @@
 			"name": "DO-214AC"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"ES1J": {
-				"Packaging Code": "",
 				"Packaging Type": "13\u201d Reel",
 				"Packaging Qty": "7500",
 				"Packaging Data": {}
@@ -97,25 +87,17 @@
 	{
 		"manufacturer": "Diotec Semiconductor",
 		"partNumber": "US1A",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "Small Signal Diode",
 		"series": {
 			"name": "US1",
 			"description": "Ultrafast Recovery SMD Rectifier Diodes"
 		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-50\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-50\u00b0C ~ 150\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-50\u00b0C ~ 150\u00b0C",
-			"humidity": ""			
+			"temperature": "-50\u00b0C ~ 150\u00b0C"
 		},
 		"parameters": {
 			"Forward Voltage": {
@@ -183,13 +165,11 @@
 			"name": "DO-214AC"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"US1A": {
-				"Packaging Code": "",
 				"Packaging Type": "13\u201d Reel",
 				"Packaging Qty": "7500",
 				"Packaging Data": {}

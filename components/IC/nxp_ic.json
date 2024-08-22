@@ -1,48 +1,33 @@
 [
 	{
 		"manufacturer": "NXP",
-		"partNumber": "TJA1051T/3",
-		"productionStatus": "",
-		"markingCode": "",
+		"partNumber": "MAG3110",
+		"productionStatus": "In Production",
 		"partType": "IC",
-		"series": {
-			"name": "TJA1051",
-			"description": ""
-		},
-		"description": "High-speed CAN transceiver",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
+		"description": "Three-Axis, Digital Magnetometer",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-55\u00b0C ~ 150\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
-		},
-		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 150\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {},
 		"files": {},
 		"package": {
-			"name": "SO8"
+			"name": "DFN-10"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
-			"TJA1051T/3.118": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
+			"MAG3110FCR1": {
+				"Packaging Type": "Tape & Reel",
+				"Packaging Qty": "1000",
 				"Packaging Data": {}
 			},
-			"TJA1051T/3,118": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
+			"FXMS3110CDR1": {
+				"Packaging Type": "Tape & Reel",
+				"Packaging Qty": "1000",
 				"Packaging Data": {}
 			}
 		}
@@ -51,20 +36,12 @@
 		"manufacturer": "NXP",
 		"partNumber": "MPL115A2",
 		"productionStatus": "Obsolete",
-		"markingCode": "",
 		"partType": "IC",
-		"series": {
-			"name": "",
-			"description": ""
-		},
+		"series": {},
 		"description": "Miniature I2C digital barometer, 50 to 115 kPa",
-		"productUrl": "",
-		"notes": "",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-40\u00b0C ~ 125\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
 		},
 		"parameters": {},
 		"files": {},
@@ -72,19 +49,15 @@
 			"name": "TSON8"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"MPL115A2": {
-				"Packaging Code": "",
 				"Packaging Type": "Tray",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			},
 			"MPL115A2T1": {
-				"Packaging Code": "",
 				"Packaging Type": "Tape & Reel",
 				"Packaging Qty": "1000",
 				"Packaging Data": {}
@@ -93,44 +66,33 @@
 	},
 	{
 		"manufacturer": "NXP",
-		"partNumber": "MAG3110",
-		"productionStatus": "In Production",
-		"markingCode": "",
+		"partNumber": "TJA1051T/3",
 		"partType": "IC",
 		"series": {
-			"name": "",
-			"description": ""
+			"name": "TJA1051"
 		},
-		"description": "Three-Axis, Digital Magnetometer",
-		"productUrl": "",
-		"notes": "",
+		"description": "High-speed CAN transceiver",
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-40\u00b0C ~ 125\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 150\u00b0C"
 		},
 		"parameters": {},
 		"files": {},
 		"package": {
-			"name": "DFN-10"
+			"name": "SO8"
 		},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
-			"MAG3110FCR1": {
-				"Packaging Code": "",
-				"Packaging Type": "Tape & Reel",
-				"Packaging Qty": "1000",
+			"TJA1051T/3.118": {
 				"Packaging Data": {}
 			},
-			"FXMS3110CDR1": {
-				"Packaging Code": "",
-				"Packaging Type": "Tape & Reel",
-				"Packaging Qty": "1000",
+			"TJA1051T/3,118": {
 				"Packaging Data": {}
 			}
 		}

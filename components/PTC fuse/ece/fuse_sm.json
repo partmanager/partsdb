@@ -2,25 +2,17 @@
 	{
 		"manufacturer": "ECE",
 		"partNumber": "SM005-60",
-		"productionStatus": "",
 		"markingCode": "5",
 		"partType": "PTC Fuse",
 		"series": {
 			"name": "SM",
 			"description": "Surface mount PTC SM (1210) model"
 		},
-		"description": "",
 		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/268",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Hold Current": {
@@ -79,9 +71,6 @@
 		},
 		"orderNumbers": {
 			"SM005-60": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -89,25 +78,16 @@
 	{
 		"manufacturer": "ECE",
 		"partNumber": "SM010-60",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "PTC Fuse",
 		"series": {
 			"name": "SM",
 			"description": "Surface mount PTC SM (1210) model"
 		},
-		"description": "",
 		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/268",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Hold Current": {
@@ -166,9 +146,6 @@
 		},
 		"orderNumbers": {
 			"SM010-60": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
@@ -176,25 +153,16 @@
 	{
 		"manufacturer": "ECE",
 		"partNumber": "SM020-30",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "PTC Fuse",
 		"series": {
 			"name": "SM",
 			"description": "Surface mount PTC SM (1210) model"
 		},
-		"description": "",
 		"productUrl": "https://www.ece.com.tw/en/resettable-fuse/resettable-fuse/268",
-		"notes": "",
 		"tags": [],
-		"storageConditions": {
-			"temperature": "",
-			"humidity": "",
-			"MSLevel": ""
-		},
+		"storageConditions": {},
 		"operatingConditions": {
-			"temperature": "-40\u00b0C ~ 85\u00b0C",
-			"humidity": ""			
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
 		},
 		"parameters": {
 			"Hold Current": {
@@ -253,9 +221,6 @@
 		},
 		"orderNumbers": {
 			"SM020-30": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}

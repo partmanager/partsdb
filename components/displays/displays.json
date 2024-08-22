@@ -2,25 +2,14 @@
 	{
 		"manufacturer": "Display Elektronik",
 		"partNumber": "DEM 128064N SBH-PW-N",
-		"productionStatus": "",
-		"markingCode": "",
 		"partType": "LCD Display",
-		"series": {
-			"name": "",
-			"description": ""
-		},
-		"description": "",
-		"productUrl": "",
-		"notes": "",
+		"series": {},
 		"tags": [],
 		"storageConditions": {
-			"temperature": "-30\u00b0C ~ +80\u00b0C",
-			"humidity": "",
-			"MSLevel": ""
+			"temperature": "-30\u00b0C ~ +80\u00b0C"
 		},
 		"operatingConditions": {
-			"temperature": "-20\u00b0C ~ 70\u00b0C",
-			"humidity": ""			
+			"temperature": "-20\u00b0C ~ 70\u00b0C"
 		},
 		"parameters": {
 			"Resolution": {
@@ -40,21 +29,14 @@
 		"files": {},
 		"package": {},
 		"symbol&footprint": {
-			"symbolName": "",
 			"pinmap": {},
 			"footprints": []
 		},
 		"orderNumbers": {
 			"DEM 128064N SBH-PW-N": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			},
 			"DEM 128064N SBH-PW-N/V": {
-				"Packaging Code": "",
-				"Packaging Type": "",
-				"Packaging Qty": "",
 				"Packaging Data": {}
 			}
 		}
