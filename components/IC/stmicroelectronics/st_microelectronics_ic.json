@@ -164,6 +164,7 @@
 		"series": {
 			"name": "STM32G"
 		},
+		"description": "Arm Cortex-M0+ MCU with 128 Kb Flash and 36 Kb RAM",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -193,6 +194,7 @@
 		"partNumber": "ULN2001D1013##",
 		"partType": "IC",
 		"series": {},
+		"description": "Seven Darlington Arrays",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {

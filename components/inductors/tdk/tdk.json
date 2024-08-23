@@ -6,6 +6,7 @@
 		"series": {
 			"name": "B82432C"
 		},
+		"description": "Inductor 1000uH",
 		"productUrl": "https://product.tdk.com/en/search/inductor/inductor/smd/info?part_no=B82432C1105J000",
 		"tags": [],
 		"storageConditions": {
@@ -77,6 +78,7 @@
 		"series": {
 			"name": "MLG"
 		},
+		"description": "Inductor 62nH",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-55\u00b0C ~ 125\u00b0C"
@@ -180,6 +182,7 @@
 		"series": {
 			"name": "MLZ"
 		},
+		"description": "Inductor 0.1uH",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-55\u00b0C ~ 125\u00b0C"

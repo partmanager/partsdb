@@ -6,6 +6,7 @@
 		"series": {
 			"name": "PE-0402CL"
 		},
+		"description": "Inductor 10nH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -59,6 +60,7 @@
 		"series": {
 			"name": "PE-0402CL"
 		},
+		"description": "Inductor 100nH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -112,6 +114,7 @@
 		"series": {
 			"name": "PE-0402CL"
 		},
+		"description": "Inductor 12nH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -165,6 +168,7 @@
 		"series": {
 			"name": "PE-0402CL"
 		},
+		"description": "Inductor 120nH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -218,6 +222,7 @@
 		"series": {
 			"name": "PE-0402CL"
 		},
+		"description": "Inductor 15nH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -271,6 +276,7 @@
 		"series": {
 			"name": "PE-0402CL"
 		},
+		"description": "Inductor 18nH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -324,6 +330,7 @@
 		"series": {
 			"name": "PE-0402CL"
 		},
+		"description": "Inductor 1nH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -377,6 +384,7 @@
 		"series": {
 			"name": "PE-0402CL"
 		},
+		"description": "Inductor 1.2nH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -430,6 +438,7 @@
 		"series": {
 			"name": "PE-0402CL"
 		},
+		"description": "Inductor 1.5nH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -483,6 +492,7 @@
 		"series": {
 			"name": "PE-0402CL"
 		},
+		"description": "Inductor 1.8nH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
