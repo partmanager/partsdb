@@ -38,7 +38,7 @@
 		"orderNumbers": {
 			"FIX-LEM-67": {
 				"Type": "Bag",
-				"Qty": "2000",
+				"Qty": 2000,
 				"PackagingData": {}
 			}
 		}
@@ -51,6 +51,7 @@
 			"name": "FIX-LEM-67",
 			"description": "Lightpipes"
 		},
+		"description": "Lightpipe",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -81,7 +82,7 @@
 		"orderNumbers": {
 			"FIX-LEM-67-13": {
 				"Type": "Bag",
-				"Qty": "2000",
+				"Qty": 2000,
 				"PackagingData": {}
 			}
 		}
@@ -94,6 +95,7 @@
 			"name": "FIX-LEM-67",
 			"description": "Lightpipes"
 		},
+		"description": "Lightpipe",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -124,7 +126,7 @@
 		"orderNumbers": {
 			"FIX-LEM-67-27.5": {
 				"Type": "Bag",
-				"Qty": "1000",
+				"Qty": 1000,
 				"PackagingData": {}
 			}
 		}
