@@ -4,6 +4,7 @@
 		"partNumber": "MYC-Y6ULY2-4E512D-50-C",
 		"partType": "Module",
 		"series": {},
+		"description": "SoM, 4GB eMMC Flash, 512MB RAM",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -30,6 +31,7 @@
 		"partNumber": "MYC-Y6ULY2-4E512D-50-X",
 		"partType": "Module",
 		"series": {},
+		"description": "SoM, 4GB eMMC Flash, 512MB RAM",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -56,6 +58,7 @@
 		"partNumber": "MYC-Y6ULY2-V2-4E512D-50-C",
 		"partType": "Module",
 		"series": {},
+		"description": "SoM, 4GB eMMC Flash, 512MB RAM",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
