@@ -1,0 +1,158 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS62160DSG#",
+		"markingCode": "QTV",
+		"partType": "IC Voltage Regulator Switching",
+		"series": {
+			"name": "TPS6216x",
+			"description": "3V to 17V, 1A Step-Down Converters"
+		},
+		"description": "Step-Down Converter, Vout=Adj, Iout=1A, Vin=3V ~ 17V",
+		"productUrl": "https://www.ti.com/product/TPS62160",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-2 1-YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "3V",
+				"max": "17V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"latest": {
+					"url": "https://www.ti.com/lit/ds/symlink/tps62160.pdf"
+				},
+				"SLVSAM2E": {
+					"date": "05-2017",
+					"md5sum": "db7ecd9cc1248912fd5b18537d9ee86d"
+				}
+			}
+		},
+		"package": {
+			"name": "WSON-8"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"PGND": {
+					"no": 1,
+					"func": "PwrGND",
+					"desc": "Power ground"
+				},
+				"VIN": {
+					"no": 2,
+					"func": "PwrIn",
+					"desc": "Supply voltage for power stage"
+				},
+				"EN": {
+					"no": 3,
+					"func": "InDigital;ActiveHigh",
+					"desc": "Enable"
+				},
+				"AGND": {
+					"no": 4,
+					"func": "PwrGND",
+					"desc": "Analog ground"
+				},
+				"FB": {
+					"no": 5,
+					"func": "InAnalog",
+					"desc": "Voltage feedback"
+				},
+				"VOS": {
+					"no": 6,
+					"func": "InAnalog",
+					"desc": "Output voltage sense pin and connection for the control loop circuitry"
+				},
+				"SW": {
+					"no": 7,
+					"func": "OutAnalog",
+					"desc": "Switch node, connect to inductor"
+				},
+				"PG": {
+					"no": 8,
+					"func": "OutDigital;OpenDrain",
+					"desc": "Power good signal, require external resistor"
+				},
+				"EP": {
+					"no": "EP",
+					"func": "PwrGND",
+					"desc": "Exposed Pad, connect to ground"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"VIN",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"EN",
+						"PG",
+						"!@#SEPARATOR#@!"
+					],
+					"right_side": [
+						"SW",
+						"!@#SEPARATOR#@!",
+						"VOS",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"FB",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"AGND",
+						"PGND",
+						"EP"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"TPS62160DSGR": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "2.3mm",
+						"B0": "2.3mm",
+						"K0": "1.15mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			},
+			"TPS62160DSGT": {
+				"Status": "Active",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "250",
+				"PackagingData": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "2.3mm",
+						"B0": "2.3mm",
+						"K0": "1.15mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]

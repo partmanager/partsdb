@@ -112,9 +112,9 @@
 		},
 		"orderNumbers": {
 			"1N4148W-7-F": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "3000",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "7"
 					}

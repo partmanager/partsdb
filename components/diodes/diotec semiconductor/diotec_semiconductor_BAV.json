@@ -92,8 +92,8 @@
 		},
 		"orderNumbers": {
 			"BAV99W": {
-				"Packaging Qty": "3000",
-				"Packaging Data": {}
+				"Qty": "3000",
+				"PackagingData": {}
 			}
 		}
 	}

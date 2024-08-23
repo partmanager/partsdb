@@ -92,8 +92,8 @@
 				"Status": "Active",
 				"Code": "R",
 				"Type": "Embossed Tape / Reel",
-				"Quantity": 2500,
-				"packagingData": {
+				"Qty": 2500,
+				"PackagingData": {
 					"reel": {
 						"Diameter": "330mm",
 						"Width": "12.4mm"

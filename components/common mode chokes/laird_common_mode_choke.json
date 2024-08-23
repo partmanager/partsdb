@@ -57,9 +57,9 @@
 		},
 		"orderNumbers": {
 			"CM3421Y600R-10": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "2000",
-				"Packaging Data": {}
+				"Type": "Embossed Tape / Reel",
+				"Qty": "2000",
+				"PackagingData": {}
 			}
 		}
 	}

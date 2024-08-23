@@ -29,14 +29,14 @@
 		},
 		"orderNumbers": {
 			"TPS73718DRBT": {
-				"productionStatus": "Obsolete"
+				"Status": "Obsolete"
 			},
 			"TPS73718DRBR": {
-				"productionStatus": "Active",
-				"packagingCode": "R",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "3000",
-				"packagingData": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "330mm",
 						"Width": "12.4mm"
@@ -52,11 +52,11 @@
 				}
 			},
 			"TPS73718DRBRM3": {
-				"productionStatus": "Active",
-				"packagingCode": "R",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "3000",
-				"packagingData": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "330mm",
 						"Width": "12.4mm"

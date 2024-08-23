@@ -44,9 +44,9 @@
 		},
 		"orderNumbers": {
 			"DG128-5.0-03P-14-00A(H)": {
-				"Packaging Type": "Bag",
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Type": "Bag",
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -95,9 +95,9 @@
 		},
 		"orderNumbers": {
 			"DG128-7.5-02P-14-00A(H)": {
-				"Packaging Type": "Bag",
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Type": "Bag",
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -146,9 +146,9 @@
 		},
 		"orderNumbers": {
 			"DG128-7.5-03P-14-00A(H)": {
-				"Packaging Type": "Bag",
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Type": "Bag",
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -200,14 +200,14 @@
 		},
 		"orderNumbers": {
 			"DG301-5.0-02P-12": {
-				"Packaging Type": "Bag",
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Type": "Bag",
+				"Qty": "1",
+				"PackagingData": {}
 			},
 			"DG301-5.0-02P-12-00A(H)": {
-				"Packaging Type": "Bag",
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Type": "Bag",
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -259,24 +259,24 @@
 		},
 		"orderNumbers": {
 			"DG301-5.0-03P-12": {
-				"Packaging Type": "Bag",
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Type": "Bag",
+				"Qty": "1",
+				"PackagingData": {}
 			},
 			"DG301-5.0-03P-12-00A(H)": {
-				"Packaging Type": "Bag",
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Type": "Bag",
+				"Qty": "1",
+				"PackagingData": {}
 			},
 			"DG301-5.0-03P-12-00A": {
-				"Packaging Type": "Bag",
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Type": "Bag",
+				"Qty": "1",
+				"PackagingData": {}
 			},
 			"DG301-5.0-03P-12-00H": {
-				"Packaging Type": "Bag",
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Type": "Bag",
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	}

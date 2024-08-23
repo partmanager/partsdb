@@ -51,9 +51,9 @@
 		},
 		"orderNumbers": {
 			"B82432C1105J000": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "2500",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": 2500,
+				"PackagingData": {
 					"Reel Width": "18.4mm",
 					"Tape Pin 1 Quadrant": "Q1",
 					"Tape W": "12mm \u00b10.3mm",
@@ -149,10 +149,10 @@
 		},
 		"orderNumbers": {
 			"MLG1005S62NJT000": {
-				"Packaging Code": "T",
-				"Packaging Type": "Paper Tape / Reel",
-				"Packaging Qty": "10000",
-				"Packaging Data": {
+				"Code": "T",
+				"Type": "Paper Tape / Reel",
+				"Qty": "10000",
+				"PackagingData": {
 					"Reel Diameter": "180mm",
 					"Reel Width": "14.4mm",
 					"Tape Pin 1 Quadrant": "Q1",
@@ -221,10 +221,10 @@
 		},
 		"orderNumbers": {
 			"MLZ2012DR10DT000": {
-				"Packaging Code": "T",
-				"Packaging Type": "Paper Tape / Reel",
-				"Packaging Qty": "4000",
-				"Packaging Data": {
+				"Code": "T",
+				"Type": "Paper Tape / Reel",
+				"Qty": "4000",
+				"PackagingData": {
 					"Reel Diameter": "180mm",
 					"Reel Width": "14.4mm",
 					"Tape Pin 1 Quadrant": "Q1",

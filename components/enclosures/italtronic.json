@@ -19,8 +19,8 @@
 		},
 		"orderNumbers": {
 			"25.0101000.BL": {
-				"Packaging Qty": "200",
-				"Packaging Data": {}
+				"Qty": "200",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -44,8 +44,8 @@
 		},
 		"orderNumbers": {
 			"25.0104000.BL": {
-				"Packaging Qty": "200",
-				"Packaging Data": {}
+				"Qty": "200",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -69,8 +69,8 @@
 		},
 		"orderNumbers": {
 			"61.602": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -96,8 +96,8 @@
 		},
 		"orderNumbers": {
 			"P15010201F.BL": {
-				"Packaging Qty": "200",
-				"Packaging Data": {}
+				"Qty": "200",
+				"PackagingData": {}
 			}
 		}
 	}

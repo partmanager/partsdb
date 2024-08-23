@@ -24,12 +24,12 @@
 		},
 		"orderNumbers": {
 			"AT24MAC602-SSHM-T": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Data": {}
+				"Type": "Embossed Tape / Reel",
+				"PackagingData": {}
 			},
 			"AT24MAC602-SSHM-B": {
-				"Packaging Type": "Tube",
-				"Packaging Data": {}
+				"Type": "Tube",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -53,7 +53,7 @@
 		},
 		"orderNumbers": {
 			"LAN8720A-CP": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -93,9 +93,9 @@
 		},
 		"orderNumbers": {
 			"MCP1501T-25E/CHY": {
-				"Packaging Code": "T",
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Data": {
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"PackagingData": {
 					"Tape Pin 1 Quadrant": "Q3",
 					"Tape W": "8mm",
 					"Tape E": "1.75mm \u00b10.1mm",
@@ -143,9 +143,9 @@
 		},
 		"orderNumbers": {
 			"MCP9700A-E/TO": {
-				"Packaging Type": "Bulk",
-				"Packaging Qty": "100",
-				"Packaging Data": {}
+				"Type": "Bulk",
+				"Qty": "100",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -173,7 +173,7 @@
 		},
 		"orderNumbers": {
 			"MIC29302AWU": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	}

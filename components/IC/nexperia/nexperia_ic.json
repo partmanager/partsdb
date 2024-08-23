@@ -26,9 +26,9 @@
 		},
 		"orderNumbers": {
 			"74AVC4T245BQ,115": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "3000",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "13\u201d"
 					}

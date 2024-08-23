@@ -121,11 +121,11 @@
 		},
 		"orderNumbers": {
 			"TPS54160ADGQR": {
-				"productionStatus": "Active",
-				"packagingCode": "R",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "2500",
-				"packagingData": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "2500",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "330mm",
 						"Width": "12.4mm"
@@ -141,9 +141,9 @@
 				}
 			},
 			"TPS54160ADGQ": {
-				"productionStatus": "Active",
-				"packagingType": "Tube",
-				"packagingQuantity": "80"
+				"Status": "Active",
+				"Type": "Tube",
+				"Qty": "80"
 			}
 		}
 	}

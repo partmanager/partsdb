@@ -39,8 +39,8 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-121": {
-				"Packaging Qty": "2000",
-				"Packaging Data": {}
+				"Qty": "2000",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -84,8 +84,8 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-161": {
-				"Packaging Qty": "2000",
-				"Packaging Data": {}
+				"Qty": "2000",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -129,8 +129,8 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-181": {
-				"Packaging Qty": "2000",
-				"Packaging Data": {}
+				"Qty": "2000",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -174,8 +174,8 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-221": {
-				"Packaging Qty": "2000",
-				"Packaging Data": {}
+				"Qty": "2000",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -219,8 +219,8 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-261": {
-				"Packaging Qty": "2000",
-				"Packaging Data": {}
+				"Qty": "2000",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -264,8 +264,8 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-361": {
-				"Packaging Qty": "2000",
-				"Packaging Data": {}
+				"Qty": "2000",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -309,8 +309,8 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-371": {
-				"Packaging Qty": "2000",
-				"Packaging Data": {}
+				"Qty": "2000",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -354,8 +354,8 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-670": {
-				"Packaging Qty": "2000",
-				"Packaging Data": {}
+				"Qty": "2000",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -399,8 +399,8 @@
 		},
 		"orderNumbers": {
 			"DPWC0805-900": {
-				"Packaging Qty": "2000",
-				"Packaging Data": {}
+				"Qty": "2000",
+				"PackagingData": {}
 			}
 		}
 	}

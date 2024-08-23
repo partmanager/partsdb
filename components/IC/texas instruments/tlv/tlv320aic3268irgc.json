@@ -41,11 +41,11 @@
 		},
 		"orderNumbers": {
 			"TLV320AIC3268IRGCR": {
-				"productionStatus": "Active",
-				"packagingCode": "R",
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "2000",
-				"Packaging Data": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "2000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "330mm",
 						"Width": "16.4mm"
@@ -61,11 +61,11 @@
 				}
 			},
 			"TLV320AIC3268IRGCT": {
-				"productionStatus": "Active",
-				"packagingCode": "T",
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "250",
-				"Packaging Data": {
+				"Status": "Active",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "250",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "180mm",
 						"Width": "16.4mm"

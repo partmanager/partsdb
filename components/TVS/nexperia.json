@@ -83,24 +83,24 @@
 		},
 		"orderNumbers": {
 			"PESD2CAN,215": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "3000",
-				"Packaging Data": {}
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {}
 			},
 			"PESD2CAN.215": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "3000",
-				"Packaging Data": {}
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {}
 			},
 			"PESD2CAN,235": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "10000",
-				"Packaging Data": {}
+				"Type": "Embossed Tape / Reel",
+				"Qty": "10000",
+				"PackagingData": {}
 			},
 			"PESD2CAN.235": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "10000",
-				"Packaging Data": {}
+				"Type": "Embossed Tape / Reel",
+				"Qty": "10000",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -185,9 +185,9 @@
 		},
 		"orderNumbers": {
 			"PESD5V0L4UG.115": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "3000",
-				"Packaging Data": {}
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {}
 			}
 		}
 	}

@@ -101,9 +101,9 @@
 		},
 		"orderNumbers": {
 			"BAW56LT1G": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "3000",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "7\""
 					}

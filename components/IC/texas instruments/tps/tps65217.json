@@ -35,11 +35,11 @@
 		},
 		"orderNumbers": {
 			"TPS65217DRSLR": {
-				"productionStatus": "Active",
-				"packagingCode": "R",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "3000",
-				"packagingData": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "330mm",
 						"Width": "16.4mm"
@@ -55,11 +55,11 @@
 				}
 			},
 			"TPS65217DRSLT": {
-				"productionStatus": "Active",
-				"packagingCode": "T",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "250",
-				"packagingData": {
+				"Status": "Active",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "250",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "180mm",
 						"Width": "16.4mm"

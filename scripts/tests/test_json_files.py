@@ -11,6 +11,7 @@ class TestJsonFiles(unittest.TestCase):
         cls.part_types = load_part_types()
         cls.packaging_types = load_packaging_types()
         cls.msl_classification = load_msl_classification()
+        cls.order_number_allowed_fields = ['Alias', 'Status', 'Code', 'Type', 'Qty', 'PackagingData']
         cls.files = load_files(Path('./components'))
         cls.json_files = []
         for f in cls.files:
@@ -46,12 +47,21 @@ class TestJsonFiles(unittest.TestCase):
                         self.assertIn(order['Packaging Type'], self.packaging_types,
                                       msg=f"for part {part['partNumber']}, in: {json_file['file']}")
 
+    def test_validate_order_number_fields(self):
+        for json_file in self.json_files:
+            for part in json_file['data']:
+                for order_number in part['orderNumbers']:
+                    order = part['orderNumbers'][order_number]
+                    for field in order:
+                        self.assertIn(field, self.order_number_allowed_fields,
+                                      msg=f"for part {part['partNumber']}, in: {json_file['file']}")
+
     def test_validate_msl_field(self):
         for json_file in self.json_files:
             for part in json_file['data']:
                 if 'storageConditions' in part and 'MSLevel' in part['storageConditions']:
                     self.assertIn(part['storageConditions']['MSLevel'], self.msl_classification,
-                              msg=f"for part {part['partNumber']}, in: {json_file['file']}")
+                                  msg=f"for part {part['partNumber']}, in: {json_file['file']}")
 
 
 if __name__ == '__main__':

@@ -51,9 +51,9 @@
 		},
 		"orderNumbers": {
 			"E91 MAX": {
-				"Packaging Type": "Foil",
-				"Packaging Qty": "2",
-				"Packaging Data": {}
+				"Type": "Foil",
+				"Qty": 2,
+				"PackagingData": {}
 			}
 		}
 	}

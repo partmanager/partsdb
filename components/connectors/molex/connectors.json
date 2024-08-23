@@ -22,9 +22,9 @@
 		},
 		"orderNumbers": {
 			"503398-1892": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "2400",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "2400",
+				"PackagingData": {
 					"Reel Diameter": "380mm",
 					"Reel Width": "29.5mm",
 					"Tape W": "24mm \u00b10.3mm",

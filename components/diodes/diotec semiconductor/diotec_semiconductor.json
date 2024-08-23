@@ -78,9 +78,9 @@
 		},
 		"orderNumbers": {
 			"ES1J": {
-				"Packaging Type": "13\u201d Reel",
-				"Packaging Qty": "7500",
-				"Packaging Data": {}
+				"Type": "13\u201d Reel",
+				"Qty": "7500",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -170,9 +170,9 @@
 		},
 		"orderNumbers": {
 			"US1A": {
-				"Packaging Type": "13\u201d Reel",
-				"Packaging Qty": "7500",
-				"Packaging Data": {}
+				"Type": "13\u201d Reel",
+				"Qty": "7500",
+				"PackagingData": {}
 			}
 		}
 	}

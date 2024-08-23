@@ -53,9 +53,9 @@
 		},
 		"orderNumbers": {
 			"HHM17147A1": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "1000",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "1000",
+				"PackagingData": {
 					"Reel Diameter": "7\u201d",
 					"Tape Pin 1 Quadrant": "Q1",
 					"Tape W": "12mm \u00b10.3mm",

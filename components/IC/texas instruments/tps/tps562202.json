@@ -29,9 +29,9 @@
 		},
 		"orderNumbers": {
 			"TPS562202DRLR": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "4000",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "4000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "180mm",
 						"Width": "8.4mm"

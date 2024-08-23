@@ -36,9 +36,9 @@
 		},
 		"orderNumbers": {
 			"CR14250SE 3PF": {
-				"Packaging Type": "Foil",
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Type": "Foil",
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	}

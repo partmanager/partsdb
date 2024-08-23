@@ -22,18 +22,18 @@
 		},
 		"orderNumbers": {
 			"TLV62130RGTR": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": 3000,
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": 3000,
+				"PackagingData": {
 					"reel": {
 						"Diameter": "13\u201d"
 					}
 				}
 			},
 			"TLV62130RGTT": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": 250,
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": 250,
+				"PackagingData": {
 					"reel": {
 						"Diameter": "7\""
 					}

@@ -24,8 +24,8 @@
 		},
 		"orderNumbers": {
 			"RFM69HCW-868S2": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	}

@@ -106,11 +106,11 @@
 		},
 		"orderNumbers": {
 			"INA301A2IDGKR": {
-				"productionStatus": "Active",
-				"packagingCode": "R",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "2500",
-				"packagingData": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "2500",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "330mm",
 						"Width": "12.4mm"
@@ -126,11 +126,11 @@
 				}
 			},
 			"INA301A2IDGKT": {
-				"productionStatus": "Active",
-				"packagingCode": "T",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "250",
-				"packagingData": {
+				"Status": "Active",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "250",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "330mm",
 						"Width": "12.4mm"

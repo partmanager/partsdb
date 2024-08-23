@@ -63,8 +63,8 @@
 		},
 		"orderNumbers": {
 			"744314110": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"PackagingData": {
 					"Reel Diameter": "330mm \u00b12mm ",
 					"Reel Width": "22.4mm",
 					"Tape Pin 1 Quadrant": "Q1",

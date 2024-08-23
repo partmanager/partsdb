@@ -53,16 +53,16 @@
 		},
 		"orderNumbers": {
 			"TPS54232D": {
-				"productionStatus": "Active",
-				"Packaging Type": "Tube",
-				"Packaging Qty": "75"
+				"Status": "Active",
+				"Type": "Tube",
+				"Qty": "75"
 			},
 			"TPS54232DR": {
-				"productionStatus": "Active",
-				"packagingCode": "R",
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "250",
-				"Packaging Data": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "250",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "180mm",
 						"Width": "12.4mm"

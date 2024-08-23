@@ -24,8 +24,8 @@
 		},
 		"orderNumbers": {
 			"EM7455": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	}

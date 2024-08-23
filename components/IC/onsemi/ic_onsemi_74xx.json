@@ -29,9 +29,9 @@
 		},
 		"orderNumbers": {
 			"MC74HC125ADTR2G": {
-				"Packaging Type": "Tape & Reel",
-				"Packaging Qty": "2500",
-				"Packaging Data": {}
+				"Type": "Tape & Reel",
+				"Qty": "2500",
+				"PackagingData": {}
 			}
 		}
 	}

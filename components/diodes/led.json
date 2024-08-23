@@ -49,9 +49,9 @@
 		},
 		"orderNumbers": {
 			"LL-S194PBC-B4-1B": {
-				"Packaging Type": "7\" reel",
-				"Packaging Qty": "4000",
-				"Packaging Data": {}
+				"Type": "7\" reel",
+				"Qty": "4000",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -105,9 +105,9 @@
 		},
 		"orderNumbers": {
 			"LL-S194PUYC-Y2-2B": {
-				"Packaging Type": "7\" reel",
-				"Packaging Qty": "4000",
-				"Packaging Data": {}
+				"Type": "7\" reel",
+				"Qty": "4000",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -161,9 +161,9 @@
 		},
 		"orderNumbers": {
 			"LL-S194PVC-V1-2B": {
-				"Packaging Type": "7\" reel",
-				"Packaging Qty": "4000",
-				"Packaging Data": {}
+				"Type": "7\" reel",
+				"Qty": "4000",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -217,9 +217,9 @@
 		},
 		"orderNumbers": {
 			"OSG80603C1E": {
-				"Packaging Type": "7\" reel",
-				"Packaging Qty": "4000",
-				"Packaging Data": {}
+				"Type": "7\" reel",
+				"Qty": "4000",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -273,8 +273,8 @@
 		},
 		"orderNumbers": {
 			"RF-GNB191TS-CF": {
-				"Packaging Qty": "4000",
-				"Packaging Data": {}
+				"Qty": "4000",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -328,8 +328,8 @@
 		},
 		"orderNumbers": {
 			"RF-RUB190TS-BD": {
-				"Packaging Qty": "4000",
-				"Packaging Data": {}
+				"Qty": "4000",
+				"PackagingData": {}
 			}
 		}
 	}

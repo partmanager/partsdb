@@ -89,11 +89,11 @@
 		},
 		"orderNumbers": {
 			"TPS73101DBVR": {
-				"productionStatus": "Active",
-				"packagingCode": "R",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "3000",
-				"packagingData": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "178mm",
 						"Width": "9mm"
@@ -109,11 +109,11 @@
 				}
 			},
 			"TPS73101DBVT": {
-				"productionStatus": "Active",
-				"packagingCode": "T",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "250",
-				"packagingData": {
+				"Status": "Active",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "250",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "178mm",
 						"Width": "9mm"

@@ -3,7 +3,7 @@
 		"manufacturer": "Texas Instruments",
 		"partNumber": "TPS7A3701DRV#",
 		"markingCode": "SJI",
-		"productionStatus": "Active",
+		"Status": "Active",
 		"partType": "IC LDO",
 		"series": {
 			"name": "TPS7A37",
@@ -102,10 +102,10 @@
 		},
 		"orderNumbers": {
 			"TPS7A3701DRVR": {
-				"packagingCode": "R",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "3000",
-				"packagingData": {
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "179mm",
 						"Width": "8.4mm"
@@ -121,10 +121,10 @@
 				}
 			},
 			"TPS7A3701DRVT": {
-				"packagingCode": "T",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "250",
-				"packagingData": {
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "250",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "179mm",
 						"Width": "8.4mm"

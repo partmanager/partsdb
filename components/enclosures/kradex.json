@@ -27,8 +27,8 @@
 		},
 		"orderNumbers": {
 			"Z109J ABS V0": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -60,8 +60,8 @@
 		},
 		"orderNumbers": {
 			"Z109J PS": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -93,8 +93,8 @@
 		},
 		"orderNumbers": {
 			"ZD1009J-ABS-V0": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -126,8 +126,8 @@
 		},
 		"orderNumbers": {
 			"ZD1010J ABS V0": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -162,8 +162,8 @@
 		},
 		"orderNumbers": {
 			"ZD3TC ABS V0": {
-				"Packaging Qty": "4",
-				"Packaging Data": {}
+				"Qty": "4",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -195,8 +195,8 @@
 		},
 		"orderNumbers": {
 			"ZD3TCS ABS V0": {
-				"Packaging Qty": "4",
-				"Packaging Data": {}
+				"Qty": "4",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -228,8 +228,8 @@
 		},
 		"orderNumbers": {
 			"ZD3TCSJ ABS V0": {
-				"Packaging Qty": "4",
-				"Packaging Data": {}
+				"Qty": "4",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -261,8 +261,8 @@
 		},
 		"orderNumbers": {
 			"ZD3TCU ABS V0": {
-				"Packaging Qty": "4",
-				"Packaging Data": {}
+				"Qty": "4",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -294,8 +294,8 @@
 		},
 		"orderNumbers": {
 			"ZD5TC-ABS-V0": {
-				"Packaging Qty": "4",
-				"Packaging Data": {}
+				"Qty": "4",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -327,8 +327,8 @@
 		},
 		"orderNumbers": {
 			"ZD5TCS-ABS-V0": {
-				"Packaging Qty": "4",
-				"Packaging Data": {}
+				"Qty": "4",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -360,8 +360,8 @@
 		},
 		"orderNumbers": {
 			"ZD5TCU-ABS-V0": {
-				"Packaging Qty": "4",
-				"Packaging Data": {}
+				"Qty": "4",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -393,8 +393,8 @@
 		},
 		"orderNumbers": {
 			"ZDFJ1009 ABS V0": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	}

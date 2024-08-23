@@ -102,11 +102,11 @@
 				"Qty": "80"
 			},
 			"TPS2065DGNR": {
-				"productionStatus": "Active",
-				"packagingCode": "R",
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "2500",
-				"Packaging Data": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "2500",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "330mm",
 						"Width": "12.4mm"

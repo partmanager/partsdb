@@ -36,8 +36,8 @@
 		},
 		"orderNumbers": {
 			"FUSE 1206-FF PW 1A0": {
-				"Packaging Type": "Paper Tape / Reel",
-				"Packaging Data": {
+				"Type": "Paper Tape / Reel",
+				"PackagingData": {
 					"Tape Pin 1 Quadrant": "Q1",
 					"Tape W": "8mm"
 				}

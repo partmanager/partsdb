@@ -42,8 +42,8 @@
 		},
 		"orderNumbers": {
 			"DS1031-08-2*10P8BS-4-1": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -90,8 +90,8 @@
 		},
 		"orderNumbers": {
 			"DS1031-08-2*5P8BS-4-1": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	}

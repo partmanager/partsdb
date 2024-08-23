@@ -3,7 +3,7 @@
 		"manufacturer": "Texas Instruments",
 		"partNumber": "TPS7A8801RTJ#",
 		"markingCode": "TPS7A88",
-		"productionStatus": "Active",
+		"Status": "Active",
 		"partType": "IC LDO",
 		"description": "LDO Vout=Adj, Iout=1A, Vin=1.4V ~ 6.5V, dual",
 		"productUrl": "https://www.ti.com/product/TPS7A88",
@@ -173,10 +173,10 @@
 		},
 		"orderNumbers": {
 			"TPS7A8801RTJR": {
-				"packagingCode": "R",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "3000",
-				"packagingData": {
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "330mm",
 						"Width": "12.4mm"
@@ -192,10 +192,10 @@
 				}
 			},
 			"TPS7A8801RTJT": {
-				"packagingCode": "T",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "250",
-				"packagingData": {
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "250",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "180mm",
 						"Width": "12.4mm"

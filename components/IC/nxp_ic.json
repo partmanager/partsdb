@@ -2,7 +2,7 @@
 	{
 		"manufacturer": "NXP",
 		"partNumber": "MAG3110",
-		"productionStatus": "In Production",
+		"Status": "In Production",
 		"partType": "IC",
 		"series": {},
 		"description": "Three-Axis, Digital Magnetometer",
@@ -21,21 +21,21 @@
 		},
 		"orderNumbers": {
 			"MAG3110FCR1": {
-				"Packaging Type": "Tape & Reel",
-				"Packaging Qty": "1000",
-				"Packaging Data": {}
+				"Type": "Tape & Reel",
+				"Qty": "1000",
+				"PackagingData": {}
 			},
 			"FXMS3110CDR1": {
-				"Packaging Type": "Tape & Reel",
-				"Packaging Qty": "1000",
-				"Packaging Data": {}
+				"Type": "Tape & Reel",
+				"Qty": "1000",
+				"PackagingData": {}
 			}
 		}
 	},
 	{
 		"manufacturer": "NXP",
 		"partNumber": "MPL115A2",
-		"productionStatus": "Obsolete",
+		"Status": "Obsolete",
 		"partType": "IC",
 		"series": {},
 		"description": "Miniature I2C digital barometer, 50 to 115 kPa",
@@ -54,13 +54,13 @@
 		},
 		"orderNumbers": {
 			"MPL115A2": {
-				"Packaging Type": "Tray",
-				"Packaging Data": {}
+				"Type": "Tray",
+				"PackagingData": {}
 			},
 			"MPL115A2T1": {
-				"Packaging Type": "Tape & Reel",
-				"Packaging Qty": "1000",
-				"Packaging Data": {}
+				"Type": "Tape & Reel",
+				"Qty": "1000",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -90,10 +90,10 @@
 		},
 		"orderNumbers": {
 			"TJA1051T/3.118": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			},
 			"TJA1051T/3,118": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	}

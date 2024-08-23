@@ -145,16 +145,16 @@
 		},
 		"orderNumbers": {
 			"TPS2044BD": {
-				"productionStatus": "Active",
-				"packagingType": "Tube",
-				"packagingQuantity": "40"
+				"Status": "Active",
+				"Type": "Tube",
+				"Qty": "40"
 			},
 			"TPS2044BDR": {
-				"productionStatus": "Active",
-				"packagingCode": "R",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "2500",
-				"packagingData": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "2500",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "330mm",
 						"Width": "16.4mm"

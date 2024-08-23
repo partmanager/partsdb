@@ -71,7 +71,7 @@
 		},
 		"orderNumbers": {
 			"SM005-60": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -146,7 +146,7 @@
 		},
 		"orderNumbers": {
 			"SM010-60": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -221,7 +221,7 @@
 		},
 		"orderNumbers": {
 			"SM020-30": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	}

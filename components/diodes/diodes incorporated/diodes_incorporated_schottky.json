@@ -120,9 +120,9 @@
 		},
 		"orderNumbers": {
 			"1N5819HW-7-F": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "3000",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "7\""
 					}
@@ -204,9 +204,9 @@
 		},
 		"orderNumbers": {
 			"B330A-13-F": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "5000",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "5000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "13\u201d"
 					}

@@ -93,8 +93,8 @@
 				"Status": "Active",
 				"Code": "R",
 				"Type": "Embossed Tape / Reel",
-				"Quantity": 3000,
-				"packagingData": {
+				"Qty": 3000,
+				"PackagingData": {
 					"reel": {
 						"Diameter": "178mm",
 						"Width": "8.4mm"
@@ -113,8 +113,8 @@
 				"Status": "LastTimeBuy",
 				"Code": "T",
 				"Type": "Embossed Tape / Reel",
-				"Quantity": 250,
-				"packagingData": {
+				"Qty": 250,
+				"PackagingData": {
 					"reel": {
 						"Diameter": "178mm",
 						"Width": "8.4mm"

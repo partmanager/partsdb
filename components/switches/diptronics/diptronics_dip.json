@@ -48,9 +48,9 @@
 		},
 		"orderNumbers": {
 			"DHNF-04F-T-V": {
-				"Packaging Type": "Tube",
-				"Packaging Qty": "75",
-				"Packaging Data": {}
+				"Type": "Tube",
+				"Qty": "75",
+				"PackagingData": {}
 			}
 		}
 	}

@@ -28,9 +28,9 @@
 		},
 		"orderNumbers": {
 			"ISO1050DWR": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "2000",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "2000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "330mm"
 					}
@@ -68,8 +68,8 @@
 		},
 		"orderNumbers": {
 			"ISO1412DW": {
-				"Packaging Qty": "40",
-				"Packaging Data": {}
+				"Qty": "40",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -105,8 +105,8 @@
 		},
 		"orderNumbers": {
 			"LM317LIPK": {
-				"Packaging Qty": "1000",
-				"Packaging Data": {}
+				"Qty": "1000",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -136,13 +136,13 @@
 		},
 		"orderNumbers": {
 			"SN65HVD256D": {
-				"Packaging Qty": "75",
-				"Packaging Data": {}
+				"Qty": "75",
+				"PackagingData": {}
 			},
 			"SN65HVD256DR": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "2500",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "2500",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "330mm"
 					}
@@ -178,7 +178,7 @@
 		},
 		"orderNumbers": {
 			"SN65LBC184D": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -211,9 +211,9 @@
 		},
 		"orderNumbers": {
 			"TLIN1021DRQ1": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "2500",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "2500",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "330mm"
 					}

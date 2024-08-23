@@ -20,8 +20,8 @@
 		},
 		"orderNumbers": {
 			"MYC-Y6ULY2-4E512D-50-C": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -46,8 +46,8 @@
 		},
 		"orderNumbers": {
 			"MYC-Y6ULY2-4E512D-50-X": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -72,8 +72,8 @@
 		},
 		"orderNumbers": {
 			"MYC-Y6ULY2-V2-4E512D-50-C": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	}

@@ -96,11 +96,11 @@
 		},
 		"orderNumbers": {
 			"INA216A1RSWR": {
-				"productionStatus": "Active",
-				"packagingCode": "R",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "3000",
-				"packagingData": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "179mm",
 						"Width": "8.4mm"
@@ -116,11 +116,11 @@
 				}
 			},
 			"INA216A1RSWT": {
-				"productionStatus": "Obsolete",
-				"packagingCode": "T",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "250",
-				"packagingData": {
+				"Status": "Obsolete",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "250",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "179mm",
 						"Width": "8.4mm"

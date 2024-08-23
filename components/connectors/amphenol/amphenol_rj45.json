@@ -18,8 +18,8 @@
 		},
 		"orderNumbers": {
 			"LMJ1998824110DL1T39J": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -47,8 +47,8 @@
 		},
 		"orderNumbers": {
 			"LMJ2018814100DL2T1B": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	}

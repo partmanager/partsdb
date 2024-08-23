@@ -37,10 +37,10 @@
 		},
 		"orderNumbers": {
 			"TL431LIACDBZR": {
-				"packagingCode": "R",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "3000",
-				"packagingData": {
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"Reel Diameter": "178mm",
 					"Reel Width": "9mm",
 					"Tape Pin 1 Quadrant": "Q3",

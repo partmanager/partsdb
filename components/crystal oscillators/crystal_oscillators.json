@@ -73,10 +73,10 @@
 		},
 		"orderNumbers": {
 			"ASE-8.000MHZ-E-T": {
-				"Packaging Code": "T",
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "1000",
-				"Packaging Data": {
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "1000",
+				"PackagingData": {
 					"Reel Diameter": "178mm \u00b11mm",
 					"Tape Pin 1 Quadrant": "Q1",
 					"Tape W": "8mm \u00b10.2mm",

@@ -54,8 +54,8 @@
 		},
 		"orderNumbers": {
 			"ESD9L3.3ST5G": {
-				"Packaging Qty": "8000",
-				"Packaging Data": {}
+				"Qty": "8000",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -112,8 +112,8 @@
 		},
 		"orderNumbers": {
 			"ESD9L3.3ST5G": {
-				"Packaging Qty": "8000",
-				"Packaging Data": {}
+				"Qty": "8000",
+				"PackagingData": {}
 			}
 		}
 	}

@@ -32,11 +32,11 @@
 		},
 		"orderNumbers": {
 			"LP2985IM5-3.3/NOPB": {
-				"productionStatus": "Active",
-				"packagingCode": "R",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "3000",
-				"packagingData": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "180mm",
 						"Width": "8.4mm"

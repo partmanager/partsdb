@@ -42,8 +42,8 @@
 		},
 		"orderNumbers": {
 			"4D03WGJ0103T5E": {
-				"Packaging Code": "T5E",
-				"Packaging Data": {}
+				"Code": "T5E",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -90,8 +90,8 @@
 		},
 		"orderNumbers": {
 			"4D03WGJ0124T5E": {
-				"Packaging Code": "T5E",
-				"Packaging Data": {}
+				"Code": "T5E",
+				"PackagingData": {}
 			}
 		}
 	}

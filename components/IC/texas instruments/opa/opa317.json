@@ -37,10 +37,10 @@
 		},
 		"orderNumbers": {
 			"OPA317IDBVR": {
-				"packagingCode": "R",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "3000",
-				"packagingData": {
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"Reel Diameter": "178mm",
 					"Reel Width": "9mm",
 					"Tape Pin 1 Quadrant": "Q3",
@@ -52,10 +52,10 @@
 				}
 			},
 			"OPA317IDBVT": {
-				"packagingCode": "T",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "250",
-				"packagingData": {
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "250",
+				"PackagingData": {
 					"Reel Diameter": "178mm",
 					"Reel Width": "9mm",
 					"Tape Pin 1 Quadrant": "Q3",

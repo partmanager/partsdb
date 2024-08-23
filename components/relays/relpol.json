@@ -56,8 +56,8 @@
 		},
 		"orderNumbers": {
 			"RM85-2011-35-1012": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	}

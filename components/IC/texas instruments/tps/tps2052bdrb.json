@@ -118,11 +118,11 @@
 		},
 		"orderNumbers": {
 			"TPS2052BDRBR": {
-				"productionStatus": "Active",
-				"packagingCode": "R",
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "3000",
-				"Packaging Data": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "330mm",
 						"Width": "12.4mm"
@@ -138,11 +138,11 @@
 				}
 			},
 			"TPS2052BDRBT": {
-				"productionStatus": "Active",
-				"packagingCode": "T",
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "250",
-				"Packaging Data": {
+				"Status": "Active",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "250",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "180mm",
 						"Width": "12.4mm"

@@ -41,10 +41,10 @@
 		},
 		"orderNumbers": {
 			"CRGCQ0402F10K": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			},
 			"3-2176337-7": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -87,9 +87,9 @@
 		},
 		"orderNumbers": {
 			"CRGCQ1206F120R": {
-				"Packaging Type": "Paper Tape / Reel",
-				"Packaging Qty": "5000",
-				"Packaging Data": {
+				"Type": "Paper Tape / Reel",
+				"Qty": "5000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "178mm"
 					}

@@ -18,7 +18,7 @@
 		},
 		"orderNumbers": {
 			"EMIF03-SIM02M8": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -41,7 +41,7 @@
 		},
 		"orderNumbers": {
 			"EMIF04-1005M8": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -65,7 +65,7 @@
 		},
 		"orderNumbers": {
 			"EMIF06-1005MX12Y": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -89,7 +89,7 @@
 		},
 		"orderNumbers": {
 			"EMIF06-MSD02N16": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -119,7 +119,7 @@
 		},
 		"orderNumbers": {
 			"L7805ACD2T-TR": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -150,7 +150,7 @@
 		},
 		"orderNumbers": {
 			"STM32G070CBT6": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -181,7 +181,7 @@
 		},
 		"orderNumbers": {
 			"STM32G071CBT6": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -204,7 +204,7 @@
 		},
 		"orderNumbers": {
 			"ULN2001D1013TR": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	}

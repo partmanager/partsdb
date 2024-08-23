@@ -41,8 +41,8 @@
 		},
 		"orderNumbers": {
 			"PCS127MT6R8": {
-				"Packaging Qty": "400",
-				"Packaging Data": {}
+				"Qty": "400",
+				"PackagingData": {}
 			}
 		}
 	}

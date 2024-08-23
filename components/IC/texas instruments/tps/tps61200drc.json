@@ -53,10 +53,10 @@
 		},
 		"orderNumbers": {
 			"TPS61200DRCT": {
-				"productionStatus": "Active",
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "250",
-				"Packaging Data": {
+				"Status": "Active",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "250",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "180mm",
 						"Width": "12.4mm"
@@ -72,11 +72,11 @@
 				}
 			},
 			"TPS61200DRCR": {
-				"productionStatus": "Active",
-				"packagingCode": "R",
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "3000",
-				"Packaging Data": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "330mm",
 						"Width": "12.4mm"
@@ -92,9 +92,9 @@
 				}
 			},
 			"TPS61200DRCRG4": {
-				"productionStatus": "Active",
-				"packagingCode": "RG4",
-				"alias": "TPS61200DRCR"
+				"Status": "Active",
+				"Code": "RG4",
+				"Alias": "TPS61200DRCR"
 			}
 		}
 	}

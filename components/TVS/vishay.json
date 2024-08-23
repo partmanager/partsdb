@@ -62,9 +62,9 @@
 		},
 		"orderNumbers": {
 			"SMAJ5.0A-E3/61": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "1800",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "1800",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "7\""
 					}
@@ -135,9 +135,9 @@
 		},
 		"orderNumbers": {
 			"SMAJ6.0A-E3/61": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "1800",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "1800",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "7\""
 					}

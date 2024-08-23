@@ -115,14 +115,14 @@
 		},
 		"orderNumbers": {
 			"DS2482S-100+": {
-				"productionStatus": "Active",
+				"Status": "Active",
 				"Type": "Tube"
 			},
 			"DS2482S-100+T&R": {
-				"productionStatus": "Active",
-				"packagingCode": "T&R",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "2500"
+				"Status": "Active",
+				"Code": "T&R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "2500"
 			}
 		}
 	}

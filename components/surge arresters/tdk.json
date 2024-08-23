@@ -52,10 +52,10 @@
 		},
 		"orderNumbers": {
 			"B88069X1023T203": {
-				"Packaging Code": "T203",
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "2000",
-				"Packaging Data": {
+				"Code": "T203",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "2000",
+				"PackagingData": {
 					"Tape Pin 1 Quadrant": "Q1",
 					"Tape W": "12mm",
 					"Tape P0": "4.00mm",

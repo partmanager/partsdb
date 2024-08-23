@@ -45,8 +45,8 @@
 		},
 		"orderNumbers": {
 			"1551V1GY": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -96,7 +96,7 @@
 		},
 		"orderNumbers": {
 			"1551V4GY": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -143,9 +143,9 @@
 		},
 		"orderNumbers": {
 			"1590B": {
-				"Packaging Type": "shrink wrap",
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Type": "shrink wrap",
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	}

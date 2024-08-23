@@ -86,11 +86,11 @@
 		},
 		"orderNumbers": {
 			"INA169NA/3K": {
-				"productionStatus": "Active",
-				"packagingCode": "/3K",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "3000",
-				"packagingData": {
+				"Status": "Active",
+				"Code": "/3K",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "178mm",
 						"Width": "9mm"
@@ -106,11 +106,11 @@
 				}
 			},
 			"INA169NA/250": {
-				"productionStatus": "Active",
-				"packagingCode": "/250",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "250",
-				"packagingData": {
+				"Status": "Active",
+				"Code": "/250",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "250",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "178mm",
 						"Width": "9mm"

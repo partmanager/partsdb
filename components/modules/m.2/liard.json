@@ -22,8 +22,8 @@
 		},
 		"orderNumbers": {
 			"453-00048": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -50,8 +50,8 @@
 		},
 		"orderNumbers": {
 			"453-00049": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	}

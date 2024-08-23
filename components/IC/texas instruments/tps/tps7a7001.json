@@ -3,7 +3,7 @@
 		"manufacturer": "Texas Instruments",
 		"partNumber": "TPS7A7001#",
 		"markingCode": "QVH",
-		"productionStatus": "Active",
+		"Status": "Active",
 		"partType": "IC LDO",
 		"description": "2A, adjustable ultra-low-dropout voltage regulator with enable",
 		"productUrl": "https://www.ti.com/product/TPS7A7001",
@@ -30,14 +30,14 @@
 		},
 		"orderNumbers": {
 			"TPS7A7001DDA": {
-				"packagingType": "Tube",
-				"packagingQuantity": "75"
+				"Type": "Tube",
+				"Qty": "75"
 			},
 			"TPS7A7001DDAR": {
-				"packagingCode": "R",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "2500",
-				"packagingData": {
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "2500",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "330mm",
 						"Width": "12.8mm"

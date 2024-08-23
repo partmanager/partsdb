@@ -21,9 +21,9 @@
 		},
 		"orderNumbers": {
 			"1759546-1": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "350",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "350",
+				"PackagingData": {
 					"Reel Diameter": "330mm",
 					"Reel Width": "50.4mm",
 					"Tape Pin 1 Quadrant": "Q4",
@@ -63,9 +63,9 @@
 		},
 		"orderNumbers": {
 			"2199119-4": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "1200",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "1200",
+				"PackagingData": {
 					"Reel Diameter": "380mm",
 					"Tape Pin 1 Quadrant": "Q2",
 					"Tape W": "32mm \u00b10.3mm",
@@ -105,9 +105,9 @@
 		},
 		"orderNumbers": {
 			"2199230-3": {
-				"Packaging Type": "Embossed Tape / Reel",
-				"Packaging Qty": "1000",
-				"Packaging Data": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "1000",
+				"PackagingData": {
 					"Reel Diameter": "380mm",
 					"Tape Pin 1 Quadrant": "Q2",
 					"Tape W": "44mm \u00b10.3mm",

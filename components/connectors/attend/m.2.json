@@ -23,8 +23,8 @@
 		},
 		"orderNumbers": {
 			"115H-BA00": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -51,8 +51,8 @@
 		},
 		"orderNumbers": {
 			"123A-85BA0": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -79,8 +79,8 @@
 		},
 		"orderNumbers": {
 			"123A-85EA0": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -107,8 +107,8 @@
 		},
 		"orderNumbers": {
 			"123A-NUT-85": {
-				"Packaging Qty": "1",
-				"Packaging Data": {}
+				"Qty": "1",
+				"PackagingData": {}
 			}
 		}
 	}

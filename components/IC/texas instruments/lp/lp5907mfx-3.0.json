@@ -80,10 +80,10 @@
 		},
 		"orderNumbers": {
 			"LP5907MFX-3.0/NOPB": {
-				"productionStatus": "Active",
-				"packagingType": "Embossed Tape / Reel",
-				"packagingQuantity": "3000",
-				"packagingData": {
+				"Status": "Active",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
 					"reel": {
 						"Diameter": "178mm",
 						"Width": "8.4mm"

@@ -51,7 +51,7 @@
 		},
 		"orderNumbers": {
 			"ABM3B-8.000MHZ-10-1UT": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -101,7 +101,7 @@
 		},
 		"orderNumbers": {
 			"ILCX13-FF5F-24.0000": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -152,10 +152,10 @@
 		},
 		"orderNumbers": {
 			"LFXTAL071742CUTT": {
-				"Packaging Code": "CUTT",
-				"Packaging Type": "Cut Tape",
-				"Packaging Qty": "100",
-				"Packaging Data": {}
+				"Code": "CUTT",
+				"Type": "Cut Tape",
+				"Qty": "100",
+				"PackagingData": {}
 			}
 		}
 	},
@@ -215,7 +215,7 @@
 		},
 		"orderNumbers": {
 			"14.31818M-49S-SR": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -275,7 +275,7 @@
 		},
 		"orderNumbers": {
 			"25M-49S-SR": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -323,7 +323,7 @@
 		},
 		"orderNumbers": {
 			"3225-12M-SR": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -380,7 +380,7 @@
 		},
 		"orderNumbers": {
 			"8M-49S-SR": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -413,7 +413,7 @@
 		},
 		"orderNumbers": {
 			"32.768K-TC38": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -462,7 +462,7 @@
 		},
 		"orderNumbers": {
 			"8.00M-HC49-S": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	},
@@ -511,7 +511,7 @@
 		},
 		"orderNumbers": {
 			"YIC8.0000K0": {
-				"Packaging Data": {}
+				"PackagingData": {}
 			}
 		}
 	}

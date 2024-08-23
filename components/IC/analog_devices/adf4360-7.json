@@ -36,7 +36,7 @@
 			"ADF4360-7BCPZRL": {
 				"Type": "Embossed Tape / Reel",
 				"Qty": 5000,
-				"packagingData": {
+				"PackagingData": {
 					"reel": {
 						"Diameter": "13\u201d"
 					},
@@ -55,7 +55,7 @@
 			"ADF4360-7BCPZRL7": {
 				"Type": "Embossed Tape / Reel",
 				"Qty": 1500,
-				"packagingData": {
+				"PackagingData": {
 					"reel": {
 						"Diameter": "7\u201d"
 					},
