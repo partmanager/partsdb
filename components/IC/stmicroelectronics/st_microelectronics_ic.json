@@ -4,6 +4,7 @@
 		"partNumber": "EMIF03-SIM02M8",
 		"partType": "IC",
 		"series": {},
+		"description": "TVS and EMI Filter for SIM Card",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -27,6 +28,7 @@
 		"partNumber": "EMIF04-1005M8",
 		"partType": "IC",
 		"series": {},
+		"description": "TVS and EMI Filter 4 line",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -130,6 +132,7 @@
 		"series": {
 			"name": "STM32G"
 		},
+		"description": "Arm Cortex-M0+ MCU with 128 Kb Flash and 36 Kb RAM",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
