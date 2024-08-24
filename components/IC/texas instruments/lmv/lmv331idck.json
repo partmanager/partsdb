@@ -28,12 +28,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/lmv331.pdf"
-				},
-				"SLCS136U": {
-					"date": "10-2020",
-					"md5sum": "b78265d80e04d596c1950715a2f58bbe"
+				"url": "https://www.ti.com/lit/ds/symlink/lmv331.pdf",
+				"versions": {
+					"SLCS136U": {
+						"date": "10-2020",
+						"md5sum": "b78265d80e04d596c1950715a2f58bbe"
+					}
 				}
 			}
 		},

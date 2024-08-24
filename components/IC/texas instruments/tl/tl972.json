@@ -25,12 +25,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tl972.pdf"
-				},
-				"SLOS467H": {
-					"date": "01-2015",
-					"md5sum": "916a36be95af7133b9c1054228728210"
+				"url": "https://www.ti.com/lit/ds/symlink/tl972.pdf",
+				"versions": {
+					"SLOS467H": {
+						"date": "01-2015",
+						"md5sum": "916a36be95af7133b9c1054228728210"
+					}
 				}
 			}
 		},

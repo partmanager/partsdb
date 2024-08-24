@@ -40,7 +40,9 @@
 			]
 		},
 		"files": {
-			"datasheet": "https://data.energizer.com/pdfs/e91.pdf"
+			"datasheet": {
+				"url": "https://data.energizer.com/pdfs/e91.pdf"
+			}
 		},
 		"package": {
 			"name": "battery_aa"

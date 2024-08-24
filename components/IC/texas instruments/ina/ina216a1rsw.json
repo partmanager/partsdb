@@ -25,12 +25,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/ina216.pdf"
-				},
-				"SBOS503C": {
-					"date": "11-2011",
-					"md5sum": "41e0a5a336b9652a4af3c3ede2d21d2c"
+				"url": "https://www.ti.com/lit/ds/symlink/ina216.pdf",
+				"versions": {
+					"SBOS503C": {
+						"date": "11-2011",
+						"md5sum": "41e0a5a336b9652a4af3c3ede2d21d2c"
+					}
 				}
 			}
 		},

@@ -21,13 +21,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tps22960.pdf"
-				},
-				"SLVS914E": {
-					"url": "https://www.ti.com/lit/ds/slvs914e/slvs914e.pdf",
-					"date": "04-2024",
-					"md5sum": "77c1c831289f2a092470bba6a58fbffa"
+				"url": "https://www.ti.com/lit/ds/symlink/tps22960.pdf",
+				"versions": {
+					"SLVS914E": {
+						"url": "https://www.ti.com/lit/ds/slvs914e/slvs914e.pdf",
+						"date": "04-2024",
+						"md5sum": "77c1c831289f2a092470bba6a58fbffa"
+					}
 				}
 			}
 		},

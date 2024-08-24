@@ -42,7 +42,9 @@
 			}
 		},
 		"files": {
-			"Datasheet": "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82432c.pdf"
+			"Datasheet": {
+				"url": "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82432c.pdf"
+			}
 		},
 		"package": {},
 		"symbol&footprint": {

@@ -25,13 +25,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tlv707.pdf"
-				},
-				"SBVS153G": {
-					"url": "https://www.ti.com/lit/ds/sbvs153g/sbvs153g.pdf",
-					"date": "06-2023",
-					"md5sum": "c3d8bbdd2f7095576ac56f406dd2fc22"
+				"url": "https://www.ti.com/lit/ds/symlink/tlv707.pdf",
+				"versions": {
+					"SBVS153G": {
+						"url": "https://www.ti.com/lit/ds/sbvs153g/sbvs153g.pdf",
+						"date": "06-2023",
+						"md5sum": "c3d8bbdd2f7095576ac56f406dd2fc22"
+					}
 				}
 			}
 		},

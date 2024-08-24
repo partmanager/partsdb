@@ -25,12 +25,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/ina169.pdf"
-				},
-				"SBOS181F": {
-					"date": "02-2017",
-					"md5sum": "694bf6e69a4ce21d4235d5d994c4fb87"
+				"url": "https://www.ti.com/lit/ds/symlink/ina169.pdf",
+				"versions": {
+					"SBOS181F": {
+						"date": "02-2017",
+						"md5sum": "694bf6e69a4ce21d4235d5d994c4fb87"
+					}
 				}
 			}
 		},

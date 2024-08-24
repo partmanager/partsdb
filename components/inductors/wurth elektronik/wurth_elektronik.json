@@ -54,7 +54,9 @@
 			}
 		},
 		"files": {
-			"Datasheet": "https://www.we-online.com/catalog/datasheet/744314110.pdf"
+			"Datasheet": {
+				"url": "https://www.we-online.com/catalog/datasheet/744314110.pdf"
+			}
 		},
 		"package": {},
 		"symbol&footprint": {

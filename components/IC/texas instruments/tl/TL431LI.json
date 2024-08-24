@@ -25,7 +25,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ti.com/lit/gpn/tl431li"
+			"datasheet": {
+				"url": "https://www.ti.com/lit/gpn/tl431li"
+			}
 		},
 		"package": {
 			"name": "SOT-23"

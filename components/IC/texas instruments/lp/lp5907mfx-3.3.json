@@ -25,7 +25,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ti.com/lit/ds/symlink/lp5907.pdf"
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/lp5907.pdf"
+			}
 		},
 		"package": {
 			"name": "SOT-23-5"

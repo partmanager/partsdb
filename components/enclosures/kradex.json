@@ -153,7 +153,9 @@
 			"Color": "White"
 		},
 		"files": {
-			"datasheet": "https://www.kradex.com.pl/products/1030/ZD3TC.pdf"
+			"datasheet": {
+				"url":"https://www.kradex.com.pl/products/1030/ZD3TC.pdf"
+			}
 		},
 		"package": {},
 		"symbol&footprint": {

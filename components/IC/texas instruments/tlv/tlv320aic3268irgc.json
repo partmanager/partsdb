@@ -23,12 +23,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tlv320aic3268.pdf"
-				},
-				"SLAS953A": {
-					"date": "02-2014",
-					"md5sum": "af7095dd08b0b1723e960c73353bb7dd"
+				"url": "https://www.ti.com/lit/ds/symlink/tlv320aic3268.pdf",
+				"versions": {
+					"SLAS953A": {
+						"date": "02-2014",
+						"md5sum": "af7095dd08b0b1723e960c73353bb7dd"
+					}
 				}
 			}
 		},

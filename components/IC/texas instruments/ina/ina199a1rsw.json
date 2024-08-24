@@ -25,12 +25,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/ina199.pdf"
-				},
-				"SBOS469H": {
-					"date": "10-2013",
-					"md5sum": "55273351c76764081fba73c434157c26"
+				"url": "https://www.ti.com/lit/ds/symlink/ina199.pdf",
+				"versions": {
+					"SBOS469H": {
+						"date": "10-2013",
+						"md5sum": "55273351c76764081fba73c434157c26"
+					}
 				}
 			}
 		},

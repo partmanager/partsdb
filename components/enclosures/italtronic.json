@@ -87,7 +87,9 @@
 		"storageConditions": {},
 		"parameters": {},
 		"files": {
-			"datasheet": "https://eng.italtronic.com/download.php?action=techDraw&code=P15010201F.BL&format=pdf"
+			"datasheet": {
+				"url":"https://eng.italtronic.com/download.php?action=techDraw&code=P15010201F.BL&format=pdf"
+			}
 		},
 		"package": {},
 		"symbol&footprint": {

@@ -23,7 +23,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ti.com/lit/ds/symlink/tps7a7001.pdf"
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/tps7a7001.pdf"
+			}
 		},
 		"package": {
 			"name": "SO-8-PP"

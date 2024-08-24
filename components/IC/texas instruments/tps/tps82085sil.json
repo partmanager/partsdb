@@ -23,7 +23,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ti.com/lit/ds/symlink/tps82085.pdf"
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/tps82085.pdf"
+			}
 		},
 		"package": {
 			"name": "SIL-8"

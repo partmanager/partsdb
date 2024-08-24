@@ -41,9 +41,15 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://product.tdk.com/en/system/files?file=dam/doc/product/rf/rf/balun/catalog/rf_balun_hhm17147a1_en.pdf",
-			"General Technical Information": "https://product.tdk.com/system/files/dam/doc/product/rf/rf/balun/general_tech_info/rf_general-technical-info_02_en.pdf",
-			"S parameter": "https://product.tdk.com/system/files/dam/doc/product/rf/rf/balun/tdk/s_parameter/hhm17147a1.s3p"
+			"datasheet": {
+				"url": "https://product.tdk.com/en/system/files?file=dam/doc/product/rf/rf/balun/catalog/rf_balun_hhm17147a1_en.pdf"
+			},
+			"General Technical Information": {
+				"url": "https://product.tdk.com/system/files/dam/doc/product/rf/rf/balun/general_tech_info/rf_general-technical-info_02_en.pdf"
+			},
+			"S parameter": {
+				"url": "https://product.tdk.com/system/files/dam/doc/product/rf/rf/balun/tdk/s_parameter/hhm17147a1.s3p"
+			}
 		},
 		"package": {},
 		"symbol&footprint": {

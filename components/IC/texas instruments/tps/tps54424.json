@@ -20,7 +20,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ti.com/lit/ds/symlink/tps54424.pdf"
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/tps54424.pdf"
+			}
 		},
 		"package": {
 			"name": "VQFN-HR-16"

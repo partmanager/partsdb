@@ -20,7 +20,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ti.com/lit/ds/symlink/tps54232.pdf"
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/tps54232.pdf"
+			}
 		},
 		"package": {
 			"name": "SOIC-8"

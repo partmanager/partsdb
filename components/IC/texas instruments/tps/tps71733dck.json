@@ -27,12 +27,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tps717.pdf"
-				},
-				"SBVS068I": {
-					"date": "01-2016",
-					"md5sum": "01ffba3d292726f106f8811d801bd631"
+				"url": "https://www.ti.com/lit/ds/symlink/tps717.pdf",
+				"versions": {
+					"SBVS068I": {
+						"date": "01-2016",
+						"md5sum": "01ffba3d292726f106f8811d801bd631"
+					}
 				}
 			}
 		},

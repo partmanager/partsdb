@@ -25,12 +25,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/ina301.pdf"
-				},
-				"SBOS713A": {
-					"date": "02-2016",
-					"md5sum": "4c3e1caaf360ad257352eb32583cfbe2"
+				"url": "https://www.ti.com/lit/ds/symlink/ina301.pdf",
+				"versions": {
+					"SBOS713A": {
+						"date": "02-2016",
+						"md5sum": "4c3e1caaf360ad257352eb32583cfbe2"
+					}
 				}
 			}
 		},

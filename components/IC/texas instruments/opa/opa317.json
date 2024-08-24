@@ -25,7 +25,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ti.com/lit/gpn/OPA317"
+			"datasheet": {
+				"url": "https://www.ti.com/lit/gpn/OPA317"
+			}
 		},
 		"package": {
 			"name": "SOT-23"

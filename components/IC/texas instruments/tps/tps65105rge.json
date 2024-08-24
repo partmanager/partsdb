@@ -21,12 +21,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tps65105.pdf"
-				},
-				"SLVS496D": {
-					"date": "08-2016",
-					"md5sum": "e15a15a15184f277e8f464f6ca399211"
+				"url": "https://www.ti.com/lit/ds/symlink/tps65105.pdf",
+				"versions": {
+					"SLVS496D": {
+						"date": "08-2016",
+						"md5sum": "e15a15a15184f277e8f464f6ca399211"
+					}
 				}
 			}
 		},

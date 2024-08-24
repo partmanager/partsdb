@@ -21,12 +21,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tps65217.pdf"
-				},
-				"SLVSB64I": {
-					"date": "03-2018",
-					"md5sum": "1fb3b7f027fa8fa19a4463e26e449127"
+				"url": "https://www.ti.com/lit/ds/symlink/tps65217.pdf",
+				"versions": {
+					"SLVSB64I": {
+						"date": "03-2018",
+						"md5sum": "1fb3b7f027fa8fa19a4463e26e449127"
+					}
 				}
 			}
 		},

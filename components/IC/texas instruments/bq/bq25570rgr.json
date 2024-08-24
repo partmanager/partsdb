@@ -21,12 +21,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/bq25570.pdf"
-				},
-				"SLUSBH2G": {
-					"date": "05-2019",
-					"md5sum": "d49253fdc24c0629136d1f452cbe2134"
+				"url": "https://www.ti.com/lit/ds/symlink/bq25570.pdf",
+				"versions": {
+					"SLUSBH2G": {
+						"date": "05-2019",
+						"md5sum": "d49253fdc24c0629136d1f452cbe2134"
+					}
 				}
 			}
 		},

@@ -25,12 +25,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tca9509.pdf"
-				},
-				"SCPS225D": {
-					"date": "04-2021",
-					"md5sum": "9b6aef3aa97bcf796a5557653b47b147"
+				"url": "https://www.ti.com/lit/ds/symlink/tca9509.pdf",
+				"versions": {
+					"SCPS225D": {
+						"date": "04-2021",
+						"md5sum": "9b6aef3aa97bcf796a5557653b47b147"
+					}
 				}
 			}
 		},

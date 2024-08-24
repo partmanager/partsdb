@@ -22,7 +22,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ti.com/lit/ds/symlink/tps737.pdf"
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/tps737.pdf"
+			}
 		},
 		"package": {
 			"name": "SON-8"

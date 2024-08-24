@@ -25,12 +25,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tlv733p.pdf"
-				},
-				"SBVS235C": {
-					"date": "07-2019",
-					"md5sum": "ebf64a768f15eac919a03ac70ec020c3"
+				"url": "https://www.ti.com/lit/ds/symlink/tlv733p.pdf",
+				"versions": {
+					"SBVS235C": {
+						"date": "07-2019",
+						"md5sum": "ebf64a768f15eac919a03ac70ec020c3"
+					}
 				}
 			}
 		},

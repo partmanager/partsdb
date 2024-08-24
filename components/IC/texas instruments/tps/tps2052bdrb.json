@@ -23,13 +23,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tps2052b.pdf"
-				},
-				"SLVS514O": {
-					"url": "https://www.ti.com/lit/ds/slvs514o/slvs514o.pdf",
-					"date": "01-2024",
-					"md5sum": "c73e939ff1ecfa7181cfa3936d8c9328"
+				"url": "https://www.ti.com/lit/ds/symlink/tps2052b.pdf",
+				"versions": {
+					"SLVS514O": {
+						"url": "https://www.ti.com/lit/ds/slvs514o/slvs514o.pdf",
+						"date": "01-2024",
+						"md5sum": "c73e939ff1ecfa7181cfa3936d8c9328"
+					}
 				}
 			}
 		},

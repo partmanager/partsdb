@@ -21,13 +21,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tps62132.pdf"
-				},
-				"SLVSAG7F": {
-					"url": "https://www.ti.com/lit/ds/slvsag7f/slvsag7f.pdf",
-					"date": "11-2021",
-					"md5sum": "7efda9c36b2ba8584818462a53432f6c"
+				"url": "https://www.ti.com/lit/ds/symlink/tps62132.pdf",
+				"versions": {
+					"SLVSAG7F": {
+						"url": "https://www.ti.com/lit/ds/slvsag7f/slvsag7f.pdf",
+						"date": "11-2021",
+						"md5sum": "7efda9c36b2ba8584818462a53432f6c"
+					}
 				}
 			}
 		},

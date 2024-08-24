@@ -26,12 +26,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tps731.pdf"
-				},
-				"SBVS034N": {
-					"date": "12-2015",
-					"md5sum": "7248119eb0f2b5ff45292df08c2d7737"
+				"url": "https://www.ti.com/lit/ds/symlink/tps731.pdf",
+				"versions": {
+					"SBVS034N": {
+						"date": "12-2015",
+						"md5sum": "7248119eb0f2b5ff45292df08c2d7737"
+					}
 				}
 			}
 		},

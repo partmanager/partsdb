@@ -19,7 +19,9 @@
 			}
 		},
 		"files": {
-			"Datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADF4360-7.pdf"
+			"Datasheet": {
+				"url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADF4360-7.pdf"
+			}
 		},
 		"package": {
 			"name": "LFCSP24"

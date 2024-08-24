@@ -59,7 +59,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020190115083136.pdf"
+			"datasheet": {
+				"url": "https://www.ece.com.tw/images/cgcustom/file020190115083136.pdf"
+			}
 		},
 		"package": {
 			"name": "Chip 1210"
@@ -134,7 +136,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020190115083136.pdf"
+			"datasheet": {
+				"url": "https://www.ece.com.tw/images/cgcustom/file020190115083136.pdf"
+			}
 		},
 		"package": {
 			"name": "Chip 1210"
@@ -209,7 +213,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020190115083136.pdf"
+			"datasheet": {
+				"url": "https://www.ece.com.tw/images/cgcustom/file020190115083136.pdf"
+			}
 		},
 		"package": {
 			"name": "Chip 1210"
@@ -284,7 +290,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020190115083136.pdf"
+			"datasheet": {
+				"url": "https://www.ece.com.tw/images/cgcustom/file020190115083136.pdf"
+			}
 		},
 		"package": {
 			"name": "Chip 1210"
@@ -359,7 +367,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020230718153334.pdf"
+			"datasheet": {
+				"url": "https://www.ece.com.tw/images/cgcustom/file020230718153334.pdf"
+			}
 		},
 		"package": {
 			"name": "Chip 1210"
@@ -434,7 +444,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020230718153334.pdf"
+			"datasheet": {
+				"url": "https://www.ece.com.tw/images/cgcustom/file020230718153334.pdf"
+			}
 		},
 		"package": {
 			"name": "Chip 1210"

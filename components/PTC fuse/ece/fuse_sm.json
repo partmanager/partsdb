@@ -59,7 +59,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020190115082858.pdf"
+			"datasheet": {
+				"url": "https://www.ece.com.tw/images/cgcustom/file020190115082858.pdf"
+			}
 		},
 		"package": {
 			"name": "Chip 1210"
@@ -134,7 +136,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020190115082858.pdf"
+			"datasheet": {
+				"url": "https://www.ece.com.tw/images/cgcustom/file020190115082858.pdf"
+			}
 		},
 		"package": {
 			"name": "Chip 1210"
@@ -209,7 +213,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ece.com.tw/images/cgcustom/file020190115082858.pdf"
+			"datasheet": {
+				"url": "https://www.ece.com.tw/images/cgcustom/file020190115082858.pdf"
+			}
 		},
 		"package": {
 			"name": "Chip 1210"

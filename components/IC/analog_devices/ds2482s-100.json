@@ -25,21 +25,21 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ds2482-100.pdf"
-				},
-				"Rev 11": {
-					"date": "08-2024",
-					"md5sum": "98c9ab69ddb73782b0fa1b46b41634bb"
+				"url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ds2482-100.pdf",
+				"versions": {
+					"Rev 11": {
+						"date": "08-2024",
+						"md5sum": "98c9ab69ddb73782b0fa1b46b41634bb"
+					}
 				}
 			},
 			"reliabilityData": {
-				"latest": {
-					"url": "https://www.analog.com/media/en/technical-documentation/reliability-data/ds2482-100.pdf"
-				},
-				"Rev A3": {
-					"date": "12-01-2023",
-					"md5sum": "df1b055341a112590484f973658bba5d"
+				"url": "https://www.analog.com/media/en/technical-documentation/reliability-data/ds2482-100.pdf",
+				"versions": {
+					"Rev A3": {
+						"date": "12-01-2023",
+						"md5sum": "df1b055341a112590484f973658bba5d"
+					}
 				}
 			}
 		},

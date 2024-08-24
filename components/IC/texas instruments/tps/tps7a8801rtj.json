@@ -23,12 +23,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tps7a88.pdf"
-				},
-				"SBVS248A": {
-					"date": "11-2015",
-					"md5sum": "79008b3d662da1af3eb64f6b2fd154cc"
+				"url": "https://www.ti.com/lit/ds/symlink/tps7a88.pdf",
+				"versions": {
+					"SBVS248A": {
+						"date": "11-2015",
+						"md5sum": "79008b3d662da1af3eb64f6b2fd154cc"
+					}
 				}
 			}
 		},

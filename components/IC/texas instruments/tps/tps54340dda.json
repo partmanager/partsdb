@@ -21,12 +21,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tps54340.pdf"
-				},
-				"SLVSBK0D": {
-					"date": "03-2017",
-					"md5sum": "bf537af37b7d50428d6a15829d8b04df"
+				"url": "https://www.ti.com/lit/ds/symlink/tps54340.pdf",
+				"versions": {
+					"SLVSBK0D": {
+						"date": "03-2017",
+						"md5sum": "bf537af37b7d50428d6a15829d8b04df"
+					}
 				}
 			}
 		},

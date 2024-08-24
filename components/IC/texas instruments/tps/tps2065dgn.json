@@ -23,13 +23,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tps2065.pdf"
-				},
-				"SLVS490K": {
-					"url": "https://www.ti.com/lit/ds/slvs490k/slvs490k.pdf",
-					"date": "06-2024",
-					"md5sum": "2df9329b8d26baa63be2e638739e8a52"
+				"url": "https://www.ti.com/lit/ds/symlink/tps2065.pdf",
+				"versions": {
+					"SLVS490K": {
+						"url": "https://www.ti.com/lit/ds/slvs490k/slvs490k.pdf",
+						"date": "06-2024",
+						"md5sum": "2df9329b8d26baa63be2e638739e8a52"
+					}
 				}
 			}
 		},

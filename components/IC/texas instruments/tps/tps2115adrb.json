@@ -21,12 +21,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tps2115a.pdf"
-				},
-				"SBVS044F": {
-					"date": "05-2012",
-					"md5sum": "45b68f7ec7d49ac0f6583a6c43c4c30d"
+				"url": "https://www.ti.com/lit/ds/symlink/tps2115a.pdf",
+				"versions": {
+					"SBVS044F": {
+						"date": "05-2012",
+						"md5sum": "45b68f7ec7d49ac0f6583a6c43c4c30d"
+					}
 				}
 			}
 		},

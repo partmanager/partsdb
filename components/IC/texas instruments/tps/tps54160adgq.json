@@ -21,12 +21,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tps54160a.pdf"
-				},
-				"SLVSB56C": {
-					"date": "05-2014",
-					"md5sum": "5426ab9e5cd4c2759b00a987a772cc49"
+				"url": "https://www.ti.com/lit/ds/symlink/tps54160a.pdf",
+				"versions": {
+					"SLVSB56C": {
+						"date": "05-2014",
+						"md5sum": "5426ab9e5cd4c2759b00a987a772cc49"
+					}
 				}
 			}
 		},

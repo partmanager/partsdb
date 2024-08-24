@@ -25,12 +25,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/opa376.pdf"
-				},
-				"SBOS406G": {
-					"date": "12-2015",
-					"md5sum": "c1def2cdd1e6ad52013eb8186f057555"
+				"url": "https://www.ti.com/lit/ds/symlink/opa376.pdf",
+				"versions": {
+					"SBOS406G": {
+						"date": "12-2015",
+						"md5sum": "c1def2cdd1e6ad52013eb8186f057555"
+					}
 				}
 			}
 		},

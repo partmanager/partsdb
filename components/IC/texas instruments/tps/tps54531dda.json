@@ -20,7 +20,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ti.com/lit/ds/symlink/tps54531.pdf"
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/tps54531.pdf"
+			}
 		},
 		"package": {
 			"name": "SO-8-EP"

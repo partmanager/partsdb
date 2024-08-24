@@ -25,12 +25,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/bq51050b.pdf"
-				},
-				"SLUSB42F": {
-					"date": "06-2017",
-					"md5sum": "047ca6b52556ad7e8ce0f15769fbcd9e"
+				"url": "https://www.ti.com/lit/ds/symlink/bq51050b.pdf",
+				"versions": {
+					"SLUSB42F": {
+						"date": "06-2017",
+						"md5sum": "047ca6b52556ad7e8ce0f15769fbcd9e"
+					}
 				}
 			}
 		},

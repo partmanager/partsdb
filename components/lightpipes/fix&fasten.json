@@ -27,7 +27,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.tme.eu/Document/50baa83f32b90ab2a43241af4e7b8139/FIX-LEM.pdf"
+			"datasheet": {
+				"url": "https://www.tme.eu/Document/50baa83f32b90ab2a43241af4e7b8139/FIX-LEM.pdf"
+			}
 		},
 		"package": {},
 		"symbol&footprint": {
@@ -71,7 +73,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.tme.eu/Document/50baa83f32b90ab2a43241af4e7b8139/FIX-LEM.pdf"
+			"datasheet": {
+				"url": "https://www.tme.eu/Document/50baa83f32b90ab2a43241af4e7b8139/FIX-LEM.pdf"
+			}
 		},
 		"package": {},
 		"symbol&footprint": {
@@ -115,7 +119,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.tme.eu/Document/50baa83f32b90ab2a43241af4e7b8139/FIX-LEM.pdf"
+			"datasheet": {
+				"url": "https://www.tme.eu/Document/50baa83f32b90ab2a43241af4e7b8139/FIX-LEM.pdf"
+			}
 		},
 		"package": {},
 		"symbol&footprint": {

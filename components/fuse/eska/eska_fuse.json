@@ -24,7 +24,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.tme.eu/Document/5e27e3853f633c6d57397b7032a255f8/83.pdf"
+			"datasheet": {
+				"url":"https://www.tme.eu/Document/5e27e3853f633c6d57397b7032a255f8/83.pdf"
+			}
 		},
 		"package": {
 			"name": "Chip 1206"

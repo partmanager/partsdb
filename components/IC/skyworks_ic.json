@@ -19,8 +19,12 @@
 			}
 		},
 		"files": {
-			"Datasheet": "https://www.skyworksinc.com/-/media/SkyWorks/Documents/Products/101-200/200428E.pdf",
-			"S parameter": "https://www.skyworksinc.com/-/media/SkyWorks/Documents/Products/201-300/SKY65111sp.s2p"
+			"Datasheet": {
+				"url": "https://www.skyworksinc.com/-/media/SkyWorks/Documents/Products/101-200/200428E.pdf"
+			},
+			"S parameter": {
+				"url": "https://www.skyworksinc.com/-/media/SkyWorks/Documents/Products/201-300/SKY65111sp.s2p"
+			}
 		},
 		"package": {
 			"name": "QFN16"

@@ -27,12 +27,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tps7a37.pdf"
-				},
-				"SBVS220B": {
-					"date": "08-2015",
-					"md5sum": "205aca2d58700c1d87aac3b93d4800bb"
+				"url": "https://www.ti.com/lit/ds/symlink/tps7a37.pdf",
+				"versions": {
+					"SBVS220B": {
+						"date": "08-2015",
+						"md5sum": "205aca2d58700c1d87aac3b93d4800bb"
+					}
 				}
 			}
 		},

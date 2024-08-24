@@ -20,7 +20,9 @@
 			}
 		},
 		"files": {
-			"datasheet": "https://www.ti.com/lit/ds/symlink/tps61200.pdf"
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/tps61200.pdf"
+			}
 		},
 		"package": {
 			"name": "VSON-10"

@@ -25,12 +25,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tps62160.pdf"
-				},
-				"SLVSAM2E": {
-					"date": "05-2017",
-					"md5sum": "db7ecd9cc1248912fd5b18537d9ee86d"
+				"url": "https://www.ti.com/lit/ds/symlink/tps62160.pdf",
+				"versions": {
+					"SLVSAM2E": {
+						"date": "05-2017",
+						"md5sum": "db7ecd9cc1248912fd5b18537d9ee86d"
+					}
 				}
 			}
 		},

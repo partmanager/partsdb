@@ -25,7 +25,9 @@
 			]
 		},
 		"files": {
-			"datasheet": "https://www.fdk.com/battery/lithium_e/data_sheet/CR14250SE_Data-sheet.pdf"
+			"datasheet": {
+				"url": "https://www.fdk.com/battery/lithium_e/data_sheet/CR14250SE_Data-sheet.pdf"
+			}
 		},
 		"package": {
 			"name": "CR14250"

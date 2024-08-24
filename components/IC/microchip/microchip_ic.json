@@ -82,7 +82,9 @@
 			}
 		},
 		"files": {
-			"Datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1501-Data-Sheet-20005474F.pdf"
+			"Datasheet": {
+				"url": "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1501-Data-Sheet-20005474F.pdf"
+			}
 		},
 		"package": {
 			"name": "SOT-23"

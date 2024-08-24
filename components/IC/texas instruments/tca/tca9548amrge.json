@@ -22,12 +22,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tca9548a.pdf"
-				},
-				"SCPS207G": {
-					"date": "11-2019",
-					"md5sum": "ab9c9a9dad111f01e5d42701bfa177fa"
+				"url": "https://www.ti.com/lit/ds/symlink/tca9548a.pdf",
+				"versions": {
+					"SCPS207G": {
+						"date": "11-2019",
+						"md5sum": "ab9c9a9dad111f01e5d42701bfa177fa"
+					}
 				}
 			}
 		},

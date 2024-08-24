@@ -25,12 +25,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tps2044b.pdf"
-				},
-				"SBVS044F": {
-					"date": "06-2024",
-					"md5sum": "c73e939ff1ecfa7181cfa3936d8c9328"
+				"url": "https://www.ti.com/lit/ds/symlink/tps2044b.pdf",
+				"versions": {
+					"SBVS044F": {
+						"date": "06-2024",
+						"md5sum": "c73e939ff1ecfa7181cfa3936d8c9328"
+					}
 				}
 			}
 		},

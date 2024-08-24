@@ -24,12 +24,12 @@
 		},
 		"files": {
 			"datasheet": {
-				"latest": {
-					"url": "https://www.ti.com/lit/ds/symlink/tlv702.pdf"
-				},
-				"SLVSAG6D": {
-					"date": "02-2019",
-					"md5sum": "0b108a0b4383f1162ffdeec0f8368b07"
+				"url": "https://www.ti.com/lit/ds/symlink/tlv702.pdf",
+				"versions": {
+					"SLVSAG6D": {
+						"date": "02-2019",
+						"md5sum": "0b108a0b4383f1162ffdeec0f8368b07"
+					}
 				}
 			}
 		},
