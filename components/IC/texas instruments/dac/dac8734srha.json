@@ -1,0 +1,70 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "DAC8734SRHA#",
+		"markingCode": "DAC8734",
+		"partType": "IC",
+		"series": {
+			"name": "DAC8734",
+			"description": "DAC 16Bit serial input"
+		},
+		"description": "DAC, Quad 16Bit",
+		"productUrl": "https://www.ti.com/product/DAC8734",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-2 1-YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 105\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "4.75V",
+				"max": "24V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/dac8734.pdf",
+				"description": "DAC8734 Quad 16Bit Serial input DAC datasheet",
+				"versions": {
+					"SBAS465A": {
+						"date": "05-2009",
+						"md5sum": "529a4992c8d9dbcae1bcc201e933ceab"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "VQFN-40"
+		},
+		"orderNumbers": {
+			"DAC8734SRHAR": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 2500,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "16.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "9.6mm",
+						"B0": "9.6mm",
+						"K0": "1.5mm",
+						"P1": "12mm",
+						"W": "16mm"
+					}
+				}
+			},
+			"DAC8734SRHAT": {
+				"Status": "Active",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 250
+			}
+		}
+	}
+]
