@@ -1,0 +1,149 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "DAC7551IDRN#",
+		"markingCode": "D51",
+		"partType": "IC DAC",
+		"description": "DAC, 12Bit",
+		"productUrl": "https://www.ti.com/product/DAC7551",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 105\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.7V",
+				"max": "5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/dac7551.pdf",
+				"description": "DAC8734 12Bit, Ultra-Low Glitch, Voltage Output",
+				"versions": {
+					"SLAS441E": {
+						"date": "04-2007",
+						"md5sum": "a68f026c382cc755e151e03ddff50963"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "SON-12"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"VDD": {
+					"no": 1,
+					"func": "PwrIn",
+					"desc": "Analog voltage supply"
+				},
+				"VREFH": {
+					"no": 2,
+					"func": "AnalogIn",
+					"desc": "Positive reference voltage input"
+				},
+				"VREFL": {
+					"no": 3,
+					"func": "InAnalog",
+					"desc": "Negative reference voltage input"
+				},
+				"VFB": {
+					"no": 4,
+					"func": "InAnalog",
+					"desc": "DAC amplifier sense input"
+				},
+				"VOUT": {
+					"no": 5,
+					"func": "AnalogOut",
+					"desc": "DAC analog output voltage"
+				},
+				"GND": {
+					"no": 6,
+					"func": "PwrGND",
+					"desc": "GND"
+				},
+				"CLR": {
+					"no": 7,
+					"func": "InDigital;ActiveLow",
+					"desc": "Asynchronous input to clear DAC registers."
+				},
+				"SYNC": {
+					"no": 8,
+					"func": "InDigital;ActiveLow",
+					"desc": "Frame synchronization input."
+				},
+				"SCLK": {
+					"no": 9,
+					"func": "InDigital;ActiveHigh",
+					"desc": "Serial clock input"
+				},
+				"SDIN": {
+					"no": 10,
+					"func": "InDigital;ActiveHigh",
+					"desc": "Serial data input"
+				},
+				"SDO": {
+					"no": 11,
+					"func": "OutDigital;ActiveHigh",
+					"desc": "Serial data out"
+				},
+				"IOVDD": {
+					"no": 12,
+					"func": "PwrIn",
+					"desc": "IO voltage supply"
+				},
+				"EP": {
+					"no": "EP",
+					"func": "PwrGND",
+					"desc": "Thermal pad, connect to GND"
+				}
+			}
+		},
+		"orderNumbers": {
+			"DAC7551IDRNR": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 3000,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "2.3mm",
+						"B0": "3.3mm",
+						"K0": "0.7mm",
+						"P1": "4mm",
+						"W": "12mm"
+					}
+				}
+			},
+			"DAC7551IDRNT": {
+				"Status": "Active",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 250,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "2.3mm",
+						"B0": "3.3mm",
+						"K0": "0.7mm",
+						"P1": "4mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]
