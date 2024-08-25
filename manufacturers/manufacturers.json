@@ -153,6 +153,15 @@
 		"comment": null
 	},
 	{
+		"name": "Cirrus Logic",
+		"full_name": "Cirrus Logic, Inc.",
+		"address": "",
+		"website": "https://www.cirrus.com",
+		"email": null,
+		"phone": null,
+		"comment": null
+	},
+	{
 		"name": "C&K",
 		"full_name": "C&K",
 		"address": "",
@@ -400,6 +409,15 @@
 		"full_name": "Infineon Technologies",
 		"address": "",
 		"website": "https://www.infineon.com",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Insight SiP",
+		"full_name": "Insight SiP",
+		"address": "",
+		"website": "https://www.insightsip.com/",
 		"email": "",
 		"phone": "",
 		"comment": ""
