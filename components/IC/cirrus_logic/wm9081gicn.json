@@ -1,0 +1,45 @@
+[
+	{
+		"manufacturer": "Cirrus Logic",
+		"partNumber": "WM9081GICN",
+		"partType": "IC DAC",
+		"description": "Mono DAC with 2.6W Class AB/D Speaker Driver",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-3 168-HOURS"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {},
+		"files": {
+			"datasheet": {
+				"url": "https://statics.cirrus.com/pubs/proDatasheet/WM9081_Rev4.0.pdf",
+				"description": "WM9081 Datasheet, Mono DAC with 2.6W Class AB/D Speaker Driver",
+				"versions": {
+					"Rev 4.0": {
+						"date": "12-2016",
+						"md5sum": "2ff081ec2be2ce91b4736731b4a9f8c0"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "QFN-28"
+		},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"WM9081GICN/V": {
+				"Type": "Tray"
+			},
+			"WM9081GICN/RV": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3500"
+			}
+		}
+	}
+]
