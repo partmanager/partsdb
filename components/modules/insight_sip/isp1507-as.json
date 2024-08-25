@@ -1,0 +1,55 @@
+[
+	{
+		"manufacturer": "Insight SiP",
+		"partNumber": "ISP1507-AS#",
+		"partType": "Module",
+		"series": {},
+		"description": "BLE Module with Antenna, 512k Flash 64k RAM",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C",
+			"MSLevel": "MSL-3 168-HOURS"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Module Type": "BLE Transceiver",
+			"Frequency": {
+				"value": "2400MHz"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.insightsip.com/fichiers_insightsip/pdf/ble/ISP1507/isp_ble_DS1507.pdf",
+				"versions": {
+					"R7": {
+						"date": "5-10-2017",
+						"md5sum": "9968f93fd84f3f02d06588cc83f52823"
+					},
+					"R13": {
+						"date": "16-10-2019",
+						"md5sum": "bd0df9141a4ebd4a2df6e3c390effd86"
+					}
+				}
+			}
+		},
+		"package": {},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"ISP1507-AS-RS": {
+				"Code": "-RS",
+				"Qty": "500",
+				"PackagingData": {}
+			},
+			"ISP1507-AS-R2": {
+				"Code": "-R2",
+				"Qty": "2000",
+				"PackagingData": {}
+			}
+		}
+	}
+]
