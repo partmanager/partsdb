@@ -36,10 +36,10 @@
 		},
 		"files": {
 			"STEP": {
-				"url":"https://www.hammfg.com/files/parts/stp/1551V1GY.zip"
+				"url": "https://www.hammfg.com/files/parts/stp/1551V1GY.zip"
 			},
 			"datasheet": {
-				"url":"https://www.hammfg.com/files/parts/pdf/1551V1GY.pdf"
+				"url": "https://www.hammfg.com/files/parts/pdf/1551V1GY.pdf"
 			}
 		},
 		"package": {},
@@ -91,10 +91,10 @@
 		},
 		"files": {
 			"STEP": {
-				"url":"https://www.hammfg.com/files/parts/stp/1551V4GY.zip"
+				"url": "https://www.hammfg.com/files/parts/stp/1551V4GY.zip"
 			},
 			"datasheet": {
-				"url":"https://www.hammfg.com/files/parts/pdf/1551V4GY.pdf"
+				"url": "https://www.hammfg.com/files/parts/pdf/1551V4GY.pdf"
 			}
 		},
 		"package": {},
@@ -141,10 +141,10 @@
 		},
 		"files": {
 			"STEP": {
-				"url":"https://www.hammfg.com/files/parts/stp/1590B.zip"
+				"url": "https://www.hammfg.com/files/parts/stp/1590B.zip"
 			},
 			"datasheet": {
-				"url":"https://www.hammfg.com/files/parts/pdf/1590B.pdf"
+				"url": "https://www.hammfg.com/files/parts/pdf/1590B.pdf"
 			}
 		},
 		"package": {},
