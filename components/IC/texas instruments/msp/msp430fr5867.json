@@ -1,0 +1,144 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "MSP430FR5867#",
+		"markingCode": "FR5867",
+		"partType": "IC MCU",
+		"series": {
+			"name": "MSP430FR586x, MSP430FR584x",
+			"description": "Mixed-Signal Microcontrollers"
+		},
+		"description": "16 MHz MCU with 32KB FRAM, 1KB SRAM, 12-bit ADC, comparator, DMA, UART/SPI/I2C, timer",
+		"productUrl": "https://www.ti.com/product/MSP430FR5867",
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C",
+			"MSLevel": "MSL-3 168-HOURS"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "1.8V",
+				"max": "3.6V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/msp430fr5867.pdf",
+				"versions": {
+					"SLASE34E": {
+						"date": "08-2018",
+						"md5sum": "b50651ffa6a591b1c74cc95f3ff1a294"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "VQFN-48"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"EN": {
+					"no": "A2",
+					"func": "InDigital",
+					"desc": "Switch enable input"
+				},
+				"GND": {
+					"no": "A1",
+					"func": "PwrGND",
+					"desc": "Ground"
+				},
+				"SCL1": {
+					"no": "C1",
+					"func": "InOut"
+				},
+				"SCL2": {
+					"no": "C2",
+					"func": "InOut"
+				},
+				"SDA1": {
+					"no": "D1",
+					"func": "InOut"
+				},
+				"SDA2": {
+					"no": "D2",
+					"func": "InOut"
+				},
+				"VREF1": {
+					"no": "B1",
+					"func": "PwrIn",
+					"desc": "Reference supply voltage for SCL1 and SDA1"
+				},
+				"VREF2": {
+					"no": "B2",
+					"func": "PwrIn",
+					"desc": "Reference supply voltage for SCL2 and SDA2"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"VREF1",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"SDA1",
+						"SCL1"
+					],
+					"right_side": [
+						"VREF2",
+						"!@#SEPARATOR#@!",
+						"EN",
+						"!@#SEPARATOR#@!",
+						"SDA2",
+						"SCL2"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"MSP430FR5867IRGZR": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 2500,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "16.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "7.3mm",
+						"B0": "7.3mm",
+						"K0": "1.1mm",
+						"P1": "12mm",
+						"W": "16mm"
+					}
+				}
+			},
+			"MSP430FR5867IRGZT": {
+				"Status": "Active",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 250,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "16.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "7.3mm",
+						"B0": "7.3mm",
+						"K0": "1.1mm",
+						"P1": "12mm",
+						"W": "16mm"
+					}
+				}
+			}
+		}
+	}
+]
