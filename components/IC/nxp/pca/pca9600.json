@@ -1,0 +1,144 @@
+[
+	{
+		"manufacturer": "NXP",
+		"partNumber": "PCA9600DP#",
+		"markingCode": "9600",
+		"partType": "IC",
+		"series": {
+			"name": "PCA9600",
+			"description": "Dual Bidirectional I2C Bus buffer"
+		},
+		"description": "Dual Bidirectional I2C Bus buffer",
+		"productUrl": "https://www.nxp.com/products/interfaces/ic-spi-i3c-interface-devices/ic-bus-repeaters-hubs-extenders/dual-bidirectional-bus-buffer:PCA9600",
+		"storageConditions": {
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.5V",
+				"max": "15V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.nxp.com/docs/en/data-sheet/PCA9600.pdf",
+				"versions": {
+					"Rev. 6.1": {
+						"date": "20-12-2021",
+						"md5sum": "c236161ac532e7691a15dc4ca8216671"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "TSSOP-8"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"SX": {
+					"no": 1,
+					"func": "InOut",
+					"desc": "I2C bus SDA or SCL"
+				},
+				"RX": {
+					"no": 2,
+					"func": "InDigital",
+					"desc": "Receive signal"
+				},
+				"TX": {
+					"no": 3,
+					"func": "OutDigital",
+					"desc": "Transmit signal"
+				},
+				"GND": {
+					"no": 4,
+					"func": "PwrIn",
+					"desc": "Power Ground"
+				},
+				"TY": {
+					"no": 5,
+					"func": "OutDigital"
+				},
+				"RY": {
+					"no": 6,
+					"func": "InDigital"
+				},
+				"SY": {
+					"no": 7,
+					"func": "InOut",
+					"desc": "I2C bus SDA or SCL"
+				},
+				"VCC": {
+					"no": 8,
+					"func": "PwrIn",
+					"desc": "Positive supply"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"VCC",
+						"!@#SEPARATOR#@!",
+						"SX",
+						"SY",
+						"!@#SEPARATOR#@!",
+						"GND"
+					],
+					"right_side": [
+						"TX",
+						"RX",
+						"!@#SEPARATOR#@!",
+						"TY",
+						"RY"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"PCA9600DP,118": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 2500,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "5.3mm",
+						"B0": "3.3mm",
+						"K0": "1.6mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			},
+			"PCA9600DPZ": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 2500,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "5.3mm",
+						"B0": "3.3mm",
+						"K0": "1.6mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]
