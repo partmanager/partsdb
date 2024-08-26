@@ -43,7 +43,7 @@
 				},
 				"VREFH": {
 					"no": 2,
-					"func": "AnalogIn",
+					"func": "InAnalog",
 					"desc": "Positive reference voltage input"
 				},
 				"VREFL": {
@@ -58,7 +58,7 @@
 				},
 				"VOUT": {
 					"no": 5,
-					"func": "AnalogOut",
+					"func": "OutAnalog",
 					"desc": "DAC analog output voltage"
 				},
 				"GND": {
@@ -88,7 +88,7 @@
 				},
 				"SDO": {
 					"no": 11,
-					"func": "OutDigital;ActiveHigh",
+					"func": "OutDigital",
 					"desc": "Serial data out"
 				},
 				"IOVDD": {
