@@ -1,0 +1,137 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "RC4580ID#",
+		"markingCode": "RC4580ID",
+		"partType": "IC Opamp",
+		"series": {
+			"name": "RC4580",
+			"description": "Dual Audio Operational Amplifier"
+		},
+		"description": "Dual Audio Operational Amplifier",
+		"productUrl": "https://www.ti.com/product/RC4580",
+		"storageConditions": {
+			"temperature": "-60\u00b0C ~ 125\u00b0C",
+			"MSLevel": "MSL-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "4V",
+				"max": "32V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/rc4580.pdf",
+				"versions": {
+					"SLOS412D": {
+						"date": "11-2014",
+						"md5sum": "6ec30a0f1066bf4934f1a6140be3dda2"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "SOIC-8"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"OUT1": {
+					"no": 1,
+					"func": "OutAnalog",
+					"desc": "Operational amplifier 1 output"
+				},
+				"IN1-": {
+					"no": 2,
+					"func": "InAnalog",
+					"desc": "Operational amplifier 1, negative input"
+				},
+				"IN1+": {
+					"no": 3,
+					"func": "InAnalog",
+					"desc": "Operational amplifier 1, positive input"
+				},
+				"VCC-": {
+					"no": 4,
+					"func": "PwrIn",
+					"desc": "Power supply, negative voltage"
+				},
+				"IN2+": {
+					"no": 5,
+					"func": "InAnalog",
+					"desc": "Operational amplifier 2, positive input"
+				},
+				"IN2-": {
+					"no": 6,
+					"func": "InAnalog",
+					"desc": "Operational amplifier 1, negative input"
+				},
+				"OUT2": {
+					"no": 7,
+					"func": "OutAnalog",
+					"desc": "Operational amplifier 1 output"
+				},
+				"VCC+": {
+					"no": 8,
+					"func": "PwrIn",
+					"desc": "Power supply, positive voltage"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"default": {},
+				"multipart": {
+					"A": {
+						"generator_name": "opamp",
+						"generator_data": {},
+						"pins": [
+							"IN1+",
+							"IN1-",
+							"OUT1",
+							"VCC-",
+							"VCC+"
+						]
+					},
+					"B": {
+						"generator_name": "opamp",
+						"generator_data": {},
+						"pins": [
+							"IN2+",
+							"IN2-",
+							"OUT2"
+						]
+					}
+				}
+			}
+		},
+		"orderNumbers": {
+			"RC4580ID": {
+				"Status": "Obsolete",
+				"Type": "Tube"
+			},
+			"RC4580IDR": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 2500,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "6.4mm",
+						"B0": "5.2mm",
+						"K0": "2.1mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]
