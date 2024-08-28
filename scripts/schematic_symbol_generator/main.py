@@ -25,7 +25,8 @@ def process_part_data(part):
                 print("Using dedicated generator")
                 for generator in symbol_footprint['symbol_generator']:
                     symbol_data['symbol_generator'] = {generator: symbol_footprint['symbol_generator'][generator]}
-                    symbol_generator.generate(symbol_data)
+                    generated, filename = symbol_generator.generate(symbol_data)[0]
+                    symbol_generator.export_symbol(generated, 'symbols/' + filename)
             else:
                 symbol_generator.generate(symbol_data)
 

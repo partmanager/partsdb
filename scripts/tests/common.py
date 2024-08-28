@@ -29,6 +29,8 @@ def load_part_types():
             'IC', 'IC Current Sense', 'IC LDO', 'IC MCU',
             'IC Load Switch', 'IC Voltage Reference', 'IC Voltage Regulator', 'IC Voltage Regulator Switching',
             'IC DC-DC', 'IC Opamp', 'IC RF Amplifier', 'IC RF Synthesizer',
+            'IC DAC',
+            'IC ADC',
             'LED',
             'LCD Display',
             'Lightpipe',
