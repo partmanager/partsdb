@@ -1,0 +1,66 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "CC3100MOD#",
+		"markingCode": "CC3100MODR11MAMOB",
+		"partType": "Module",
+		"series": {
+			"name": "CC3100MOD",
+			"description": "Wi-Fi"
+		},
+		"description": "Wi-Fi module",
+		"productUrl": "https://www.ti.com/product/CC3100MOD",
+		"storageConditions": {
+			"temperature": "-60\u00b0C ~ 30\u00b0C",
+			"humidity": "max. 85%",
+			"MSLevel": "MSL-3 168-HOURS"
+		},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 70\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.3V",
+				"max": "3.6V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/cc3100mod.pdf",
+				"versions": {
+					"SWRS161B": {
+						"date": "10-2020",
+						"md5sum": "c74fe880a18cb8a1ca7983fafbcc73f3"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "MOB-63"
+		},
+		"orderNumbers": {
+			"CC3100MODR11MAMOBR ": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 750,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm"
+					}
+				}
+			},
+			"CC3100MODR11MAMOBT ": {
+				"Status": "Active",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 250,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "180mm"
+					}
+				}
+			}
+		}
+	}
+]
