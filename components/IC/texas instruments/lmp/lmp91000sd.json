@@ -1,0 +1,147 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "LMP91000SD#",
+		"markingCode": "L91000",
+		"partType": "IC",
+		"description": "Analog front end for low power chemical sensing applications",
+		"productUrl": "https://www.ti.com/product/LMP91000",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-3 168-HOURS"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.7V",
+				"max": "5.25V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/lmp91000.pdf",
+				"versions": {
+					"SNAS506I": {
+						"date": "12-2014",
+						"md5sum": "e0360c0dc582819ed0ffb27b8efaccb6"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "WSON-14"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"DGND": {
+					"no": 1,
+					"func": "PwrGND",
+					"desc": "Power Ground"
+				},
+				"MENB": {
+					"no": 2,
+					"func": "InDigital;ActiveLow",
+					"desc": "Enable module"
+				},
+				"SCL": {
+					"no": 3,
+					"func": "InDigital",
+					"desc": "I2C Clock input"
+				},
+				"SDA": {
+					"no": 4,
+					"func": "InOut",
+					"desc": "I2C Data signal"
+				},
+				"NC": {
+					"no": 5,
+					"func": "NC",
+					"desc": "Not Connected"
+				},
+				"VDD": {
+					"no": 6,
+					"func": "PwrIn",
+					"desc": "Supply voltage input."
+				},
+				"AGND": {
+					"no": 7,
+					"func": "PwrGND",
+					"desc": "Power Ground"
+				},
+				"VOUT": {
+					"no": 8,
+					"func": "OutAnalog",
+					"desc": "Analog output"
+				},
+				"C2": {
+					"no": 9,
+					"func": "InAnalog",
+					"desc": "External filter connector"
+				},
+				"C1": {
+					"no": 10,
+					"func": "InAnalog",
+					"desc": "External filter connector"
+				},
+				"VREF": {
+					"no": 11,
+					"func": "InAnalog",
+					"desc": "Voltage reference input"
+				},
+				"WE": {
+					"no": 12,
+					"func": "InAnalog",
+					"desc": "Working electrode"
+				},
+				"RE": {
+					"no": 13,
+					"func": "InAnalog",
+					"desc": "Reference electrode"
+				},
+				"CE": {
+					"no": 14,
+					"func": "InAnalog",
+					"desc": "Counter electrode"
+				},
+				"EP": {
+					"no": "EP",
+					"func": "PwrGND",
+					"desc": "Connect to AGND"
+				}
+			},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"LMP91000SD/NOPB": {
+				"Status": "Obsolete",
+				"Type": "Embossed Tape / Reel"
+			},
+			"LMP91000SDE/NOPB": {
+				"Status": "Obsolete",
+				"Type": "Embossed Tape / Reel"
+			},
+			"LMP91000SDX/NOPB": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 4500,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "4.3mm",
+						"B0": "4.3mm",
+						"K0": "1.3mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]
