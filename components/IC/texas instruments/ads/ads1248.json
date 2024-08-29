@@ -1,0 +1,68 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "ADS1248#",
+		"markingCode": "ADS1248",
+		"partType": "IC ADC",
+		"series": {
+			"name": "ADS124x",
+			"description": "ADC with PGA"
+		},
+		"description": "24bit ADC",
+		"productUrl": "https://www.ti.com/product/ADS1248",
+		"storageConditions": {
+			"temperature": "-60\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-2 1-YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.7V",
+				"max": "5.25V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/ads1248.pdf",
+				"versions": {
+					"SBAS426H": {
+						"date": "03-2016",
+						"md5sum": "47dd9b7f496138703e9b19886ec8a017"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "TSSOP-28"
+		},
+		"orderNumbers": {
+			"ADS1248IPW": {
+				"Status": "Active",
+				"Type": "Tube",
+				"Qty": 50
+			},
+			"ADS1248IPWR": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 2000,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "16.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "6.9mm",
+						"B0": "10.2mm",
+						"K0": "1.8mm",
+						"P1": "12mm",
+						"W": "16mm"
+					}
+				}
+			}
+		}
+	}
+]
