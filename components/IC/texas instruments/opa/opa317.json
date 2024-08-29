@@ -14,11 +14,10 @@
 		"storageConditions": {
 			"temperature": "-65\u00b0C ~ 150\u00b0C"
 		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 150\u00b0C"
+		},
 		"parameters": {
-			"WorkingTemperatureRange": {
-				"min": "-40\u00b0C",
-				"max": "150\u00b0C"
-			},
 			"Supply Voltage Range": {
 				"min": "1.8V",
 				"max": "5.5V"
