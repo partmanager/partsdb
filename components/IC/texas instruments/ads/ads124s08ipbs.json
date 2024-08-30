@@ -1,0 +1,68 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "ADS124S08IPBS#",
+		"markingCode": "124S08",
+		"partType": "IC ADC",
+		"series": {
+			"name": "ADS124S0x",
+			"description": "24bit ADC with PGA"
+		},
+		"description": "24bit ADC with PGA",
+		"productUrl": "https://www.ti.com/product/ADS124S08",
+		"storageConditions": {
+			"temperature": "-60\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-3 168-HOURS"
+		},
+		"operatingConditions": {
+			"temperature": "-50\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.7V",
+				"max": "5.25V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/ads124s08.pdf",
+				"versions": {
+					"SBAS660C": {
+						"date": "06-2017",
+						"md5sum": "0f68f070ef91a2edfcfc4f7b62be4960"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "TQFP-32"
+		},
+		"orderNumbers": {
+			"ADS124S08IPBS": {
+				"Status": "Active",
+				"Type": "Tray",
+				"Qty": 250
+			},
+			"ADS124S08IPBSR": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 1000,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "16.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "7.2mm",
+						"B0": "7.2mm",
+						"K0": "1.5mm",
+						"P1": "12mm",
+						"W": "16mm"
+					}
+				}
+			}
+		}
+	}
+]
