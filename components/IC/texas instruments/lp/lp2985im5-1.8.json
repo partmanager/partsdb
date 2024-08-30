@@ -1,0 +1,112 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "LP2985IM5-1.8#",
+		"markingCode": "LAYB",
+		"partType": "IC LDO",
+		"series": {
+			"name": "LP2985LV-N",
+			"description": "150-mA, 16-V, low-dropout voltage regulator with enable"
+		},
+		"description": "LDO 1.8V 150mA, Vin 2.2~16V, low-dropout voltage regulator with enable",
+		"productUrl": "https://www.ti.com/product/LP2985LV-N",
+		"tags": "LDO",
+		"storageConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.5V",
+				"max": "16V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/lp2985lv-n.pdf",
+				"versions": {
+					"SNOS510Q": {
+						"date": "10-2016",
+						"md5sum": "ac7d38f9120afa99521bb83c7646e645"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "SOT-23-5"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"IN": {
+					"no": 1,
+					"func": "PwrIn",
+					"desc": "Power supply"
+				},
+				"GND": {
+					"no": 2,
+					"func": "PwrGND",
+					"desc": "Power Ground"
+				},
+				"EN": {
+					"no": 3,
+					"func": "InDigital;ActiveHigh",
+					"desc": "Enable voltage regulator"
+				},
+				"BYPASS": {
+					"no": 4,
+					"func": "InAnalog",
+					"desc": "Bypass capacitor for low noise operation"
+				},
+				"OUT": {
+					"no": 5,
+					"func": "PwrOut",
+					"desc": "Regulated voltage output"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN",
+						"EN",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"GND"
+					],
+					"right_side": [
+						"OUT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"BYPASS"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"LP2985IM5-1.8/NOPB": {
+				"Status": "Active",
+				"Code": "/NOPB",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 3000,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "3.2mm",
+						"B0": "3.2mm",
+						"K0": "1.4mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]
