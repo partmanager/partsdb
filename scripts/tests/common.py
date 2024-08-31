@@ -31,6 +31,7 @@ def load_part_types():
             'IC DC-DC', 'IC Opamp', 'IC RF Amplifier', 'IC RF Synthesizer',
             'IC DAC',
             'IC ADC',
+            'IC Sensor',
             'LED',
             'LCD Display',
             'Lightpipe',

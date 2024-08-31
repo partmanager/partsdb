@@ -1,0 +1,116 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TMP75CIDGK#",
+		"markingCode": "T75C",
+		"partType": "IC Sensor",
+		"series": {
+			"name": "TMP75C",
+			"description": "Digital Temperature Sensor with Two-Wire Interface and Alert"
+		},
+		"description": "Digital Temperature Sensor with Two-Wire Interface and Alert",
+		"productUrl": "https://www.ti.com/product/TMP75C",
+		"storageConditions": {
+			"temperature": "-60\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-2 1-YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "1.4V",
+				"max": "3.6V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/tmp75c.pdf",
+				"versions": {
+					"SBOS707B": {
+						"date": "08-2014",
+						"md5sum": "62154e29d8b979d73302fc9752efa269"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "VSSOP-8"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"SDA": {
+					"no": 1,
+					"func": "InOut",
+					"desc": "I2C SDA"
+				},
+				"SCL": {
+					"no": 2,
+					"func": "InOut",
+					"desc": "I2C SCL"
+				},
+				"ALERT": {
+					"no": 3,
+					"func": "OutDigital;OpenDrain",
+					"desc": "Over temperature alert."
+				},
+				"GND": {
+					"no": 4,
+					"func": "PwrGND",
+					"desc": "Power supply ground"
+				},
+				"A2": {
+					"no": 5,
+					"func": "InDigital",
+					"desc": "Address select"
+				},
+				"A1": {
+					"no": 6,
+					"func": "InDigital",
+					"desc": "Address select"
+				},
+				"A0": {
+					"no": 7,
+					"func": "InDigital",
+					"desc": "Address select"
+				},
+				"VS": {
+					"no": 8,
+					"func": "PwrIn",
+					"desc": "Power supply, positive voltage"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"default": {}
+			}
+		},
+		"orderNumbers": {
+			"TMP75CIDGKT": {
+				"Status": "Obsolete",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel"
+			},
+			"TMP75CIDGKR": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 2500,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "5.3mm",
+						"B0": "3.4mm",
+						"K0": "1.4mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]
