@@ -1,0 +1,83 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "LMX2485ESQ#",
+		"markingCode": "2485E>D",
+		"partType": "IC RF Synthesizer",
+		"series": {
+			"name": "LMX2485x",
+			"description": "3-GHz Delta-Sigma Low-Power Dual PLL Frequency Synthesizer"
+		},
+		"description": "3-GHz Delta-Sigma Low-Power Dual PLL Frequency Synthesizer",
+		"productUrl": "https://www.ti.com/product/LMX2485",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-3 168-HOURS"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.5V",
+				"max": "3.6V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/lmx2485.pdf",
+				"versions": {
+					"SLCS136U": {
+						"date": "01-2016",
+						"md5sum": "903b92b35a62fa7011565231ee4ddf85"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "WQFN-24"
+		},
+		"orderNumbers": {
+			"LMX2485ESQ/NOPB": {
+				"Status": "Active",
+				"Code": "/NOPB",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 1000,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "178mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "4.3mm",
+						"B0": "4.3mm",
+						"K0": "1.3mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			},
+			"LMX2485ESQX/NOPB": {
+				"Status": "Active",
+				"Code": "X/NOPB",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 4500,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "4.3mm",
+						"B0": "4.3mm",
+						"K0": "1.3mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]
