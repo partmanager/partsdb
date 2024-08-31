@@ -1,0 +1,131 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "LMP2011MF#",
+		"markingCode": "AN1A",
+		"partType": "IC Opamp",
+		"series": {
+			"name": "LMP2011, LMP2012",
+			"description": "Rail-to-Rail Output Operational Amplifier"
+		},
+		"description": "Single Rail-to-Rail Output Operational Amplifier",
+		"productUrl": "https://www.ti.com/product/LMP2011",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.7V",
+				"max": "5.25V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/lmp2011.pdf",
+				"versions": {
+					"SNOSA71L": {
+						"date": "10-2015",
+						"md5sum": "3dee58a31d974add17e2f3ac14978f97"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "SOT-23-5"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"OUT": {
+					"no": 1,
+					"func": "OutAnalog",
+					"desc": "Output voltage"
+				},
+				"V-": {
+					"no": 2,
+					"func": "PwrIn",
+					"desc": "Power supply, negative voltage"
+				},
+				"IN+": {
+					"no": 3,
+					"func": "InAnalog",
+					"desc": "Positive input signal"
+				},
+				"IN-": {
+					"no": 4,
+					"func": "InAnalog",
+					"desc": "Negative input signal"
+				},
+				"V+": {
+					"no": 5,
+					"func": "PwrIn",
+					"desc": "Power supply, positive voltage"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN+",
+						"!@#SEPARATOR#@!",
+						"IN-"
+					],
+					"right_side": [
+						"V+",
+						"!@#SEPARATOR#@!",
+						"OUT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"V-"
+					]
+				},
+				"opamp": {}
+			}
+		},
+		"orderNumbers": {
+			"LMP2011MF/NOPB": {
+				"Status": "Active",
+				"Code": "/NOPB",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 1000,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "178mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "3.2mm",
+						"B0": "3.2mm",
+						"K0": "1.4mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			},
+			"LMP2011MFX/NOPB": {
+				"Status": "Active",
+				"Code": "X/NOPB",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 3000,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "178mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "3.2mm",
+						"B0": "3.2mm",
+						"K0": "1.4mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]
