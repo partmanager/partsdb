@@ -4,6 +4,7 @@
 		"partNumber": "LL-S194PBC-B4-1B",
 		"partType": "LED",
 		"series": {},
+		"description": "LED Blue",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-40\u00b0C ~ 85\u00b0C"
@@ -60,6 +61,7 @@
 		"partNumber": "LL-S194PUYC-Y2-2B",
 		"partType": "LED",
 		"series": {},
+		"description": "LED Yellow",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-40\u00b0C ~ 85\u00b0C"
@@ -116,6 +118,7 @@
 		"partNumber": "LL-S194PVC-V1-2B",
 		"partType": "LED",
 		"series": {},
+		"description": "LED Red",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-40\u00b0C ~ 85\u00b0C"
@@ -172,6 +175,7 @@
 		"partNumber": "OSG80603C1E",
 		"partType": "LED",
 		"series": {},
+		"description": "LED Green",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-40\u00b0C ~ 85\u00b0C"
@@ -228,6 +232,7 @@
 		"partNumber": "RF-GNB191TS-CF",
 		"partType": "LED",
 		"series": {},
+		"description": "LED Green",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-40\u00b0C ~ 85\u00b0C"
@@ -283,6 +288,7 @@
 		"partNumber": "RF-RUB190TS-BD",
 		"partType": "LED",
 		"series": {},
+		"description": "LED Red",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-40\u00b0C ~ 85\u00b0C"
