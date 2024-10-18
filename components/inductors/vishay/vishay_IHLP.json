@@ -7,6 +7,7 @@
 			"name": "IHLP",
 			"description": "Low Profile, High Current IHLP\u00ae Inductors"
 		},
+		"description": "Inductor 10uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -64,6 +65,7 @@
 			"name": "IHLP",
 			"description": "Low Profile, High Current IHLP\u00ae Inductors"
 		},
+		"description": "Inductor 1uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -121,6 +123,7 @@
 			"name": "IHLP",
 			"description": "Low Profile, High Current IHLP\u00ae Inductors"
 		},
+		"description": "Inductor 2.2uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -178,6 +181,7 @@
 			"name": "IHLP",
 			"description": "Low Profile, High Current IHLP\u00ae Inductors"
 		},
+		"description": "Inductor 3.3uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -235,6 +239,7 @@
 			"name": "IHLP",
 			"description": "Low Profile, High Current IHLP\u00ae Inductors"
 		},
+		"description": "Inductor 4.7uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -292,6 +297,7 @@
 			"name": "IHLP",
 			"description": "Low Profile, High Current IHLP\u00ae Inductors"
 		},
+		"description": "Inductor 5.6uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -349,6 +355,7 @@
 			"name": "IHLP",
 			"description": "Low Profile, High Current IHLP\u00ae Inductors"
 		},
+		"description": "Inductor 6.8uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -406,6 +413,7 @@
 			"name": "IHLP",
 			"description": "Low Profile, High Current IHLP\u00ae Inductors"
 		},
+		"description": "Inductor 0.1uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -463,6 +471,7 @@
 			"name": "IHLP",
 			"description": "Low Profile, High Current IHLP\u00ae Inductors"
 		},
+		"description": "Inductor 0.22uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -520,6 +529,7 @@
 			"name": "IHLP",
 			"description": "Low Profile, High Current IHLP\u00ae Inductors"
 		},
+		"description": "Inductor 0.33uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -577,6 +587,7 @@
 			"name": "IHLP",
 			"description": "Low Profile, High Current IHLP\u00ae Inductors"
 		},
+		"description": "Inductor 0.47uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -634,6 +645,7 @@
 			"name": "IHLP",
 			"description": "Low Profile, High Current IHLP\u00ae Inductors"
 		},
+		"description": "Inductor 0.68uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -691,6 +703,7 @@
 			"name": "IHLP-2525CZ-1A",
 			"description": "IHLP\u00ae Automotive Inductors, Low DCR Series"
 		},
+		"description": "Inductor 10uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -745,6 +758,7 @@
 			"name": "IHLP-2525CZ-A1",
 			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
 		},
+		"description": "Inductor 10uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -802,6 +816,7 @@
 			"name": "IHLP-2525CZ-1A",
 			"description": "IHLP\u00ae Automotive Inductors, Low DCR Series"
 		},
+		"description": "Inductor 15uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -856,6 +871,7 @@
 			"name": "IHLP-2525CZ-1A",
 			"description": "IHLP\u00ae Automotive Inductors, Low DCR Series"
 		},
+		"description": "Inductor 1uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -910,6 +926,7 @@
 			"name": "IHLP-2525CZ-A1",
 			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
 		},
+		"description": "Inductor 1uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -967,6 +984,7 @@
 			"name": "IHLP-2525CZ-A1",
 			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
 		},
+		"description": "Inductor 1.5uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -1024,6 +1042,7 @@
 			"name": "IHLP-2525CZ-1A",
 			"description": "IHLP\u00ae Automotive Inductors, Low DCR Series"
 		},
+		"description": "Inductor 22uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -1078,6 +1097,7 @@
 			"name": "IHLP-2525CZ-1A",
 			"description": "IHLP\u00ae Automotive Inductors, Low DCR Series"
 		},
+		"description": "Inductor 2.2uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -1132,6 +1152,7 @@
 			"name": "IHLP-2525CZ-A1",
 			"description": "IHLP \u00ae Automotive Inductors, High Saturation Series"
 		},
+		"description": "Inductor 2.2uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -1189,6 +1210,7 @@
 			"name": "IHLP-2525CZ-1A",
 			"description": "IHLP\u00ae Automotive Inductors, Low DCR Series"
 		},
+		"description": "Inductor 3.3uH",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
