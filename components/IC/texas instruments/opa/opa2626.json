@@ -1,0 +1,160 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "OPA2626IDGK#",
+		"markingCode": "16R6",
+		"partType": "IC",
+		"description": "Operational amplifier",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-2 1-YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "2.7V ~ 5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/opa2626.pdf",
+				"versions": {
+					"SBOS690A": {
+						"date": "12-2019",
+						"md5sum": "364487dc305ee47e2359a935b3417913"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "VSSOP-8",
+			"dimensions": {
+				"pin_count": 8,
+				"A": "max. 1.1mm",
+				"A1": "0.1mm \u00b10.05mm",
+				"b": "0.25mm ~ 0.38mm",
+				"c": "0.13mm ~ 0.23mm",
+				"D": "2.9mm ~ 3.1mm",
+				"E": "4.75mm ~ 5.05mm",
+				"E1": "2.9mm ~ 3.1mm",
+				"e": "0.65mm",
+				"L": "0.4mm ~ 0.7mm"
+			}
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"IN1+": {
+					"no": 3,
+					"func": "InAnalog",
+					"desc": "Noninverting input for channel 1"
+				},
+				"IN1-": {
+					"no": 2,
+					"func": "InAnalog",
+					"desc": "Inverting input for channel 1"
+				},
+				"IN2+": {
+					"no": 5,
+					"func": "InAnalog",
+					"desc": "Noninverting input for channel 2"
+				},
+				"IN2-": {
+					"no": 6,
+					"func": "InAnalog",
+					"desc": "Inverting input for channel 2"
+				},
+				"OUT1": {
+					"no": 1,
+					"func": "OutAnalog",
+					"desc": "Output terminal for channel 1"
+				},
+				"OUT2": {
+					"no": 7,
+					"func": "OutAnalog",
+					"desc": "Output terminal for channel 2"
+				},
+				"V+": {
+					"no": 8,
+					"func": "PwrIn"
+				},
+				"V-": {
+					"no": 4,
+					"func": "PwrGND"
+				}
+			},
+			"footprint_generator": {
+				"VSSOP": {}
+			},
+			"symbol_generator": {
+				"default": {},
+				"multipart": {
+					"A": {
+						"generator_name": "opamp",
+						"generator_data": {},
+						"pins": [
+							"IN1+",
+							"IN1-",
+							"OUT1",
+							"V-",
+							"V+"
+						]
+					},
+					"B": {
+						"generator_name": "opamp",
+						"generator_data": {},
+						"pins": [
+							"IN2+",
+							"IN2-",
+							"OUT2"
+						]
+					}
+				}
+			}
+		},
+		"orderNumbers": {
+			"OPA2626IDGKT": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 250,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "5.3mm",
+						"B0": "3.4mm",
+						"K0": "1.4mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			},
+			"OPA2626IDGKR": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 3000,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "5.3mm",
+						"B0": "3.4mm",
+						"K0": "1.4mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]
