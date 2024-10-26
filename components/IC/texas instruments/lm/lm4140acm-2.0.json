@@ -1,0 +1,97 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "LM4140ACM-2.0#",
+		"markingCode": "4140A\nCM2.0",
+		"partType": "IC",
+		"description": "Voltage Reference",
+		"productUrl": "https://www.ti.com/product/LM4140",
+		"storageConditions": {
+			"temperature": "-60\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "0\u00b0C ~ 70\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.7V",
+				"max": "5.0V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/lm4140.pdf",
+				"versions": {
+					"SNVS053F": {
+						"date": "09-2016",
+						"md5sum": "71cc145c060c82a5c2d253669cea237b"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "SOIC-8",
+			"dimensions": {
+				"pin_count": 8,
+				"A": "max. 1.75mm",
+				"A1": "0.1mm",
+				"b": "0.31mm ~ 0.51mm",
+				"c": "0.13mm ~ 0.25mm",
+				"D": "4.81mm ~ 5mm",
+				"E": "5.8mm ~ 6.19mm",
+				"E1": "3.81mm ~ 3.98mm",
+				"e": "1.27mm",
+				"L": "0.41mm ~ 1.27mm"
+			}
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"GND": {
+					"no": [
+						1,
+						4,
+						7,
+						8
+					],
+					"func": "PwrGND"
+				},
+				"VIN": {
+					"no": 2,
+					"func": "PwrIn",
+					"desc": "Power input"
+				},
+				"ENABLE": {
+					"no": 3,
+					"func": "InDigital",
+					"desc": "Pulled to input for normal operation. Forcing this pin to ground turns off the output."
+				},
+				"NC": {
+					"no": 5,
+					"func": "NC",
+					"desc": "No connection"
+				},
+				"VREF": {
+					"no": 6,
+					"func": "OutAnalog",
+					"desc": "Reference output. Capable of sourcing up to 8 mA."
+				}
+			},
+			"footprint_generator": {
+				"SOIC": {}
+			},
+			"symbol_generator": {
+				"default": {}
+			}
+		},
+		"orderNumbers": {
+			"LM4140ACM-2.0/NOPB": {
+				"Status": "Active",
+				"Code": "/NOPB",
+				"Type": "Tube",
+				"Qty": 95,
+				"PackagingData": {}
+			}
+		}
+	}
+]

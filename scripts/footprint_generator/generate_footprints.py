@@ -29,7 +29,7 @@ def process_part_data(part):
                 symbol_data["data"] = part["package"]["dimensions"]
                 print(symbol_data)
                 generated, filename = footprint_generator.generate(symbol_data)
-                export(generated, 'footprints/' + filename)
+                export(generated, 'generated/footprints/' + filename)
 
 
 if __name__ == "__main__":
