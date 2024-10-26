@@ -7,6 +7,7 @@
 			"name": "4D03",
 			"description": "Chip Resistor Arrays"
 		},
+		"description": "Chip Resistor Arrays 10k",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -55,6 +56,7 @@
 			"name": "4D03",
 			"description": "Chip Resistor Arrays"
 		},
+		"description": "Chip Resistor Arrays 140k",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
