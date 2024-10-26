@@ -6,6 +6,7 @@
 		"series": {
 			"name": "DPWC 0805S"
 		},
+		"description": "Common Mode Choke",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-10\u2103 ~ 40\u2103"
@@ -51,6 +52,7 @@
 		"series": {
 			"name": "DPWC 0805S"
 		},
+		"description": "Common Mode Choke",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-10\u2103 ~ 40\u2103"
@@ -96,6 +98,7 @@
 		"series": {
 			"name": "DPWC 0805S"
 		},
+		"description": "Common Mode Choke",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-10\u2103 ~ 40\u2103"
@@ -141,6 +144,7 @@
 		"series": {
 			"name": "DPWC 0805S"
 		},
+		"description": "Common Mode Choke",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-10\u2103 ~ 40\u2103"
@@ -186,6 +190,7 @@
 		"series": {
 			"name": "DPWC 0805S"
 		},
+		"description": "Common Mode Choke",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-10\u2103 ~ 40\u2103"
@@ -231,6 +236,7 @@
 		"series": {
 			"name": "DPWC 0805S"
 		},
+		"description": "Common Mode Choke",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-10\u2103 ~ 40\u2103"
@@ -276,6 +282,7 @@
 		"series": {
 			"name": "DPWC 0805S"
 		},
+		"description": "Common Mode Choke",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-10\u2103 ~ 40\u2103"
@@ -321,6 +328,7 @@
 		"series": {
 			"name": "DPWC 0805S"
 		},
+		"description": "Common Mode Choke",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-10\u2103 ~ 40\u2103"
@@ -366,6 +374,7 @@
 		"series": {
 			"name": "DPWC 0805S"
 		},
+		"description": "Common Mode Choke",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-10\u2103 ~ 40\u2103"

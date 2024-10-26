@@ -6,6 +6,7 @@
 		"series": {
 			"name": "CM3421"
 		},
+		"description": "Common Mode Choke",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {

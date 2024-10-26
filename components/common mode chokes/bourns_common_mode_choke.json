@@ -7,6 +7,7 @@
 			"name": "DR331",
 			"description": "Surface Mount Data Line Chokes"
 		},
+		"description": "Common Mode Choke",
 		"tags": [],
 		"storageConditions": {
 			"temperature": "-55\u2103 ~ 135\u2103"
