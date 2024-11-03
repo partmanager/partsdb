@@ -1,0 +1,39 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "LM317L",
+		"markingCode": "LB",
+		"partType": "IC Voltage Regulator",
+		"series": {},
+		"description": "LM317L 3-Terminal Adjustable Regulator",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
+		},
+		"operatingConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "3.75V ~ 64V"
+			},
+			"Supply Voltage 2 Range": {
+				"value": "1.25V ~ 32V"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SOT89"
+		},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"LM317LIPK": {
+				"Qty": "1000",
+				"PackagingData": {}
+			}
+		}
+	}
+]

@@ -1,0 +1,42 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "SN65HVD256",
+		"partType": "IC",
+		"series": {},
+		"description": "Turbo CAN Transceivers for Higher Data Rates and Large Networks Including Features for Functional Safety",
+		"tags": [],
+		"storageConditions": {},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "4.5V ~ 5.5V"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SOIC8"
+		},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"SN65HVD256D": {
+				"Qty": "75",
+				"PackagingData": {}
+			},
+			"SN65HVD256DR": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "2500",
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm"
+					}
+				}
+			}
+		}
+	}
+]

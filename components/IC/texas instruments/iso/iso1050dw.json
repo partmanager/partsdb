@@ -1,0 +1,41 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "ISO1050DW",
+		"markingCode": "ISO1050",
+		"partType": "IC",
+		"series": {},
+		"description": "Isolated CAN Transceiver",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
+		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "3V ~ 5.5V"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SOIC16"
+		},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"ISO1050DWR": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "2000",
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm"
+					}
+				}
+			}
+		}
+	}
+]

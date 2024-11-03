@@ -1,0 +1,34 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "SN65LBC184D",
+		"partType": "IC",
+		"series": {},
+		"description": "Differential Transceiver With Transient Voltage Suppression",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 160\u00b0C"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "4.75V ~5.25V"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SOIC8"
+		},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"SN65LBC184D": {
+				"PackagingData": {}
+			}
+		}
+	}
+]

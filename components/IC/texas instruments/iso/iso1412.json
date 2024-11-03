@@ -1,0 +1,37 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "ISO1412",
+		"markingCode": "ISO1412",
+		"partType": "IC",
+		"series": {},
+		"description": "Isolated RS-485/RS-422 Transceiver with Robust EMC",
+		"tags": [],
+		"storageConditions": {},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "1.71V ~ 5.5V"
+			},
+			"Supply Voltage 2 Range": {
+				"value": "3V ~ 5.5V"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SOIC16"
+		},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"ISO1412DW": {
+				"Qty": "40",
+				"PackagingData": {}
+			}
+		}
+	}
+]

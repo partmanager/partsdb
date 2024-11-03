@@ -1,0 +1,41 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TLIN1021DRQ1",
+		"markingCode": "TL021",
+		"partType": "IC",
+		"series": {},
+		"description": "Fault-Protected LIN Transceiver with Inhibit and Wake",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
+		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 165\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "4.5V ~ 36V"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "SOIC8"
+		},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TLIN1021DRQ1": {
+				"Type": "Embossed Tape / Reel",
+				"Qty": "2500",
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm"
+					}
+				}
+			}
+		}
+	}
+]
