@@ -14,6 +14,6 @@ def generate_capacitors(dest_dir, data_sources):
     generate_kemet_capacitors(dest_dir, data_sources)
     #generate_murata_capacitors(dest_dir, data_sources)
     generate_nichicon_capacitors(dest_dir, data_sources)
-    generate_vishay_capacitors(dest_dir + "/vishay/", data_sources + "/vishay/")
+    generate_vishay_capacitors(dest_dir.joinpath("vishay"), data_sources + "/vishay/")
     generate_aishi_capacitors(dest_dir, data_sources)
     generate_taiyo_yuden_capacitors(dest_dir, data_sources)

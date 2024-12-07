@@ -5,13 +5,13 @@ from .viking.viking_PWR_generator import VikingPWRResistorGenerator
 
 
 def generate_viking_resistors(dest_dir, data_sources):
-    dest_dir = dest_dir + "/viking/"
+    dest_dir = dest_dir.joinpath("viking")
 
     ar_a = VikingAR_AGenerator()
-    ar_a.generate_resistor(dest_dir + 'viking_ar_a_generated.json')
+    ar_a.generate_resistor(dest_dir.joinpath('viking_ar_a_generated.json'))
     ar = VikingARGenerator()
-    ar.generate_resistor(dest_dir + 'viking_ar_generated.json')
+    ar.generate_resistor(dest_dir.joinpath('viking_ar_generated.json'))
     arg = VikingARGResistorGenerator()
-    arg.generate_resistor(dest_dir + 'viking_arg_generated.json')
+    arg.generate_resistor(dest_dir.joinpath('viking_arg_generated.json'))
     pwr = VikingPWRResistorGenerator()
-    pwr.generate_resistor(dest_dir + 'viking_pwr_generated.json')
+    pwr.generate_resistor(dest_dir.joinpath('viking_pwr_generated.json'))

@@ -10,11 +10,11 @@ def generate_vishay_capacitors(dest_dir, data_sources):
                                                      {'Dielectric Type': 'X7R',
                                                       'tolerance exception': {'¹': ['K', 'M']},
                                                       'packaging codes': ['AUTO']})
-    vj_w1bc_x7r_generator.generate(dest_dir + '/vishay_VJ_W1BC_X7R_generated.json')
+    vj_w1bc_x7r_generator.generate(dest_dir.joinpath('vishay_VJ_W1BC_X7R_generated.json'))
 
     gsc_parameters = {
         'Series': 'GSC',
         'Dielectric Type': 'Aluminium Oxide',
         'tolerance': '±20%'}
     gsc_generator = VishayElectrolyticCapacitorConverter(data_sources + 'GSC.ods', gsc_parameters)
-    gsc_generator.generate(dest_dir + 'vishay_GSC_generated.json')
+    gsc_generator.generate(dest_dir.joinpath('vishay_GSC_generated.json'))

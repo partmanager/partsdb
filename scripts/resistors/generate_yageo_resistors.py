@@ -5,16 +5,16 @@ from .yageo.yageo_RT_L_generator import YageoRTLResistorGenerator
 
 
 def generate_yageo_resistors(dest_dir, data_sources):
-    dest_dir = dest_dir + "/yageo/"
+    dest_dir = dest_dir.joinpath("yageo")
 
     ac = YageoACResistorGenerator()
-    ac.generate_resistor(dest_dir + 'yageo_ac_generated.json')
+    ac.generate_resistor(dest_dir.joinpath('yageo_ac_generated.json'))
 
     mf0 = YageoMF0ResistorGenerator()
-    mf0.generate_resistor(dest_dir + 'yageo_mf_generated.json')
+    mf0.generate_resistor(dest_dir.joinpath('yageo_mf_generated.json'))
 
     rc_l = YageoRCLResistorGenerator()
-    rc_l.generate_resistor(dest_dir + 'yageo_rc_l_generated.json')
+    rc_l.generate_resistor(dest_dir.joinpath('yageo_rc_l_generated.json'))
 
     rt_l = YageoRTLResistorGenerator()
-    rt_l.generate_resistor(dest_dir + 'yageo_rt_l_generated.json')
+    rt_l.generate_resistor(dest_dir.joinpath('yageo_rt_l_generated.json'))

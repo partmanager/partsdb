@@ -8,25 +8,25 @@ from .royalohm.royalohm_general_purpose_thick_film_chip_resistor_generator impor
 
 
 def generate_royalohm_resistors(dest_dir, data_sources):
-    dest_dir = dest_dir + "/royalohm/"
+    dest_dir = dest_dir.joinpath("royalohm")
 
     cfr = RoyalohmCFRGenerator()
-    cfr.generate_resistor(dest_dir + '/royalohm_cfr_generated.json')
+    cfr.generate_resistor(dest_dir.joinpath('royalohm_cfr_generated.json'))
 
     cq = RoyalohmCQGenerator()
-    cq.generate_resistor(dest_dir + '/royalohm_cq_generated.json')
+    cq.generate_resistor(dest_dir.joinpath('royalohm_cq_generated.json'))
 
     hp = RoyalohmHPGenerator()
-    hp.generate_resistor(dest_dir + '/royalohm_hp_generated.json')
+    hp.generate_resistor(dest_dir.joinpath('royalohm_hp_generated.json'))
 
     knp = RoyalohmKNPGenerator()
-    knp.generate_resistor(dest_dir + '/royalohm_knp_generated.json')
+    knp.generate_resistor(dest_dir.joinpath('royalohm_knp_generated.json'))
 
     mf = RoyalohmMFGenerator()
-    mf.generate_resistor(dest_dir + '/royalohm_mf_generated.json')
+    mf.generate_resistor(dest_dir.joinpath('royalohm_mf_generated.json'))
 
     pwr = RoyalohmPRWGenerator()
-    pwr.generate_resistor(dest_dir + '/royalohm_prw_generated.json')
+    pwr.generate_resistor(dest_dir.joinpath('royalohm_prw_generated.json'))
 
     generic = RoyalohmGeneralPurposeThickFilmChipResistorGenerator()
-    generic.generate_resistor(dest_dir + '/royalohm_general_purpose_thick_film_chip_resistor_generated.json')
+    generic.generate_resistor(dest_dir.joinpath('royalohm_general_purpose_thick_film_chip_resistor_generated.json'))
