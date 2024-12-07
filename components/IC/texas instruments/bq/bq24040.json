@@ -1,0 +1,156 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "BQ24040DSQ#",
+		"markingCode": "NXE",
+		"partType": "IC",
+		"series": {
+			"name": "BQ2404x",
+			"description": "1A, Single-Input, Single Cell Li-Ion and Li-Pol Battery Charger With Auto Start"
+		},
+		"description": "1A, Single-Input, Single Cell Li-Ion and Li-Pol Battery Charger With Auto Start",
+		"productUrl": "https://www.ti.com/product/BQ24040",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-2 1-YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "0\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "3.5V",
+				"max": "28V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/bq24040.pdf",
+				"versions": {
+					"SLUS941H": {
+						"date": "02-2021",
+						"md5sum": "00ada5a26de1a8d028324c32e677da27"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "WSON-10"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"IN": {
+					"no": 1,
+					"func": "PwrIn",
+					"desc": "Power Input"
+				},
+				"ISET": {
+					"no": 2,
+					"func": "InAnalog",
+					"desc": "Fast-charge current setting"
+				},
+				"VSS": {
+					"no": 3,
+					"func": "PwrGND"
+				},
+				"PRETERM": {
+					"no": 4,
+					"func": "InAnalog",
+					"desc": "Current termination threshold"
+				},
+				"PG": {
+					"no": 5,
+					"func": "OutDigital;OpenDrain;ActiveLow"
+				},
+				"NC": {
+					"no": 6,
+					"func": "NC"
+				},
+				"ISET2": {
+					"no": 7,
+					"func": "InAnalog",
+					"desc": "Current limit for USB"
+				},
+				"CHG": {
+					"no": 8,
+					"func": "OutDigital;OpenDrain;ActiveLow",
+					"desc": "Indicates charging"
+				},
+				"TS": {
+					"no": 9,
+					"func": "InAnalog",
+					"desc": "Temperature sense"
+				},
+				"OUT": {
+					"no": 10,
+					"func": "OutAnalog",
+					"desc": "Battery Connection"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN",
+						"!@#SEPARATOR#@!",
+						"ISET",
+						"ISET2",
+						"!@#SEPARATOR#@!",
+						"PRETERM"
+					],
+					"right_side": [
+						"OUT",
+						"!@#SEPARATOR#@!",
+						"TS",
+						"!@#SEPARATOR#@!",
+						"CHG",
+						"NC",
+						"VSS"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"BQ24040DSQR": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "2.3mm",
+						"B0": "2.3mm",
+						"K0": "1.15mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			},
+			"BQ24040DSQT": {
+				"Status": "Active",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "250",
+				"PackagingData": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "2.3mm",
+						"B0": "2.3mm",
+						"K0": "1.15mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]
