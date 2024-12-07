@@ -23,7 +23,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"url": "https://www.ti.com/lit/ds/symlink/tps63000.pdf"
+				"url": "https://www.ti.com/lit/ds/symlink/tps63000.pdf",
+				"versions": {
+					"SLVS520C": {
+						"date": "10-2015",
+						"md5sum": "4deec29e9a5996eefeb75a36ef39868c"
+					}
+				}
 			}
 		},
 		"package": {

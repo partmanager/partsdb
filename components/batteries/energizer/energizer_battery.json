@@ -41,7 +41,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"url": "https://data.energizer.com/pdfs/e91.pdf"
+				"url": "https://data.energizer.com/pdfs/e91.pdf",
+				"versions": {
+					"E91NA1018": {
+						"date": "10-2018",
+						"md5sum": "73af3cb1e7f23d6107b0fb5e8e7b4ce9"
+					}
+				}
 			}
 		},
 		"package": {

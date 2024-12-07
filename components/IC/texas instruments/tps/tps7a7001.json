@@ -24,7 +24,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"url": "https://www.ti.com/lit/ds/symlink/tps7a7001.pdf"
+				"url": "https://www.ti.com/lit/ds/symlink/tps7a7001.pdf",
+				"versions": {
+					"SBVS134F": {
+						"date": "04-2017",
+						"md5sum": "5cbeff43164a321e095b8cc89a63ab71"
+					}
+				}
 			}
 		},
 		"package": {

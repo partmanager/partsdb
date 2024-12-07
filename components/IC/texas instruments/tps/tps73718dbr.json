@@ -23,7 +23,18 @@
 		},
 		"files": {
 			"datasheet": {
-				"url": "https://www.ti.com/lit/ds/symlink/tps737.pdf"
+				"url": "https://www.ti.com/lit/ds/symlink/tps737.pdf",
+				"versions": {
+					"SBVS067U": {
+						"date": "09-2024",
+						"md5sum": "97fc6dac8edce5be095546a7a7736e70",
+						"url": "https://www.ti.com/lit/ds/sbvs067u/sbvs067u.pdf"
+					},
+					"SBVS067T": {
+						"date": "12-2023",
+						"md5sum": "17063c4f5aeac1b00621cbc25d243d9d"
+					}
+				}
 			}
 		},
 		"package": {

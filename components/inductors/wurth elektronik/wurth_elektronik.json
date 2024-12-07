@@ -54,8 +54,14 @@
 			}
 		},
 		"files": {
-			"Datasheet": {
-				"url": "https://www.we-online.com/catalog/datasheet/744314110.pdf"
+			"datasheet": {
+				"url": "https://www.we-online.com/catalog/datasheet/744314110.pdf",
+				"versions": {
+					"004.000": {
+						"date": "18-06-2021",
+						"md5sum": "4574a6853b9b0de3eecc832bb34dab18"
+					}
+				}
 			}
 		},
 		"package": {},

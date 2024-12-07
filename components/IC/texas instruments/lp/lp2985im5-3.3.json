@@ -26,7 +26,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"url": "https://www.ti.com/lit/ds/symlink/lp2985-n.pdf"
+				"url": "https://www.ti.com/lit/ds/symlink/lp2985-n.pdf",
+				"versions": {
+					"SNVS018AA": {
+						"date": "07-2023",
+						"md5sum": "92f3d7550b3df198daef52a9bf6cc2be"
+					}
+				}
 			}
 		},
 		"package": {

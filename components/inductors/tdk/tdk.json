@@ -43,7 +43,13 @@
 		},
 		"files": {
 			"Datasheet": {
-				"url": "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82432c.pdf"
+				"url": "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82432c.pdf",
+				"versions": {
+					"b82432c_06-2019": {
+						"date": "06-2019",
+						"md5sum": "68accec77efbb455d0f619373778083e"
+					}
+				}
 			}
 		},
 		"package": {},

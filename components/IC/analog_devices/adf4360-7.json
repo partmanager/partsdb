@@ -19,8 +19,14 @@
 			}
 		},
 		"files": {
-			"Datasheet": {
-				"url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADF4360-7.pdf"
+			"datasheet": {
+				"url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADF4360-7.pdf",
+				"versions": {
+					"Rev. F": {
+						"date": "09-2018",
+						"md5sum": "16f8946e5bc9974f1dba3caf0a07a420"
+					}
+				}
 			}
 		},
 		"package": {

@@ -21,7 +21,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"url": "https://www.ti.com/lit/ds/symlink/tps54260.pdf"
+				"url": "https://www.ti.com/lit/ds/symlink/tps54260.pdf",
+				"versions": {
+					"SLVSA86D": {
+						"date": "10-2018",
+						"md5sum": "97861076b27f5d6387e4f0bd03d8fc59"
+					}
+				}
 			}
 		},
 		"package": {

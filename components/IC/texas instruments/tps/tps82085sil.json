@@ -24,7 +24,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"url": "https://www.ti.com/lit/ds/symlink/tps82085.pdf"
+				"url": "https://www.ti.com/lit/ds/symlink/tps82085.pdf",
+				"versions": {
+					"SLVSCN4D": {
+						"date": "06-2019",
+						"md5sum": "610531c0d107fbf31cfd111b3cf670fe"
+					}
+				}
 			}
 		},
 		"package": {

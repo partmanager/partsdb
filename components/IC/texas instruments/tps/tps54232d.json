@@ -21,7 +21,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"url": "https://www.ti.com/lit/ds/symlink/tps54232.pdf"
+				"url": "https://www.ti.com/lit/ds/symlink/tps54232.pdf",
+				"versions": {
+					"SLVS876D": {
+						"date": "11-2014",
+						"md5sum": "de975b2e78607d37a153ac67182c7947"
+					}
+				}
 			}
 		},
 		"package": {

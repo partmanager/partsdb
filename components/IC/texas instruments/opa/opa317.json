@@ -25,7 +25,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"url": "https://www.ti.com/lit/gpn/OPA317"
+				"url": "https://www.ti.com/lit/gpn/OPA317",
+				"versions": {
+					"SBOS682B": {
+						"date": "05-2013",
+						"md5sum": "f08a2229db9eba219cbc35116a1537f4"
+					}
+				}
 			}
 		},
 		"package": {

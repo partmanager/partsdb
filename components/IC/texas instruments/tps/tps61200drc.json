@@ -21,7 +21,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"url": "https://www.ti.com/lit/ds/symlink/tps61200.pdf"
+				"url": "https://www.ti.com/lit/ds/symlink/tps61200.pdf",
+				"versions": {
+					"SLVS577E": {
+						"date": "12-2014",
+						"md5sum": "ff5971d51d50bd483fd0f3392f414955"
+					}
+				}
 			}
 		},
 		"package": {

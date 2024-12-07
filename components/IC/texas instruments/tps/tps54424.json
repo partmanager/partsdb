@@ -21,7 +21,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"url": "https://www.ti.com/lit/ds/symlink/tps54424.pdf"
+				"url": "https://www.ti.com/lit/ds/symlink/tps54424.pdf",
+				"versions": {
+					"SLVSDV8": {
+						"date": "07-2017",
+						"md5sum": "ab7e7476de4d5586e873b1a93ce4bfcf"
+					}
+				}
 			}
 		},
 		"package": {

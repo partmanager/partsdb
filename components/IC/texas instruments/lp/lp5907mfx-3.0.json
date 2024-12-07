@@ -26,7 +26,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"url": "https://www.ti.com/lit/ds/symlink/lp5907.pdf"
+				"url": "https://www.ti.com/lit/ds/symlink/lp5907.pdf",
+				"versions": {
+					"SNVS798P": {
+						"date": "06-2024",
+						"md5sum": "337dd202e9974b69aa017d05bf054779"
+					}
+				}
 			}
 		},
 		"package": {

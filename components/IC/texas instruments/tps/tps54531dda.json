@@ -21,7 +21,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"url": "https://www.ti.com/lit/ds/symlink/tps54531.pdf"
+				"url": "https://www.ti.com/lit/ds/symlink/tps54531.pdf",
+				"versions": {
+					"SLVSBI5B": {
+						"date": "10-2023",
+						"md5sum": "2db9db0b710dc3771f6b3e5527103c61"
+					}
+				}
 			}
 		},
 		"package": {

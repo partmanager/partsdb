@@ -82,8 +82,14 @@
 			}
 		},
 		"files": {
-			"Datasheet": {
-				"url": "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1501-Data-Sheet-20005474F.pdf"
+			"datasheet": {
+				"url": "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1501-Data-Sheet-20005474F.pdf",
+				"versions": {
+					"20005474F": {
+						"date": "03-2021",
+						"md5sum": "468ebd622822b1e5bba89afb45d6620d"
+					}
+				}
 			}
 		},
 		"package": {
