@@ -19,8 +19,7 @@
 		},
 		"parameters": {
 			"Supply Voltage Range": {
-				"min": "1.8V",
-				"max": "3.6V"
+				"value": "1.8V ~ 3.6V"
 			}
 		},
 		"files": {

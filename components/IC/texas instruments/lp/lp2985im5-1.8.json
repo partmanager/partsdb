@@ -20,8 +20,7 @@
 		},
 		"parameters": {
 			"Supply Voltage Range": {
-				"min": "2.5V",
-				"max": "16V"
+				"value": "2.5V ~ 16V"
 			}
 		},
 		"files": {

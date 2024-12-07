@@ -18,8 +18,7 @@
 				"max": "125\u00b0C"
 			},
 			"Supply Voltage Range": {
-				"min": "1.425V",
-				"max": "6.5V"
+				"value": "1.425V ~ 6.5V"
 			}
 		},
 		"files": {

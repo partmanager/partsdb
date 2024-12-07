@@ -19,8 +19,7 @@
 		},
 		"parameters": {
 			"Supply Voltage Range": {
-				"min": "4V",
-				"max": "32V"
+				"value": "4V ~ 32V"
 			}
 		},
 		"files": {

@@ -19,8 +19,7 @@
 		},
 		"parameters": {
 			"Supply Voltage Range": {
-				"min": "3V",
-				"max": "17V"
+				"value": "3V ~ 17V"
 			}
 		},
 		"files": {

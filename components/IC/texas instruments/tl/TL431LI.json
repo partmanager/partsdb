@@ -20,8 +20,7 @@
 				"max": "70\u00b0C"
 			},
 			"Supply Voltage Range": {
-				"min": "2.495V",
-				"max": "36V"
+				"value": "2.495V ~ 36V"
 			}
 		},
 		"files": {
