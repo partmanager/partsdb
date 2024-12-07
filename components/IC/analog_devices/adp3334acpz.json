@@ -1,0 +1,104 @@
+[
+	{
+		"manufacturer": "Analog Devices",
+		"partNumber": "ADP3334ACPZ#",
+		"markingCode": "LLA",
+		"partType": "IC",
+		"series": {
+			"name": "ADP3334",
+			"description": "LDO, High Accuracy"
+		},
+		"description": "LDO, High Accuracy",
+		"productUrl": "https://www.analog.com/en/products/adp3334.html",
+		"storageConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"min": "2.6V",
+				"max": "11V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP3334.pdf",
+				"versions": {
+					"Rev C": {
+						"date": "2014",
+						"md5sum": "163e488f791c6472d03531b8eaa19925"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "LFCSP-8"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"OUT": {
+					"no": [
+						1,
+						2
+					],
+					"func": "PwrOut",
+					"desc": "Regulated power supply output"
+				},
+				"FB": {
+					"no": 3,
+					"func": "InAnalog",
+					"desc": "Feedback input"
+				},
+				"NC": {
+					"no": 4,
+					"func": "NC"
+				},
+				"GND": {
+					"no": 5,
+					"func": "PwrGND",
+					"desc": "Ground"
+				},
+				"SD": {
+					"no": 6,
+					"func": "InDigital;ActiveLow",
+					"desc": "Shutdown Control"
+				},
+				"IN": {
+					"no": [
+						7,
+						8
+					],
+					"func": "PwrIn",
+					"desc": "Supply input"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"IN",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"SD",
+						"GND"
+					],
+					"right_side": [
+						"OUT",
+						"!@#SEPARATOR#@!",
+						"!@#SEPARATOR#@!",
+						"FB"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"ADP3334ACPZ-REEL7": {
+				"Status": "Active",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "1500"
+			}
+		}
+	}
+]
