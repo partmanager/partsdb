@@ -36,10 +36,23 @@
 		},
 		"files": {
 			"STEP": {
-				"url": "https://www.hammfg.com/files/parts/stp/1551V1GY.zip"
+				"url": "https://www.hammfg.com/files/parts/stp/1551V1GY.zip",
+				"filename": "1551V1GY.stp",
+				"versions": {
+					"REV: 15-10-2018": {
+						"date": "15-10-2018",
+						"md5sum": "64fafb04e07e495cb16fa447e76ec828"
+					}
+				}
 			},
 			"datasheet": {
-				"url": "https://www.hammfg.com/files/parts/pdf/1551V1GY.pdf"
+				"url": "https://www.hammfg.com/files/parts/pdf/1551V1GY.pdf",
+				"versions": {
+					"REV: 31-08-2023": {
+						"date": "31-08-2023",
+						"md5sum": "b89dc2b5015b62a01e98170168e1cb24"
+					}
+				}
 			}
 		},
 		"package": {},

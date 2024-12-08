@@ -88,7 +88,13 @@
 		"parameters": {},
 		"files": {
 			"datasheet": {
-				"url": "https://eng.italtronic.com/download.php?action=techDraw&code=P15010201F.BL&format=pdf"
+				"url": "https://eng.italtronic.com/download.php?action=techDraw&code=P15010201F.BL&format=pdf",
+				"versions": {
+					"Rev.: 00": {
+						"date": "14-11-2023",
+						"md5sum": "61d55ebd797748a07d346554677b6802"
+					}
+				}
 			}
 		},
 		"package": {},

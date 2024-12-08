@@ -43,7 +43,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"url": "https://www.tdk-electronics.tdk.com/inf/100/ds/S30-A75X-X1023T253.pdf"
+				"url": "https://www.tdk-electronics.tdk.com/inf/100/ds/S30-A75X-X1023T253.pdf",
+				"versions": {
+					"07": {
+						"date": "27-07-2020",
+						"md5sum": "f374fd88c88f94a9f7fc7e537515255b"
+					}
+				}
 			}
 		},
 		"package": {},

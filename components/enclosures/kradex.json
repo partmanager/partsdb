@@ -154,7 +154,13 @@
 		},
 		"files": {
 			"datasheet": {
-				"url": "https://www.kradex.com.pl/products/1030/ZD3TC.pdf"
+				"url": "https://www.kradex.com.pl/products/1030/ZD3TC.pdf",
+				"versions": {
+					"Rev.: 21-05-2019": {
+						"date": "21-05-2019",
+						"md5sum": "b0079f6b6291c70f39080b61cadc4056"
+					}
+				}
 			}
 		},
 		"package": {},
