@@ -1,0 +1,41 @@
+[
+	{
+		"manufacturer": "Kradex",
+		"partNumber": "Z96JH PS",
+		"partType": "Enclosure",
+		"series": {
+			"name": "Z96"
+		},
+		"description": "Enclosure PS",
+		"tags": [],
+		"storageConditions": {},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Material": "PS",
+			"Color": "Lightgray"
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.kradex.com.pl/products/912/Z96.pdf",
+				"versions": {
+					"REV: 29-02-2016": {
+						"date": "29-02-2016",
+						"md5sum": "b6037a300417c944966f676ffdb87c2a"
+					}
+				}
+			}},
+		"package": {},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"Z96JH PS": {
+				"Qty": "1",
+				"PackagingData": {}
+			}
+		}
+	}
+]
