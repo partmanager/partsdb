@@ -1,0 +1,68 @@
+[
+	{
+		"manufacturer": "Hammond",
+		"partNumber": "1590B",
+		"partType": "Enclosure",
+		"series": {
+			"name": "1590"
+		},
+		"description": "Enclosure Aluminium",
+		"productUrl": "https://www.hammfg.com/part/1590B?referer=736",
+		"tags": [],
+		"storageConditions": {},
+		"parameters": {
+			"Material": "Aluminum",
+			"Color": "Natural Aluminum",
+			"IP Rating": "IP54",
+			"Length": {
+				"value": "113mm"
+			},
+			"Width": {
+				"value": "60mm"
+			},
+			"Height": {
+				"value": "31mm"
+			},
+			"PCB Length": {
+				"value": "max. 53.45mm"
+			},
+			"PCB Width": {
+				"value": "max. 105.05mm"
+			}
+		},
+		"files": {
+			"STEP": {
+				"url": "https://www.hammfg.com/files/parts/stp/1590B.zip",
+				"filename": "1590B.stp",
+				"versions": {
+					"REV: 28-07-2014": {
+						"date": "28-07-2014",
+						"md5sum": "75400c8b4199bd41d7cf729f6d573c99"
+					}
+				}
+			},
+			"datasheet": {
+				"url": "https://www.hammfg.com/files/parts/pdf/1590B.pdf",
+				"versions": {
+					"REV: 26-08-2016": {
+						"date": "26-08-2016",
+						"md5sum": "cea49fbd7406d121fbcdcb7a4fdfb3f0"
+					}
+				}
+			}
+		},
+		"package": {},
+		"symbol&footprint": {
+			"symbolName": "enclosure",
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"1590B": {
+				"Type": "shrink wrap",
+				"Qty": "1",
+				"PackagingData": {}
+			}
+		}
+	}
+]
