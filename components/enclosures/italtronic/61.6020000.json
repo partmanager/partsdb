@@ -1,0 +1,38 @@
+[
+	{
+		"manufacturer": "Italtronic",
+		"partNumber": "61.6020000",
+		"partType": "Enclosure",
+		"series": {
+			"name": "80 Thermo"
+		},
+		"description": "Wall-mounting enclosure for Building Automation and HVAC",
+		"productUrl": "https://eng.italtronic.com/accessori/61.6020000/",
+		"tags": [],
+		"storageConditions": {},
+		"parameters": {},
+		"files": {
+			"datasheet": {
+				"url": "https://eng.italtronic.com/download.php?action=techDraw&code=61.6020000&format=pdf",
+				"filename": "61_6020000.pdf",
+				"versions": {
+					"Rev.: 02-03-2017": {
+						"date": "02-03-2017",
+						"md5sum": "a7bcf6ee395063d31f8f5cf050782166"
+					}
+				}
+			}
+		},
+		"package": {},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"61.6020000": {
+				"Qty": "50",
+				"PackagingData": {}
+			}
+		}
+	}
+]
