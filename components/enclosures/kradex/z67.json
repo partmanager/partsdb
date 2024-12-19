@@ -1,0 +1,41 @@
+[
+	{
+		"manufacturer": "Kradex",
+		"partNumber": "Z67",
+		"partType": "Enclosure",
+		"series": {
+			"name": "Z"
+		},
+		"description": "Enclosure ABS",
+		"tags": [],
+		"storageConditions": {},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Material": "ABS",
+			"Color": "Black"
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.kradex.com.pl/products/318/Z67.pdf",
+				"versions": {
+					"REV: 13-12-2016": {
+						"date": "13-12-2016",
+						"md5sum": "155f7b1d4f3318c39af487f6fa84fd13"
+					}
+				}
+			}},
+		"package": {},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"Z67": {
+				"Qty": "1",
+				"PackagingData": {}
+			}
+		}
+	}
+]
