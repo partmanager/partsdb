@@ -4,7 +4,7 @@
 		"partNumber": "TPS82085SIL#",
 		"markingCode": "GE",
 		"Status": "Active",
-		"partType": "IC DC-DC",
+		"partType": "IC Voltage Regulator Switching",
 		"description": "3A, High-Efficiency Step-Down Converter Module with Integrated Inductor",
 		"productUrl": "https://www.ti.com/product/TPS82085",
 		"tags": "Step-Down Converter",

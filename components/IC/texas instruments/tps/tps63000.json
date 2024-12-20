@@ -3,7 +3,7 @@
 		"manufacturer": "Texas Instruments",
 		"partNumber": "TPS63000#",
 		"markingCode": "BPT",
-		"partType": "IC DC-DC",
+		"partType": "IC Voltage Regulator Switching",
 		"description": "High efficiency Buck-Boost Converter with 1.8A Current Switches",
 		"productUrl": "https://www.ti.com/product/TPS63000",
 		"tags": "Buck-Boost",
