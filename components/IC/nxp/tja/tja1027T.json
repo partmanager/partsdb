@@ -39,7 +39,7 @@
 			"pinmap": {
 				"RXD": {
 					"no": 1,
-					"func": "OutDigital;ActiveLow;OpenDrain",
+					"func": "OutDigital;OpenDrain;ActiveLow",
 					"desc": "Receive data output"
 				},
 				"SLP_N": {
@@ -48,7 +48,10 @@
 					"desc": "Sleep control signal"
 				},
 				"NC": {
-					"no": [3, 8],
+					"no": [
+						3,
+						8
+					],
 					"func": "NC"
 				},
 				"TXD": {
@@ -63,7 +66,7 @@
 				},
 				"LIN": {
 					"no": 6,
-					"func": "InOutDigital",
+					"func": "InOut",
 					"desc": "LIN bus line input output"
 				},
 				"VBAT": {
