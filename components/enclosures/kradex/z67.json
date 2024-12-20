@@ -25,7 +25,8 @@
 						"md5sum": "155f7b1d4f3318c39af487f6fa84fd13"
 					}
 				}
-			}},
+			}
+		},
 		"package": {},
 		"symbol&footprint": {
 			"pinmap": {},

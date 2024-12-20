@@ -6,7 +6,7 @@
 		"series": {
 			"name": "Z96"
 		},
-		"description": "Enclosure PS",
+		"description": "Enclosure PS, 50mm 70mm 36mm",
 		"tags": [],
 		"storageConditions": {},
 		"operatingConditions": {
@@ -25,7 +25,8 @@
 						"md5sum": "b6037a300417c944966f676ffdb87c2a"
 					}
 				}
-			}},
+			}
+		},
 		"package": {},
 		"symbol&footprint": {
 			"pinmap": {},
