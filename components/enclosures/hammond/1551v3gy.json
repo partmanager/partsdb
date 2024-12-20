@@ -1,0 +1,68 @@
+[
+	{
+		"manufacturer": "Hammond",
+		"partNumber": "1551V3GY",
+		"partType": "Enclosure",
+		"series": {
+			"name": "1551V"
+		},
+		"description": "Enclosure ABS, wall mounting",
+		"productUrl": "https://www.hammfg.com/part/1551V3GY",
+		"tags": [],
+		"storageConditions": {},
+		"operatingConditions": {
+			"temperature": "-20\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Material": "ABS",
+			"Color": "Gray",
+			"IP Rating": "IP30",
+			"Flame Rating": "UL94 HB",
+			"Length": {
+				"value": "60mm"
+			},
+			"Width": {
+				"value": "60mm"
+			},
+			"Height": {
+				"value": "20mm"
+			},
+			"PCB Length": {
+				"value": "max. 52.9mm"
+			},
+			"PCB Width": {
+				"value": "max. 54mm"
+			}
+		},
+		"files": {
+			"STEP": {
+				"url": "https://www.hammfg.com/files/parts/stp/1551V3GY.zip",
+				"versions": {
+					"REV: 18-01-2021": {
+						"date": "18-01-2021",
+						"md5sum": "c9f8dd59d1ff8fbfffc8e39dcf46a9e4"
+					}
+				}
+			},
+			"datasheet": {
+				"url": "https://www.hammfg.com/files/parts/pdf/1551V3GY.pdf",
+				"versions": {
+					"REV: 31.08.2023": {
+						"date": "31-08-2023",
+						"md5sum": "899c39f30ad39d18dfa4e069e4848f61"
+					}
+				}
+			}
+		},
+		"package": {},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"1551V3GY": {
+				"PackagingData": {}
+			}
+		}
+	}
+]
