@@ -1,0 +1,111 @@
+[
+	{
+		"manufacturer": "NXP",
+		"partNumber": "TJA1027T#",
+		"markingCode": "TJA1027T",
+		"partType": "IC",
+		"series": {
+			"name": "TJA1027",
+			"description": "LIN Transceiver"
+		},
+		"description": "LIN 2.2A/SAE J2602 transceiver",
+		"productUrl": "https://www.nxp.com/part/TJA1027T",
+		"storageConditions": {
+			"temperature": "-55\u00b0C ~ 125\u00b0C"
+		},
+		"operatingConditions": {
+			"temperature": "-55\u00b0C ~ 150\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "5V ~ 18V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.nxp.com/docs/en/data-sheet/TJA1027.pdf",
+				"versions": {
+					"Rev. 3": {
+						"date": "18-12-2018",
+						"md5sum": "9452f3a562783fd27dd99eeee92c98ed"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "SO-8"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"RXD": {
+					"no": 1,
+					"func": "OutDigital;ActiveLow;OpenDrain",
+					"desc": "Receive data output"
+				},
+				"SLP_N": {
+					"no": 2,
+					"func": "InDigital;ActiveLow",
+					"desc": "Sleep control signal"
+				},
+				"NC": {
+					"no": [3, 8],
+					"func": "NC"
+				},
+				"TXD": {
+					"no": 4,
+					"func": "InDigital",
+					"desc": "Transmit data input"
+				},
+				"GND": {
+					"no": 5,
+					"func": "PwrGND",
+					"desc": "Power Ground"
+				},
+				"LIN": {
+					"no": 6,
+					"func": "InOutDigital",
+					"desc": "LIN bus line input output"
+				},
+				"VBAT": {
+					"no": 7,
+					"func": "PwrIn",
+					"desc": "Positive voltage supply"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"RXD",
+						"!@#SEPARATOR#@!",
+						"TXD",
+						"!@#SEPARATOR#@!",
+						"SLP_N"
+					],
+					"right_side": [
+						"LIN",
+						"!@#SEPARATOR#@!",
+						"VBAT",
+						"!@#SEPARATOR#@!",
+						"GND"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"TJA1027T/20,118": {
+				"12NC": 935294211118,
+				"Status": "Active",
+				"Code": "/20,118",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 2500,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "18.4mm"
+					}
+				}
+			}
+		}
+	}
+]
