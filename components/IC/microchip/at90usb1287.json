@@ -1,0 +1,46 @@
+[
+	{
+		"manufacturer": "Microchip",
+		"partNumber": "AT90USB1287",
+		"markingCode": "AT90USB1287",
+		"partType": "IC MCU",
+		"series": {
+			"name": "AT90USB1287",
+			"description": "8-bit AVR Microcontroller with USB Controller"
+		},
+		"description": "8-bit AVR Microcontroller with USB Controller",
+		"productUrl": "https://www.microchip.com/en-us/product/AT90USB1287",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "2.7V ~ 5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://ww1.microchip.com/downloads/en/DeviceDoc/doc7593.pdf",
+				"versions": {
+					"7593L": {
+						"date": "09-2012",
+						"md5sum": "d49105d1243abdceb4902a05b500c96d"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "TQFP-64"
+		},
+		"orderNumbers": {
+			"AT90USB1287-AU": {
+				"Code": "-AU",
+				"Type": "Tray"
+			}
+		}
+	}
+]
