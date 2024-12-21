@@ -1,0 +1,38 @@
+[
+	{
+		"manufacturer": "Microchip",
+		"partNumber": "MCP9700A-E/TO",
+		"partType": "IC",
+		"series": {
+			"description": "MCP970#"
+		},
+		"description": "Low-Power Linear Active Thermistor ICs",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 150\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "2.3V ~ 5.5V"
+			}
+		},
+		"files": {},
+		"package": {
+			"name": "TO-92"
+		},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"MCP9700A-E/TO": {
+				"Type": "Bulk",
+				"Qty": "100",
+				"PackagingData": {}
+			}
+		}
+	}
+]
