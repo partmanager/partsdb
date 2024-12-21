@@ -1,0 +1,87 @@
+[
+	{
+		"manufacturer": "ALPHA&OMEGA SEMICONDUCTOR",
+		"partNumber": "AOZ8300CI-03",
+		"markingCode": "AL",
+		"partType": "TVS",
+		"series": {
+			"name": "AOZ8300CI",
+			"description": "TVS"
+		},
+		"description": "TVS ultra-low capacitance tvs diode array",
+		"productUrl": "https://www.aosmd.com/products/tvs/high-speed-interface-esd-protection/aoz8300ci-03",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {},
+		"files": {
+			"datasheet": {
+				"url": "https://www.aosmd.com/sites/default/files/res/datasheets/AOZ8300CI-03.pdf",
+				"versions": {
+					"Rev. 2.1": {
+						"date": "09-2021",
+						"md5sum": "c50317e546b138e67ce0b39a51e4acf1"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "SOT23-6"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"CH1": {
+					"no": 1,
+					"func": "InAnalog"
+				},
+				"VN": {
+					"no": 2,
+					"func": "PwrGND"
+				},
+				"CH2": {
+					"no": 3,
+					"func": "InAnalog"
+				},
+				"CH3": {
+					"no": 4,
+					"func": "InAnalog"
+				},
+				"NC": {
+					"no": 5,
+					"func": "InAnalog"
+				},
+				"CH4": {
+					"no": 6,
+					"func": "InAnalog"
+				}
+			},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"AOZ8300CI-03": {
+				"Status": "Active",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 3000,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "178mm",
+						"Width": "9mm",
+						"W1": "11.4"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "3.15mm",
+						"B0": "3.2mm",
+						"K0": "1.4mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]
