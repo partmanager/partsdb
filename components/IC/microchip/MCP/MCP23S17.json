@@ -1,0 +1,194 @@
+[
+	{
+		"manufacturer": "Microchip",
+		"partNumber": "MCP23S17#-E_SS",
+		"markingCode": "MCP23S17\nE_SS",
+		"partType": "IC",
+		"series": {
+			"name": "MCP23S17",
+			"description": "16-Bit I/O Expander"
+		},
+		"description": "16-Bit I/O Expander with SPI interface",
+		"productUrl": "https://www.microchip.com/en-us/product/MCP23S17",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "1.8V ~ 5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP23017-Data-Sheet-DS20001952.pdf",
+				"versions": {
+					"Revision D": {
+						"date": "01-2022",
+						"md5sum": "f2231aff26622ed7a6ce79b1559f34eb"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "SSOP-28"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"GPB0": {
+					"no": 1,
+					"func": "InOut",
+					"desc": "I/O pin"
+				},
+				"GPB1": {
+					"no": 2,
+					"func": "InOut",
+					"desc": "I/O pin"
+				},
+				"GPB2": {
+					"no": 3,
+					"func": "InOut",
+					"desc": "I/O pin"
+				},
+				"GPB3": {
+					"no": 4,
+					"func": "InOut",
+					"desc": "I/O pin"
+				},
+				"GPB4": {
+					"no": 5,
+					"func": "InOut",
+					"desc": "I/O pin"
+				},
+				"GPB5": {
+					"no": 6,
+					"func": "InOut",
+					"desc": "I/O pin"
+				},
+				"GPB6": {
+					"no": 7,
+					"func": "InOut",
+					"desc": "I/O pin"
+				},
+				"GPB7": {
+					"no": 8,
+					"func": "InOut",
+					"desc": "I/O pin"
+				},
+				"VDD": {
+					"no": 9,
+					"func": "PwrIn",
+					"desc": "Power supply"
+				},
+				"VSS": {
+					"no": 10,
+					"func": "PwrGND",
+					"desc": "Ground"
+				},
+				"CS": {
+					"no": 11,
+					"func": "InDigital;ActiveLow",
+					"desc": "Chip Select"
+				},
+				"SCK": {
+					"no": 12,
+					"func": "InDigital",
+					"desc": "Serial Clock Input"
+				},
+				"SI": {
+					"no": 13,
+					"func": "InDigital",
+					"desc": "Serial Data Input"
+				},
+				"SO": {
+					"no": 14,
+					"func": "OutDigital",
+					"desc": "Serial Data Output"
+				},
+				"A0": {
+					"no": 15,
+					"func": "InDigital",
+					"desc": "Address pin. Must be externally biased"
+				},
+				"A1": {
+					"no": 16,
+					"func": "InDigital",
+					"desc": "Address pin. Must be externally biased"
+				},
+				"A2": {
+					"no": 17,
+					"func": "InDigital",
+					"desc": "Address pin. Must be externally biased"
+				},
+				"RESET": {
+					"no": 18,
+					"func": "InDigital;ActiveLow",
+					"desc": "Reset Pin. Must be externally biased"
+				},
+				"INTB": {
+					"no": 19,
+					"func": "OutDigital;OpenDrain;ActiveLow",
+					"desc": "Interrupt output for port B"
+				},
+				"INTA": {
+					"no": 20,
+					"func": "OutDigital;OpenDrain;ActiveLow",
+					"desc": "Interrupt output for port A"
+				},
+				"GPA0": {
+					"no": 21,
+					"func": "InOut",
+					"desc": "I/O pin"
+				},
+				"GPA1": {
+					"no": 22,
+					"func": "InOut",
+					"desc": "I/O pin"
+				},
+				"GPA2": {
+					"no": 23,
+					"func": "InOut",
+					"desc": "I/O pin"
+				},
+				"GPA3": {
+					"no": 24,
+					"func": "InOut",
+					"desc": "I/O pin"
+				},
+				"GPA4": {
+					"no": 25,
+					"func": "InOut",
+					"desc": "I/O pin"
+				},
+				"GPA5": {
+					"no": 26,
+					"func": "InOut",
+					"desc": "I/O pin"
+				},
+				"GPA6": {
+					"no": 27,
+					"func": "InOut",
+					"desc": "I/O pin"
+				},
+				"GPA7": {
+					"no": 28,
+					"func": "InOut",
+					"desc": "I/O pin"
+				}
+			},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"MCP23S17T-E_SS": {
+				"Code": "T",
+				"Type": "Embossed Tape / Reel"
+			},
+			"MCP23S17-E_SS": {
+				"Type": "Tube"
+			}
+		}
+	}
+]
