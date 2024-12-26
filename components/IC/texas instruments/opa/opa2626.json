@@ -31,8 +31,9 @@
 		},
 		"package": {
 			"name": "VSSOP-8",
+			"package_type": "SOIC",
+			"pin_count": 8,
 			"dimensions": {
-				"pin_count": 8,
 				"A": "max. 1.1mm",
 				"A1": "0.1mm \u00b10.05mm",
 				"b": "0.25mm ~ 0.38mm",

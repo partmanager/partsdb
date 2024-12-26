@@ -37,8 +37,9 @@
 		},
 		"package": {
 			"name": "TSSOP-20",
+			"package_type": "TSSOP",
+			"pin_count": 20,
 			"dimensions": {
-				"pin_count": 20,
 				"A": "max. 1.2mm",
 				"A1": "0.1mm \u00b10.05mm",
 				"b": "0.19mm ~ 0.3mm",
