@@ -37,7 +37,7 @@
 			"name": "SOIC-8",
 			"package_type": "SOIC",
 			"pin_count": 8,
-			"dimensions": {				
+			"dimensions": {
 				"A": "max. 1.75mm",
 				"A1": "0.1mm",
 				"b": "0.31mm ~ 0.51mm",
