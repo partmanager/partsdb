@@ -1,0 +1,102 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "LM3674MF-1.2#",
+		"markingCode": "SLRB",
+		"partType": "IC Voltage Regulator Switching",
+		"description": "2MHz, 600mA Step-Down DC-DC Converter",
+		"productUrl": "https://www.ti.com/product/LM3674",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 125\u00b0C",
+			"MSLevel": "MSL-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-30\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "2.7V ~ 5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/lm3674.pdf",
+				"versions": {
+					"SNVS405G": {
+						"date": "04-2015",
+						"md5sum": "decdbe45b8c00f801574c379c42a85e6"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "SOT-23-5",
+			"package_type": "SOT",
+			"pin_count": 5,
+			"dimensions": {
+				"A": "0.9mm ~ 1.45mm",
+				"A1": "0.15mm",
+				"b": "0.3mm ~ 0.5mm",
+				"c": "0.08mm ~ 0.22mm",
+				"D": "2.75mm ~ 3.05mm",
+				"E": "2.6mm ~ 3.0mm",
+				"E1": "1.45mm ~ 1.75mm",
+				"e": "0.29mm",
+				"L": "0.3mm ~ 0.6mm"
+			}
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"VIN": {
+					"no": 1,
+					"func": "PwrIn",
+					"desc": "Power input"
+				},
+				"GND": {
+					"no": 2,
+					"func": "PwrGND"
+				},
+				"EN": {
+					"no": 3,
+					"func": "InDigital"
+				},
+				"FB": {
+					"no": 4,
+					"func": "InAnalog",
+					"desc": "Feedback input"
+				},
+				"SW": {
+					"no": 5,
+					"func": "OutAnalog",
+					"desc": "Switching node connection."
+				}
+			},
+			"footprint_generator": {},
+			"symbol_generator": {
+				"default": {}
+			}
+		},
+		"orderNumbers": {
+			"LM3674MF-1.2/NOPB": {
+				"Status": "Active",
+				"Code": "/NOPB",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 1000,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "178mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "3.2mm",
+						"B0": "3.2mm",
+						"K0": "1.4mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]
