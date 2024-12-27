@@ -1,0 +1,220 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "BQ24259RGE#",
+		"markingCode": "BQ24259",
+		"partType": "IC",
+		"series": {
+			"name": "BQ24259",
+			"description": "I2C controlled 2A single cell USB NVDC-1 charger with adjustable voltageUSB OTG"
+		},
+		"description": "I2C controlled 2A single cell USB NVDC-1 charger with adjustable voltageUSB OTG",
+		"productUrl": "https://www.ti.com/product/BQ24259",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-2 1-YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "3.9V ~ 6.2V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/bq24259.pdf",
+				"versions": {
+					"SLUSCF0B": {
+						"date": "10-2016",
+						"md5sum": "8e948584dd3bec06952610d0abf77289"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "VQFN-24"
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"VBUS": {
+					"no": [
+						1,
+						24
+					],
+					"func": "PwrIn",
+					"desc": "Power Input"
+				},
+				"PSEL": {
+					"no": 2,
+					"func": "InDigital",
+					"desc": "Power source selection input."
+				},
+				"PG": {
+					"no": 3,
+					"func": "OutDigital;OpenDrain;ActiveLow"
+				},
+				"STAT": {
+					"no": 4,
+					"func": "OutDigital;OpenDrain"
+				},
+				"SCL": {
+					"no": 5,
+					"func": "InDigital",
+					"desc": "I2C SCL"
+				},
+				"SDA": {
+					"no": 6,
+					"func": "InOut",
+					"desc": "I2C SCL"
+				},
+				"INT": {
+					"no": 7,
+					"func": "OutDigital;OpenDrain"
+				},
+				"OTG": {
+					"no": 8,
+					"func": "InDigital"
+				},
+				"CE": {
+					"no": 9,
+					"func": "InDigital;ActiveLow"
+				},
+				"ILIM": {
+					"no": 10,
+					"func": "InAnalog",
+					"desc": "Connect current limiting resistor to ground"
+				},
+				"TS": {
+					"no": 11,
+					"func": "InAnalog",
+					"desc": "Temperature sense"
+				},
+				"QON": {
+					"no": 12,
+					"func": "InAnalog"
+				},
+				"BAT": {
+					"no": [
+						13,
+						14
+					],
+					"func": "PwrInOut",
+					"desc": "Battery Connection"
+				},
+				"SYS": {
+					"no": [
+						15,
+						16
+					],
+					"func": "InAnalog"
+				},
+				"PGND": {
+					"no": [
+						17,
+						18
+					],
+					"func": "PwrGND"
+				},
+				"SW": {
+					"no": [
+						19,
+						20
+					],
+					"func": "PwrOut"
+				},
+				"BTST": {
+					"no": 21,
+					"func": "InAnalog"
+				},
+				"REGN": {
+					"no": 22,
+					"func": "InAnalog"
+				},
+				"PMID": {
+					"no": 23,
+					"func": "OutAnalog"
+				},
+				"EP": {
+					"no": "EP1",
+					"func": "PwrGND"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"rectangle": {
+					"left_side": [
+						"VBUS",
+						"PMID",
+						"ILIM",
+						"PG",
+						"STAT",
+						"!@#SEPARATOR#@!",
+						"SDA",
+						"SCL",
+						"INT",
+						"OTG",
+						"CE",
+						"!@#SEPARATOR#@!",
+						"PSEL"
+					],
+					"right_side": [
+						"SW",
+						"!@#SEPARATOR#@!",
+						"BTST",
+						"REGN",
+						"!@#SEPARATOR#@!",
+						"PGND",
+						"SYS",
+						"BAT",
+						"QON",
+						"TS"
+					]
+				}
+			}
+		},
+		"orderNumbers": {
+			"BQ24259RGER": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "3000",
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "4.25mm",
+						"B0": "4.25mm",
+						"K0": "1.15mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			},
+			"BQ24259RGET": {
+				"Status": "Active",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": "250",
+				"PackagingData": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "4.25mm",
+						"B0": "4.25mm",
+						"K0": "1.15mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]
