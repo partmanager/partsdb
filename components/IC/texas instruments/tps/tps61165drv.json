@@ -1,0 +1,131 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TPS61165DRV#",
+		"markingCode": "CCQ",
+		"partType": "IC",
+		"series": {
+			"name": "TPS61165",
+			"description": "White LED Driver"
+		},
+		"description": "White LED Driver",
+		"productUrl": "https://www.ti.com/product/TPS61165",
+		"tags": [],
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-2 1-YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 85\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "3V ~ 18V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/tps61165.pdf",
+				"versions": {
+					"SLVS790E": {
+						"date": "04-2019",
+						"md5sum": "467ec6bbd97ae5e8dbf3e8e019d65202"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "WSON-6",
+			"package_type": "WSON",
+			"pin_count": 6,
+			"dimensions": {
+				"A": "0.7mm ~ 0.8mm",
+				"A1": "0.08mm",
+				"A3": "0.2mm",
+				"b": "0.25mm ~ 0.35mm",
+				"D": "1.9mm ~ 2.1mm",
+				"E": "1.9mm ~ 2.1mm",
+				"E2": "0.9mm ~ 1.1mm",
+				"D2": "1.5mm ~ 1.7mm",
+				"e": "0.65mm",
+				"L": "0.2mm ~ 0.3mm"
+			}
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"FB": {
+					"no": 1,
+					"func": "InAnalog",
+					"desc": "Feedback pin for current"
+				},
+				"COMP": {
+					"no": 2,
+					"func": "OutAnalog",
+					"desc": "Output of the transconductance error amplifier"
+				},
+				"GND": {
+					"no": 3,
+					"func": "PwrGND"
+				},
+				"SW": {
+					"no": 4,
+					"func": "PwrOut"
+				},
+				"CTRL": {
+					"no": 5,
+					"func": "InDigital"
+				},
+				"VIN": {
+					"no": 6,
+					"func": "PwrIn"
+				},
+				"EP": {
+					"no": "EP",
+					"func": "PwrGND"
+				}
+			},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"TPS61165DRVT": {
+				"Status": "Active",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 250,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "2.3mm",
+						"B0": "2.3mm",
+						"K0": "1.15mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			},
+			"TPS61165DRVR": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 3000,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q2",
+						"A0": "2.3mm",
+						"B0": "2.3mm",
+						"K0": "1.15mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]
