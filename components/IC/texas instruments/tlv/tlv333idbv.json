@@ -1,0 +1,129 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TLV333IDBV#",
+		"markingCode": "12YD",
+		"partType": "IC Opamp",
+		"series": {
+			"name": "TLVx333",
+			"description": "CMOS Operational Amplifiers, Zero-Drift Series"
+		},
+		"description": "Single, 350-kHz, low-noise, RRIO, CMOS operational amplifier for cost-sensitive systems",
+		"productUrl": "https://www.ti.com/product/TLV333",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "1.8V ~ 5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/tlv2333.pdf",
+				"versions": {
+					"SBOS751": {
+						"date": "12-2015",
+						"md5sum": "4e0e947f23b909d0971cf1fde32dcd11"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "SOT-23",
+			"package_type": "SOT",
+			"pin_count": 5,
+			"dimensions": {
+				"A": "0.9mm ~ 1.45mm",
+				"A1": "0.0mm ~ 0.15mm",
+				"b": "0.3mm ~ 0.5mm",
+				"c": "0.08mm ~ 0.22mm",
+				"D": "2.75mm ~ 3.05mm",
+				"E": "2.6mm ~ 3mm",
+				"E1": "1.45mm ~ 1.75mm",
+				"e": "0.95mm",
+				"L": "0.3mm ~ 0.6mm"
+			}
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"OUT": {
+					"no": 1,
+					"func": "OutAnalog",
+					"desc": "Output voltage"
+				},
+				"V-": {
+					"no": 2,
+					"func": "PwrIn",
+					"desc": "Power supply, negative voltage"
+				},
+				"IN1+": {
+					"no": 3,
+					"func": "InAnalog",
+					"desc": "Positive input signal"
+				},
+				"IN1-": {
+					"no": 4,
+					"func": "InAnalog",
+					"desc": "Negative input signal"
+				},
+				"V+": {
+					"no": 5,
+					"func": "PwrIn",
+					"desc": "Power supply, positive voltage"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"default": {},
+				"opamp": {}
+			}
+		},
+		"orderNumbers": {
+			"TLV333IDBVT": {
+				"Status": "Active",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 250,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "3.2mm",
+						"B0": "3.2mm",
+						"K0": "1.4mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			},
+			"TLV333IDBVR": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 3000,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "180mm",
+						"Width": "8.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q3",
+						"A0": "3.2mm",
+						"B0": "3.2mm",
+						"K0": "1.4mm",
+						"P1": "4mm",
+						"W": "8mm"
+					}
+				}
+			}
+		}
+	}
+]
