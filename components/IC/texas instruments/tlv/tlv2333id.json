@@ -1,0 +1,145 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "TLV2333ID#",
+		"markingCode": "TLV233",
+		"partType": "IC Opamp",
+		"series": {
+			"name": "TLVx333",
+			"description": "CMOS Operational Amplifiers, Zero-Drift Series"
+		},
+		"description": "Dual, 350-kHz, low-noise, RRIO, CMOS operational amplifier for cost-sensitive systems",
+		"productUrl": "https://www.ti.com/product/TLV2333",
+		"storageConditions": {
+			"temperature": "-65\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-1 UNLIM"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "1.8V ~ 5.5V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/tlv2333.pdf",
+				"versions": {
+					"SBOS751": {
+						"date": "12-2015",
+						"md5sum": "4e0e947f23b909d0971cf1fde32dcd11"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "SOIC-8",
+			"package_type": "SOIC",
+			"pin_count": 8,
+			"dimensions": {
+				"A": "max. 1.75mm",
+				"A1": "0.11mm ~ 0.25mm",
+				"b": "0.31mm ~ 0.51mm",
+				"c": "0.13mm ~ 0.25mm",
+				"D": "4.81mm ~ 5mm",
+				"E": "5.8mm ~ 6.19mm",
+				"E1": "3.81mm ~ 3.98mm",
+				"e": "1.27mm",
+				"L": "0.41mm ~ 1.27mm"
+			}
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"OUT1": {
+					"no": 1,
+					"func": "OutAnalog",
+					"desc": "Output voltage"
+				},
+				"IN1-": {
+					"no": 2,
+					"func": "InAnalog",
+					"desc": "Negative input signal"
+				},
+				"IN1+": {
+					"no": 3,
+					"func": "InAnalog",
+					"desc": "Positive input signal"
+				},
+				"V-": {
+					"no": 4,
+					"func": "PwrIn",
+					"desc": "Power supply, negative voltage"
+				},
+				"IN2+": {
+					"no": 5,
+					"func": "InAnalog",
+					"desc": "Positive input signal"
+				},
+				"IN2-": {
+					"no": 6,
+					"func": "InAnalog",
+					"desc": "Negative input signal"
+				},
+				"OUT2": {
+					"no": 7,
+					"func": "OutAnalog",
+					"desc": "Output voltage"
+				},
+				"V+": {
+					"no": 8,
+					"func": "PwrIn",
+					"desc": "Power supply, positive voltage"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"default": {},
+				"multipart": {
+					"A": {
+						"generator_name": "opamp",
+						"generator_data": {},
+						"pins": [
+							"IN1+",
+							"IN1-",
+							"OUT1",
+							"V-",
+							"V+"
+						]
+					},
+					"B": {
+						"generator_name": "opamp",
+						"generator_data": {},
+						"pins": [
+							"IN2+",
+							"IN2-",
+							"OUT2"
+						]
+					}
+				}
+			}
+		},
+		"orderNumbers": {
+			"TLV2333IDR": {
+				"Status": "Active",
+				"Code": "R",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 2500,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.4mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "6.4mm",
+						"B0": "5.2mm",
+						"K0": "2.1mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]
