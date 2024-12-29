@@ -1,0 +1,125 @@
+[
+	{
+		"manufacturer": "Texas Instruments",
+		"partNumber": "LMR23630ADDA#",
+		"markingCode": "F30A",
+		"partType": "IC Voltage Regulator Switching",
+		"description": "36V, 3A Synchronous Step-Down Converter",
+		"productUrl": "https://www.ti.com/product/LMR23630",
+		"storageConditions": {
+			"temperature": "-60\u00b0C ~ 150\u00b0C",
+			"MSLevel": "MSL-2 1-YEAR"
+		},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 125\u00b0C"
+		},
+		"parameters": {
+			"Supply Voltage Range": {
+				"value": "4V ~ 36V"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.ti.com/lit/ds/symlink/lmr23630.pdf",
+				"versions": {
+					"SNVSAH2E": {
+						"date": "08-2020",
+						"md5sum": "f69f5d5736cefefeeb30e5b9349a3285"
+					}
+				}
+			}
+		},
+		"package": {
+			"name": "HSOIC-8",
+			"package_type": "HSOIC",
+			"pin_count": 8,
+			"dimensions": {
+				"A": "max. 1.7mm",
+				"A1": "0.15mm",
+				"b": "0.31mm ~ 0.51mm",
+				"c": "0.1mm ~ 0.25mm",
+				"D": "4.8mm ~ 5mm",
+				"E": "5.8mm ~ 6.2mm",
+				"E1": "3.8mm ~ 4mm",
+				"e": "1.27mm",
+				"L": "0.4mm ~ 1.27mm"
+			}
+		},
+		"symbol&footprint": {
+			"pinmap": {
+				"SW": {
+					"no": 1,
+					"func": "PwrOut",
+					"desc": "Switching output of the regulator."
+				},
+				"BOOT": {
+					"no": 2,
+					"func": "InAnalog",
+					"desc": "Boot-strap capacitor connection for high-side driver."
+				},
+				"VCC": {
+					"no": 3,
+					"func": "PwrIn"
+				},
+				"FB": {
+					"no": 4,
+					"func": "InAnalog"
+				},
+				"EN/SYNC": {
+					"no": 5,
+					"func": "InAnalog"
+				},
+				"AGND": {
+					"no": 6,
+					"func": "PwrGND"
+				},
+				"VIN": {
+					"no": 7,
+					"func": "PwrIn"
+				},
+				"PGND": {
+					"no": 8,
+					"func": "PwrGND",
+					"desc": "Power supply ground"
+				},
+				"PAD": {
+					"no": "EP",
+					"func": "PwrGND",
+					"desc": "Power supply ground"
+				}
+			},
+			"footprints": [],
+			"symbol_generator": {
+				"default": {}
+			}
+		},
+		"orderNumbers": {
+			"LMR23630ADDA": {
+				"Status": "Active",
+				"Type": "Tube",
+				"Qty": 75,
+				"PackagingData": {}
+			},
+			"LMR23630ADDAR": {
+				"Status": "Active",
+				"Code": "T",
+				"Type": "Embossed Tape / Reel",
+				"Qty": 2500,
+				"PackagingData": {
+					"reel": {
+						"Diameter": "330mm",
+						"Width": "12.8mm"
+					},
+					"tape": {
+						"Pin 1 Quadrant": "Q1",
+						"A0": "6.4mm",
+						"B0": "5.2mm",
+						"K0": "2.1mm",
+						"P1": "8mm",
+						"W": "12mm"
+					}
+				}
+			}
+		}
+	}
+]
