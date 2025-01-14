@@ -35,48 +35,90 @@ class YageoResistorBase(ResistorGeneratorBase):
             if packaging_type == 'R':
                 if taping_reel in ['07', '7W', '7N']:
                     packaging = {
-                        'Packaging Code': packaging_code, 'Packaging Type': 'Paper Tape / Reel', 'Packaging Qty': quantity,
-                        'Packaging Data': {
-                        'Reel Diameter': '178mm', 'Reel Width': '12.5mm',
-                        'Tape Pin 1 Quadrant': 'Q1', 'Tape W': '8mm', 'Tape E': '1.75mm±0.1mm', 'Tape F': '3.50mm±0.05mm',
-                        'Tape SO': '',
-                        'Tape P0': '4mm±0.10mm', 'Tape P1': '2mm', 'Tape P2': '2mm±0.05mm', 'Tape D': '',
-                        'Tape D1': '',
-                        'Tape A0': '', 'Tape A1': '', 'Tape B0': '', 'Tape B1': '', 'Tape T': '', 'Tape K': ''}}
+                        'Code': packaging_code,
+                        'Type': 'Paper Tape / Reel',
+                        'Qty': quantity,
+                        'PackagingData': {
+                            'reel': {
+                                "Diameter": '178mm',
+                                'Width': '12.5mm'},
+                            'tape': {
+                                'Pin 1 Quadrant': 'Q1',
+                                'W': '8mm', 'E': '1.75mm±0.1mm',
+                                'F': '3.50mm±0.05mm',
+                                'P0': '4mm±0.10mm',
+                                'P1': '2mm',
+                                'P2': '2mm±0.05mm'
+                            }
+                        }
+                    }
                     return packaging
                 elif taping_reel in ['10']:
                     packaging = {
-                        'Packaging Code': packaging_code, 'Packaging Type': 'Paper Tape / Reel', 'Packaging Qty': quantity,
-                        'Packaging Data': {
-                        'Reel Diameter': '254mm', 'Reel Width': '12.5mm',
-                        'Tape Pin 1 Quadrant': 'Q1', 'Tape W': '8mm', 'Tape E': '1.75mm±0.1mm', 'Tape F': '3.50mm±0.05mm',
-                        'Tape SO': '',
-                        'Tape P0': '4mm±0.10mm', 'Tape P1': '2mm', 'Tape P2': '2mm±0.05mm', 'Tape D': '',
-                        'Tape D1': '',
-                        'Tape A0': '', 'Tape A1': '', 'Tape B0': '', 'Tape B1': '', 'Tape T': '', 'Tape K': ''}}
+                        'Code': packaging_code,
+                        'Type': 'Paper Tape / Reel',
+                        'Qty': quantity,
+                        'PackagingData': {
+                            'reel': {
+                                'Diameter': '254mm',
+                                'Width': '12.5mm'
+                            },
+                            'tape': {
+                                'Pin 1 Quadrant': 'Q1',
+                                'W': '8mm',
+                                'E': '1.75mm±0.1mm',
+                                'F': '3.50mm±0.05mm',
+                                'P0': '4mm±0.10mm',
+                                'P1': '2mm',
+                                'P2': '2mm±0.05mm'
+                            }
+                        }
+                    }
                     return packaging
                 elif taping_reel in ['13', '3W']:
                     packaging = {
-                        'Packaging Code': packaging_code, 'Packaging Type': 'Paper Tape / Reel', 'Packaging Qty': quantity,
-                        'Packaging Data': {
-                        'Reel Diameter': '330mm', 'Reel Width': '12.5mm',
-                        'Tape Pin 1 Quadrant': 'Q1', 'Tape W': '8mm', 'Tape E': '1.75mm±0.1mm', 'Tape F': '3.50mm±0.05mm',
-                        'Tape SO': '',
-                        'Tape P0': '4mm±0.10mm', 'Tape P1': '2mm', 'Tape P2': '2mm±0.05mm', 'Tape D': '',
-                        'Tape D1': '',
-                        'Tape A0': '', 'Tape A1': '', 'Tape B0': '', 'Tape B1': '', 'Tape T': '', 'Tape K': ''}}
+                        'Code': packaging_code,
+                        'Type': 'Paper Tape / Reel',
+                        'Qty': quantity,
+                        'PackagingData': {
+                            'reel': {
+                                'Diameter': '330mm',
+                                'Width': '12.5mm'
+                            },
+                            'tape': {
+                                'Pin 1 Quadrant': 'Q1',
+                                'W': '8mm',
+                                'E': '1.75mm±0.1mm',
+                                'F': '3.50mm±0.05mm',
+                                'P0': '4mm±0.10mm',
+                                'P1': '2mm',
+                                'P2': '2mm±0.05mm'
+                            }
+                        }
+                    }
                     return packaging
             elif packaging_type == 'K':
                 if taping_reel in ['07', '7W', '7N']:
                     packaging = {
-                        'Packaging Code': packaging_code, 'Packaging Type': 'Embossed Tape / Reel', 'Packaging Qty': quantity,
-                        'Packaging Data': {
-                        'Reel Diameter': '178mm', 'Reel Width': '12.5mm',
-                        'Tape Pin 1 Quadrant': 'Q1', 'Tape W': '8mm', 'Tape E': '1.75mm±0.1mm', 'Tape F': '3.50mm±0.05mm',
-                        'Tape SO': '',
-                        'Tape P0': '4mm±0.10mm', 'Tape P1': '2mm', 'Tape P2': '2mm±0.05mm', 'Tape D': '',
-                        'Tape D1': '',
-                        'Tape A0': '', 'Tape A1': '', 'Tape B0': '', 'Tape B1': '', 'Tape T': '', 'Tape K': ''}}
+                        'Code': packaging_code,
+                        'Type': 'Embossed Tape / Reel',
+                        'Qty': quantity,
+                        'PackagingData': {
+                            'reel': {
+                                'Diameter': '178mm',
+                                'Width': '12.5mm'
+                            },
+                            'tape': {
+                                'Pin 1 Quadrant': 'Q1',
+                                'W': '8mm',
+                                'E': '1.75mm±0.1mm',
+                                'F': '3.50mm±0.05mm',
+                                'P0': '4mm±0.10mm',
+                                'P1': '2mm',
+                                'P2': '2mm±0.05mm'
+                            }
+                        }
+                    }
                     return packaging
 
     def get_packaging_code(self, packaging_type, taping_reel):
