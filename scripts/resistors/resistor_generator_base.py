@@ -118,8 +118,7 @@ class ResistorGeneratorBase:
                                         if partnumber:
                                             max_overload_voltage = self.get_max_overload_voltage(
                                                               size_code, power_rating_code)
-                                            parameters = {'Working Temp Range': self.get_operating_temperature_range(size_code, power_rating_code, partnumber),
-                                                          'Resistance': {'value': "{}R {}".format(resistance, self.tolerance[tolerance_code])},
+                                            parameters = {'Resistance': {'value': "{}R {}".format(resistance, self.tolerance[tolerance_code])},
                                                           'TCR': {'value': self.tcr[temperature_coefficient_code]},
                                                           'Rated Power': {'value': 'max. ' + self.power_rating_codes[power_rating_code]},
                                                           'Working Voltage': {'value': 'max. ' + self.get_max_working_voltage(size_code, power_rating_code)}
@@ -140,6 +139,8 @@ class ResistorGeneratorBase:
                                                 'productUrl': self.product_url,
                                                 'notes': self.notes,
                                                 'tags': [],
+                                                'operatingConditions': {'temperature': self.get_operating_temperature_range(size_code, power_rating_code, partnumber),
+                                                                        'humidity': ''},
                                                 'storageConditions': {'temperature': self.storage_temp_range,
                                                                       'humidity': '',
                                                                       'MSLevel': ''},
