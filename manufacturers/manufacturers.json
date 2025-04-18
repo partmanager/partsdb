@@ -143,6 +143,15 @@
 		"phone": "",
 		"comment": ""
 	},
+		{
+		"name": "Bossard",
+		"full_name": "Bossard Holding AG",
+		"address": "",
+		"website": "www.bossard.com",
+		"email": "bossard@bossard.com",
+		"phone": "",
+		"comment": ""
+	},
 	{
 		"name": "Bridgelux",
 		"full_name": "",
@@ -201,8 +210,8 @@
 		"name": "Connfly",
 		"full_name": null,
 		"address": "",
-		"website": "",
-		"email": "",
+		"website": "www.connfly.com",
+		"email": "business@connfly.com",
 		"phone": "",
 		"comment": ""
 	},
@@ -280,9 +289,9 @@
 	},
 	{
 		"name": "DREMEC",
-		"full_name": "DREMEC",
+		"full_name": "DREMEC Befestigungselemente GmbH",
 		"address": "",
-		"website": null,
+		"website": "dremec.de",
 		"email": null,
 		"phone": null,
 		"comment": null
@@ -859,6 +868,15 @@
 		"full_name": null,
 		"address": "",
 		"website": "",
+		"email": "",
+		"phone": "",
+		"comment": ""
+	},
+	{
+		"name": "Taejin Technology - HTC Korea",
+		"full_name": "Taejin Technology Co., Ltd.",
+		"address": "",
+		"website": "htckorea.co.kr",
 		"email": "",
 		"phone": "",
 		"comment": ""
