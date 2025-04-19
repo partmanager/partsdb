@@ -1,0 +1,38 @@
+[
+	{
+		"manufacturer": "Dremec",
+		"partNumber": "123x15",
+		"partType": "Standoff",
+		"series": {
+			"name": "123"
+		},
+		"tags": [],
+		"parameters": {
+			"L": {
+				"value": 15
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://shop.dremec.de/api/pdf/Abstandhalter%20mit%20metrischem%20Gewinde%20DII.pdf",
+				"versions": {
+					"24-11-2023": {
+						"date": "24-11-2023",
+						"md5sum": "c2e575de4b9af3fc700508237aff9100"
+					}
+				}
+			}
+		},
+		"package": {},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"123x15": {
+				"Qty": 1,
+				"PackagingData": {}
+			}
+		}
+	}
+]
