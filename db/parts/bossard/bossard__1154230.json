@@ -1,0 +1,44 @@
+[
+	{
+		"manufacturer": "Bossard",
+		"partNumber": "1154230",
+		"partType": "Bolt",
+		"series": {
+			"name": "BN 384"
+		},
+		"productUrl": "https://www.bossard.com/eshop/global-en/screws/screws-and-bolts-with-internal-drive/phillips-pan-head-machine-screws-form-h/p/384/?selected-article=1154230",
+		"parameters": {
+			"standard": "DIN 7095 A",
+			"d1": {
+				"value": "M3"
+			},
+			"L": {
+				"value": 5
+			},
+			"d2": {
+				"max": 6
+			},
+			"k": {
+				"max": "2.52"
+			},
+			"drive": "PH1",
+			"fully_threaded": true
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://www.bossard.com/eshop/global-en/pdp-print?productCode=384",
+				"filename": "BN_384.pdf",
+				"versions": {
+					"skip": true
+				}
+			}
+		},
+		"orderNumbers": {
+			"1154230": {
+				"Status": "Active",
+				"Type": "Bag",
+				"Qty": 200
+			}
+		}
+	}
+]
