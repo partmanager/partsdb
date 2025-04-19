@@ -1,0 +1,58 @@
+[
+	{
+		"manufacturer": "Connfly",
+		"partNumber": "DS1065-05-2*20S8BSXB",
+		"partType": "Connector Pins",
+		"series": {
+			"name": "DS1065-05",
+			"description": "1.27mm Female Header Double Row SMT Type"
+		},
+		"tags": [],
+		"storageConditions": {},
+		"operatingConditions": {
+			"temperature": "-40\u00b0C ~ 105\u00b0C"
+		},
+		"parameters": {
+			"Pin Count": {
+				"value": 40
+			},
+			"Row Count": {
+				"value": 2
+			},
+			"Pin Spacing": {
+				"value": "1.27mm"
+			},
+			"Row Spacing": {
+				"value": "1.27mm"
+			},
+			"Housing Height": {
+				"value": "4.4mm"
+			},
+			"Pin Height from PCB": {
+				"value": "4.45mm"
+			}
+		},
+		"files": {
+			"datasheet": {
+				"url": "https://en.connfly.com/static/upload/file//DS1065-05.pdf",
+				"versions": {
+					"D": {
+						"date": "13-02-2019",
+						"md5sum": "0b515eb13bde47ab5894e051a4be2fd4"
+					}
+				}
+			}
+		},
+		"package": {},
+		"symbol&footprint": {
+			"pinmap": {},
+			"footprints": []
+		},
+		"orderNumbers": {
+			"DS1065-05-2*20S8BSXB": {
+				"Qty": 1,
+				"PackagingData": {}
+			}
+		}
+	}
+]
